@@ -1,10 +1,10 @@
-medical education,addiction medicine,systems biology,month,primary care research,respiratory medicine,hematology,health informatics,neuroscience,ophthalmology,radiology and imaging,public and global health,bioinformatics,cell biology,nephrology,pharmacology and toxicology,genetic and genomic medicine,biochemistry,Total,emergency medicine,sexual and reproductive health,health policy,gastroenterology,health systems and quality improvement,psychiatry and clinical psychology,pharmacology and therapeutics,rheumatology,toxicology,nursing,sports medicine,pediatrics,epidemiology,geriatric medicine,medical ethics,obstetrics and gynecology,oncology,biophysics,molecular biology,scientific communication and education,cancer biology,orthopedics,allergy and immunology,hiv aids,pathology,evolutionary biology,genetics,neurology,nutrition,infectious diseases,microbiology,urology,surgery,genomics,cardiovascular medicine,occupational and environmental health,health economics,immunology,intensive care and critical care medicine
-,,,Oct-20,,1,,1,,,,2,,,,,,,13,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,3,,,,,1,1,,,1
-1,2,,Sep-20,1,,,4,,,1,18,,,,,,,113,2,1,3,1,1,2,,,,,,,29,,,,,,,,,,1,1,,,,1,,36,2,,,,,1,1,1,3
-1,,1,Aug-20,,1,1,1,,,,14,3,,,,1,2,102,,,,,,1,1,,,,1,,20,,1,1,,1,,,,1,,,,,,,,34,5,,1,,,2,1,3,4
-,,,Jul-20,,2,,1,,,1,12,2,,,1,2,5,110,,,4,1,,2,,1,,,,,22,,,,,1,2,1,,,1,,2,,1,2,,25,3,,1,2,1,1,,10,1
-1,1,,Jun-20,,3,1,6,1,,,11,5,,,,2,3,160,,,5,,1,5,,,1,1,,,27,1,,,1,2,2,,1,,1,,1,1,1,,1,47,16,,,,1,2,,5,3
-,,2,May-20,,3,,6,,1,2,17,7,1,,,,,149,,,4,,5,1,1,,,,,2,35,1,,1,2,,2,,,,,1,,,,1,,35,7,,,2,3,2,1,2,2
-,,,Apr-20,,,,3,,,2,4,,,1,1,3,,87,1,,2,,2,1,2,,,,,,38,,,,,,,1,,,,,1,1,1,,,17,2,,,1,1,,,1,1
-,,,Mar-20,,,,1,,,,3,,,,1,,,14,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,3,1,,,,,1,1,,
-,,,Feb-20,,,,,,,,2,,,,,,,12,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,4,,1,,,,,,,
+cancer biology,radiology and imaging,bioinformatics,medical ethics,biophysics,pathology,genomics,public and global health,hematology,sexual and reproductive health,health economics,nursing,nutrition,intensive care and critical care medicine,genetic and genomic medicine,pediatrics,psychiatry and clinical psychology,Total,microbiology,ophthalmology,pharmacology and toxicology,addiction medicine,oncology,primary care research,hiv aids,epidemiology,infectious diseases,health policy,cardiovascular medicine,health informatics,health systems and quality improvement,cell biology,systems biology,molecular biology,surgery,geriatric medicine,genetics,nephrology,occupational and environmental health,allergy and immunology,pharmacology and therapeutics,immunology,obstetrics and gynecology,zoology,gastroenterology,evolutionary biology,month,neuroscience,medical education,urology,biochemistry,emergency medicine,respiratory medicine
+,,,,,,,2,,,,,,1,,,,13,,,,,,,,3,3,,1,1,,,,,,,,,1,,,,,,,,Oct-20,,,,,,1
+,1,,,,,,7,,,,,,1,,,2,67,2,,,,,1,1,21,23,2,,1,,,,,,,,,2,,,1,,,,,Sep-20,,1,,,1,
+,,1,1,,,,5,1,,,,,2,1,,1,69,1,,,,,,,21,26,,,1,1,,,,1,,,,2,,,2,1,1,,,Aug-20,,,,,,
+,2,2,,1,2,2,14,,,,,,1,2,1,3,114,5,,2,,,,1,24,33,3,,,,1,,,1,,1,,,,,6,1,,1,,Jul-20,1,,,3,,1
+1,,5,,1,1,1,8,1,1,,1,1,7,4,,7,174,14,,1,1,1,,,33,51,4,4,4,1,,1,2,,1,,,1,3,,3,,,,1,Jun-20,1,1,,1,2,4
+,3,4,,,,,13,,,1,,,1,,,2,123,2,1,,,2,,,36,34,4,2,4,4,,1,1,,1,,,1,,1,1,1,,,,May-20,,,,,1,2
+,4,3,,,2,2,8,,,1,,,2,3,,1,107,3,,1,,1,,,47,18,1,1,,2,,,1,,,,1,2,,1,,,,,,Apr-20,,,,,1,1
+,,,,,,,3,,,1,,,,,,,16,1,,1,,,,,5,3,,,1,,,,,,,,,1,,,,,,,,Mar-20,,,,,,
+,,,,,,,2,,,,,,,,,,12,,,,,,,,5,4,,,,,,,,,,,,,,,,,,,,Feb-20,,,1,,,
