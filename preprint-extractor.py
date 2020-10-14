@@ -20,7 +20,7 @@ import ray
 
 # Based on https://api.biorxiv.org/covid19/help
 BIORXIV_COVID_API_URL = "https://api.biorxiv.org/covid19/{}"
-HDRUK_MEMBERS_CSV = "/home/runner/secrets/contacts.csv"
+HDRUK_MEMBERS_CSV = "C:\Users\user\Documents\HDR-FILE\contacts.csv"    #/home/runner/secrets/contacts.csv
 # HDRUK_MEMBERS_CSV = "data/contacts.csv"
 
 num_cpus = psutil.cpu_count(logical=False)
@@ -95,6 +95,10 @@ def filter_preprint(i, p, num_preprints, authors, affiliations):
     doi = p.get('rel_doi', "")
     if p.get('rel_authors', None) is not None:
         preprint_authors = [a['author_name'] for a in p['rel_authors']]
+        for a in preprint_authors:
+            split_a = a.split(' ')
+            if len(split_a) > 2:
+                a = split_a[0] + " " + split_a[-1]
         preprint_affiliations = [a['author_inst'] for a in p['rel_authors']]
         doi_max_author_match = 0
         doi_max_affiliation_match = 0
@@ -105,7 +109,7 @@ def filter_preprint(i, p, num_preprints, authors, affiliations):
         doi_max_affiliation_match = fuzzy_match_lists(preprint_affiliations, affiliations)
         print("Author Fuzzy Match: {} | Affiliation Fuzzy Match: {}".format(doi_max_author_match, doi_max_affiliation_match))
         
-        if doi_max_author_match >= 90 and doi_max_affiliation_match >= 90:
+        if doi_max_author_match >= 95 and doi_max_affiliation_match >= 95:
             fuzzy_row = {
                 'site': p.get('rel_site', ""),
                 'doi': doi,
