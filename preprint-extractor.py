@@ -20,7 +20,7 @@ import ray
 
 # Based on https://api.biorxiv.org/covid19/help
 BIORXIV_COVID_API_URL = "https://api.biorxiv.org/covid19/{}"
-HDRUK_MEMBERS_CSV = "C:\Users\user\Documents\HDR-FILE\contacts.csv"    #/home/runner/secrets/contacts.csv
+HDRUK_MEMBERS_CSV = "/home/runner/secrets/contacts.csv"     
 # HDRUK_MEMBERS_CSV = "data/contacts.csv"
 
 num_cpus = psutil.cpu_count(logical=False)
