@@ -20,8 +20,8 @@ import ray
 
 # Based on https://api.biorxiv.org/covid19/help
 BIORXIV_COVID_API_URL = "https://api.biorxiv.org/covid19/{}"
-HDRUK_MEMBERS_CSV = "/home/runner/secrets/contacts.csv"     
-# HDRUK_MEMBERS_CSV = "data/contacts.csv"
+HDRUK_MEMBERS_CSV = "/home/runner/secrets/contacts.csv"
+# HDRUK_MEMBERS_CSV = "../contacts.csv"
 
 num_cpus = psutil.cpu_count(logical=False)
 ray.init(num_cpus=num_cpus)
@@ -95,10 +95,6 @@ def filter_preprint(i, p, num_preprints, authors, affiliations):
     doi = p.get('rel_doi', "")
     if p.get('rel_authors', None) is not None:
         preprint_authors = [a['author_name'] for a in p['rel_authors']]
-        for a in preprint_authors:
-            split_a = a.split(' ')
-            if len(split_a) > 2:
-                a = split_a[0] + " " + split_a[-1]
         preprint_affiliations = [a['author_inst'] for a in p['rel_authors']]
         doi_max_author_match = 0
         doi_max_affiliation_match = 0
@@ -109,7 +105,7 @@ def filter_preprint(i, p, num_preprints, authors, affiliations):
         doi_max_affiliation_match = fuzzy_match_lists(preprint_affiliations, affiliations)
         print("Author Fuzzy Match: {} | Affiliation Fuzzy Match: {}".format(doi_max_author_match, doi_max_affiliation_match))
         
-        if doi_max_author_match >= 95 and doi_max_affiliation_match >= 95:
+        if doi_max_author_match >= 90 and doi_max_affiliation_match >= 90:
             fuzzy_row = {
                 'site': p.get('rel_site', ""),
                 'doi': doi,
@@ -125,6 +121,8 @@ def filter_preprint(i, p, num_preprints, authors, affiliations):
                 'affiliation_similarity': doi_max_affiliation_match
             }
             print(fuzzy_row)
+        doi_max_author_match = 0
+        doi_max_affiliation_match = 0
         # Exact match author
         doi_max_author_match = match_lists(preprint_authors, authors)
         # Exact match affilaition
@@ -157,6 +155,7 @@ def filter_preprints(preprints):
     for a in members:
         authors.append(a['Full Name'])
         affiliations.append(a['Affiliation'])
+    authors = list(set(authors))
     affiliations = list(set(affiliations))
     affiliations.extend(["HDRUK", "HDR UK", "HDR-UK", "HEALTH DATA RESEARCH UK", "HEALTH DATA RESEARCH UK LTD"])
     ray_authors_id = ray.put(authors)
