@@ -848,22 +848,6 @@
     "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523405/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523405/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7523405; pdf:https://europepmc.org/articles/PMC7523405?pdf=render"
   },
   {
-    "id": "32926504",
-    "doi": "https://doi.org/10.1002/pds.5121",
-    "title": "Implementing high-dimensional propensity score principles to improve confounder adjustment in UK electronic health records.",
-    "authorString": "Tazare J, Smeeth L, Evans SJW, Williamson E, Douglas IJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Pharmacoepidemiology and drug safety",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Pharmacoepidemiology; Electronic Health Records; Electronic Medical Records; High-dimensional Propensity Score; Database Research; Confounder Adjustment",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "PURPOSE:Recent evidence from US claims data suggests use of high-dimensional propensity score (hd-PS) methods improve adjustment for confounding in non-randomised studies of interventions. However, it is unclear how best to apply hd-PS principles outside their original setting, given important differences between claims data and electronic health records (EHRs). We aimed to implement the hd-PS in the setting of United Kingdom (UK) EHRs. METHODS:We studied the interaction between clopidogrel and proton pump inhibitors (PPIs). Whilst previous observational studies suggested an interaction (with reduced effect of clopidogrel), case-only, genetic and randomised trial approaches showed no interaction, strongly suggesting the original observational findings were subject to confounding. We derived a cohort of clopidogrel users from the UK Clinical Practice Research Datalink linked with the Myocardial Ischaemia National Audit Project. Analyses estimated the hazard ratio (HR) for myocardial infarction (MI) comparing PPI users with non-users using a Cox model adjusting for confounders. To reflect unique characteristics of UK EHRs, we varied the application of hd-PS principles including the level of grouping within coding systems and adapting the assessment of code recurrence. Results were compared with traditional analyses. RESULTS:Twenty-four thousand four hundred and seventy-one patients took clopidogrel, of whom 9111 were prescribed a PPI. Traditional PS approaches obtained a HR for the association between PPI use and MI of 1.17 (95% CI: 1.00-1.35). Applying hd-PS modifications resulted in estimates closer to the expected null (HR 1.00; 95% CI: 0.78-1.28). CONCLUSIONS:hd-PS provided improved adjustment for confounding compared with other approaches, suggesting hd-PS can be usefully applied in UK EHRs.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/pds.5121"
-  },
-  {
     "id": "PMC7473295",
     "doi": "https://doi.org/",
     "title": "How effective are population health surveys for estimating prevalence of chronic conditions compared to anonymised clinical data?",
@@ -878,6 +862,22 @@
     "abstract": "Abstract Introduction Population health surveys are used to record person-reported outcome measures for chronic health conditions and provide a useful source of data when evaluating potential disease burdens. The reliability of survey-based prevalence estimates for chronic diseases is unclear nonetheless. This study applied methodological triangulation via a data linkage method to validate prevalence of selected chronic conditions (angina, myocardial infarction, heart failure, and asthma). Methods Linked healthcare records were used for a combined cohort of 11,323 adults from the 2013 and 2014 sweeps of the Welsh Health Survey (WHS). The approach utilised consented survey data linked to primary and secondary care electronic health record (EHR) data back to 2002 within the Secure Anonymised Information Linkage (SAIL) Databank. Results This descriptive study demonstrates validation of survey and clinical data using data linkage for selected chronic cardiovascular conditions and asthma with varied success. The results indicate that identifying cases for separate cardiovascular conditions was limited without specific medication codes for each condition, but more straightforward for asthma, where there was an extensive list of medications available. For asthma there was better agreement between prevalence estimates based on survey and clinical data as a result. Conclusion Whilst the results provide external validity for the WHS as an instrument for estimating the burden of chronic disease, they also indicate that a data linkage appproach can be used to produce comparable prevalence estimates using clinical data if a defined condition-specific set of clinical codes are available.",
     "laySummary": "",
     "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473295/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473295/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7473295; pdf:https://europepmc.org/articles/PMC7473295?pdf=render"
+  },
+  {
+    "id": "32926504",
+    "doi": "https://doi.org/10.1002/pds.5121",
+    "title": "Implementing high-dimensional propensity score principles to improve confounder adjustment in UK electronic health records.",
+    "authorString": "Tazare J, Smeeth L, Evans SJW, Williamson E, Douglas IJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Pharmacoepidemiology and drug safety",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Pharmacoepidemiology; Electronic Health Records; Electronic Medical Records; High-dimensional Propensity Score; Database Research; Confounder Adjustment",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "PURPOSE:Recent evidence from US claims data suggests use of high-dimensional propensity score (hd-PS) methods improve adjustment for confounding in non-randomised studies of interventions. However, it is unclear how best to apply hd-PS principles outside their original setting, given important differences between claims data and electronic health records (EHRs). We aimed to implement the hd-PS in the setting of United Kingdom (UK) EHRs. METHODS:We studied the interaction between clopidogrel and proton pump inhibitors (PPIs). Whilst previous observational studies suggested an interaction (with reduced effect of clopidogrel), case-only, genetic and randomised trial approaches showed no interaction, strongly suggesting the original observational findings were subject to confounding. We derived a cohort of clopidogrel users from the UK Clinical Practice Research Datalink linked with the Myocardial Ischaemia National Audit Project. Analyses estimated the hazard ratio (HR) for myocardial infarction (MI) comparing PPI users with non-users using a Cox model adjusting for confounders. To reflect unique characteristics of UK EHRs, we varied the application of hd-PS principles including the level of grouping within coding systems and adapting the assessment of code recurrence. Results were compared with traditional analyses. RESULTS:Twenty-four thousand four hundred and seventy-one patients took clopidogrel, of whom 9111 were prescribed a PPI. Traditional PS approaches obtained a HR for the association between PPI use and MI of 1.17 (95% CI: 1.00-1.35). Applying hd-PS modifications resulted in estimates closer to the expected null (HR 1.00; 95% CI: 0.78-1.28). CONCLUSIONS:hd-PS provided improved adjustment for confounding compared with other approaches, suggesting hd-PS can be usefully applied in UK EHRs.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/pds.5121"
   },
   {
     "id": "32616677",
@@ -1008,22 +1008,6 @@
     "urls": "doi:https://doi.org/10.1002/jmri.27209"
   },
   {
-    "id": "31845899",
-    "doi": "https://doi.org/10.2196/14782",
-    "title": "Efficient Reuse of Natural Language Processing Models for Phenotype-Mention Identification in Free-text Electronic Medical Records: A Phenotype Embedding Approach.",
-    "authorString": "Wu H, Hodgson K, Dyson S, Morley KI, Ibrahim ZM, Iqbal E, Stewart R, Dobson RJ, Sudlow C.",
-    "authorAffiliations": "",
-    "journalTitle": "JMIR medical informatics",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Phenotype; Clustering; Machine Learning; Electronic Health Records; Natural Language Processing; Text Mining; Word Embedding; Model Adaptation; Phenotype Embedding",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Much effort has been put into the use of automated approaches, such as natural language processing (NLP), to mine or extract data from free-text medical records in order to construct comprehensive patient profiles for delivering better health care. Reusing NLP models in new settings, however, remains cumbersome, as it requires validation and retraining on new data iteratively to achieve convergent results. OBJECTIVE:The aim of this work is to minimize the effort involved in reusing NLP models on free-text medical records. METHODS:We formally define and analyze the model adaptation problem in phenotype-mention identification tasks. We identify \"duplicate waste\" and \"imbalance waste,\" which collectively impede efficient model reuse. We propose a phenotype embedding-based approach to minimize these sources of waste without the need for labelled data from new settings. RESULTS:We conduct experiments on data from a large mental health registry to reuse NLP models in four phenotype-mention identification tasks. The proposed approach can choose the best model for a new task, identifying up to 76% waste (duplicate waste), that is, phenotype mentions without the need for validation and model retraining and with very good performance (93%-97% accuracy). It can also provide guidance for validating and retraining the selected model for novel language patterns in new tasks, saving around 80% waste (imbalance waste), that is, the effort required in \"blind\" model-adaptation approaches. CONCLUSIONS:Adapting pretrained NLP models for new tasks can be more efficient and effective if the language pattern landscapes of old settings and new settings can be made explicit and comparable. Our experiments show that the phenotype-mention embedding approach is an effective way to model language patterns for phenotype-mention identification tasks and that its use can guide efficient NLP model reuse.",
-    "laySummary": "Wu et el. developed a computer algorithm which can transform clinical letters into databases for research. Their approach in processing information in clinical letters is more flexible compared to those before allowing users to define concepts which they want to find in the letters. ",
-    "urls": "doi:https://doi.org/10.2196/14782; html:https://europepmc.org/articles/PMC6938594"
-  },
-  {
     "id": "32990744",
     "doi": "https://doi.org/10.1093/gigascience/giaa095",
     "title": "An extensible big data software architecture managing a research resource of real-world clinical radiology data linked to other health data from the whole Scottish population.",
@@ -1038,6 +1022,22 @@
     "abstract": "AIM:To enable a world-leading research dataset of routinely collected clinical images linked to other routinely collected data from the whole Scottish national population. This includes more than 30 million different radiological examinations from a population of 5.4 million and >2 PB of data collected since 2010. METHODS:Scotland has a central archive of radiological data used to directly provide clinical care to patients. We have developed an architecture and platform to securely extract a copy of those data, link it to other clinical or social datasets, remove personal data to protect privacy, and make the resulting data available to researchers in a controlled Safe Haven environment. RESULTS:An extensive software platform has been developed to host, extract, and link data from cohorts to answer research questions. The platform has been tested on 5 different test cases and is currently being further enhanced to support 3 exemplar research projects. CONCLUSIONS:The data available are from a range of radiological modalities and scanner types and were collected under different environmental conditions. These real-world, heterogenous data are valuable for training algorithms to support clinical decision making, especially for deep learning where large data volumes are required. The resource is now available for international research access. The platform and data can support new health research using artificial intelligence and machine learning technologies, as well as enabling discovery science.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/gigascience/giaa095"
+  },
+  {
+    "id": "31845899",
+    "doi": "https://doi.org/10.2196/14782",
+    "title": "Efficient Reuse of Natural Language Processing Models for Phenotype-Mention Identification in Free-text Electronic Medical Records: A Phenotype Embedding Approach.",
+    "authorString": "Wu H, Hodgson K, Dyson S, Morley KI, Ibrahim ZM, Iqbal E, Stewart R, Dobson RJ, Sudlow C.",
+    "authorAffiliations": "",
+    "journalTitle": "JMIR medical informatics",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Phenotype; Clustering; Machine Learning; Electronic Health Records; Natural Language Processing; Text Mining; Word Embedding; Model Adaptation; Phenotype Embedding",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Much effort has been put into the use of automated approaches, such as natural language processing (NLP), to mine or extract data from free-text medical records in order to construct comprehensive patient profiles for delivering better health care. Reusing NLP models in new settings, however, remains cumbersome, as it requires validation and retraining on new data iteratively to achieve convergent results. OBJECTIVE:The aim of this work is to minimize the effort involved in reusing NLP models on free-text medical records. METHODS:We formally define and analyze the model adaptation problem in phenotype-mention identification tasks. We identify \"duplicate waste\" and \"imbalance waste,\" which collectively impede efficient model reuse. We propose a phenotype embedding-based approach to minimize these sources of waste without the need for labelled data from new settings. RESULTS:We conduct experiments on data from a large mental health registry to reuse NLP models in four phenotype-mention identification tasks. The proposed approach can choose the best model for a new task, identifying up to 76% waste (duplicate waste), that is, phenotype mentions without the need for validation and model retraining and with very good performance (93%-97% accuracy). It can also provide guidance for validating and retraining the selected model for novel language patterns in new tasks, saving around 80% waste (imbalance waste), that is, the effort required in \"blind\" model-adaptation approaches. CONCLUSIONS:Adapting pretrained NLP models for new tasks can be more efficient and effective if the language pattern landscapes of old settings and new settings can be made explicit and comparable. Our experiments show that the phenotype-mention embedding approach is an effective way to model language patterns for phenotype-mention identification tasks and that its use can guide efficient NLP model reuse.",
+    "laySummary": "Wu et el. developed a computer algorithm which can transform clinical letters into databases for research. Their approach in processing information in clinical letters is more flexible compared to those before allowing users to define concepts which they want to find in the letters. ",
+    "urls": "doi:https://doi.org/10.2196/14782; html:https://europepmc.org/articles/PMC6938594"
   },
   {
     "id": "32790708",
@@ -1344,22 +1344,6 @@
     "urls": "doi:https://doi.org/10.3897/BDJ.6.e29232; html:https://europepmc.org/articles/PMC6281706; pdf:https://europepmc.org/articles/PMC6281706?pdf=render"
   },
   {
-    "id": "32763878",
-    "doi": "https://doi.org/10.2196/18690",
-    "title": "Notifications to Improve Engagement With an Alcohol Reduction App: Protocol for a Micro-Randomized Trial.",
-    "authorString": "Bell L, Garnett C, Qian T, Perski O, Potts HWW, Williamson E.",
-    "authorAffiliations": "",
-    "journalTitle": "JMIR research protocols",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "Alcohol; Engagement; Mhealth; Mobile Health; Excessive Alcohol Consumption; Smartphone App; Micro-randomized Trial; Digital Behavior Change; Push Notifications",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Drink Less is a behavior change app that aims to help users in the general adult population reduce hazardous and harmful alcohol consumption. The app includes a daily push notification, delivered at 11 am, asking users to \"Please complete your mood and drinking diaries.\" Previous analysis of Drink Less engagement data suggests the current notification strongly influences how users engage with the app in the subsequent hour. To exploit a potential increase of vulnerability of excess drinking and opportunity to engage with the app in the evenings, we changed the delivery time from 11 am to 8 pm. We now aim to further optimise the content and sequence of notifications, testing 30 new evidence-informed notifications targeting the user's perceived usefulness of the app. OBJECTIVE:The primary objective is to assess whether sending a notification at 8 pm increases behavioral engagement (opening the app) in the subsequent hour. Secondary objectives include comparing the effect of the new bank of messages with the standard message and effect moderation over time. We also aim to more generally understand the role notifications have on the overall duration, depth, and frequency of engagement with Drink Less over the first 30 days after download. METHODS:This is a protocol for a micro-randomized trial with two additional parallel arms. Inclusion criteria are Drink Less users who (1) consent to participate in the trial; (2) self-report a baseline Alcohol Use Disorders Identification Test score of 8 or above; (3) reside in the United Kingdom; (4) age \u226518 years and; (5) report interest in drinking less alcohol. In the micro-randomized trial, participants will be randomized daily at 8 pm to receive no notification, a notification with text from the new message bank, or the standard message. The primary outcome is the time-varying, binary outcome of \"Did the user open the app in the hour from 8 pm to 9 pm?\". The primary analysis will estimate the marginal relative risk for the notifications using an estimator developed for micro-randomized trials with binary outcomes. Participants randomized to the parallel arms will receive no notifications (Secondary Arm A), or the standard notification delivered daily at 11 am (Secondary Arm B) over 30 days, allowing the comparison of overall engagement between different notification delivery strategies. RESULTS:Approval was granted by the University College of London's Departmental Research Ethics Committee (CEHP/2016/556) on October 11, 2019, and The London School of Hygiene and Tropical Medicine Interventions Research Ethics Committee (17929) on November 27, 2019. Recruitment began on January 2, 2020, and is ongoing. CONCLUSIONS:Understanding how push notifications may impact engagement with a behavior change app can lead to further improvements in engagement, and ultimately help users reduce their alcohol consumption. This understanding may also be generalizable to other apps that target a variety of behavior changes. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID):DERR1-10.2196/18690.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/18690; html:https://europepmc.org/articles/PMC7442945"
-  },
-  {
     "id": "32856160",
     "doi": "https://doi.org/10.1007/s10654-020-00677-6",
     "title": "Data extraction for epidemiological research (DExtER): a novel tool for automated clinical epidemiology studies.",
@@ -1374,6 +1358,22 @@
     "abstract": "The use of primary care electronic health records for research is abundant. The benefits gained from utilising such records lies in their size, longitudinal data collection and data quality. However, the use of such data to undertake high quality epidemiological studies, can lead to significant challenges particularly in dealing with misclassification, variation in coding and the significant effort required to pre-process the data in a meaningful format for statistical analysis. In this paper, we describe a methodology to aid with the extraction and processing of such databases, delivered by a novel software programme; the \"Data extraction for epidemiological research\" (DExtER). The basis of DExtER relies on principles of extract, transform and load processes. The tool initially provides the ability for the healthcare dataset to be extracted, then transformed in a format whereby data is normalised, converted and reformatted. DExtER has a user interface designed to obtain data extracts specific to each research question and observational study design. There are facilities to input the requirements for; eligible study period, definition of exposed and unexposed groups, outcome measures and important baseline covariates. To date the tool has been utilised and validated in a multitude of settings. There have been over 35 peer-reviewed publications using the tool, and DExtER has been implemented as a validated public health surveillance tool for obtaining accurate statistics on epidemiology of key morbidities. Future direction of this work will be the application of the framework to linked as well as international datasets and the development of standardised methods for conducting electronic pre-processing and extraction from datasets for research purposes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1007/s10654-020-00677-6"
+  },
+  {
+    "id": "32763878",
+    "doi": "https://doi.org/10.2196/18690",
+    "title": "Notifications to Improve Engagement With an Alcohol Reduction App: Protocol for a Micro-Randomized Trial.",
+    "authorString": "Bell L, Garnett C, Qian T, Perski O, Potts HWW, Williamson E.",
+    "authorAffiliations": "",
+    "journalTitle": "JMIR research protocols",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "Alcohol; Engagement; Mhealth; Mobile Health; Excessive Alcohol Consumption; Smartphone App; Micro-randomized Trial; Digital Behavior Change; Push Notifications",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Drink Less is a behavior change app that aims to help users in the general adult population reduce hazardous and harmful alcohol consumption. The app includes a daily push notification, delivered at 11 am, asking users to \"Please complete your mood and drinking diaries.\" Previous analysis of Drink Less engagement data suggests the current notification strongly influences how users engage with the app in the subsequent hour. To exploit a potential increase of vulnerability of excess drinking and opportunity to engage with the app in the evenings, we changed the delivery time from 11 am to 8 pm. We now aim to further optimise the content and sequence of notifications, testing 30 new evidence-informed notifications targeting the user's perceived usefulness of the app. OBJECTIVE:The primary objective is to assess whether sending a notification at 8 pm increases behavioral engagement (opening the app) in the subsequent hour. Secondary objectives include comparing the effect of the new bank of messages with the standard message and effect moderation over time. We also aim to more generally understand the role notifications have on the overall duration, depth, and frequency of engagement with Drink Less over the first 30 days after download. METHODS:This is a protocol for a micro-randomized trial with two additional parallel arms. Inclusion criteria are Drink Less users who (1) consent to participate in the trial; (2) self-report a baseline Alcohol Use Disorders Identification Test score of 8 or above; (3) reside in the United Kingdom; (4) age \u226518 years and; (5) report interest in drinking less alcohol. In the micro-randomized trial, participants will be randomized daily at 8 pm to receive no notification, a notification with text from the new message bank, or the standard message. The primary outcome is the time-varying, binary outcome of \"Did the user open the app in the hour from 8 pm to 9 pm?\". The primary analysis will estimate the marginal relative risk for the notifications using an estimator developed for micro-randomized trials with binary outcomes. Participants randomized to the parallel arms will receive no notifications (Secondary Arm A), or the standard notification delivered daily at 11 am (Secondary Arm B) over 30 days, allowing the comparison of overall engagement between different notification delivery strategies. RESULTS:Approval was granted by the University College of London's Departmental Research Ethics Committee (CEHP/2016/556) on October 11, 2019, and The London School of Hygiene and Tropical Medicine Interventions Research Ethics Committee (17929) on November 27, 2019. Recruitment began on January 2, 2020, and is ongoing. CONCLUSIONS:Understanding how push notifications may impact engagement with a behavior change app can lead to further improvements in engagement, and ultimately help users reduce their alcohol consumption. This understanding may also be generalizable to other apps that target a variety of behavior changes. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID):DERR1-10.2196/18690.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/18690; html:https://europepmc.org/articles/PMC7442945"
   },
   {
     "id": "31504435",
@@ -2224,22 +2224,6 @@
     "urls": "doi:https://doi.org/10.1186/s12911-019-0805-0; html:https://europepmc.org/articles/PMC6472089; pdf:https://europepmc.org/articles/PMC6472089?pdf=render"
   },
   {
-    "id": "32462176",
-    "doi": "https://doi.org/10.1093/ehjci/jeaa088",
-    "title": "A head-to-head comparison of speckle tracking echocardiography and feature tracking cardiovascular magnetic resonance imaging in right ventricular deformation.",
-    "authorString": "Taha K, Bourfiss M, Te Riele ASJM, Cramer MM, van der Heijden JF, Asselbergs FW, Velthuis BK, Teske AJ.",
-    "authorAffiliations": "",
-    "journalTitle": "European heart journal cardiovascular Imaging",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Right Ventricle; Strain Imaging; Speckle Tracking; Arvc; Feature Tracking; Deformation Imaging",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "AIMS:Speckle tracking echocardiography (STE) and feature tracking cardiovascular magnetic resonance imaging (FT-CMR) are advanced imaging techniques which are both used for quantification of global and regional myocardial strain. Direct comparisons of STE and FT-CMR regarding right ventricular (RV) strain analysis are limited. We aimed to study clinical performance, correlation and agreement of RV strain by these techniques, using arrhythmogenic right ventricular cardiomyopathy (ARVC) as a model for RV disease. METHODS AND RESULTS:We enrolled 110 subjects, including 34 patients with definite ARVC, 30 preclinical relatives of ARVC patients, and 46 healthy control subjects. Global and regional RV longitudinal peak strain (PS) were measured by STE and FT-CMR. Both modalities showed reduced strain values in ARVC patients compared to ARVC relatives (STE global PS: P\u2009<\u20090.001; FT-CMR global PS: P\u2009<\u20090.001) and reduced strain values in ARVC relatives compared to healthy control subjects (STE global PS: P\u2009=\u20090.042; FT-CMR global PS: P\u2009=\u20090.084). There was a moderate, albeit significant correlation between RV strain values obtained by STE and FT-CMR [global PS r\u2009=\u20090.578 (95% confidence interval 0.427-0.697), P\u2009<\u20090.001]. Agreement between the techniques was weak (limits of agreement for global PS: \u00b111.8%). Correlation and agreement both deteriorated when regional strain was studied. CONCLUSION:RV STE and FT-CMR show a similar trend within the spectrum of ARVC and have significant correlation, but inter-modality agreement is weak. STE and FT-CMR may therefore both individually have added value for assessment of RV function, but RV PS values obtained by these techniques currently cannot be used interchangeably in clinical practice.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/ehjci/jeaa088"
-  },
-  {
     "id": "31353050",
     "doi": "https://doi.org/10.1016/s0140-6736(19)31359-5",
     "title": "Eligibility and subsequent burden of cardiovascular disease of four strategies for blood pressure-lowering treatment: a retrospective cohort study.",
@@ -2270,6 +2254,22 @@
     "abstract": "OBJECTIVE:To evaluate long-term associations between early childhood hyperactivity and conduct problems (CP), measured using Strengths and Difficulties Questionnaire (SDQ) and risk of injury in early adolescence. DESIGN:Data linkage between a longitudinal birth cohort and routinely collected electronic health records. SETTING:Consenting Millennium Cohort Study (MCS) participants residing in Wales and Scotland. PATIENTS:3119 children who participated in the age 5 MCS interview. MAIN OUTCOME MEASURES:Children with parent-reported SDQ scores were linked with hospital admission and Accident & Emergency (A&E) department records for injuries between ages 9 and 14 years. Negative binomial regression models adjusting for number of people in the household, lone parent, residential area, household poverty, maternal age and academic qualification, child sex, physical activity level and country of interview were fitted in the models. RESULTS:46% of children attended A&E or were admitted to hospital for injury, and 11% had high/abnormal scores for hyperactivity and CP. High/abnormal or borderline hyperactivity were not significantly associated with risk of injury, incidence rate ratio (IRR) with 95% CI of the high/abnormal and borderline were 0.92 (95% CI 0.74 to 1.14) and 1.16 (95% CI 0.88 to 1.52), respectively. Children with borderline CP had higher injury rates compared with those without CP (IRR 1.31, 95% CI 1.09 to 1.57). CONCLUSIONS:Children with high/abnormal hyperactivity or CP scores were not at increased risk of injury; however, those with borderline CP had higher injury rates. Further research is needed to understand if those with difficulties receive treatment and support, which may reduce the likelihood of injuries.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/archdischild-2019-317271; html:https://europepmc.org/articles/PMC7041499; pdf:https://europepmc.org/articles/PMC7041499?pdf=render"
+  },
+  {
+    "id": "32462176",
+    "doi": "https://doi.org/10.1093/ehjci/jeaa088",
+    "title": "A head-to-head comparison of speckle tracking echocardiography and feature tracking cardiovascular magnetic resonance imaging in right ventricular deformation.",
+    "authorString": "Taha K, Bourfiss M, Te Riele ASJM, Cramer MM, van der Heijden JF, Asselbergs FW, Velthuis BK, Teske AJ.",
+    "authorAffiliations": "",
+    "journalTitle": "European heart journal cardiovascular Imaging",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Right Ventricle; Strain Imaging; Speckle Tracking; Arvc; Feature Tracking; Deformation Imaging",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "AIMS:Speckle tracking echocardiography (STE) and feature tracking cardiovascular magnetic resonance imaging (FT-CMR) are advanced imaging techniques which are both used for quantification of global and regional myocardial strain. Direct comparisons of STE and FT-CMR regarding right ventricular (RV) strain analysis are limited. We aimed to study clinical performance, correlation and agreement of RV strain by these techniques, using arrhythmogenic right ventricular cardiomyopathy (ARVC) as a model for RV disease. METHODS AND RESULTS:We enrolled 110 subjects, including 34 patients with definite ARVC, 30 preclinical relatives of ARVC patients, and 46 healthy control subjects. Global and regional RV longitudinal peak strain (PS) were measured by STE and FT-CMR. Both modalities showed reduced strain values in ARVC patients compared to ARVC relatives (STE global PS: P\u2009<\u20090.001; FT-CMR global PS: P\u2009<\u20090.001) and reduced strain values in ARVC relatives compared to healthy control subjects (STE global PS: P\u2009=\u20090.042; FT-CMR global PS: P\u2009=\u20090.084). There was a moderate, albeit significant correlation between RV strain values obtained by STE and FT-CMR [global PS r\u2009=\u20090.578 (95% confidence interval 0.427-0.697), P\u2009<\u20090.001]. Agreement between the techniques was weak (limits of agreement for global PS: \u00b111.8%). Correlation and agreement both deteriorated when regional strain was studied. CONCLUSION:RV STE and FT-CMR show a similar trend within the spectrum of ARVC and have significant correlation, but inter-modality agreement is weak. STE and FT-CMR may therefore both individually have added value for assessment of RV function, but RV PS values obtained by these techniques currently cannot be used interchangeably in clinical practice.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/ehjci/jeaa088"
   },
   {
     "id": "30969971",
@@ -3488,22 +3488,6 @@
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100469"
   },
   {
-    "id": "32692755",
-    "doi": "https://doi.org/10.1371/journal.pone.0236193",
-    "title": "A genetic model of ivabradine recapitulates results from randomized clinical trials.",
-    "authorString": "Legault MA, Sandoval J, Provost S, Barhdadi A, Lemieux Perreault LP, Shah S, Lumbers RT, de Denus S, Tyl B, Tardif JC, Dub\u00e9 MP.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Naturally occurring human genetic variants provide a valuable tool to identify drug targets and guide drug prioritization and clinical trial design. Ivabradine is a heart rate lowering drug with protective effects on heart failure despite increasing the risk of atrial fibrillation. In patients with coronary artery disease without heart failure, the drug does not protect against major cardiovascular adverse events prompting questions about the ability of genetics to have predicted those effects. This study evaluates the effect of a variant in HCN4, ivabradine's drug target, on safety and efficacy endpoints. METHODS:We used genetic association testing and Mendelian randomization to predict the effect of ivabradine and heart rate lowering on cardiovascular outcomes. RESULTS:Using data from the UK Biobank and large GWAS consortia, we evaluated the effect of a heart rate-reducing genetic variant at the HCN4 locus encoding ivabradine's drug target. These genetic association analyses showed increases in risk for atrial fibrillation (OR 1.09, 95% CI: 1.06-1.13, P = 9.3 \u00d710-9) in the UK Biobank. In a cause-specific competing risk model to account for the increased risk of atrial fibrillation, the HCN4 variant reduced incident heart failure in participants that did not develop atrial fibrillation (HR 0.90, 95% CI: 0.83-0.98, P = 0.013). In contrast, the same heart rate reducing HCN4 variant did not prevent a composite endpoint of myocardial infarction or cardiovascular death (OR 0.99, 95% CI: 0.93-1.04, P = 0.61). CONCLUSION:Genetic modelling of ivabradine recapitulates its benefits in heart failure, promotion of atrial fibrillation, and neutral effect on myocardial infarction.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0236193; html:https://europepmc.org/articles/PMC7373274; pdf:https://europepmc.org/articles/PMC7373274?pdf=render"
-  },
-  {
     "id": "32908283",
     "doi": "https://doi.org/10.1038/s41591-020-1034-x",
     "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension.",
@@ -3518,6 +3502,22 @@
     "abstract": "The CONSORT 2010 statement provides minimum guidelines for reporting randomized trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trials evaluating interventions with an AI component. It was developed in parallel with its companion statement for clinical trial protocols: SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 29 candidate items, which were assessed by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a two-day consensus meeting (31 stakeholders) and refined through a checklist pilot (34 participants). The CONSORT-AI extension includes 14 new items that were considered sufficiently important for AI interventions that they should be routinely reported in addition to the core CONSORT 2010 items. CONSORT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention is integrated, the handling of inputs and outputs of the AI intervention, the human-AI interaction and provision of an analysis of error cases. CONSORT-AI will help promote transparency and completeness in reporting clinical trials for AI interventions. It will assist editors and peer reviewers, as well as the general readership, to understand, interpret and critically appraise the quality of clinical trial design and risk of bias in the reported outcomes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41591-020-1034-x"
+  },
+  {
+    "id": "32692755",
+    "doi": "https://doi.org/10.1371/journal.pone.0236193",
+    "title": "A genetic model of ivabradine recapitulates results from randomized clinical trials.",
+    "authorString": "Legault MA, Sandoval J, Provost S, Barhdadi A, Lemieux Perreault LP, Shah S, Lumbers RT, de Denus S, Tyl B, Tardif JC, Dub\u00e9 MP.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Naturally occurring human genetic variants provide a valuable tool to identify drug targets and guide drug prioritization and clinical trial design. Ivabradine is a heart rate lowering drug with protective effects on heart failure despite increasing the risk of atrial fibrillation. In patients with coronary artery disease without heart failure, the drug does not protect against major cardiovascular adverse events prompting questions about the ability of genetics to have predicted those effects. This study evaluates the effect of a variant in HCN4, ivabradine's drug target, on safety and efficacy endpoints. METHODS:We used genetic association testing and Mendelian randomization to predict the effect of ivabradine and heart rate lowering on cardiovascular outcomes. RESULTS:Using data from the UK Biobank and large GWAS consortia, we evaluated the effect of a heart rate-reducing genetic variant at the HCN4 locus encoding ivabradine's drug target. These genetic association analyses showed increases in risk for atrial fibrillation (OR 1.09, 95% CI: 1.06-1.13, P = 9.3 \u00d710-9) in the UK Biobank. In a cause-specific competing risk model to account for the increased risk of atrial fibrillation, the HCN4 variant reduced incident heart failure in participants that did not develop atrial fibrillation (HR 0.90, 95% CI: 0.83-0.98, P = 0.013). In contrast, the same heart rate reducing HCN4 variant did not prevent a composite endpoint of myocardial infarction or cardiovascular death (OR 0.99, 95% CI: 0.93-1.04, P = 0.61). CONCLUSION:Genetic modelling of ivabradine recapitulates its benefits in heart failure, promotion of atrial fibrillation, and neutral effect on myocardial infarction.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0236193; html:https://europepmc.org/articles/PMC7373274; pdf:https://europepmc.org/articles/PMC7373274?pdf=render"
   },
   {
     "id": "30909231",
@@ -3648,22 +3648,6 @@
     "urls": "doi:https://doi.org/10.1093/pubmed/fdz172"
   },
   {
-    "id": "31242963",
-    "doi": "https://doi.org/10.1016/j.vaccine.2019.06.019",
-    "title": "An online decision tree for vaccine efficacy trial design during infectious disease epidemics: The InterVax-Tool.",
-    "authorString": "Bellan SE, Eggo RM, Gsell PS, Kucharski AJ, Dean NE, Donohue R, Zook M, Edmunds WJ, Odhiambo F, Longini IM, Brisson M, Mahon BE, Henao-Restrepo AM.",
-    "authorAffiliations": "",
-    "journalTitle": "Vaccine",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Vaccines; Decision support system; epidemics; Outbreaks; Emerging Infectious Diseases; Phase Iii Trial; Scientific Communication; Public Health Emergency; Vaccine Trial Design",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Licensed vaccines are urgently needed for emerging infectious diseases, but the nature of these epidemics causes challenges for the design of phase III trials to evaluate vaccine efficacy. Designing and executing rigorous, fast, and ethical, vaccine efficacy trials is difficult, and the decisions and limitations in the design of these trials encompass epidemiological, logistical, regulatory, statistical, and ethical dimensions. RESULTS:Trial design decisions are complex and interrelated, but current guidance documents do not lend themselves to efficient decision-making. We created InterVax-Tool (http://vaxeval.com), an online, interactive decision-support tool, to help diverse stakeholders navigate the decisions in the design of phase III vaccine trials. InterVax-Tool offers high-level visual and interactive assistance through a set of four decision trees, guiding users through selection of the: (1) Primary Endpoint, (2) Target Population, (3) Randomization Scheme, and, (4) Comparator. We provide guidance on how key considerations - grouped as Epidemiological, Vaccine-related, Infrastructural, or Sociocultural - inform each decision in the trial design process. CONCLUSIONS:InterVax-Tool facilitates structured, transparent, and collaborative discussion of trial design, while recording the decision-making process. Users can save and share their decisions, which is useful both for comparing proposed trial designs, and for justifying particular design choices. Here, we describe the goals and features of InterVax-Tool as well as its application to the design of a Zika vaccine efficacy trial.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.vaccine.2019.06.019; html:https://europepmc.org/articles/PMC6620503"
-  },
-  {
     "id": "31818272",
     "doi": "https://doi.org/10.1186/s12889-019-8015-3",
     "title": "Drinking beer, wine or spirits - does it matter for inequalities in alcohol-related hospital admission? A record-linked longitudinal study in Wales.",
@@ -3678,6 +3662,22 @@
     "abstract": "BACKGROUND:Alcohol-related harm has been found to be higher in disadvantaged groups, despite similar alcohol consumption to advantaged groups. This is known as the alcohol harm paradox. Beverage type is reportedly socioeconomically patterned but has not been included in longitudinal studies investigating record-linked alcohol consumption and harm. We aimed to investigate whether and to what extent consumption by beverage type, BMI, smoking and other factors explain inequalities in alcohol-related harm. METHODS:11,038 respondents to the Welsh Health Survey answered questions on their health and lifestyle. Responses were record-linked to wholly attributable alcohol-related hospital admissions (ARHA) eight years before the survey month and until the end of 2016 within the Secure Anonymised Information Linkage (SAIL) Databank. We used survival analysis, specifically multi-level and multi-failure Cox mixed effects models, to calculate the hazard ratios of ARHA. In adjusted models we included the number of units consumed by beverage type and other factors, censoring for death or moving out of Wales. RESULTS:People living in more deprived areas had a higher risk of admission (HR 1.75; 95% CI 1.23-2.48) compared to less deprived. Adjustment for the number of units by type of alcohol consumed only reduced the risk of ARHA for more deprived areas by 4% (HR 1.72; 95% CI 1.21-2.44), whilst adding smoking and BMI reduced these inequalities by 35.7% (HR 1.48; 95% CI 1.01-2.17). These social patterns were similar for individual-level social class, employment, housing tenure and highest qualification. Inequalities were further reduced by including either health status (16.6%) or mental health condition (5%). Unit increases of spirits drunk were positively associated with increasing risk of ARHA (HR 1.06; 95% CI 1.01-1.12), higher than for other drink types. CONCLUSIONS:Although consumption by beverage type was socioeconomically patterned, it did not help explain inequalities in alcohol-related harm. Smoking and BMI explained around a third of inequalities, but lower socioeconomic groups had a persistently higher risk of (multiple) ARHA. Comorbidities also explained a further proportion of inequalities and need further investigation, including the contribution of specific conditions. The increased harms from consumption of stronger alcoholic beverages may inform public health policy.",
     "laySummary": "This longitudinal study investigated whether and to what extent consumption by beverage type, BMI, smoking and other factors explained inequalities in alcohol-related hospital admission (ARHA). Using statistical analysis methods, it was found that people living in more deprived areas had a higher risk of ARHA compared to less deprived. Smokers and people currently being treated for mental illness had higher risk of ARHA, while BMI appeared to be slightly protective. ",
     "urls": "doi:https://doi.org/10.1186/s12889-019-8015-3; html:https://europepmc.org/articles/PMC6902530; pdf:https://europepmc.org/articles/PMC6902530?pdf=render"
+  },
+  {
+    "id": "31242963",
+    "doi": "https://doi.org/10.1016/j.vaccine.2019.06.019",
+    "title": "An online decision tree for vaccine efficacy trial design during infectious disease epidemics: The InterVax-Tool.",
+    "authorString": "Bellan SE, Eggo RM, Gsell PS, Kucharski AJ, Dean NE, Donohue R, Zook M, Edmunds WJ, Odhiambo F, Longini IM, Brisson M, Mahon BE, Henao-Restrepo AM.",
+    "authorAffiliations": "",
+    "journalTitle": "Vaccine",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Vaccines; Decision support system; epidemics; Outbreaks; Emerging Infectious Diseases; Phase Iii Trial; Scientific Communication; Public Health Emergency; Vaccine Trial Design",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Licensed vaccines are urgently needed for emerging infectious diseases, but the nature of these epidemics causes challenges for the design of phase III trials to evaluate vaccine efficacy. Designing and executing rigorous, fast, and ethical, vaccine efficacy trials is difficult, and the decisions and limitations in the design of these trials encompass epidemiological, logistical, regulatory, statistical, and ethical dimensions. RESULTS:Trial design decisions are complex and interrelated, but current guidance documents do not lend themselves to efficient decision-making. We created InterVax-Tool (http://vaxeval.com), an online, interactive decision-support tool, to help diverse stakeholders navigate the decisions in the design of phase III vaccine trials. InterVax-Tool offers high-level visual and interactive assistance through a set of four decision trees, guiding users through selection of the: (1) Primary Endpoint, (2) Target Population, (3) Randomization Scheme, and, (4) Comparator. We provide guidance on how key considerations - grouped as Epidemiological, Vaccine-related, Infrastructural, or Sociocultural - inform each decision in the trial design process. CONCLUSIONS:InterVax-Tool facilitates structured, transparent, and collaborative discussion of trial design, while recording the decision-making process. Users can save and share their decisions, which is useful both for comparing proposed trial designs, and for justifying particular design choices. Here, we describe the goals and features of InterVax-Tool as well as its application to the design of a Zika vaccine efficacy trial.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.vaccine.2019.06.019; html:https://europepmc.org/articles/PMC6620503"
   },
   {
     "id": "32817390",
@@ -3792,22 +3792,6 @@
     "urls": "doi:https://doi.org/10.1136/bmj.m3210; html:https://europepmc.org/articles/PMC7490785"
   },
   {
-    "id": "30120083",
-    "doi": "https://doi.org/10.1016/j.ebiom.2018.08.004",
-    "title": "Genome-Wide Association Study of Circadian Rhythmicity in 71,500 UK Biobank Participants and Polygenic Association with Mood Instability.",
-    "authorString": "Ferguson A, Lyall LM, Ward J, Strawbridge RJ, Cullen B, Graham N, Niedzwiedz CL, Johnston KJA, MacKay D, Biello SM, Pell JP, Cavanagh J, McIntosh AM, Doherty A, Bailey MES, Lyall DM, Wyse CA, Smith DJ.",
-    "authorAffiliations": "",
-    "journalTitle": "EBioMedicine",
-    "pubYear": "2018",
-    "isOpenAccess": "Y",
-    "keywords": "Mood Instability; Gwas; Polygenic Risk Score; Circadian Rhythmicity; Relative Amplitude",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Circadian rhythms are fundamental to health and are particularly important for mental wellbeing. Disrupted rhythms of rest and activity are recognised as risk factors for major depressive disorder and bipolar disorder. METHODS:We conducted a genome-wide association study (GWAS) of low relative amplitude (RA), an objective measure of rest-activity cycles derived from the accelerometer data of 71,500 UK Biobank participants. Polygenic risk scores (PRS) for low RA were used to investigate potential associations with psychiatric phenotypes. OUTCOMES:Two independent genetic loci were associated with low RA, within genomic regions for Neurofascin (NFASC) and Solute Carrier Family 25 Member 17 (SLC25A17). A secondary GWAS of RA as a continuous measure identified a locus within Meis Homeobox 1 (MEIS1). There were no significant genetic correlations between low RA and any of the psychiatric phenotypes assessed. However, PRS for low RA was significantly associated with mood instability across multiple PRS thresholds (at PRS threshold 0\u00b705: OR\u202f=\u202f1\u00b702, 95% CI\u202f=\u202f1\u00b701-1\u00b702, p\u202f=\u202f9\u00b76\u202f\u00d7\u202f10-5), and with major depressive disorder (at PRS threshold 0\u00b71: OR\u202f=\u202f1\u00b703, 95% CI\u202f=\u202f1\u00b701-1\u00b705, p\u202f=\u202f0\u00b7025) and neuroticism (at PRS threshold 0\u00b75: Beta\u202f=\u202f0\u00b702, 95% CI\u202f=\u202f0\u00b7007-0\u00b704, p\u202f=\u202f0\u00b7021). INTERPRETATION:Overall, our findings contribute new knowledge on the complex genetic architecture of circadian rhythmicity and suggest a putative biological link between disrupted circadian function and mood disorder phenotypes, particularly mood instability, but also major depressive disorder and neuroticism. FUNDING:Medical Research Council (MR/K501335/1).",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.ebiom.2018.08.004; html:https://europepmc.org/articles/PMC6154782; pdf:https://europepmc.org/articles/PMC6154782?pdf=render"
-  },
-  {
     "id": "31089183",
     "doi": "https://doi.org/10.1038/s41598-019-43861-9",
     "title": "Genetic variation in CADM2 as a link between psychological traits and obesity.",
@@ -3822,6 +3806,22 @@
     "abstract": "CADM2 has been associated with a range of behavioural and metabolic traits, including physical activity, risk-taking, educational attainment, alcohol and cannabis use and obesity. Here, we set out to determine whether CADM2 contributes to mechanisms shared between mental and physical health disorders. We assessed genetic variants in the CADM2 locus for association with phenotypes in the UK Biobank, IMPROVE, PROCARDIS and SCARFSHEEP studies, before performing meta-analyses. A wide range of metabolic phenotypes were meta-analysed. Psychological phenotypes analysed in UK Biobank only were major depressive disorder, generalised anxiety disorder, bipolar disorder, neuroticism, mood instability and risk-taking behaviour. In UK Biobank, four, 88 and 172 genetic variants were significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with neuroticism, mood instability and risk-taking respectively. In meta-analyses of 4 cohorts, we identified 362, 63 and 11 genetic variants significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with BMI, SBP and CRP respectively. Genetic effects on BMI, CRP and risk-taking were all positively correlated, and were consistently inversely correlated with genetic effects on SBP, mood instability and neuroticism. Conditional analyses suggested an overlap in the signals for physical and psychological traits. Many significant variants had genotype-specific effects on CADM2 expression levels in adult brain and adipose tissues. CADM2 variants influence a wide range of both psychological and metabolic traits, suggesting common biological mechanisms across phenotypes via regulation of CADM2 expression levels in adipose tissue. Functional studies of CADM2 are required to fully understand mechanisms connecting mental and physical health conditions.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41598-019-43861-9; html:https://europepmc.org/articles/PMC6517397; pdf:https://europepmc.org/articles/PMC6517397?pdf=render"
+  },
+  {
+    "id": "30120083",
+    "doi": "https://doi.org/10.1016/j.ebiom.2018.08.004",
+    "title": "Genome-Wide Association Study of Circadian Rhythmicity in 71,500 UK Biobank Participants and Polygenic Association with Mood Instability.",
+    "authorString": "Ferguson A, Lyall LM, Ward J, Strawbridge RJ, Cullen B, Graham N, Niedzwiedz CL, Johnston KJA, MacKay D, Biello SM, Pell JP, Cavanagh J, McIntosh AM, Doherty A, Bailey MES, Lyall DM, Wyse CA, Smith DJ.",
+    "authorAffiliations": "",
+    "journalTitle": "EBioMedicine",
+    "pubYear": "2018",
+    "isOpenAccess": "Y",
+    "keywords": "Mood Instability; Gwas; Polygenic Risk Score; Circadian Rhythmicity; Relative Amplitude",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Circadian rhythms are fundamental to health and are particularly important for mental wellbeing. Disrupted rhythms of rest and activity are recognised as risk factors for major depressive disorder and bipolar disorder. METHODS:We conducted a genome-wide association study (GWAS) of low relative amplitude (RA), an objective measure of rest-activity cycles derived from the accelerometer data of 71,500 UK Biobank participants. Polygenic risk scores (PRS) for low RA were used to investigate potential associations with psychiatric phenotypes. OUTCOMES:Two independent genetic loci were associated with low RA, within genomic regions for Neurofascin (NFASC) and Solute Carrier Family 25 Member 17 (SLC25A17). A secondary GWAS of RA as a continuous measure identified a locus within Meis Homeobox 1 (MEIS1). There were no significant genetic correlations between low RA and any of the psychiatric phenotypes assessed. However, PRS for low RA was significantly associated with mood instability across multiple PRS thresholds (at PRS threshold 0\u00b705: OR\u202f=\u202f1\u00b702, 95% CI\u202f=\u202f1\u00b701-1\u00b702, p\u202f=\u202f9\u00b76\u202f\u00d7\u202f10-5), and with major depressive disorder (at PRS threshold 0\u00b71: OR\u202f=\u202f1\u00b703, 95% CI\u202f=\u202f1\u00b701-1\u00b705, p\u202f=\u202f0\u00b7025) and neuroticism (at PRS threshold 0\u00b75: Beta\u202f=\u202f0\u00b702, 95% CI\u202f=\u202f0\u00b7007-0\u00b704, p\u202f=\u202f0\u00b7021). INTERPRETATION:Overall, our findings contribute new knowledge on the complex genetic architecture of circadian rhythmicity and suggest a putative biological link between disrupted circadian function and mood disorder phenotypes, particularly mood instability, but also major depressive disorder and neuroticism. FUNDING:Medical Research Council (MR/K501335/1).",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.ebiom.2018.08.004; html:https://europepmc.org/articles/PMC6154782; pdf:https://europepmc.org/articles/PMC6154782?pdf=render"
   },
   {
     "id": "30848519",
@@ -3856,22 +3856,6 @@
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100392; html:https://europepmc.org/articles/PMC7329705; pdf:https://europepmc.org/articles/PMC7329705?pdf=render"
   },
   {
-    "id": "31363735",
-    "doi": "https://doi.org/10.1093/hmg/ddz187",
-    "title": "Towards clinical utility of polygenic risk scores.",
-    "authorString": "Lambert SA, Abraham G, Inouye M.",
-    "authorAffiliations": "",
-    "journalTitle": "Human molecular genetics",
-    "pubYear": "2019",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Prediction of disease risk is an essential part of preventative medicine, often guiding clinical management. Risk prediction typically includes risk factors such as age, sex, family history of disease and lifestyle (e.g. smoking status); however, in recent years, there has been increasing interest to include genomic information into risk models. Polygenic risk scores (PRS) aggregate the effects of many genetic variants across the human genome into a single score and have recently been shown to have predictive value for multiple common diseases. In this review, we summarize the potential use cases for seven common diseases (breast cancer, prostate cancer, coronary artery disease, obesity, type 1 diabetes, type 2 diabetes and Alzheimer's disease) where PRS has or could have clinical utility. PRS analysis for these diseases frequently revolved around (i) risk prediction performance of a PRS alone and in combination with other non-genetic risk factors, (ii) estimation of lifetime risk trajectories, (iii) the independent information of PRS and family history of disease or monogenic mutations and (iv) estimation of the value of adding a PRS to specific clinical risk prediction scenarios. We summarize open questions regarding PRS usability, ancestry bias and transferability, emphasizing the need for the next wave of studies to focus on the implementation and health-economic value of PRS testing. In conclusion, it is becoming clear that PRS have value in disease risk prediction and there are multiple areas where this may have clinical utility.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/hmg/ddz187"
-  },
-  {
     "id": "30863860",
     "doi": "https://doi.org/10.1093/eurheartj/ehz089",
     "title": "Big data analytics in adult congenital heart disease: why coding matters.",
@@ -3886,6 +3870,22 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz089"
+  },
+  {
+    "id": "31363735",
+    "doi": "https://doi.org/10.1093/hmg/ddz187",
+    "title": "Towards clinical utility of polygenic risk scores.",
+    "authorString": "Lambert SA, Abraham G, Inouye M.",
+    "authorAffiliations": "",
+    "journalTitle": "Human molecular genetics",
+    "pubYear": "2019",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Prediction of disease risk is an essential part of preventative medicine, often guiding clinical management. Risk prediction typically includes risk factors such as age, sex, family history of disease and lifestyle (e.g. smoking status); however, in recent years, there has been increasing interest to include genomic information into risk models. Polygenic risk scores (PRS) aggregate the effects of many genetic variants across the human genome into a single score and have recently been shown to have predictive value for multiple common diseases. In this review, we summarize the potential use cases for seven common diseases (breast cancer, prostate cancer, coronary artery disease, obesity, type 1 diabetes, type 2 diabetes and Alzheimer's disease) where PRS has or could have clinical utility. PRS analysis for these diseases frequently revolved around (i) risk prediction performance of a PRS alone and in combination with other non-genetic risk factors, (ii) estimation of lifetime risk trajectories, (iii) the independent information of PRS and family history of disease or monogenic mutations and (iv) estimation of the value of adding a PRS to specific clinical risk prediction scenarios. We summarize open questions regarding PRS usability, ancestry bias and transferability, emphasizing the need for the next wave of studies to focus on the implementation and health-economic value of PRS testing. In conclusion, it is becoming clear that PRS have value in disease risk prediction and there are multiple areas where this may have clinical utility.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/hmg/ddz187"
   },
   {
     "id": "32485082",
@@ -4752,22 +4752,6 @@
     "urls": "doi:https://doi.org/10.1016/S2215-0366(19)30298-6"
   },
   {
-    "id": "32656368",
-    "doi": "https://doi.org/10.12688/wellcomeopenres.15889.2",
-    "title": "What settings have been linked to SARS-CoV-2 transmission clusters?",
-    "authorString": "Leclerc QJ, Fuller NM, Knight LE, CMMID COVID-19 Working Group, Funk S, Knight GM.",
-    "authorAffiliations": "",
-    "journalTitle": "Wellcome open research",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "Transmission; Cluster; Coronavirus; Settings; Lockdown; Covid-19; Sars-cov-2",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Background: Concern about the health impact of novel coronavirus SARS-CoV-2 has resulted in widespread enforced reductions in people's movement (\"lockdowns\"). However, there are increasing concerns about the severe economic and wider societal consequences of these measures. Some countries have begun to lift some of the rules on physical distancing in a stepwise manner, with differences in what these \"exit strategies\" entail and their timeframes. The aim of this work was to inform such exit strategies by exploring the types of indoor and outdoor settings where transmission of SARS-CoV-2 has been reported to occur and result in clusters of cases. Identifying potential settings that result in transmission clusters allows these to be kept under close surveillance and/or to remain closed as part of strategies that aim to avoid a resurgence in transmission following the lifting of lockdown measures. Methods: We performed a systematic review of available literature and media reports to find settings reported in peer reviewed articles and media with these characteristics. These sources are curated and made available in an editable online database. Results: We found many examples of SARS-CoV-2 clusters linked to a wide range of mostly indoor settings. Few reports came from schools, many from households, and an increasing number were reported in hospitals and elderly care settings across Europe. Conclusions: We identified possible places that are linked to clusters of COVID-19 cases and could be closely monitored and/or remain closed in the first instance following the progressive removal of lockdown restrictions. However, in part due to the limits in surveillance capacities in many settings, the gathering of information such as cluster sizes and attack rates is limited in several ways: inherent recall bias, biased media reporting and missing data.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15889.2; html:https://europepmc.org/articles/PMC7327724; pdf:https://europepmc.org/articles/PMC7327724?pdf=render"
-  },
-  {
     "id": "32040531",
     "doi": "https://doi.org/10.1371/journal.pone.0228940",
     "title": "Risk assessment for hospital admission in patients with COPD; a multi-centre UK prospective observational study.",
@@ -4782,6 +4766,22 @@
     "abstract": "In chronic obstructive pulmonary disease (COPD), acute exacerbation of COPD requiring hospital admission is associated with mortality and healthcare costs. The ERICA study assessed multiple clinical measures in people with COPD, including the short physical performance battery (SPPB), a simple test of physical function with 3 components (gait speed, balance and sit-to-stand). We tested the hypothesis that SPPB score would relate to risk of hospital admissions and length of hospital stay. Data were analysed from 714 of the total 729 participants (434 men and 280 women) with COPD. Data from this prospective observational longitudinal study were obtained from 4 secondary and 1 tertiary centres from England, Scotland, and Wales. The main outcome measures were to estimate the risk of hospitalisation with acute exacerbation of COPD (AECOPD and length of hospital stay derived from hospital episode statistics (HES). In total, 291 of 714 individuals experienced 762 hospitalised AECOPD during five-year follow up. Poorer performance of SPPB was associated with both higher rate (IRR 1.08 per 1 point decrease, 95% CI 1.01 to 1.14) and increased length of stay (IRR 1.18 per 1 point decrease, 95% CI 1.10 to 1.27) for hospitalised AECOPD. For the individual sit-to-stand component of the SPPB, the association was even stronger (IRR 1.14, 95% CI 1.02 to 1.26 for rate and IRR 1.32, 95% CI 1.16 to 1.49 for length of stay for hospitalised AECOPD). The SPPB, and in particular the sit-to-stand component can both evaluate the risk of H-AECOPD and length of hospital stay in COPD. The SPPB can aid in clinical decision making and when prioritising healthcare resources.",
     "laySummary": "This article looks at risk assessment for hospital admission in patients with Chronic Obstructive Pulmonary Disease (COPD), which is a group of lung conditions that make it difficult to empty air out of the lungs. The objective of the risk assessment was to eventually aid in clinical decision making and prioritising healthcare resources.",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0228940; html:https://europepmc.org/articles/PMC7010290; pdf:https://europepmc.org/articles/PMC7010290?pdf=render"
+  },
+  {
+    "id": "32656368",
+    "doi": "https://doi.org/10.12688/wellcomeopenres.15889.2",
+    "title": "What settings have been linked to SARS-CoV-2 transmission clusters?",
+    "authorString": "Leclerc QJ, Fuller NM, Knight LE, CMMID COVID-19 Working Group, Funk S, Knight GM.",
+    "authorAffiliations": "",
+    "journalTitle": "Wellcome open research",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "Transmission; Cluster; Coronavirus; Settings; Lockdown; Covid-19; Sars-cov-2",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Background: Concern about the health impact of novel coronavirus SARS-CoV-2 has resulted in widespread enforced reductions in people's movement (\"lockdowns\"). However, there are increasing concerns about the severe economic and wider societal consequences of these measures. Some countries have begun to lift some of the rules on physical distancing in a stepwise manner, with differences in what these \"exit strategies\" entail and their timeframes. The aim of this work was to inform such exit strategies by exploring the types of indoor and outdoor settings where transmission of SARS-CoV-2 has been reported to occur and result in clusters of cases. Identifying potential settings that result in transmission clusters allows these to be kept under close surveillance and/or to remain closed as part of strategies that aim to avoid a resurgence in transmission following the lifting of lockdown measures. Methods: We performed a systematic review of available literature and media reports to find settings reported in peer reviewed articles and media with these characteristics. These sources are curated and made available in an editable online database. Results: We found many examples of SARS-CoV-2 clusters linked to a wide range of mostly indoor settings. Few reports came from schools, many from households, and an increasing number were reported in hospitals and elderly care settings across Europe. Conclusions: We identified possible places that are linked to clusters of COVID-19 cases and could be closely monitored and/or remain closed in the first instance following the progressive removal of lockdown restrictions. However, in part due to the limits in surveillance capacities in many settings, the gathering of information such as cluster sizes and attack rates is limited in several ways: inherent recall bias, biased media reporting and missing data.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15889.2; html:https://europepmc.org/articles/PMC7327724; pdf:https://europepmc.org/articles/PMC7327724?pdf=render"
   },
   {
     "id": "32289242",
@@ -6192,22 +6192,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100117; html:https://europepmc.org/articles/PMC7062357; pdf:https://europepmc.org/articles/PMC7062357?pdf=render"
   },
   {
-    "id": "31408153",
-    "doi": "https://doi.org/10.1093/europace/euz220",
-    "title": "Subtypes of atrial fibrillation with concomitant valvular heart disease derived from electronic health records: phenotypes, population prevalence, trends and prognosis.",
-    "authorString": "Banerjee A, Allan V, Denaxas S, Shah A, Kotecha D, Lambiase PD, Joseph J, Lund LH, Hemingway H.",
-    "authorAffiliations": "",
-    "journalTitle": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Mortality; Atrial fibrillation; Stroke; Valvular Heart Disease; Electronic Health Records; Systemic Embolism",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "AIMS:To evaluate population-based electronic health record (EHR) definitions of atrial fibrillation (AF) and valvular heart disease (VHD) subtypes, time trends in prevalence and prognosis. METHODS AND RESULTS:A total of 76\u00a0019 individuals with AF were identified in England in 1998-2010 in the CALIBER resource, linking primary and secondary care EHR. An algorithm was created, implemented, and refined to identify 18 VHD subtypes using 406 diagnosis, procedure, and prescription codes. Cox models were used to investigate associations with a composite endpoint of incident stroke (ischaemic, haemorrhagic, and unspecified), systemic embolism (SSE), and all-cause mortality. Among individuals with AF, the prevalence of AF with concomitant VHD increased from 11.4% (527/4613) in 1998 to 17.6% (7014/39\u00a0868) in 2010 and also in individuals aged over 65\u2009years. Those with mechanical valves, mitral stenosis (MS), or aortic stenosis had highest risk of clinical events compared to AF patients with no VHD, in relative [hazard ratio (95% confidence interval): 1.13 (1.02-1.24), 1.20 (1.05-1.36), and 1.27 (1.19-1.37), respectively] and absolute (excess risk: 2.04, 4.20, and 6.37 per 100 person-years, respectively) terms. Of the 95.2% of individuals with indication for warfarin (men and women with CHA2DS2-VASc \u22651 and \u22652, respectively), only 21.8% had a prescription 90\u2009days prior to the study. CONCLUSION:Prevalence of VHD among individuals with AF increased from 1998 to 2010. Atrial fibrillation associated with aortic stenosis, MS, or mechanical valves (compared to AF without VHD) was associated with an excess absolute risk of stroke, SSE, and mortality, but anticoagulation was underused in the pre-direct oral anticoagulant (DOAC) era, highlighting need for urgent clarity regarding DOACs in AF and concomitant VHD.",
-    "laySummary": "This study identified EHR records of AF and vavular heard disease in over 70k UK individuals and looked for associations with stroke, systemic embolism and mortality. They used CALIBER - a data source connecting office of national statistics, CPRD and HES data from over 10 years. They reported clear methodology on how the EHR was used to classify disease, showed overall prevalence change in different AF related diseases over time, and were able to provide insights at a more granular level - for example, valvular heart disease subtypes in AF than previous studies. The full code list (EHR codes) is provided in supplement, so methods are theoretically reproducible. Immediate impact to patient is less strong and there is wasn't much emphasis on diversity and inclusion.",
-    "urls": "doi:https://doi.org/10.1093/europace/euz220; html:https://europepmc.org/articles/PMC6888023; pdf:https://europepmc.org/articles/PMC6888023?pdf=render"
-  },
-  {
     "id": "32894757",
     "doi": "https://doi.org/10.1093/ageing/afaa138",
     "title": "Short physical performance battery as a practical tool to assess mortality risk in chronic obstructive pulmonary disease.",
@@ -6222,6 +6206,22 @@
     "abstract": "RATIONALE:chronic obstructive pulmonary disease (COPD) is a leading cause of mortality and common in older adults. The BODE Index is the most recognised mortality risk score in COPD but includes a 6-minute walk test (6MWT) that is seldom available in practise; the BODE Index may be better adopted if the 6MWT was replaced. OBJECTIVES:we investigated whether a modified BODE Index in which 6MWT was replaced by an alternative measure of physical capacity, specifically the short physical performance battery (SPPB) or components, retained its predictive ability for mortality in individuals with COPD. METHODS:we analysed 630 COPD patients from the ERICA cohort study for whom UK Office for National Statistics verified mortality data were available. Variables tested at baseline included spirometry, 6MWT, SPPB and its components (4-m gait speed test [4MGS], chair stand and balance). Predictive models were developed using stratified multivariable Cox regression, and assessed by C-indices and calibration plots with 10-fold cross-validation and replication. RESULTS:during median 2\u00a0years of follow-up, 60 (10%) individuals died. There was no significant difference between the discriminative ability of BODE6MWT (C-index 0.709, 95% confidence interval [CI], 0.680-0.737), BODESPPB (C-index 0.683, 95% CI, 0.647-0.712), BODE4MGS (C-index 0.676, 95% CI, 0.643-0.700) and BODEBALANCE (C-index 0.686, 95% CI, 0.651-0.713) for predicting mortality. CONCLUSIONS:the SPPB, and its 4MGS and balance components, can potentially be used as an alternative to the 6MWT in the BODE Index without significant loss of predictive ability in all-cause mortality.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/ageing/afaa138"
+  },
+  {
+    "id": "31408153",
+    "doi": "https://doi.org/10.1093/europace/euz220",
+    "title": "Subtypes of atrial fibrillation with concomitant valvular heart disease derived from electronic health records: phenotypes, population prevalence, trends and prognosis.",
+    "authorString": "Banerjee A, Allan V, Denaxas S, Shah A, Kotecha D, Lambiase PD, Joseph J, Lund LH, Hemingway H.",
+    "authorAffiliations": "",
+    "journalTitle": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Mortality; Atrial fibrillation; Stroke; Valvular Heart Disease; Electronic Health Records; Systemic Embolism",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "AIMS:To evaluate population-based electronic health record (EHR) definitions of atrial fibrillation (AF) and valvular heart disease (VHD) subtypes, time trends in prevalence and prognosis. METHODS AND RESULTS:A total of 76\u00a0019 individuals with AF were identified in England in 1998-2010 in the CALIBER resource, linking primary and secondary care EHR. An algorithm was created, implemented, and refined to identify 18 VHD subtypes using 406 diagnosis, procedure, and prescription codes. Cox models were used to investigate associations with a composite endpoint of incident stroke (ischaemic, haemorrhagic, and unspecified), systemic embolism (SSE), and all-cause mortality. Among individuals with AF, the prevalence of AF with concomitant VHD increased from 11.4% (527/4613) in 1998 to 17.6% (7014/39\u00a0868) in 2010 and also in individuals aged over 65\u2009years. Those with mechanical valves, mitral stenosis (MS), or aortic stenosis had highest risk of clinical events compared to AF patients with no VHD, in relative [hazard ratio (95% confidence interval): 1.13 (1.02-1.24), 1.20 (1.05-1.36), and 1.27 (1.19-1.37), respectively] and absolute (excess risk: 2.04, 4.20, and 6.37 per 100 person-years, respectively) terms. Of the 95.2% of individuals with indication for warfarin (men and women with CHA2DS2-VASc \u22651 and \u22652, respectively), only 21.8% had a prescription 90\u2009days prior to the study. CONCLUSION:Prevalence of VHD among individuals with AF increased from 1998 to 2010. Atrial fibrillation associated with aortic stenosis, MS, or mechanical valves (compared to AF without VHD) was associated with an excess absolute risk of stroke, SSE, and mortality, but anticoagulation was underused in the pre-direct oral anticoagulant (DOAC) era, highlighting need for urgent clarity regarding DOACs in AF and concomitant VHD.",
+    "laySummary": "This study identified EHR records of AF and vavular heard disease in over 70k UK individuals and looked for associations with stroke, systemic embolism and mortality. They used CALIBER - a data source connecting office of national statistics, CPRD and HES data from over 10 years. They reported clear methodology on how the EHR was used to classify disease, showed overall prevalence change in different AF related diseases over time, and were able to provide insights at a more granular level - for example, valvular heart disease subtypes in AF than previous studies. The full code list (EHR codes) is provided in supplement, so methods are theoretically reproducible. Immediate impact to patient is less strong and there is wasn't much emphasis on diversity and inclusion.",
+    "urls": "doi:https://doi.org/10.1093/europace/euz220; html:https://europepmc.org/articles/PMC6888023; pdf:https://europepmc.org/articles/PMC6888023?pdf=render"
   },
   {
     "id": "33031764",
@@ -6240,22 +6240,6 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)32013-4; html:https://europepmc.org/articles/PMC7535623; pdf:https://europepmc.org/articles/PMC7535623?pdf=render"
   },
   {
-    "id": "30921401",
-    "doi": "https://doi.org/10.1371/journal.pone.0214607",
-    "title": "Effect of impregnated central venous catheters on thrombosis in paediatric intensive care: Post-hoc analyses of the CATCH trial.",
-    "authorString": "Wu Y, Fraser C, Gilbert R, Mok Q.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "PURPOSE:The CATheter infections in CHildren (CATCH) trial reported reduced risks of bloodstream infection with antibiotic impregnated compared with heparin-bonded or standard central venous catheters (CVC) in paediatric intensive care. CVC impregnation did not increase the risk of thrombosis which was recorded in 24% of participants. This post-hoc analysis determines the effect of CVC impregnation on the risk of thrombosis leading to CVC removal or swollen limb. METHODS:We analysed patients in the CATCH trial, blind to CVC allocation, to define clinically relevant thrombosis based on the clinical sign most frequently recorded in patients where the CVC was removed because of concerns regarding thrombosis. In post-hoc, three-way comparisons of antibiotic, heparin and standard CVCs, we determined the effect of CVC type on time to clinically relevant thrombosis, using Cox proportional hazards regression. RESULTS:Of 1409 participants with a successful CVC insertion, the sign most frequently resulting in CVC removal was swollen limb (37.6%; 41/109), with lower rates of removal of CVC following 2 episodes of difficulty withdrawing blood or of flushing to unblock the CVC. In intention to treat analyses (n = 1485), clinically relevant thrombosis, defined by 1 or more record of swollen limb or CVC removal due to concerns about thrombosis, was recorded in 11.9% (58/486) of antibiotic CVCs, 12.1% (60/497) of heparin CVCs, and 10.2% (51/502) of standard CVCs. We found no differences in time to clinically relevant thrombosis according to type of CVC. CONCLUSIONS:We found no evidence for an increased risk of clinically relevant thrombosis in antibiotic impregnated compared to heparin-bonded or standard CVCs in children receiving intensive care.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0214607; html:https://europepmc.org/articles/PMC6438638; pdf:https://europepmc.org/articles/PMC6438638?pdf=render"
-  },
-  {
     "id": "30082368",
     "doi": "https://doi.org/10.1136/bmjopen-2018-024755",
     "title": "Validating injury burden estimates using population birth cohorts and longitudinal cohort studies of injury outcomes: the VIBES-Junior study protocol.",
@@ -6270,6 +6254,22 @@
     "abstract": "INTRODUCTION:Traumatic injury is a leading contributor to the global disease burden in children and adolescents, but methods used to estimate burden do not account for differences in patterns of injury and recovery between children and adults. A lack of empirical data on postinjury disability in children has limited capacity to derive valid disability weights and describe the long-term individual and societal impacts of injury in the early part of life. The aim of this study is to establish valid estimates of the burden of non-fatal injury in children and adolescents. METHODS AND ANALYSIS:Five longitudinal studies of paediatric injury survivors <18 years at the time of injury (Australia, Canada, UK and USA) and two whole-of-population linked administrative data paediatric studies (Australia and Wales) will be analysed over a 3-year period commencing 2018. Meta-analysis of deidentified patient-level data (n\u22482,600) from five injury-specific longitudinal studies (Victorian State Trauma Registry; Victorian Orthopaedic Trauma Outcomes Registry; UK Burden of Injury; British Columbia Children's Hospital Longitudinal Injury Outcomes; Children's Health After Injury) and >1\u2009million children from two whole-of-population cohorts (South Australian Early Childhood Data Project and Wales Electronic Cohort for Children). Systematic analysis of pooled injury-specific cohort data using a variety of statistical techniques, and parallel analysis of whole-of-population cohorts, will be used to develop estimated disability weights for years lost due to disability, establish appropriate injury classifications and explore factors influencing recovery. ETHICS AND DISSEMINATION:The project was approved by the Monash University Human Research Ethics Committee project number 12\u2009311. Results of this study will be submitted for publication in internationally peer-reviewed journals. The findings from this project have the capacity to improve the validity of paediatric injury burden measurements in future local and global burden of disease studies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2018-024755; html:https://europepmc.org/articles/PMC6078268; pdf:https://europepmc.org/articles/PMC6078268?pdf=render"
+  },
+  {
+    "id": "30921401",
+    "doi": "https://doi.org/10.1371/journal.pone.0214607",
+    "title": "Effect of impregnated central venous catheters on thrombosis in paediatric intensive care: Post-hoc analyses of the CATCH trial.",
+    "authorString": "Wu Y, Fraser C, Gilbert R, Mok Q.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "PURPOSE:The CATheter infections in CHildren (CATCH) trial reported reduced risks of bloodstream infection with antibiotic impregnated compared with heparin-bonded or standard central venous catheters (CVC) in paediatric intensive care. CVC impregnation did not increase the risk of thrombosis which was recorded in 24% of participants. This post-hoc analysis determines the effect of CVC impregnation on the risk of thrombosis leading to CVC removal or swollen limb. METHODS:We analysed patients in the CATCH trial, blind to CVC allocation, to define clinically relevant thrombosis based on the clinical sign most frequently recorded in patients where the CVC was removed because of concerns regarding thrombosis. In post-hoc, three-way comparisons of antibiotic, heparin and standard CVCs, we determined the effect of CVC type on time to clinically relevant thrombosis, using Cox proportional hazards regression. RESULTS:Of 1409 participants with a successful CVC insertion, the sign most frequently resulting in CVC removal was swollen limb (37.6%; 41/109), with lower rates of removal of CVC following 2 episodes of difficulty withdrawing blood or of flushing to unblock the CVC. In intention to treat analyses (n = 1485), clinically relevant thrombosis, defined by 1 or more record of swollen limb or CVC removal due to concerns about thrombosis, was recorded in 11.9% (58/486) of antibiotic CVCs, 12.1% (60/497) of heparin CVCs, and 10.2% (51/502) of standard CVCs. We found no differences in time to clinically relevant thrombosis according to type of CVC. CONCLUSIONS:We found no evidence for an increased risk of clinically relevant thrombosis in antibiotic impregnated compared to heparin-bonded or standard CVCs in children receiving intensive care.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0214607; html:https://europepmc.org/articles/PMC6438638; pdf:https://europepmc.org/articles/PMC6438638?pdf=render"
   },
   {
     "id": "32934998",
@@ -6288,20 +6288,20 @@
     "urls": "doi:https://doi.org/10.23889/ijpds.v3i1.412; html:https://europepmc.org/articles/PMC7299475; pdf:https://europepmc.org/articles/PMC7299475?pdf=render"
   },
   {
-    "id": "31134468",
-    "doi": "https://doi.org/10.1007/s12471-019-1288-4",
-    "title": "UNRAVEL: big data analytics research data platform to improve care of patients with cardiomyopathies using routine electronic health records and standardised biobanking.",
-    "authorString": "Sammani A, Jansen M, Linschoten M, Bagheri A, de Jonge N, Kirkels H, van Laake LW, Vink A, van Tintelen JP, Dooijes D, Te Riele ASJM, Harakalova M, Baas AF, Asselbergs FW.",
+    "id": "31372838",
+    "doi": "https://doi.org/10.1007/s12471-019-01308-w",
+    "title": "A\u00a0computerised decision support system for cardiovascular risk management 'live' in the electronic health record environment: development, validation and implementation-the Utrecht Cardiovascular Cohort Initiative.",
+    "authorString": "Groenhof TKJ, Rittersma ZH, Bots ML, Brandjes M, Jacobs JJL, Grobbee DE, van Solinge WW, Visseren FLJ, Haitjema S, Asselbergs FW, Members of the UCC-CVRM Study Group.",
     "authorAffiliations": "",
     "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
     "pubYear": "2019",
     "isOpenAccess": "Y",
-    "keywords": "Cardiomyopathy; Electronic Health Record; Biobanking; Big Data Analytics; Machine\u00a0learning; Research Data Platform",
+    "keywords": "Adherence; Health Information Technology; Big Data; Real-world Data; Cardiovascular Risk Management; Computerised Decision Support System",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "INTRODUCTION:Despite major advances in our understanding of genetic cardiomyopathies, they remain the leading cause of premature sudden cardiac death and end-stage heart failure in persons under the age of 60\u00a0years. Integrated research databases based on a\u00a0large number of patients may provide a\u00a0scaffold for future research. Using routine electronic health records and standardised biobanking, big data analysis on a\u00a0larger number of patients and investigations are possible. In this article, we describe the UNRAVEL research data platform embedded in routine practice to facilitate research in genetic cardiomyopathies. DESIGN:Eligible participants with proven or suspected cardiac disease and their relatives are asked for permission to use their data and to draw blood for biobanking. Routinely collected clinical data are included in a\u00a0research database by weekly extraction. A\u00a0text-mining tool has been developed to enrich UNRAVEL with unstructured data in clinical notes. PRELIMINARY RESULTS:Thus far, 828 individuals with a\u00a0median age of 57\u00a0years have been included, 58% of whom are male. All data are captured in a\u00a0temporal sequence amounting to a\u00a0total of 18,565 electrocardiograms, 3619\u00a0echocardiograms, data from over 20,000 radiological examinations and 650,000 individual laboratory measurements. CONCLUSION:Integration of routine electronic health care in a\u00a0research data platform allows efficient data collection, including all investigations in chronological sequence. Trials embedded in the electronic health record are now possible, providing cost-effective ways to answer clinical questions. We explicitly welcome national and international collaboration and have provided our protocols and other materials on www.unravelrdp.nl .",
+    "abstract": "PURPOSE:We set out to develop a\u00a0real-time computerised decision support system (CDSS) embedded in the electronic health record (EHR) with information on risk factors, estimated risk, and guideline-based advice on treatment strategy in order to improve adherence to cardiovascular risk management (CVRM) guidelines with the ultimate aim of improving patient healthcare. METHODS:We defined a\u00a0project plan including the scope and requirements, infrastructure and interface, data quality and study population, validation and evaluation of the CDSS. RESULTS:In collaboration with clinicians, data scientists, epidemiologists, ICT architects, and user experience and interface designers we developed a\u00a0CDSS that provides 'live' information on CVRM within the environment of the EHR. The CDSS provides information on cardiovascular risk factors (age, sex, medical and family history, smoking, blood pressure, lipids, kidney function, and glucose intolerance measurements), estimated 10-year cardiovascular risk, guideline-compliant suggestions for both pharmacological and non-pharmacological treatment to optimise risk factors, and an estimate on the change in 10-year risk of cardiovascular disease if treatment goals are adhered to. Our pilot study identified a\u00a0number of issues that needed to be addressed, such as missing data, rules and regulations, privacy, and patient participation. CONCLUSION:Development of a\u00a0CDSS is complex and requires a\u00a0multidisciplinary approach. We identified opportunities and challenges in our project developing a\u00a0CDSS aimed at improving adherence to CVRM guidelines. The regulatory environment, including guidance on scientific evaluation, legislation, and privacy issues needs to evolve within this emerging field of eHealth.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s12471-019-1288-4; html:https://europepmc.org/articles/PMC6712144; pdf:https://europepmc.org/articles/PMC6712144?pdf=render"
+    "urls": "doi:https://doi.org/10.1007/s12471-019-01308-w; html:https://europepmc.org/articles/PMC6712110; pdf:https://europepmc.org/articles/PMC6712110?pdf=render"
   },
   {
     "id": "32979922",
@@ -6320,20 +6320,20 @@
     "urls": "doi:https://doi.org/10.1186/s12933-020-01130-4; html:https://europepmc.org/articles/PMC7520021; pdf:https://europepmc.org/articles/PMC7520021?pdf=render"
   },
   {
-    "id": "31372838",
-    "doi": "https://doi.org/10.1007/s12471-019-01308-w",
-    "title": "A\u00a0computerised decision support system for cardiovascular risk management 'live' in the electronic health record environment: development, validation and implementation-the Utrecht Cardiovascular Cohort Initiative.",
-    "authorString": "Groenhof TKJ, Rittersma ZH, Bots ML, Brandjes M, Jacobs JJL, Grobbee DE, van Solinge WW, Visseren FLJ, Haitjema S, Asselbergs FW, Members of the UCC-CVRM Study Group.",
+    "id": "31134468",
+    "doi": "https://doi.org/10.1007/s12471-019-1288-4",
+    "title": "UNRAVEL: big data analytics research data platform to improve care of patients with cardiomyopathies using routine electronic health records and standardised biobanking.",
+    "authorString": "Sammani A, Jansen M, Linschoten M, Bagheri A, de Jonge N, Kirkels H, van Laake LW, Vink A, van Tintelen JP, Dooijes D, Te Riele ASJM, Harakalova M, Baas AF, Asselbergs FW.",
     "authorAffiliations": "",
     "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
     "pubYear": "2019",
     "isOpenAccess": "Y",
-    "keywords": "Adherence; Health Information Technology; Big Data; Real-world Data; Cardiovascular Risk Management; Computerised Decision Support System",
+    "keywords": "Cardiomyopathy; Electronic Health Record; Biobanking; Big Data Analytics; Machine\u00a0learning; Research Data Platform",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "PURPOSE:We set out to develop a\u00a0real-time computerised decision support system (CDSS) embedded in the electronic health record (EHR) with information on risk factors, estimated risk, and guideline-based advice on treatment strategy in order to improve adherence to cardiovascular risk management (CVRM) guidelines with the ultimate aim of improving patient healthcare. METHODS:We defined a\u00a0project plan including the scope and requirements, infrastructure and interface, data quality and study population, validation and evaluation of the CDSS. RESULTS:In collaboration with clinicians, data scientists, epidemiologists, ICT architects, and user experience and interface designers we developed a\u00a0CDSS that provides 'live' information on CVRM within the environment of the EHR. The CDSS provides information on cardiovascular risk factors (age, sex, medical and family history, smoking, blood pressure, lipids, kidney function, and glucose intolerance measurements), estimated 10-year cardiovascular risk, guideline-compliant suggestions for both pharmacological and non-pharmacological treatment to optimise risk factors, and an estimate on the change in 10-year risk of cardiovascular disease if treatment goals are adhered to. Our pilot study identified a\u00a0number of issues that needed to be addressed, such as missing data, rules and regulations, privacy, and patient participation. CONCLUSION:Development of a\u00a0CDSS is complex and requires a\u00a0multidisciplinary approach. We identified opportunities and challenges in our project developing a\u00a0CDSS aimed at improving adherence to CVRM guidelines. The regulatory environment, including guidance on scientific evaluation, legislation, and privacy issues needs to evolve within this emerging field of eHealth.",
+    "abstract": "INTRODUCTION:Despite major advances in our understanding of genetic cardiomyopathies, they remain the leading cause of premature sudden cardiac death and end-stage heart failure in persons under the age of 60\u00a0years. Integrated research databases based on a\u00a0large number of patients may provide a\u00a0scaffold for future research. Using routine electronic health records and standardised biobanking, big data analysis on a\u00a0larger number of patients and investigations are possible. In this article, we describe the UNRAVEL research data platform embedded in routine practice to facilitate research in genetic cardiomyopathies. DESIGN:Eligible participants with proven or suspected cardiac disease and their relatives are asked for permission to use their data and to draw blood for biobanking. Routinely collected clinical data are included in a\u00a0research database by weekly extraction. A\u00a0text-mining tool has been developed to enrich UNRAVEL with unstructured data in clinical notes. PRELIMINARY RESULTS:Thus far, 828 individuals with a\u00a0median age of 57\u00a0years have been included, 58% of whom are male. All data are captured in a\u00a0temporal sequence amounting to a\u00a0total of 18,565 electrocardiograms, 3619\u00a0echocardiograms, data from over 20,000 radiological examinations and 650,000 individual laboratory measurements. CONCLUSION:Integration of routine electronic health care in a\u00a0research data platform allows efficient data collection, including all investigations in chronological sequence. Trials embedded in the electronic health record are now possible, providing cost-effective ways to answer clinical questions. We explicitly welcome national and international collaboration and have provided our protocols and other materials on www.unravelrdp.nl .",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s12471-019-01308-w; html:https://europepmc.org/articles/PMC6712110; pdf:https://europepmc.org/articles/PMC6712110?pdf=render"
+    "urls": "doi:https://doi.org/10.1007/s12471-019-1288-4; html:https://europepmc.org/articles/PMC6712144; pdf:https://europepmc.org/articles/PMC6712144?pdf=render"
   },
   {
     "id": "32877352",
@@ -7760,22 +7760,6 @@
     "urls": "doi:https://doi.org/10.1038/s41588-019-0549-x; html:https://europepmc.org/articles/PMC6974403; pdf:https://europepmc.org/articles/PMC6974403?pdf=render"
   },
   {
-    "id": "31770382",
-    "doi": "https://doi.org/10.1371/journal.pmed.1002974",
-    "title": "Long-term mortality in mothers of infants with neonatal abstinence syndrome: A population-based parallel-cohort study in England and Ontario, Canada.",
-    "authorString": "Guttmann A, Blackburn R, Amartey A, Zhou L, Wijlaars L, Saunders N, Harron K, Chiu M, Gilbert R.",
-    "authorAffiliations": "",
-    "journalTitle": "PLoS medicine",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Opioid addiction is a major public health threat to healthy life expectancy; however, little is known of long-term mortality for mothers with opioid use in pregnancy. Pregnancy and delivery care are opportunities to improve access to addiction and supportive services. Treating neonatal abstinence syndrome (NAS) as a marker of opioid use during pregnancy, this study reports long-term maternal mortality among mothers with a birth affected by NAS in relation to that of mothers without a NAS-affected birth in 2 high-prevalence jurisdictions, England and Ontario, Canada. METHODS AND FINDINGS:We conducted a population-based study using linked administrative health data to develop parallel cohorts of mother-infant dyads in England and Ontario between 2002 and 2012. The study population comprised 13,577 and 4,966 mothers of infants with NAS and 4,205,675 and 929,985 control mothers in England and Ontario, respectively. Death records captured all-cause maternal mortality after delivery through March 31, 2016, and cause-specific maternal mortality to December 31, 2014. The primary exposure was a live birth of an infant with NAS, and the main outcome was all deaths among mothers following their date of delivery. We modelled the association between NAS and all-cause maternal mortality using Cox regression, and the cumulative incidence of cause-specific mortality within a competing risks framework. All-cause mortality rates, 10-year cumulative incidence risk of death, and crude and age-adjusted hazard ratios were calculated. Estimated crude 10-year mortality based on Kaplan-Meier curves in mothers of infants with NAS was 5.1% (95% CI 4.7%-5.6%) in England and 4.6% (95% CI 3.8%-5.5%) in Ontario versus 0.4% (95% CI 0.41%-0.42%) in England and 0.4% (95% CI 0.38%-0.41%) in Ontario for controls (p < 0.001 for all comparisons). Survival curves showed no clear inflection point or period of heightened risk. The crude hazard ratio for all-cause mortality was 12.1 (95% 11.1-13.2; p < 0.001) in England and 11.4 (9.7-13.4; p < 0.001) in Ontario; age adjustment did not reduce the hazard ratios. The cumulative incidence of death was higher among NAS mothers than controls for almost all causes of death. The majority of deaths were by avoidable causes, defined as those that are preventable, amenable to care, or both. Limitations included lack of direct measures of maternal opioid use, other substance misuse, and treatments or supports received. CONCLUSIONS:In this study, we found that approximately 1 in 20 mothers of infants with NAS died within 10 years of delivery in both England and Canada-a mortality risk 11-12 times higher than for control mothers. Risk of death was not limited to the early postpartum period targeted by most public health programs. Policy responses to the current opioid epidemic require effective strategies for long-term support to improve the health and welfare of opioid-using mothers and their children.",
-    "laySummary": "This paper investigates the mortality of mothers of infants with Neonatal abstinence syndrome. This population has a greatly increased mortality compared to mothers who don't have NAS. The paper highlights the lack of long term support for this group.",
-    "urls": "doi:https://doi.org/10.1371/journal.pmed.1002974; html:https://europepmc.org/articles/PMC6879118; pdf:https://europepmc.org/articles/PMC6879118?pdf=render"
-  },
-  {
     "id": "30681347",
     "doi": "https://doi.org/10.1161/circgen.118.002328",
     "title": "Integrative Functional Annotation of 52 Genetic Loci Influencing Myocardial Mass Identifies Candidate Regulatory Variants and Target Genes.",
@@ -7790,6 +7774,22 @@
     "abstract": "BACKGROUND:Regulatory elements may be involved in the mechanisms by which 52 loci influence myocardial mass, reflected by abnormal amplitude and duration of the QRS complex on the ECG. Functional annotation thus far did not take into account how these elements are affected in disease context. METHODS:We generated maps of regulatory elements on hypertrophic cardiomyopathy patients (ChIP-seq N=14 and RNA-seq N=11) and nondiseased hearts (ChIP-seq N=4 and RNA-seq N=11). We tested enrichment of QRS-associated loci on elements differentially acetylated and directly regulating differentially expressed genes between hypertrophic cardiomyopathy patients and controls. We further performed functional annotation on QRS-associated loci using these maps of differentially active regulatory elements. RESULTS:Regions differentially affected in disease showed a stronger enrichment ( P=8.6\u00d710-5) for QRS-associated variants than those not showing differential activity ( P=0.01). Promoters of genes differentially regulated between hypertrophic cardiomyopathy patients and controls showed more enrichment ( P=0.001) than differentially acetylated enhancers ( P=0.8) and super-enhancers ( P=0.025). We also identified 74 potential causal variants overlapping these differential regulatory elements. Eighteen of the genes mapped confirmed previous findings, now also pinpointing the potentially affected regulatory elements and candidate causal variants. Fourteen new genes were also mapped. CONCLUSIONS:Our results suggest differentially active regulatory elements between hypertrophic cardiomyopathy patients and controls can offer more insights into the mechanisms of QRS-associated loci than elements not affected by disease.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1161/CIRCGEN.118.002328; html:https://europepmc.org/articles/PMC6380958; pdf:https://europepmc.org/articles/PMC6380958?pdf=render; doi:https://doi.org/10.1161/circgen.118.002328"
+  },
+  {
+    "id": "31770382",
+    "doi": "https://doi.org/10.1371/journal.pmed.1002974",
+    "title": "Long-term mortality in mothers of infants with neonatal abstinence syndrome: A population-based parallel-cohort study in England and Ontario, Canada.",
+    "authorString": "Guttmann A, Blackburn R, Amartey A, Zhou L, Wijlaars L, Saunders N, Harron K, Chiu M, Gilbert R.",
+    "authorAffiliations": "",
+    "journalTitle": "PLoS medicine",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Opioid addiction is a major public health threat to healthy life expectancy; however, little is known of long-term mortality for mothers with opioid use in pregnancy. Pregnancy and delivery care are opportunities to improve access to addiction and supportive services. Treating neonatal abstinence syndrome (NAS) as a marker of opioid use during pregnancy, this study reports long-term maternal mortality among mothers with a birth affected by NAS in relation to that of mothers without a NAS-affected birth in 2 high-prevalence jurisdictions, England and Ontario, Canada. METHODS AND FINDINGS:We conducted a population-based study using linked administrative health data to develop parallel cohorts of mother-infant dyads in England and Ontario between 2002 and 2012. The study population comprised 13,577 and 4,966 mothers of infants with NAS and 4,205,675 and 929,985 control mothers in England and Ontario, respectively. Death records captured all-cause maternal mortality after delivery through March 31, 2016, and cause-specific maternal mortality to December 31, 2014. The primary exposure was a live birth of an infant with NAS, and the main outcome was all deaths among mothers following their date of delivery. We modelled the association between NAS and all-cause maternal mortality using Cox regression, and the cumulative incidence of cause-specific mortality within a competing risks framework. All-cause mortality rates, 10-year cumulative incidence risk of death, and crude and age-adjusted hazard ratios were calculated. Estimated crude 10-year mortality based on Kaplan-Meier curves in mothers of infants with NAS was 5.1% (95% CI 4.7%-5.6%) in England and 4.6% (95% CI 3.8%-5.5%) in Ontario versus 0.4% (95% CI 0.41%-0.42%) in England and 0.4% (95% CI 0.38%-0.41%) in Ontario for controls (p < 0.001 for all comparisons). Survival curves showed no clear inflection point or period of heightened risk. The crude hazard ratio for all-cause mortality was 12.1 (95% 11.1-13.2; p < 0.001) in England and 11.4 (9.7-13.4; p < 0.001) in Ontario; age adjustment did not reduce the hazard ratios. The cumulative incidence of death was higher among NAS mothers than controls for almost all causes of death. The majority of deaths were by avoidable causes, defined as those that are preventable, amenable to care, or both. Limitations included lack of direct measures of maternal opioid use, other substance misuse, and treatments or supports received. CONCLUSIONS:In this study, we found that approximately 1 in 20 mothers of infants with NAS died within 10 years of delivery in both England and Canada-a mortality risk 11-12 times higher than for control mothers. Risk of death was not limited to the early postpartum period targeted by most public health programs. Policy responses to the current opioid epidemic require effective strategies for long-term support to improve the health and welfare of opioid-using mothers and their children.",
+    "laySummary": "This paper investigates the mortality of mothers of infants with Neonatal abstinence syndrome. This population has a greatly increased mortality compared to mothers who don't have NAS. The paper highlights the lack of long term support for this group.",
+    "urls": "doi:https://doi.org/10.1371/journal.pmed.1002974; html:https://europepmc.org/articles/PMC6879118; pdf:https://europepmc.org/articles/PMC6879118?pdf=render"
   },
   {
     "id": "32762905",
@@ -8064,22 +8064,6 @@
     "urls": "doi:https://doi.org/10.1016/S1474-4422(18)30415-0; html:https://europepmc.org/articles/PMC6291456; pdf:https://europepmc.org/articles/PMC6291456?pdf=render"
   },
   {
-    "id": "32888494",
-    "doi": "https://doi.org/10.1016/j.cell.2020.08.008",
-    "title": "The Polygenic and Monogenic Basis of Blood Traits and Diseases.",
-    "authorString": "Vuckovic D, Bao EL, Akbari P, Lareau CA, Mousas A, Jiang T, Chen MH, Raffield LM, Tardaguila M, Huffman JE, Ritchie SC, Megy K, Ponstingl H, Penkett CJ, Albers PK, Wigdor EM, Sakaue S, Moscati A, Manansala R, Lo KS, Qian H, Akiyama M, Bartz TM, Ben-Shlomo Y, Beswick A, Bork-Jensen J, Bottinger EP, Brody JA, van Rooij FJA, Chitrala KN, Wilson PWF, Choquet H, Danesh J, Di Angelantonio E, Dimou N, Ding J, Elliott P, Esko T, Evans MK, Felix SB, Floyd JS, Broer L, Grarup N, Guo MH, Guo Q, Greinacher A, Haessler J, Hansen T, Howson JMM, Huang W, Jorgenson E, Kacprowski T, K\u00e4h\u00f6nen M, Kamatani Y, Kanai M, Karthikeyan S, Koskeridis F, Lange LA, Lehtim\u00e4ki T, Linneberg A, Liu Y, Lyytik\u00e4inen LP, Manichaikul A, Matsuda K, Mohlke KL, Mononen N, Murakami Y, Nadkarni GN, Nikus K, Pankratz N, Pedersen O, Preuss M, Psaty BM, Raitakari OT, Rich SS, Rodriguez BAT, Rosen JD, Rotter JI, Schubert P, Spracklen CN, Surendran P, Tang H, Tardif JC, Ghanbari M, V\u00f6lker U, V\u00f6lzke H, Watkins NA, Weiss S, VA Million Veteran Program, Cai N, Kundu K, Watt SB, Walter K, Zonderman AB, Cho K, Li Y, Loos RJF, Knight JC, Georges M, Stegle O, Evangelou E, Okada Y, Roberts DJ, Inouye M, Johnson AD, Auer PL, Astle WJ, Reiner AP, Butterworth AS, Ouwehand WH, Lettre G, Sankaran VG, Soranzo N.",
-    "authorAffiliations": "",
-    "journalTitle": "Cell",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "Blood; Genetics; Splicing; Hematopoiesis; chromatin; Rare Disease; Polygenic Risk; Fine-mapping; Uk Biobank; Omnigenic",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Blood cells play essential roles in human health, underpinning physiological processes such as immunity, oxygen transport, and clotting, which when perturbed cause a significant global health burden. Here we integrate data from UK Biobank and a large-scale international collaborative effort, including data for 563,085 European ancestry participants, and discover 5,106 new genetic variants independently associated with 29 blood cell phenotypes covering a range of variation impacting hematopoiesis. We holistically characterize the genetic architecture of hematopoiesis, assess the relevance of the omnigenic model to blood cell phenotypes, delineate relevant hematopoietic cell states influenced by regulatory genetic variants and gene networks, identify novel splice-altering variants mediating the associations, and assess the polygenic prediction potential for blood traits and clinical disorders at the interface of complex and Mendelian genetics. These results show the power of large-scale blood cell trait GWAS to interrogate clinically meaningful variants across a wide allelic spectrum of human variation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.cell.2020.08.008; html:https://europepmc.org/articles/PMC7482360"
-  },
-  {
     "id": "32888493",
     "doi": "https://doi.org/10.1016/j.cell.2020.06.045",
     "title": "Trans-ethnic and Ancestry-Specific Blood-Cell Genetics in 746,667 Individuals from 5 Global Populations.",
@@ -8094,6 +8078,22 @@
     "abstract": "Most loci identified by GWASs have been found in populations of European ancestry (EUR). In trans-ethnic meta-analyses for 15 hematological traits in 746,667 participants, including 184,535 non-EUR individuals, we identified 5,552 trait-variant associations at p\u00a0< 5\u00a0\u00d7 10-9, including 71 novel associations not found in EUR populations. We also identified 28 additional novel variants in ancestry-specific, non-EUR meta-analyses, including an IL7 missense variant in South Asians associated with lymphocyte count in\u00a0vivo and IL-7 secretion levels in\u00a0vitro. Fine-mapping prioritized variants annotated as functional and generated 95% credible sets that were 30% smaller when using the trans-ethnic as opposed to the EUR-only results. We explored the clinical significance and predictive value of trans-ethnic variants in multiple populations and compared genetic architecture and the effect of natural selection on these blood phenotypes between populations. Altogether, our results for hematological traits highlight the value of a more global representation of populations in genetic studies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.cell.2020.06.045"
+  },
+  {
+    "id": "32888494",
+    "doi": "https://doi.org/10.1016/j.cell.2020.08.008",
+    "title": "The Polygenic and Monogenic Basis of Blood Traits and Diseases.",
+    "authorString": "Vuckovic D, Bao EL, Akbari P, Lareau CA, Mousas A, Jiang T, Chen MH, Raffield LM, Tardaguila M, Huffman JE, Ritchie SC, Megy K, Ponstingl H, Penkett CJ, Albers PK, Wigdor EM, Sakaue S, Moscati A, Manansala R, Lo KS, Qian H, Akiyama M, Bartz TM, Ben-Shlomo Y, Beswick A, Bork-Jensen J, Bottinger EP, Brody JA, van Rooij FJA, Chitrala KN, Wilson PWF, Choquet H, Danesh J, Di Angelantonio E, Dimou N, Ding J, Elliott P, Esko T, Evans MK, Felix SB, Floyd JS, Broer L, Grarup N, Guo MH, Guo Q, Greinacher A, Haessler J, Hansen T, Howson JMM, Huang W, Jorgenson E, Kacprowski T, K\u00e4h\u00f6nen M, Kamatani Y, Kanai M, Karthikeyan S, Koskeridis F, Lange LA, Lehtim\u00e4ki T, Linneberg A, Liu Y, Lyytik\u00e4inen LP, Manichaikul A, Matsuda K, Mohlke KL, Mononen N, Murakami Y, Nadkarni GN, Nikus K, Pankratz N, Pedersen O, Preuss M, Psaty BM, Raitakari OT, Rich SS, Rodriguez BAT, Rosen JD, Rotter JI, Schubert P, Spracklen CN, Surendran P, Tang H, Tardif JC, Ghanbari M, V\u00f6lker U, V\u00f6lzke H, Watkins NA, Weiss S, VA Million Veteran Program, Cai N, Kundu K, Watt SB, Walter K, Zonderman AB, Cho K, Li Y, Loos RJF, Knight JC, Georges M, Stegle O, Evangelou E, Okada Y, Roberts DJ, Inouye M, Johnson AD, Auer PL, Astle WJ, Reiner AP, Butterworth AS, Ouwehand WH, Lettre G, Sankaran VG, Soranzo N.",
+    "authorAffiliations": "",
+    "journalTitle": "Cell",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "Blood; Genetics; Splicing; Hematopoiesis; chromatin; Rare Disease; Polygenic Risk; Fine-mapping; Uk Biobank; Omnigenic",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Blood cells play essential roles in human health, underpinning physiological processes such as immunity, oxygen transport, and clotting, which when perturbed cause a significant global health burden. Here we integrate data from UK Biobank and a large-scale international collaborative effort, including data for 563,085 European ancestry participants, and discover 5,106 new genetic variants independently associated with 29 blood cell phenotypes covering a range of variation impacting hematopoiesis. We holistically characterize the genetic architecture of hematopoiesis, assess the relevance of the omnigenic model to blood cell phenotypes, delineate relevant hematopoietic cell states influenced by regulatory genetic variants and gene networks, identify novel splice-altering variants mediating the associations, and assess the polygenic prediction potential for blood traits and clinical disorders at the interface of complex and Mendelian genetics. These results show the power of large-scale blood cell trait GWAS to interrogate clinically meaningful variants across a wide allelic spectrum of human variation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.cell.2020.08.008; html:https://europepmc.org/articles/PMC7482360"
   },
   {
     "id": "30497795",
