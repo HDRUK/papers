@@ -68,14 +68,14 @@ NATIONAL_PRIORITIES, NP_HEADER = read_csv(NATIONAL_PRIORITIES_CSV)
 
 def get_national_priorities(d):
   for np in NATIONAL_PRIORITIES:
-    if d.get('title') == np['title']:
+    if d.get('id') == np['id']:
       return {
-        'national priority': np['national priority'],
-        'health category': np['health category']
+        'nationalPriorities': np['nationalPriorities'],
+        'healthCategories': np['healthCategories']
       }
   return {
-        'national priority': "",
-        'health category': ""
+        'nationalPriorities': "",
+        'healthCategories': ""
       }
 
 LAY_SUMMARIES, LS_HEADER = read_csv(LAY_SUMMARIES_CSV)
@@ -130,8 +130,8 @@ def format_data(data):
       'pubYear': d.get('pubYear'),
       'isOpenAccess': d.get('isOpenAccess'),
       'keywords': keywords,
-      'nationalPriorities': np['national priority'],
-      'healthCategories': np['health category'],
+      'nationalPriorities': np['nationalPriorities'],
+      'healthCategories': np['healthCategories'],
       'abstract': d.get('abstractText', ''),
       'laySummary': lay_summary
     }
