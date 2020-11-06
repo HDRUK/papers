@@ -88,7 +88,7 @@ def get_lay_summary(d):
   return ""
 
 def format_data(data):
-  HEADER = ['id', 'doi', 'title', 'authorString', 'authorAffiliations', 'journalTitle', 'pubYear', 'isOpenAccess', 'keywords', 'nationalPriorities', 'healthCategories', 'abstract', 'laySummary', 'urls']
+  HEADER = ['id', 'doi', 'title', 'authorString', 'authorAffiliations', 'journalTitle', 'pubYear', 'date', 'isOpenAccess', 'keywords', 'nationalPriorities', 'healthCategories', 'abstract', 'laySummary', 'urls']
   DATA = []
   for d in data:
     print(d['id'])
@@ -128,6 +128,7 @@ def format_data(data):
       'authorAffiliations': "; ".join(authorAffiliations),
       'journalTitle': journalTitle,
       'pubYear': d.get('pubYear'),
+      'date': d.get('firstPublicationDate', None),
       'isOpenAccess': d.get('isOpenAccess'),
       'keywords': keywords,
       'nationalPriorities': np['nationalPriorities'],
