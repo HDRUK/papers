@@ -992,22 +992,6 @@
     "urls": "doi:https://doi.org/10.1093/ageing/afaa158; html:https://europepmc.org/articles/PMC7583515; pdf:https://europepmc.org/articles/PMC7583515?pdf=render"
   },
   {
-    "id": "31000744",
-    "doi": "https://doi.org/10.1038/s41598-019-42036-w",
-    "title": "Measuring social, environmental and health inequalities using deep learning and street imagery.",
-    "authorString": "Suel E, Polak JW, Bennett JE, Ezzati M.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Applied Analytics, Improving Public Health",
-    "healthCategories": "",
-    "abstract": "Cities are home to an increasing majority of the world's population. Currently, it is difficult to track social, economic, environmental and health outcomes in cities with high spatial and temporal resolution, needed to evaluate policies regarding urban inequalities. We applied a deep learning approach to street\u00a0images for measuring spatial distributions of income, education, unemployment, housing, living environment, health and crime. Our model predicts different outcomes directly from raw images without extracting intermediate user-defined features. To evaluate the performance of the approach, we first trained neural networks on a subset of images from London using ground truth data at high spatial resolution from official statistics. We then compared how trained networks separated the best-off from worst-off deciles for different outcomes in images not used in training. The best performance was achieved for quality of the living environment and mean income. Allocation was least successful for crime and self-reported health (but not objectively measured health). We also evaluated how networks trained in London predict outcomes three other major cities in the UK: Birmingham, Manchester, and Leeds. The transferability analysis showed that networks trained in London, fine-tuned with only 1% of images in other cities, achieved performances similar to ones from trained on data from target cities themselves. Our findings demonstrate that street\u00a0imagery has the potential complement traditional survey-based and administrative data sources for high-resolution urban surveillance to measure inequalities and monitor the impacts of policies that aim to address them.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-019-42036-w; html:https://europepmc.org/articles/PMC6473002; pdf:https://europepmc.org/articles/PMC6473002?pdf=render"
-  },
-  {
     "id": "32398093",
     "doi": "https://doi.org/10.1186/s13063-020-04329-8",
     "title": "Access to routinely collected health data for clinical trials - review of successful data requests to UK registries.",
@@ -1024,20 +1008,20 @@
     "urls": "doi:https://doi.org/10.1186/s13063-020-04329-8; html:https://europepmc.org/articles/PMC7218527; pdf:https://europepmc.org/articles/PMC7218527?pdf=render"
   },
   {
-    "id": "31607513",
-    "doi": "https://doi.org/10.1016/j.cell.2019.08.051",
-    "title": "Genome-wide Association Studies in Ancestrally Diverse Populations: Opportunities, Methods, Pitfalls, and Recommendations.",
-    "authorString": "Peterson RE, Kuchenbaecker K, Walters RK, Chen CY, Popejoy AB, Periyasamy S, Lam M, Iyegbe C, Strawbridge RJ, Brick L, Carey CE, Martin AR, Meyers JL, Su J, Chen J, Edwards AC, Kalungi A, Koen N, Majara L, Schwarz E, Smoller JW, Stahl EA, Sullivan PF, Vassos E, Mowry B, Prieto ML, Cuellar-Barboza A, Bigdeli TB, Edenberg HJ, Huang H, Duncan LE.",
+    "id": "31000744",
+    "doi": "https://doi.org/10.1038/s41598-019-42036-w",
+    "title": "Measuring social, environmental and health inequalities using deep learning and street imagery.",
+    "authorString": "Suel E, Polak JW, Bennett JE, Ezzati M.",
     "authorAffiliations": "",
-    "journalTitle": "Cell",
+    "journalTitle": "Scientific reports",
     "pubYear": "2019",
-    "isOpenAccess": "N",
-    "keywords": "Population genetics; Diversity; Psychiatry; complex disease; Gwas; Ancestry; Admixed Populations; Trans-ethnic; Trans-ancestry; Cross-ancestry",
-    "nationalPriorities": "",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Applied Analytics, Improving Public Health",
     "healthCategories": "",
-    "abstract": "Genome-wide association studies (GWASs) have focused primarily on populations of European descent, but it is essential that diverse populations become better represented. Increasing diversity among study participants will advance our understanding of genetic architecture in all populations and ensure that genetic research is broadly applicable. To facilitate and promote research in multi-ancestry and admixed cohorts, we outline key methodological considerations and highlight opportunities, challenges, solutions, and areas in need of development. Despite the perception that analyzing genetic data from diverse populations is difficult, it is scientifically and ethically imperative, and there is an expanding analytical toolbox to do it well.",
+    "abstract": "Cities are home to an increasing majority of the world's population. Currently, it is difficult to track social, economic, environmental and health outcomes in cities with high spatial and temporal resolution, needed to evaluate policies regarding urban inequalities. We applied a deep learning approach to street\u00a0images for measuring spatial distributions of income, education, unemployment, housing, living environment, health and crime. Our model predicts different outcomes directly from raw images without extracting intermediate user-defined features. To evaluate the performance of the approach, we first trained neural networks on a subset of images from London using ground truth data at high spatial resolution from official statistics. We then compared how trained networks separated the best-off from worst-off deciles for different outcomes in images not used in training. The best performance was achieved for quality of the living environment and mean income. Allocation was least successful for crime and self-reported health (but not objectively measured health). We also evaluated how networks trained in London predict outcomes three other major cities in the UK: Birmingham, Manchester, and Leeds. The transferability analysis showed that networks trained in London, fine-tuned with only 1% of images in other cities, achieved performances similar to ones from trained on data from target cities themselves. Our findings demonstrate that street\u00a0imagery has the potential complement traditional survey-based and administrative data sources for high-resolution urban surveillance to measure inequalities and monitor the impacts of policies that aim to address them.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.cell.2019.08.051; html:https://europepmc.org/articles/PMC6939869; pdf:https://europepmc.org/articles/PMC6939869?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.08.051"
+    "urls": "doi:https://doi.org/10.1038/s41598-019-42036-w; html:https://europepmc.org/articles/PMC6473002; pdf:https://europepmc.org/articles/PMC6473002?pdf=render"
   },
   {
     "id": "31591592",
@@ -1054,6 +1038,22 @@
     "abstract": "The increasing availability of large healthcare databases is fueling an intense debate on whether real-world data should play a role in the assessment of the benefit-risk of medical treatments. In many observational studies, for example, statin users were found to have a substantially lower risk of cancer than in meta-analyses of randomized trials. Although such discrepancies are often attributed to a lack of randomization in the observational studies, they might be explained by flaws that can be avoided by explicitly emulating a target trial (the randomized trial that would answer the question of interest). Using the electronic health records of 733,804 UK adults, we emulated a target trial of statins and cancer and compared our estimates with those obtained using previously applied analytic approaches. Over the 10-yr follow-up, 28,408 individuals developed cancer. Under the target trial approach, estimated observational analogs of intention-to-treat and per-protocol 10-yr cancer-free survival differences were -0.5% (95% confidence interval (CI) -1.0%, 0.0%) and -0.3% (95% CI -1.5%, 0.5%), respectively. By contrast, previous analytic approaches yielded estimates that appeared to be strongly protective. Our findings highlight the importance of explicitly emulating a target trial to reduce bias in the effect estimates derived from observational analyses.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41591-019-0597-x; html:https://europepmc.org/articles/PMC7076561; pdf:https://europepmc.org/articles/PMC7076561?pdf=render; doi:https://doi.org/10.1038/s41591-019-0597-x"
+  },
+  {
+    "id": "31607513",
+    "doi": "https://doi.org/10.1016/j.cell.2019.08.051",
+    "title": "Genome-wide Association Studies in Ancestrally Diverse Populations: Opportunities, Methods, Pitfalls, and Recommendations.",
+    "authorString": "Peterson RE, Kuchenbaecker K, Walters RK, Chen CY, Popejoy AB, Periyasamy S, Lam M, Iyegbe C, Strawbridge RJ, Brick L, Carey CE, Martin AR, Meyers JL, Su J, Chen J, Edwards AC, Kalungi A, Koen N, Majara L, Schwarz E, Smoller JW, Stahl EA, Sullivan PF, Vassos E, Mowry B, Prieto ML, Cuellar-Barboza A, Bigdeli TB, Edenberg HJ, Huang H, Duncan LE.",
+    "authorAffiliations": "",
+    "journalTitle": "Cell",
+    "pubYear": "2019",
+    "isOpenAccess": "N",
+    "keywords": "Population genetics; Diversity; Psychiatry; complex disease; Gwas; Ancestry; Admixed Populations; Trans-ethnic; Trans-ancestry; Cross-ancestry",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Genome-wide association studies (GWASs) have focused primarily on populations of European descent, but it is essential that diverse populations become better represented. Increasing diversity among study participants will advance our understanding of genetic architecture in all populations and ensure that genetic research is broadly applicable. To facilitate and promote research in multi-ancestry and admixed cohorts, we outline key methodological considerations and highlight opportunities, challenges, solutions, and areas in need of development. Despite the perception that analyzing genetic data from diverse populations is difficult, it is scientifically and ethically imperative, and there is an expanding analytical toolbox to do it well.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.cell.2019.08.051; html:https://europepmc.org/articles/PMC6939869; pdf:https://europepmc.org/articles/PMC6939869?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.08.051"
   },
   {
     "id": "31616478",
@@ -1616,22 +1616,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2020-039097; html:https://europepmc.org/articles/PMC7311023; pdf:https://europepmc.org/articles/PMC7311023?pdf=render"
   },
   {
-    "id": "32979970",
-    "doi": "https://doi.org/10.1016/s0140-6736(20)31966-8",
-    "title": "Models for mortality require tailoring in the context of the COVID-19 pandemic - Authors' reply.",
-    "authorString": "Banerjee A, Pasea L, Denaxas S, Williams B, Hemingway H.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31966-8; html:https://europepmc.org/articles/PMC7515579; pdf:https://europepmc.org/articles/PMC7515579?pdf=render"
-  },
-  {
     "id": "29925668",
     "doi": "https://doi.org/10.1136/jech-2017-210370",
     "title": "Emergency hospital admissions associated with a non-randomised housing intervention meeting national housing quality standards: a longitudinal data linkage study.",
@@ -1646,6 +1630,22 @@
     "abstract": "BACKGROUND:We investigated tenant healthcare utilisation associated with upgrading 8558 council houses to a national quality standard. Homes received multiple internal and external improvements and were analysed using repeated measures of healthcare utilisation. METHODS:The primary outcome was emergency hospital admissions for cardiorespiratory conditions and injuries for residents aged 60 years and over. Secondary outcomes included each of the separate conditions, for tenants aged 60 and over, and for all ages. Council home address and intervention records for eight housing cointerventions were anonymously linked to demographic data, hospital admissions and deaths for individuals in a dynamic cohort. Counts of health events were analysed using multilevel regression models to investigate associations between receipt of each housing improvement, adjusting for potential confounding factors and regional trends. RESULTS:Residents aged 60 years and over living in homes when improvements were made were associated with up to 39% fewer admissions compared with those living in homes that were not upgraded (incidence rate ratio=0.61, 95%\u2009CI 0.53 to 0.72). Reduced admissions were associated with electrical systems, windows and doors, wall insulation, and garden paths. There were small non-significant reductions for the primary outcome associated with upgrading heating, adequate loft insulation, new kitchens and new bathrooms. CONCLUSION:Results suggest that hospital admissions can be avoided through improving whole home quality standards. This is the first large-scale longitudinal evaluation of a whole home intervention that has evaluated multiple improvement elements using individual-level objective routine health data.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/jech-2017-210370; html:https://europepmc.org/articles/PMC6161658; pdf:https://europepmc.org/articles/PMC6161658?pdf=render"
+  },
+  {
+    "id": "32979970",
+    "doi": "https://doi.org/10.1016/s0140-6736(20)31966-8",
+    "title": "Models for mortality require tailoring in the context of the COVID-19 pandemic - Authors' reply.",
+    "authorString": "Banerjee A, Pasea L, Denaxas S, Williams B, Hemingway H.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31966-8; html:https://europepmc.org/articles/PMC7515579; pdf:https://europepmc.org/articles/PMC7515579?pdf=render"
   },
   {
     "id": "31329239",
@@ -1984,22 +1984,6 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)30930-2; html:https://europepmc.org/articles/PMC7456783; pdf:https://europepmc.org/articles/PMC7456783?pdf=render"
   },
   {
-    "id": "32895316",
-    "doi": "https://doi.org/10.1136/thoraxjnl-2020-215566",
-    "title": "We need a robust evidence base to unravel the relationship between sex hormones and asthma.",
-    "authorString": "Sheikh A, Mukherjee M.",
-    "authorAffiliations": "",
-    "journalTitle": "Thorax",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Asthma",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/thoraxjnl-2020-215566"
-  },
-  {
     "id": "31529485",
     "doi": "https://doi.org/10.1111/bjd.18526",
     "title": "The association of smoking and socioeconomic status on cutaneous melanoma: a population-based, data-linkage, case-control study.",
@@ -2014,6 +1998,22 @@
     "abstract": "BACKGROUND:Previous studies have identified an inverse association between melanoma and smoking; however, data from population-based studies are scarce. OBJECTIVES:To determine the association between smoking and socioeconomic (SES) on the risk of development of melanoma. Furthermore, we sought to determine the implications of smoking and SES on survival. METHODS:We conducted a population-based case-control study. Cases were identified from the Welsh Cancer Intelligence and Surveillance Unit (WCISU) during 2000-2015 and controls from the general population. Smoking and SES were obtained from data linkage with other national databases. The association of smoking status and SES on the incidence of melanoma were assessed using binary logistic regression. Multivariate survival analysis was performed on a melanoma cohort using a Cox proportional hazard model using survival as the outcome. RESULTS:During 2000-2015, 9636 patients developed melanoma. Smoking data were obtained for 7124 (73\u00b79%) of these patients. There were 26\u00a0408 controls identified from the general population. Smoking was inversely associated with melanoma incidence [odds ratio (OR) 0\u00b770,\u00a095% confidence interval (CI) 0\u00b765-0\u00b776]. Smoking was associated with an increased overall mortality [hazard ratio (HR) 1\u00b730, 95% CI 1\u00b709-1\u00b755], but not associated with melanoma-specific mortality. Patients with higher SES had an increased association with melanoma incidence (OR 1\u00b758,\u00a095% CI 1\u00b744-1\u00b773). Higher SES was associated with an increased chance of both overall (HR 0\u00b767, 95% CI 0\u00b756-0\u00b781) and disease-specific survival (HR 0\u00b769, 95% CI 0\u00b753-0\u00b790). CONCLUSIONS:Our study has demonstrated that smoking appeared to be associated with reduced incidence of melanoma. Although smoking increases overall mortality, no association was observed with melanoma-specific mortality. Further work is required to determine if there is a biological mechanism underlying this relationship or an alternative explanation, such as survival bias. What's already known about this topic? Previous studies have been contradictory with both negative and positive associations between smoking and the incidence of melanoma reported. Previous studies have either been limited by publication bias because of selective reporting or underpowered. What does this study add? Our large study identified an inverse association between smoking status and melanoma incidence. Although smoking status was negatively associated with overall disease survival, no significant association was noted in melanoma-specific survival. Socioeconomic status remains closely associated with melanoma. Although higher socioeconomic populations are more likely to develop the disease, patients with lower socioeconomic status continue to have a worse prognosis.",
     "laySummary": "This study investiages whether there is a smoking and socioeconomic status is linked to the risk of developing melanoma (a skin cancer). They used a Welsh database to find data on individuals who had melanoma and linked this data with smoking status and socioeconomic status on other national databases. They found that melanoma was less likely in those who smoked, but was associated with less chance of survival (due to health problems other than melanoma). Those in higher socioeconomic status had overall higher likelihood of survival.",
     "urls": "doi:https://doi.org/10.1111/bjd.18526; html:https://europepmc.org/articles/PMC7383980; pdf:https://europepmc.org/articles/PMC7383980?pdf=render"
+  },
+  {
+    "id": "32895316",
+    "doi": "https://doi.org/10.1136/thoraxjnl-2020-215566",
+    "title": "We need a robust evidence base to unravel the relationship between sex hormones and asthma.",
+    "authorString": "Sheikh A, Mukherjee M.",
+    "authorAffiliations": "",
+    "journalTitle": "Thorax",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Asthma",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/thoraxjnl-2020-215566"
   },
   {
     "id": "31765395",
@@ -2032,22 +2032,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0225625; html:https://europepmc.org/articles/PMC6876873; pdf:https://europepmc.org/articles/PMC6876873?pdf=render"
   },
   {
-    "id": "32856398",
-    "doi": "https://doi.org/10.1111/1742-6723.13604",
-    "title": "To intubate or not to intubate? Predictors of inhalation injury in burn-injured patients before arrival at the burn centre.",
-    "authorString": "Dyson K, Baker P, Garcia N, Braun A, Aung M, Pilcher D, Smith K, Cleland H, Gabbe B.",
-    "authorAffiliations": "",
-    "journalTitle": "Emergency medicine Australasia : EMA",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Burn; Pre-hospital; Inhalation Injury; Endotracheal Intubation",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVE:Inhalation injury occurs in approximately 10-20% of burn patients and is associated with increased mortality. There is no clear method of identifying patients at risk of inhalation injury or requiring intubation in the pre-hospital setting. Our objective was to identify pre-burn centre factors associated with inhalation injury confirmed on bronchoscopy, and to develop a prognostic model for inhalation injury. METHODS:We analysed acute admissions from the Victorian Adult Burns Service and Ambulance Victoria electronic patient care records for 1 July 2009 to 30 June 2016. We defined inhalation injury as an Abbreviated Injury Scale of >1 on bronchoscopy. A multivariable logistic regression prediction model was developed based on pre-burn centre factors. RESULTS:Emergency medical services transported 1148 patients who were admitted to the burn centre. The median age of patients was 39\u2009years and most patients had <10% total body surface area (%TBSA) burned. The prevalence of confirmed inhalation injury was 11%. Increasing %TBSA burned, flame, enclosed space, face burns, hoarse voice, soot in mouth and shortness of breath were predictive of inhalation injury. The model provided excellent discrimination (area under curve 0.87, 95% confidence interval 0.84-0.91). A lower proportion of patients intubated at a non-burn centre had an inhalation injury (33%) compared to patients intubated by emergency medical services (54%) and in the burn centre (58%). CONCLUSIONS:A model to predict inhalation injury in burn-injured patients was developed with excellent discrimination. This model requires prospective testing but could form an integral part of clinician decision-making.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/1742-6723.13604"
-  },
-  {
     "id": "32046816",
     "doi": "https://doi.org/10.2807/1560-7917.es.2020.25.5.2000080",
     "title": "Effectiveness of airport screening at detecting travellers infected with novel coronavirus (2019-nCoV).",
@@ -2062,6 +2046,22 @@
     "abstract": "We evaluated effectiveness of thermal passenger screening for 2019-nCoV infection at airport exit and entry to inform public health decision-making. In our baseline scenario, we estimated that 46% (95% confidence interval: 36 to 58) of infected travellers would not be detected, depending on incubation period, sensitivity of exit and entry screening, and proportion of asymptomatic cases. Airport screening is unlikely to detect a sufficient proportion of 2019-nCoV infected travellers to avoid entry of infected travellers.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000080; html:https://europepmc.org/articles/PMC7014668; pdf:https://europepmc.org/articles/PMC7014668?pdf=render"
+  },
+  {
+    "id": "32856398",
+    "doi": "https://doi.org/10.1111/1742-6723.13604",
+    "title": "To intubate or not to intubate? Predictors of inhalation injury in burn-injured patients before arrival at the burn centre.",
+    "authorString": "Dyson K, Baker P, Garcia N, Braun A, Aung M, Pilcher D, Smith K, Cleland H, Gabbe B.",
+    "authorAffiliations": "",
+    "journalTitle": "Emergency medicine Australasia : EMA",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Burn; Pre-hospital; Inhalation Injury; Endotracheal Intubation",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVE:Inhalation injury occurs in approximately 10-20% of burn patients and is associated with increased mortality. There is no clear method of identifying patients at risk of inhalation injury or requiring intubation in the pre-hospital setting. Our objective was to identify pre-burn centre factors associated with inhalation injury confirmed on bronchoscopy, and to develop a prognostic model for inhalation injury. METHODS:We analysed acute admissions from the Victorian Adult Burns Service and Ambulance Victoria electronic patient care records for 1 July 2009 to 30 June 2016. We defined inhalation injury as an Abbreviated Injury Scale of >1 on bronchoscopy. A multivariable logistic regression prediction model was developed based on pre-burn centre factors. RESULTS:Emergency medical services transported 1148 patients who were admitted to the burn centre. The median age of patients was 39\u2009years and most patients had <10% total body surface area (%TBSA) burned. The prevalence of confirmed inhalation injury was 11%. Increasing %TBSA burned, flame, enclosed space, face burns, hoarse voice, soot in mouth and shortness of breath were predictive of inhalation injury. The model provided excellent discrimination (area under curve 0.87, 95% confidence interval 0.84-0.91). A lower proportion of patients intubated at a non-burn centre had an inhalation injury (33%) compared to patients intubated by emergency medical services (54%) and in the burn centre (58%). CONCLUSIONS:A model to predict inhalation injury in burn-injured patients was developed with excellent discrimination. This model requires prospective testing but could form an integral part of clinician decision-making.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/1742-6723.13604"
   },
   {
     "id": "32831176",
@@ -2112,22 +2112,6 @@
     "urls": "doi:https://doi.org/10.2807/1560-7917.ES.2020.25.12.2000256; html:https://europepmc.org/articles/PMC7118348; pdf:https://europepmc.org/articles/PMC7118348?pdf=render"
   },
   {
-    "id": "32119825",
-    "doi": "https://doi.org/10.1016/s2214-109x(20)30074-7",
-    "title": "Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts.",
-    "authorString": "Hellewell J, Abbott S, Gimma A, Bosse NI, Jarvis CI, Russell TW, Munday JD, Kucharski AJ, Edmunds WJ, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Funk S, Eggo RM.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Global health",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "COVID-19",
-    "abstract": "BACKGROUND:Isolation of cases and contact tracing is used to control outbreaks of infectious diseases, and has been used for coronavirus disease 2019 (COVID-19). Whether this strategy will achieve control depends on characteristics of both the pathogen and the response. Here we use a mathematical model to assess if isolation and contact tracing are able to control onwards transmission from imported cases of COVID-19. METHODS:We developed a stochastic transmission model, parameterised to the COVID-19 outbreak. We used the model to quantify the potential effectiveness of contact tracing and isolation of cases at controlling a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-like pathogen. We considered scenarios that varied in the number of initial cases, the basic reproduction number (R0), the delay from symptom onset to isolation, the probability that contacts were traced, the proportion of transmission that occurred before symptom onset, and the proportion of subclinical infections. We assumed isolation prevented all further transmission in the model. Outbreaks were deemed controlled if transmission ended within 12 weeks or before 5000 cases in total. We measured the success of controlling outbreaks using isolation and contact tracing, and quantified the weekly maximum number of cases traced to measure feasibility of public health effort. FINDINGS:Simulated outbreaks starting with five initial cases, an R0 of 1\u00b75, and 0% transmission before symptom onset could be controlled even with low contact tracing probability; however, the probability of controlling an outbreak decreased with the number of initial cases, when R0 was 2\u00b75 or 3\u00b75 and with more transmission before symptom onset. Across different initial numbers of cases, the majority of scenarios with an R0 of 1\u00b75 were controllable with less than 50% of contacts successfully traced. To control the majority of outbreaks, for R0 of 2\u00b75 more than 70% of contacts had to be traced, and for an R0 of 3\u00b75 more than 90% of contacts had to be traced. The delay between symptom onset and isolation had the largest role in determining whether an outbreak was controllable when R0 was 1\u00b75. For R0 values of 2\u00b75 or 3\u00b75, if there were 40 initial cases, contact tracing and isolation were only potentially feasible when less than 1% of transmission occurred before symptom onset. INTERPRETATION:In most scenarios, highly effective contact tracing and case isolation is enough to control a new outbreak of COVID-19 within 3 months. The probability of control decreases with long delays from symptom onset to isolation, fewer cases ascertained by contact tracing, and increasing transmission before symptoms. This model can be modified to reflect updated transmission characteristics and more specific definitions of outbreak control to assess the potential success of local response efforts. FUNDING:Wellcome Trust, Global Challenges Research Fund, and Health Data Research UK.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S2214-109X(20)30074-7; html:https://europepmc.org/articles/PMC7097845; pdf:https://europepmc.org/articles/PMC7097845?pdf=render"
-  },
-  {
     "id": "30648344",
     "doi": "https://doi.org/10.1002/cnm.3180",
     "title": "A semi-active human digital twin model for detecting severity of carotid stenoses from head vibration-A coupled computational mechanics and computer vision method.",
@@ -2142,6 +2126,22 @@
     "abstract": "In this work, we propose a methodology to detect the severity of carotid stenosis from a video of a human face with the help of a coupled blood flow and head vibration model. This semi-active digital twin model is an attempt to link noninvasive video of a patient face to the percentage of carotid occlusion. The pulsatile nature of blood flow through the carotid arteries induces a subtle head vibration. This vibration is a potential indicator of carotid stenosis severity, and it is exploited in the present study. A head vibration model has been proposed in the present work that is linked to the forces generated by blood flow with or without occlusion. The model is used to generate a large number of virtual head vibration data for different degrees of occlusion. In order to determine the in vivo head vibration, a computer vision algorithm is adopted to use human face videos. The in vivo vibrations are compared against the virtual vibration data generated from the coupled computational blood flow/vibration model. A comparison of the in vivo vibration is made against the virtual data to find the best fit between in vivo and virtual data. The preliminary results on healthy subjects and a patient clearly indicate that the model is accurate and it possesses the potential for detecting approximate severity of carotid artery stenoses.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/cnm.3180; html:https://europepmc.org/articles/PMC6593817; pdf:https://europepmc.org/articles/PMC6593817?pdf=render"
+  },
+  {
+    "id": "32119825",
+    "doi": "https://doi.org/10.1016/s2214-109x(20)30074-7",
+    "title": "Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts.",
+    "authorString": "Hellewell J, Abbott S, Gimma A, Bosse NI, Jarvis CI, Russell TW, Munday JD, Kucharski AJ, Edmunds WJ, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Funk S, Eggo RM.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Global health",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "COVID-19",
+    "abstract": "BACKGROUND:Isolation of cases and contact tracing is used to control outbreaks of infectious diseases, and has been used for coronavirus disease 2019 (COVID-19). Whether this strategy will achieve control depends on characteristics of both the pathogen and the response. Here we use a mathematical model to assess if isolation and contact tracing are able to control onwards transmission from imported cases of COVID-19. METHODS:We developed a stochastic transmission model, parameterised to the COVID-19 outbreak. We used the model to quantify the potential effectiveness of contact tracing and isolation of cases at controlling a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-like pathogen. We considered scenarios that varied in the number of initial cases, the basic reproduction number (R0), the delay from symptom onset to isolation, the probability that contacts were traced, the proportion of transmission that occurred before symptom onset, and the proportion of subclinical infections. We assumed isolation prevented all further transmission in the model. Outbreaks were deemed controlled if transmission ended within 12 weeks or before 5000 cases in total. We measured the success of controlling outbreaks using isolation and contact tracing, and quantified the weekly maximum number of cases traced to measure feasibility of public health effort. FINDINGS:Simulated outbreaks starting with five initial cases, an R0 of 1\u00b75, and 0% transmission before symptom onset could be controlled even with low contact tracing probability; however, the probability of controlling an outbreak decreased with the number of initial cases, when R0 was 2\u00b75 or 3\u00b75 and with more transmission before symptom onset. Across different initial numbers of cases, the majority of scenarios with an R0 of 1\u00b75 were controllable with less than 50% of contacts successfully traced. To control the majority of outbreaks, for R0 of 2\u00b75 more than 70% of contacts had to be traced, and for an R0 of 3\u00b75 more than 90% of contacts had to be traced. The delay between symptom onset and isolation had the largest role in determining whether an outbreak was controllable when R0 was 1\u00b75. For R0 values of 2\u00b75 or 3\u00b75, if there were 40 initial cases, contact tracing and isolation were only potentially feasible when less than 1% of transmission occurred before symptom onset. INTERPRETATION:In most scenarios, highly effective contact tracing and case isolation is enough to control a new outbreak of COVID-19 within 3 months. The probability of control decreases with long delays from symptom onset to isolation, fewer cases ascertained by contact tracing, and increasing transmission before symptoms. This model can be modified to reflect updated transmission characteristics and more specific definitions of outbreak control to assess the potential success of local response efforts. FUNDING:Wellcome Trust, Global Challenges Research Fund, and Health Data Research UK.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S2214-109X(20)30074-7; html:https://europepmc.org/articles/PMC7097845; pdf:https://europepmc.org/articles/PMC7097845?pdf=render"
   },
   {
     "id": "30659777",
@@ -2256,22 +2256,6 @@
     "urls": "doi:https://doi.org/10.1097/SAP.0000000000002434"
   },
   {
-    "id": "33087383",
-    "doi": "https://doi.org/10.1136/bmjopen-2020-043010",
-    "title": "Understanding and responding to COVID-19 in Wales: protocol for a privacy-protecting data platform for enhanced epidemiology and evaluation of interventions.",
-    "authorString": "Lyons J, Akbari A, Torabi F, Davies GI, North L, Griffiths R, Bailey R, Hollinghurst J, Fry R, Turner SL, Thompson D, Rafferty J, Mizen A, Orton C, Thompson S, Au-Yeung L, Cross L, Gravenor MB, Brophy S, Lucini B, John A, Szakmany T, Davies J, Davies C, Thomas DR, Williams C, Emmerson C, Cottrell S, Connor TR, Taylor C, Pugh RJ, Diggle P, John G, Scourfield S, Hunt J, Cunningham AM, Helliwell K, Lyons R.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "epidemiology; Public Health; Health Informatics; Covid-19",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION:The emergence of the novel respiratory SARS-CoV-2 and subsequent COVID-19 pandemic have required rapid assimilation of population-level data to understand and control the spread of infection in the general and vulnerable populations. Rapid analyses are needed to inform policy development and target interventions to at-risk groups to prevent serious health outcomes. We aim to provide an accessible research platform to determine demographic, socioeconomic and clinical risk factors for infection, morbidity and mortality of COVID-19, to measure the impact of COVID-19 on healthcare utilisation and long-term health, and to enable the evaluation of natural experiments of policy interventions. METHODS AND ANALYSIS:Two privacy-protecting population-level cohorts have been created and derived from multisourced demographic and healthcare data. The C20 cohort consists of 3.2\u2009million people in Wales on the 1 January 2020 with follow-up until 31 May 2020. The complete cohort dataset will be updated monthly with some individual datasets available daily. The C16 cohort consists of 3\u2009million people in Wales on the 1 January 2016 with follow-up to 31 December 2019. C16 is designed as a counterfactual cohort to provide contextual comparative population data on disease, health service utilisation and mortality. Study outcomes will: (a) characterise the epidemiology of COVID-19, (b) assess socioeconomic and demographic influences on infection and outcomes, (c) measure the impact of COVID-19 on short -term and longer-term population outcomes and (d) undertake studies on the transmission and spatial spread of infection. ETHICS AND DISSEMINATION:The Secure Anonymised Information Linkage-independent Information Governance Review Panel has approved this study. The study findings will be presented to policy groups, public meetings, national and international conferences, and published in peer-reviewed journals.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2020-043010; html:https://europepmc.org/articles/PMC7580065; pdf:https://europepmc.org/articles/PMC7580065?pdf=render"
-  },
-  {
     "id": "32685698",
     "doi": "https://doi.org/10.12688/wellcomeopenres.15842.3",
     "title": "Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China.",
@@ -2288,20 +2272,20 @@
     "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15842.3; html:https://europepmc.org/articles/PMC7338915; pdf:https://europepmc.org/articles/PMC7338915?pdf=render"
   },
   {
-    "id": "32626822",
-    "doi": "https://doi.org/10.1007/s41109-020-00273-3",
-    "title": "Normalised degree variance.",
-    "authorString": "Smith KM, Escudero J.",
+    "id": "33087383",
+    "doi": "https://doi.org/10.1136/bmjopen-2020-043010",
+    "title": "Understanding and responding to COVID-19 in Wales: protocol for a privacy-protecting data platform for enhanced epidemiology and evaluation of interventions.",
+    "authorString": "Lyons J, Akbari A, Torabi F, Davies GI, North L, Griffiths R, Bailey R, Hollinghurst J, Fry R, Turner SL, Thompson D, Rafferty J, Mizen A, Orton C, Thompson S, Au-Yeung L, Cross L, Gravenor MB, Brophy S, Lucini B, John A, Szakmany T, Davies J, Davies C, Thomas DR, Williams C, Emmerson C, Cottrell S, Connor TR, Taylor C, Pugh RJ, Diggle P, John G, Scourfield S, Hunt J, Cunningham AM, Helliwell K, Lyons R.",
     "authorAffiliations": "",
-    "journalTitle": "Applied network science",
+    "journalTitle": "BMJ open",
     "pubYear": "2020",
     "isOpenAccess": "Y",
-    "keywords": "",
+    "keywords": "epidemiology; Public Health; Health Informatics; Covid-19",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "Finding graph indices which are unbiased to network size and density is of high importance both within a given field and across fields for enhancing comparability of modern network science studies. The degree variance is an important metric for characterising network degree heterogeneity. Here, we provide an analytically valid normalisation of degree variance to replace previous normalisations which are either invalid or not applicable to all networks. It is shown that this normalisation provides equal values for graphs and their complements; it is maximal in the star graph (and its complement); and its expected value is constant with respect to density for Erd\u00f6s-R\u00e9nyi (ER) random graphs of the same size. We strengthen these results with model observations in ER random graphs, random geometric graphs, scale-free networks, random hierarchy networks and resting-state brain networks, showing that the proposed normalisation is generally less affected by both network size and density than previous normalisation attempts. The closed form expression proposed also benefits from high computational efficiency and straightforward mathematical analysis. Analysis of 184 real-world binary networks across different disciplines shows that normalised degree variance is not correlated with average degree and is robust to node and edge subsampling. Comparisons across subdomains of biological networks reveals greater degree heterogeneity among brain connectomes and food webs than in protein interaction networks.",
+    "abstract": "INTRODUCTION:The emergence of the novel respiratory SARS-CoV-2 and subsequent COVID-19 pandemic have required rapid assimilation of population-level data to understand and control the spread of infection in the general and vulnerable populations. Rapid analyses are needed to inform policy development and target interventions to at-risk groups to prevent serious health outcomes. We aim to provide an accessible research platform to determine demographic, socioeconomic and clinical risk factors for infection, morbidity and mortality of COVID-19, to measure the impact of COVID-19 on healthcare utilisation and long-term health, and to enable the evaluation of natural experiments of policy interventions. METHODS AND ANALYSIS:Two privacy-protecting population-level cohorts have been created and derived from multisourced demographic and healthcare data. The C20 cohort consists of 3.2\u2009million people in Wales on the 1 January 2020 with follow-up until 31 May 2020. The complete cohort dataset will be updated monthly with some individual datasets available daily. The C16 cohort consists of 3\u2009million people in Wales on the 1 January 2016 with follow-up to 31 December 2019. C16 is designed as a counterfactual cohort to provide contextual comparative population data on disease, health service utilisation and mortality. Study outcomes will: (a) characterise the epidemiology of COVID-19, (b) assess socioeconomic and demographic influences on infection and outcomes, (c) measure the impact of COVID-19 on short -term and longer-term population outcomes and (d) undertake studies on the transmission and spatial spread of infection. ETHICS AND DISSEMINATION:The Secure Anonymised Information Linkage-independent Information Governance Review Panel has approved this study. The study findings will be presented to policy groups, public meetings, national and international conferences, and published in peer-reviewed journals.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s41109-020-00273-3; html:https://europepmc.org/articles/PMC7319291; pdf:https://europepmc.org/articles/PMC7319291?pdf=render"
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2020-043010; html:https://europepmc.org/articles/PMC7580065; pdf:https://europepmc.org/articles/PMC7580065?pdf=render"
   },
   {
     "id": "30729733",
@@ -2318,6 +2302,22 @@
     "abstract": "BACKGROUND:Physical activity (PA) levels are associated with long-term health, and levels of PA when young are predictive of adult activity levels. OBJECTIVES:This study examines factors associated with PA levels in 12-month infants. METHOD:One hundred forty-one mother-infant pairs were recruited via a longitudinal birth cohort study (April 2010 to March 2013). The PA level was collected using accelerometers and linked to postnatal notes and electronic medical records via the Secure Anonymised Information Linkage databank. Univariable and multivariable linear regressions were used to examine the factors associated with PA levels. RESULTS:Using univariable analysis, higher PA was associated with the following (P value less than 0.05): being male, larger infant size, healthy maternal blood pressure levels, full-term gestation period, higher consumption of vegetables (infant), lower consumption of juice (infant), low consumption of adult crisps (infant), longer breastfeeding duration, and more movement during sleep (infant) but fewer night wakings. Combined into a multivariable regression model (R2 \u00a0=\u00a00.654), all factors remained significant, showing lower PA levels were associated with female gender, smaller infant, preterm birth, higher maternal blood pressure, low vegetable consumption, high crisp consumption, and less night movement. CONCLUSION:The PA levels of infants were strongly associated with both gestational and postnatal environmental factors. Healthy behaviours appear to cluster, and a healthy diet was associated with a more active infant. Boys were substantially more active than girls, even at age 12\u00a0months. These findings can help inform interventions to promote healthier lives for infants and to understand the determinants of their PA levels.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/ijpo.12512; html:https://europepmc.org/articles/PMC6563068; pdf:https://europepmc.org/articles/PMC6563068?pdf=render"
+  },
+  {
+    "id": "32626822",
+    "doi": "https://doi.org/10.1007/s41109-020-00273-3",
+    "title": "Normalised degree variance.",
+    "authorString": "Smith KM, Escudero J.",
+    "authorAffiliations": "",
+    "journalTitle": "Applied network science",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Finding graph indices which are unbiased to network size and density is of high importance both within a given field and across fields for enhancing comparability of modern network science studies. The degree variance is an important metric for characterising network degree heterogeneity. Here, we provide an analytically valid normalisation of degree variance to replace previous normalisations which are either invalid or not applicable to all networks. It is shown that this normalisation provides equal values for graphs and their complements; it is maximal in the star graph (and its complement); and its expected value is constant with respect to density for Erd\u00f6s-R\u00e9nyi (ER) random graphs of the same size. We strengthen these results with model observations in ER random graphs, random geometric graphs, scale-free networks, random hierarchy networks and resting-state brain networks, showing that the proposed normalisation is generally less affected by both network size and density than previous normalisation attempts. The closed form expression proposed also benefits from high computational efficiency and straightforward mathematical analysis. Analysis of 184 real-world binary networks across different disciplines shows that normalised degree variance is not correlated with average degree and is robust to node and edge subsampling. Comparisons across subdomains of biological networks reveals greater degree heterogeneity among brain connectomes and food webs than in protein interaction networks.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s41109-020-00273-3; html:https://europepmc.org/articles/PMC7319291; pdf:https://europepmc.org/articles/PMC7319291?pdf=render"
   },
   {
     "id": "32735547",
@@ -2560,22 +2560,6 @@
     "urls": "doi:https://doi.org/10.1073/pnas.1912957117; html:https://europepmc.org/articles/PMC7211961; pdf:https://europepmc.org/articles/PMC7211961?pdf=render"
   },
   {
-    "id": "32352158",
-    "doi": "https://doi.org/10.1002/bjs.11580",
-    "title": "Author response to: Comment on: Impact of bariatric surgery on cardiovascular outcomes and mortality: a population-based cohort study.",
-    "authorString": "Adderley N, Singh P, Tahrani AA, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "The British journal of surgery",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/bjs.11580"
-  },
-  {
     "id": "31744503",
     "doi": "https://doi.org/10.1186/s12916-019-1438-y",
     "title": "Bleeding in cardiac patients prescribed antithrombotic drugs: electronic health record phenotyping algorithms, incidence, trends and prognosis.",
@@ -2590,6 +2574,22 @@
     "abstract": "BACKGROUND:Clinical guidelines and public health authorities lack recommendations on scalable approaches to defining and monitoring the occurrence and severity of bleeding in populations prescribed antithrombotic therapy. METHODS:We examined linked primary care, hospital admission and death registry electronic health records (CALIBER 1998-2010, England) of patients with newly diagnosed atrial fibrillation, acute myocardial infarction, unstable angina or stable angina with the aim to develop algorithms for bleeding events. Using the developed bleeding phenotypes, Kaplan-Meier plots were used to estimate the incidence of bleeding events and we used Cox regression models to assess the prognosis for all-cause mortality, atherothrombotic events and further bleeding. RESULTS:We present electronic health record phenotyping algorithms for bleeding based on bleeding diagnosis in primary or hospital care, symptoms, transfusion, surgical procedures and haemoglobin values. In validation of the phenotype, we estimated a positive predictive value of 0.88 (95% CI 0.64, 0.99) for hospitalised bleeding. Amongst 128,815 patients, 27,259 (21.2%) had at least 1 bleeding event, with 5-year risks of bleeding of 29.1%, 21.9%, 25.3% and 23.4% following diagnoses of atrial fibrillation, acute myocardial infarction, unstable angina and stable angina, respectively. Rates of hospitalised bleeding per 1000 patients more than doubled from 1.02 (95% CI 0.83, 1.22) in January 1998 to 2.68 (95% CI 2.49, 2.88) in December 2009 coinciding with the increased rates of antiplatelet and vitamin K antagonist prescribing. Patients with hospitalised bleeding and primary care bleeding, with or without markers of severity, were at increased risk of all-cause mortality and atherothrombotic events compared to those with no bleeding. For example, the hazard ratio for all-cause mortality was 1.98 (95% CI 1.86, 2.11) for primary care bleeding with markers of severity and 1.99 (95% CI 1.92, 2.05) for hospitalised bleeding without markers of severity, compared to patients with no bleeding. CONCLUSIONS:Electronic health record bleeding phenotyping algorithms offer a scalable approach to monitoring bleeding in the population. Incidence of bleeding has doubled in incidence since 1998, affects one in four cardiovascular disease patients, and is associated with poor prognosis. Efforts are required to tackle this iatrogenic epidemic.",
     "laySummary": "A phenotyping algorithm is presented to monitor bleeding in primary and hospital care. Model is well presented in the document and has potential to be scalable and applied to other conditions.",
     "urls": "doi:https://doi.org/10.1186/s12916-019-1438-y; html:https://europepmc.org/articles/PMC6864929; pdf:https://europepmc.org/articles/PMC6864929?pdf=render"
+  },
+  {
+    "id": "32352158",
+    "doi": "https://doi.org/10.1002/bjs.11580",
+    "title": "Author response to: Comment on: Impact of bariatric surgery on cardiovascular outcomes and mortality: a population-based cohort study.",
+    "authorString": "Adderley N, Singh P, Tahrani AA, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "The British journal of surgery",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/bjs.11580"
   },
   {
     "id": "32900377",
@@ -2640,22 +2640,6 @@
     "urls": "doi:https://doi.org/10.1136/archdischild-2020-319027"
   },
   {
-    "id": "31857590",
-    "doi": "https://doi.org/10.1038/s41597-019-0337-6",
-    "title": "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction.",
-    "authorString": "Bravo-Merodio L, Acharjee A, Hazeldine J, Bentley C, Foster M, Gkoutos GV, Lord JM.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific data",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The immune response to major trauma has been analysed mainly within post-hospital admission settings where the inflammatory response is already underway and the early drivers of clinical outcome cannot be readily determined. Thus, there is a need to better understand the immediate immune response to injury and how this might influence important patient outcomes such as multi-organ dysfunction syndrome (MODS). In this study, we have assessed the immune response to trauma in 61 patients at three different post-injury time points (ultra-early (<=1\u2009h), 4-12\u2009h, 48-72\u2009h) and analysed relationships with the development of MODS. We developed a pipeline using Absolute Shrinkage and Selection Operator and Elastic Net feature selection methods that were able to identify 3 physiological features (decrease in neutrophil CD62L and CD63 expression and monocyte CD63 expression and frequency) as possible biomarkers for MODS development. After univariate and multivariate analysis for each feature alongside a stability analysis, the addition of these 3 markers to standard clinical trauma injury severity scores yields a Generalized Liner Model (GLM) with an average Area Under the Curve value of 0.92\u2009\u00b1\u20090.06. This performance provides an 8% improvement over the Probability of Survival (PS14) outcome measure and a 13% improvement over the New Injury Severity Score (NISS) for identifying patients at risk of MODS.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41597-019-0337-6; html:https://europepmc.org/articles/PMC6923383; pdf:https://europepmc.org/articles/PMC6923383?pdf=render"
-  },
-  {
     "id": "32401709",
     "doi": "https://doi.org/10.1016/s2468-2667(20)30112-2",
     "title": "COVID-19: a public health approach to manage domestic violence is needed.",
@@ -2670,6 +2654,22 @@
     "abstract": "",
     "laySummary": "Chandan et al. comment on the effect the covid pandemic may have on domestic violence and propose surveillance for domestic violence is needed. ",
     "urls": "doi:https://doi.org/10.1016/S2468-2667(20)30112-2; html:https://europepmc.org/articles/PMC7252171; pdf:https://europepmc.org/articles/PMC7252171?pdf=render"
+  },
+  {
+    "id": "31857590",
+    "doi": "https://doi.org/10.1038/s41597-019-0337-6",
+    "title": "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction.",
+    "authorString": "Bravo-Merodio L, Acharjee A, Hazeldine J, Bentley C, Foster M, Gkoutos GV, Lord JM.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific data",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The immune response to major trauma has been analysed mainly within post-hospital admission settings where the inflammatory response is already underway and the early drivers of clinical outcome cannot be readily determined. Thus, there is a need to better understand the immediate immune response to injury and how this might influence important patient outcomes such as multi-organ dysfunction syndrome (MODS). In this study, we have assessed the immune response to trauma in 61 patients at three different post-injury time points (ultra-early (<=1\u2009h), 4-12\u2009h, 48-72\u2009h) and analysed relationships with the development of MODS. We developed a pipeline using Absolute Shrinkage and Selection Operator and Elastic Net feature selection methods that were able to identify 3 physiological features (decrease in neutrophil CD62L and CD63 expression and monocyte CD63 expression and frequency) as possible biomarkers for MODS development. After univariate and multivariate analysis for each feature alongside a stability analysis, the addition of these 3 markers to standard clinical trauma injury severity scores yields a Generalized Liner Model (GLM) with an average Area Under the Curve value of 0.92\u2009\u00b1\u20090.06. This performance provides an 8% improvement over the Probability of Survival (PS14) outcome measure and a 13% improvement over the New Injury Severity Score (NISS) for identifying patients at risk of MODS.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41597-019-0337-6; html:https://europepmc.org/articles/PMC6923383; pdf:https://europepmc.org/articles/PMC6923383?pdf=render"
   },
   {
     "id": "PMC7574931",
@@ -2944,22 +2944,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0199026; html:https://europepmc.org/articles/PMC6019102; pdf:https://europepmc.org/articles/PMC6019102?pdf=render"
   },
   {
-    "id": "32579178",
-    "doi": "https://doi.org/10.1001/jamadermatol.2020.1948",
-    "title": "Association Between Atopic Eczema and Cancer in England and Denmark.",
-    "authorString": "Mansfield KE, Schmidt SAJ, Darvalics B, Mulick A, Abuabara K, Wong AYS, S\u00f8rensen HT, Smeeth L, Bhaskaran K, Dos Santos Silva I, Silverwood RJ, Langan SM.",
-    "authorAffiliations": "",
-    "journalTitle": "JAMA dermatology",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Importance:Associations between atopic eczema and cancer are unclear, with competing theories that increased immune surveillance decreases cancer risk and that immune stimulation increases cancer risk. Establishing baseline cancer risk in people with atopic eczema is important before exploring the association between new biologic drugs for atopic eczema and cancer risk. Objective:To investigate whether atopic eczema is associated with cancer. Design, Setting, and Participants:Matched cohort studies were conducted from January 2, 1998, to March 31, 2016, in England and from January 1, 1982, to June 30, 2016, in Denmark. We conducted our analyses between July 2018 and July 2019. The setting was English primary care and nationwide Danish data. Participants with atopic eczema (adults only in England and any age in Denmark) were matched on age, sex, and calendar period (as well as primary care practice in England only) to those without atopic eczema. Exposure:Atopic eczema. Main Outcomes and Measures:Overall cancer risk and risk of specific cancers were compared in people with and without atopic eczema. Results:In England, matched cohorts included 471\u202f970 individuals with atopic eczema (median [IQR] age, 41.1 [24.9-60.7] years; 276 510 [58.6%] female) and 2\u202f239\u202f775 individuals without atopic eczema (median [IQR] age, 39.8 [25.9-58.4] years; 1 301 074 [58.1%] female). In Denmark, matched cohorts included 44\u202f945 individuals with atopic eczema (median [IQR] age, 13.7 [1.7-21.1] years; 22 826 [50.8%] female) and 445\u202f673 individuals without atopic eczema (median [IQR] age, 13.5 [1.7-20.8] years; 226 323 [50.8%] female). Little evidence was found of associations between atopic eczema and overall cancer (adjusted hazard ratio [HR], 1.04; 99% CI, 1.02-1.06 in England and 1.05; 99% CI, 0.95-1.16 in Denmark) or for most specific cancers. However, noncutaneous lymphoma risk was increased in people with atopic eczema in England (adjusted HR, 1.19; 99% CI, 1.07-1.34 for non-Hodgkin lymphoma [NHL] and 1.48; 99% CI, 1.07-2.04 for Hodgkin lymphoma). Lymphoma risk was increased in people with greater eczema severity vs those without atopic eczema (NHL adjusted HR, 1.06; 99% CI, 0.90-1.25 for mild eczema; 1.24; 99% CI, 1.04-1.48 for moderate eczema; and 2.08; 99% CI, 1.42-3.04 for severe eczema). Danish point estimates also showed increased lymphoma risk in people with moderate to severe eczema compared with those without atopic eczema (minimally adjusted HR, 1.31; 99% CI, 0.76-2.26 for NHL and 1.35; 99% CI, 0.65-2.82 for Hodgkin lymphoma), but the 99% CIs were wide. Conclusions and Relevance:The findings from 2 large population-based studies performed in different settings do not support associations between atopic eczema and most cancers. However, an association was observed between atopic eczema and lymphoma, particularly NHL, that increased with eczema severity. This finding warrants further study as new immunomodulatory systemic therapeutics are brought to market that may alter cancer risk.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1001/jamadermatol.2020.1948; html:https://europepmc.org/articles/PMC7315391"
-  },
-  {
     "id": "31302040",
     "doi": "https://doi.org/10.1016/j.jchf.2019.03.009",
     "title": "Risk for Heart\u00a0Failure: The Opportunity for Prevention With the American Heart Association's Life's Simple 7.",
@@ -2974,6 +2958,22 @@
     "abstract": "OBJECTIVES:The aim of this study is to determine whether combinations of specific Life's Simple 7 (LS7) components are associated with reduced risk for heart failure (HF). BACKGROUND:The American Heart Association recommends the concept of LS7: healthy behaviors that have been shown to reduce cardiovascular disease. METHODS:A total of 37,803 participants from the EPIC-NL (European Prospective Investigation Into Cancer and Nutrition-Netherlands) cohort were included (mean age: 49.4 \u00b1 11.9 years, 74.7% women). The LS7 score ranged from 0 to 14 and was calculated by assigning 0, 1, or 2 points for smoking, physical activity, body mass index, diet, blood pressure, total cholesterol, and blood glucose. An overall ideal score (11 to 14 points) was present in 23.2% of participants, an intermediate score (9 or 10 points) in 35.3%, and an inadequate score (0 to 8 points) in 41.5%. RESULTS:Over a median follow-up period of 15.2 years (interquartile range: 14.1 to 16.5 years), 690 participants (1.8%) developed HF. In Cox proportional hazards models, ideal and intermediate LS7 scores were associated with reduced risk for HF compared with the inadequate category (hazard ratio: 0.45 [95% confidence interval (CI): 0.34 to 0.60] and hazard ratio: 0.53 [95% CI: 0.44 to 0.64], respectively). Our analyses show that combinations with specific LS7 components, notably glucose, body mass index, smoking, and blood pressure, are associated with a lower incidence of HF. CONCLUSIONS:A healthy lifestyle, as reflected in an ideal LS7 score, was associated with a 55% lower risk for HF compared with an inadequate LS7 score. Preventive strategies that target combinations of specific LS7 components could have a significant impact on decreasing incident HF in the population at large.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jchf.2019.03.009"
+  },
+  {
+    "id": "32579178",
+    "doi": "https://doi.org/10.1001/jamadermatol.2020.1948",
+    "title": "Association Between Atopic Eczema and Cancer in England and Denmark.",
+    "authorString": "Mansfield KE, Schmidt SAJ, Darvalics B, Mulick A, Abuabara K, Wong AYS, S\u00f8rensen HT, Smeeth L, Bhaskaran K, Dos Santos Silva I, Silverwood RJ, Langan SM.",
+    "authorAffiliations": "",
+    "journalTitle": "JAMA dermatology",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Importance:Associations between atopic eczema and cancer are unclear, with competing theories that increased immune surveillance decreases cancer risk and that immune stimulation increases cancer risk. Establishing baseline cancer risk in people with atopic eczema is important before exploring the association between new biologic drugs for atopic eczema and cancer risk. Objective:To investigate whether atopic eczema is associated with cancer. Design, Setting, and Participants:Matched cohort studies were conducted from January 2, 1998, to March 31, 2016, in England and from January 1, 1982, to June 30, 2016, in Denmark. We conducted our analyses between July 2018 and July 2019. The setting was English primary care and nationwide Danish data. Participants with atopic eczema (adults only in England and any age in Denmark) were matched on age, sex, and calendar period (as well as primary care practice in England only) to those without atopic eczema. Exposure:Atopic eczema. Main Outcomes and Measures:Overall cancer risk and risk of specific cancers were compared in people with and without atopic eczema. Results:In England, matched cohorts included 471\u202f970 individuals with atopic eczema (median [IQR] age, 41.1 [24.9-60.7] years; 276 510 [58.6%] female) and 2\u202f239\u202f775 individuals without atopic eczema (median [IQR] age, 39.8 [25.9-58.4] years; 1 301 074 [58.1%] female). In Denmark, matched cohorts included 44\u202f945 individuals with atopic eczema (median [IQR] age, 13.7 [1.7-21.1] years; 22 826 [50.8%] female) and 445\u202f673 individuals without atopic eczema (median [IQR] age, 13.5 [1.7-20.8] years; 226 323 [50.8%] female). Little evidence was found of associations between atopic eczema and overall cancer (adjusted hazard ratio [HR], 1.04; 99% CI, 1.02-1.06 in England and 1.05; 99% CI, 0.95-1.16 in Denmark) or for most specific cancers. However, noncutaneous lymphoma risk was increased in people with atopic eczema in England (adjusted HR, 1.19; 99% CI, 1.07-1.34 for non-Hodgkin lymphoma [NHL] and 1.48; 99% CI, 1.07-2.04 for Hodgkin lymphoma). Lymphoma risk was increased in people with greater eczema severity vs those without atopic eczema (NHL adjusted HR, 1.06; 99% CI, 0.90-1.25 for mild eczema; 1.24; 99% CI, 1.04-1.48 for moderate eczema; and 2.08; 99% CI, 1.42-3.04 for severe eczema). Danish point estimates also showed increased lymphoma risk in people with moderate to severe eczema compared with those without atopic eczema (minimally adjusted HR, 1.31; 99% CI, 0.76-2.26 for NHL and 1.35; 99% CI, 0.65-2.82 for Hodgkin lymphoma), but the 99% CIs were wide. Conclusions and Relevance:The findings from 2 large population-based studies performed in different settings do not support associations between atopic eczema and most cancers. However, an association was observed between atopic eczema and lymphoma, particularly NHL, that increased with eczema severity. This finding warrants further study as new immunomodulatory systemic therapeutics are brought to market that may alter cancer risk.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1001/jamadermatol.2020.1948; html:https://europepmc.org/articles/PMC7315391"
   },
   {
     "id": "32575372",
@@ -3776,6 +3776,22 @@
     "urls": "doi:https://doi.org/10.1161/HYPERTENSIONAHA.119.14302"
   },
   {
+    "id": "30120083",
+    "doi": "https://doi.org/10.1016/j.ebiom.2018.08.004",
+    "title": "Genome-Wide Association Study of Circadian Rhythmicity in 71,500 UK Biobank Participants and Polygenic Association with Mood Instability.",
+    "authorString": "Ferguson A, Lyall LM, Ward J, Strawbridge RJ, Cullen B, Graham N, Niedzwiedz CL, Johnston KJA, MacKay D, Biello SM, Pell JP, Cavanagh J, McIntosh AM, Doherty A, Bailey MES, Lyall DM, Wyse CA, Smith DJ.",
+    "authorAffiliations": "",
+    "journalTitle": "EBioMedicine",
+    "pubYear": "2018",
+    "isOpenAccess": "Y",
+    "keywords": "Mood Instability; Gwas; Polygenic Risk Score; Circadian Rhythmicity; Relative Amplitude",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Circadian rhythms are fundamental to health and are particularly important for mental wellbeing. Disrupted rhythms of rest and activity are recognised as risk factors for major depressive disorder and bipolar disorder. METHODS:We conducted a genome-wide association study (GWAS) of low relative amplitude (RA), an objective measure of rest-activity cycles derived from the accelerometer data of 71,500 UK Biobank participants. Polygenic risk scores (PRS) for low RA were used to investigate potential associations with psychiatric phenotypes. OUTCOMES:Two independent genetic loci were associated with low RA, within genomic regions for Neurofascin (NFASC) and Solute Carrier Family 25 Member 17 (SLC25A17). A secondary GWAS of RA as a continuous measure identified a locus within Meis Homeobox 1 (MEIS1). There were no significant genetic correlations between low RA and any of the psychiatric phenotypes assessed. However, PRS for low RA was significantly associated with mood instability across multiple PRS thresholds (at PRS threshold 0\u00b705: OR\u202f=\u202f1\u00b702, 95% CI\u202f=\u202f1\u00b701-1\u00b702, p\u202f=\u202f9\u00b76\u202f\u00d7\u202f10-5), and with major depressive disorder (at PRS threshold 0\u00b71: OR\u202f=\u202f1\u00b703, 95% CI\u202f=\u202f1\u00b701-1\u00b705, p\u202f=\u202f0\u00b7025) and neuroticism (at PRS threshold 0\u00b75: Beta\u202f=\u202f0\u00b702, 95% CI\u202f=\u202f0\u00b7007-0\u00b704, p\u202f=\u202f0\u00b7021). INTERPRETATION:Overall, our findings contribute new knowledge on the complex genetic architecture of circadian rhythmicity and suggest a putative biological link between disrupted circadian function and mood disorder phenotypes, particularly mood instability, but also major depressive disorder and neuroticism. FUNDING:Medical Research Council (MR/K501335/1).",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.ebiom.2018.08.004; html:https://europepmc.org/articles/PMC6154782; pdf:https://europepmc.org/articles/PMC6154782?pdf=render"
+  },
+  {
     "id": "31822919",
     "doi": "https://doi.org/10.1093/pubmed/fdz172",
     "title": "Unmet needs of women with GDM: a health needs assessment in Sandwell, West Midlands.",
@@ -3808,36 +3824,20 @@
     "urls": "doi:https://doi.org/10.1186/s12889-019-8015-3; html:https://europepmc.org/articles/PMC6902530; pdf:https://europepmc.org/articles/PMC6902530?pdf=render"
   },
   {
-    "id": "30120083",
-    "doi": "https://doi.org/10.1016/j.ebiom.2018.08.004",
-    "title": "Genome-Wide Association Study of Circadian Rhythmicity in 71,500 UK Biobank Participants and Polygenic Association with Mood Instability.",
-    "authorString": "Ferguson A, Lyall LM, Ward J, Strawbridge RJ, Cullen B, Graham N, Niedzwiedz CL, Johnston KJA, MacKay D, Biello SM, Pell JP, Cavanagh J, McIntosh AM, Doherty A, Bailey MES, Lyall DM, Wyse CA, Smith DJ.",
+    "id": "31089183",
+    "doi": "https://doi.org/10.1038/s41598-019-43861-9",
+    "title": "Genetic variation in CADM2 as a link between psychological traits and obesity.",
+    "authorString": "Morris J, Bailey MES, Baldassarre D, Cullen B, de Faire U, Ferguson A, Gigante B, Giral P, Goel A, Graham N, Hamsten A, Humphries SE, Johnston KJA, Lyall DM, Lyall LM, Sennblad B, Silveira A, Smit AJ, Tremoli E, Veglia F, Ward J, Watkins H, Smith DJ, Strawbridge RJ.",
     "authorAffiliations": "",
-    "journalTitle": "EBioMedicine",
-    "pubYear": "2018",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2019",
     "isOpenAccess": "Y",
-    "keywords": "Mood Instability; Gwas; Polygenic Risk Score; Circadian Rhythmicity; Relative Amplitude",
+    "keywords": "",
     "nationalPriorities": "Understanding the Causes of Disease",
     "healthCategories": "",
-    "abstract": "BACKGROUND:Circadian rhythms are fundamental to health and are particularly important for mental wellbeing. Disrupted rhythms of rest and activity are recognised as risk factors for major depressive disorder and bipolar disorder. METHODS:We conducted a genome-wide association study (GWAS) of low relative amplitude (RA), an objective measure of rest-activity cycles derived from the accelerometer data of 71,500 UK Biobank participants. Polygenic risk scores (PRS) for low RA were used to investigate potential associations with psychiatric phenotypes. OUTCOMES:Two independent genetic loci were associated with low RA, within genomic regions for Neurofascin (NFASC) and Solute Carrier Family 25 Member 17 (SLC25A17). A secondary GWAS of RA as a continuous measure identified a locus within Meis Homeobox 1 (MEIS1). There were no significant genetic correlations between low RA and any of the psychiatric phenotypes assessed. However, PRS for low RA was significantly associated with mood instability across multiple PRS thresholds (at PRS threshold 0\u00b705: OR\u202f=\u202f1\u00b702, 95% CI\u202f=\u202f1\u00b701-1\u00b702, p\u202f=\u202f9\u00b76\u202f\u00d7\u202f10-5), and with major depressive disorder (at PRS threshold 0\u00b71: OR\u202f=\u202f1\u00b703, 95% CI\u202f=\u202f1\u00b701-1\u00b705, p\u202f=\u202f0\u00b7025) and neuroticism (at PRS threshold 0\u00b75: Beta\u202f=\u202f0\u00b702, 95% CI\u202f=\u202f0\u00b7007-0\u00b704, p\u202f=\u202f0\u00b7021). INTERPRETATION:Overall, our findings contribute new knowledge on the complex genetic architecture of circadian rhythmicity and suggest a putative biological link between disrupted circadian function and mood disorder phenotypes, particularly mood instability, but also major depressive disorder and neuroticism. FUNDING:Medical Research Council (MR/K501335/1).",
+    "abstract": "CADM2 has been associated with a range of behavioural and metabolic traits, including physical activity, risk-taking, educational attainment, alcohol and cannabis use and obesity. Here, we set out to determine whether CADM2 contributes to mechanisms shared between mental and physical health disorders. We assessed genetic variants in the CADM2 locus for association with phenotypes in the UK Biobank, IMPROVE, PROCARDIS and SCARFSHEEP studies, before performing meta-analyses. A wide range of metabolic phenotypes were meta-analysed. Psychological phenotypes analysed in UK Biobank only were major depressive disorder, generalised anxiety disorder, bipolar disorder, neuroticism, mood instability and risk-taking behaviour. In UK Biobank, four, 88 and 172 genetic variants were significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with neuroticism, mood instability and risk-taking respectively. In meta-analyses of 4 cohorts, we identified 362, 63 and 11 genetic variants significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with BMI, SBP and CRP respectively. Genetic effects on BMI, CRP and risk-taking were all positively correlated, and were consistently inversely correlated with genetic effects on SBP, mood instability and neuroticism. Conditional analyses suggested an overlap in the signals for physical and psychological traits. Many significant variants had genotype-specific effects on CADM2 expression levels in adult brain and adipose tissues. CADM2 variants influence a wide range of both psychological and metabolic traits, suggesting common biological mechanisms across phenotypes via regulation of CADM2 expression levels in adipose tissue. Functional studies of CADM2 are required to fully understand mechanisms connecting mental and physical health conditions.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.ebiom.2018.08.004; html:https://europepmc.org/articles/PMC6154782; pdf:https://europepmc.org/articles/PMC6154782?pdf=render"
-  },
-  {
-    "id": "32639589",
-    "doi": "https://doi.org/10.1111/bcp.14458",
-    "title": "Measuring and reporting treatment adherence: What can we learn by comparing two respiratory conditions?",
-    "authorString": "Tibble H, Flook M, Sheikh A, Tsanas A, Horne R, Vrijens B, De Geest S, Stagg HR.",
-    "authorAffiliations": "",
-    "journalTitle": "British journal of clinical pharmacology",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Tuberculosis; Adherence; Persistence; Asthma; Compliance",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Medication non-adherence, defined as any deviation from the regimen recommended by their healthcare provider, can increase morbidity, mortality and side effects, while reducing effectiveness. Through studying two respiratory conditions, asthma and tuberculosis (TB), we thoroughly review the current understanding of the measurement and reporting of medication adherence. In this paper, we identify major methodological issues in the standard ways that adherence has been conceptualised, defined and studied in asthma and TB. Between and within the two diseases there are substantial variations in adherence reporting, linked to differences in dosing intervals and treatment duration. Critically, the communicable nature of TB has resulted in dose-by-dose monitoring becoming a recommended treatment standard. Through the lens of these similarities and contrasts, we highlight contemporary shortcomings in the generalised conceptualisation of medication adherence. Furthermore, we outline elements in which knowledge could be directly transferred from one condition to the other, such as the application of large-scale cost-effective monitoring methods in TB to resource-poor settings in asthma. To develop a more robust evidence-based approach, we recommend the use of standard taxonomies detailed in the ABC taxonomy when measuring and discussing adherence. Regimen and intervention development and use should be based on sufficient evidence of the commonality and type of adherence behaviours displayed by patients with the relevant condition. A systematic approach to the measurement and reporting of adherence could improve the value and generalisability of research across all health conditions.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/bcp.14458"
+    "urls": "doi:https://doi.org/10.1038/s41598-019-43861-9; html:https://europepmc.org/articles/PMC6517397; pdf:https://europepmc.org/articles/PMC6517397?pdf=render"
   },
   {
     "id": "32835195",
@@ -3856,20 +3856,20 @@
     "urls": "doi:https://doi.org/10.1016/S2589-7500(20)30134-5; html:https://europepmc.org/articles/PMC7292602; pdf:https://europepmc.org/articles/PMC7292602?pdf=render"
   },
   {
-    "id": "31089183",
-    "doi": "https://doi.org/10.1038/s41598-019-43861-9",
-    "title": "Genetic variation in CADM2 as a link between psychological traits and obesity.",
-    "authorString": "Morris J, Bailey MES, Baldassarre D, Cullen B, de Faire U, Ferguson A, Gigante B, Giral P, Goel A, Graham N, Hamsten A, Humphries SE, Johnston KJA, Lyall DM, Lyall LM, Sennblad B, Silveira A, Smit AJ, Tremoli E, Veglia F, Ward J, Watkins H, Smith DJ, Strawbridge RJ.",
+    "id": "32639589",
+    "doi": "https://doi.org/10.1111/bcp.14458",
+    "title": "Measuring and reporting treatment adherence: What can we learn by comparing two respiratory conditions?",
+    "authorString": "Tibble H, Flook M, Sheikh A, Tsanas A, Horne R, Vrijens B, De Geest S, Stagg HR.",
     "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Understanding the Causes of Disease",
+    "journalTitle": "British journal of clinical pharmacology",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Tuberculosis; Adherence; Persistence; Asthma; Compliance",
+    "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "CADM2 has been associated with a range of behavioural and metabolic traits, including physical activity, risk-taking, educational attainment, alcohol and cannabis use and obesity. Here, we set out to determine whether CADM2 contributes to mechanisms shared between mental and physical health disorders. We assessed genetic variants in the CADM2 locus for association with phenotypes in the UK Biobank, IMPROVE, PROCARDIS and SCARFSHEEP studies, before performing meta-analyses. A wide range of metabolic phenotypes were meta-analysed. Psychological phenotypes analysed in UK Biobank only were major depressive disorder, generalised anxiety disorder, bipolar disorder, neuroticism, mood instability and risk-taking behaviour. In UK Biobank, four, 88 and 172 genetic variants were significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with neuroticism, mood instability and risk-taking respectively. In meta-analyses of 4 cohorts, we identified 362, 63 and 11 genetic variants significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with BMI, SBP and CRP respectively. Genetic effects on BMI, CRP and risk-taking were all positively correlated, and were consistently inversely correlated with genetic effects on SBP, mood instability and neuroticism. Conditional analyses suggested an overlap in the signals for physical and psychological traits. Many significant variants had genotype-specific effects on CADM2 expression levels in adult brain and adipose tissues. CADM2 variants influence a wide range of both psychological and metabolic traits, suggesting common biological mechanisms across phenotypes via regulation of CADM2 expression levels in adipose tissue. Functional studies of CADM2 are required to fully understand mechanisms connecting mental and physical health conditions.",
+    "abstract": "Medication non-adherence, defined as any deviation from the regimen recommended by their healthcare provider, can increase morbidity, mortality and side effects, while reducing effectiveness. Through studying two respiratory conditions, asthma and tuberculosis (TB), we thoroughly review the current understanding of the measurement and reporting of medication adherence. In this paper, we identify major methodological issues in the standard ways that adherence has been conceptualised, defined and studied in asthma and TB. Between and within the two diseases there are substantial variations in adherence reporting, linked to differences in dosing intervals and treatment duration. Critically, the communicable nature of TB has resulted in dose-by-dose monitoring becoming a recommended treatment standard. Through the lens of these similarities and contrasts, we highlight contemporary shortcomings in the generalised conceptualisation of medication adherence. Furthermore, we outline elements in which knowledge could be directly transferred from one condition to the other, such as the application of large-scale cost-effective monitoring methods in TB to resource-poor settings in asthma. To develop a more robust evidence-based approach, we recommend the use of standard taxonomies detailed in the ABC taxonomy when measuring and discussing adherence. Regimen and intervention development and use should be based on sufficient evidence of the commonality and type of adherence behaviours displayed by patients with the relevant condition. A systematic approach to the measurement and reporting of adherence could improve the value and generalisability of research across all health conditions.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-019-43861-9; html:https://europepmc.org/articles/PMC6517397; pdf:https://europepmc.org/articles/PMC6517397?pdf=render"
+    "urls": "doi:https://doi.org/10.1111/bcp.14458"
   },
   {
     "id": "31109684",
@@ -4032,22 +4032,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2018-023232; html:https://europepmc.org/articles/PMC6500195; pdf:https://europepmc.org/articles/PMC6500195?pdf=render"
   },
   {
-    "id": "32637892",
-    "doi": "https://doi.org/10.1016/j.eclinm.2020.100392",
-    "title": "The association between exposure to childhood maltreatment and the subsequent development of functional somatic and visceral pain syndromes.",
-    "authorString": "Chandan JS, Keerthy D, Zemedikun DT, Okoth K, Gokhale KM, Raza K, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "EClinicalMedicine",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "epidemiology; Primary Care; Childhood Maltreatment; Central Sensitivity Syndromes",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Childhood maltreatment is a global public health issue linked to a vast mortality and morbidity burden. This study builds on current literature to explore the risk of developing central sensitivity syndromes (CSS) (consisting of somatic and visceral pain syndromes) subsequent to childhood maltreatment exposure. METHODS:A retrospective population based open cohort study using the UK primary care database, 'The Health Improvement Network,' between 1st January 1995-31st December 2018. 80,657 adult patients who had experienced childhood maltreatment or maltreatment related concerns (exposed patients) were matched to 161,314 unexposed patients by age and sex. Outcomes of interest were the development of CSS: either somatic (Fibromyalgia, chronic fatigue syndrome, temporomandibular joint disorder, chronic lower back pain, chronic headache, myofascial pain syndrome and restless leg syndrome) or visceral (Interstitial cystitis, vulvodynia, chronic prostatitis and irritable bowel syndrome) in nature. Effect sizes are presented as adjusted incidence rate ratios (aIRR) with confidence intervals (CI). Models were adjusted for the following covariates at cohort entry: age, sex, deprivation, anxiety, depression and serious mental ill health. RESULTS:The average age at cohort entry was 23.4 years and the median follow was 2.2 years. There was an increased risk of developing fibromyalgia (aIRR 2.06; 95% CI 1.71-2.48), chronic fatigue syndrome (1.47; 1.08-2.00), chronic lower back pain (1.99; 1.68-2.35), restless leg syndrome (1.82; 1.41-2.35) and irritable bowel syndrome (1.15; 1.08-1.22) when compared to the unexposed group, whereas no statistical association was seen with the development of temporomandibular joint disorder (1.00; 0.88-1.13), chronic headache (1.04; 0.59-1.86), interstitial cystitis (1.19; 0.51-2.74), vulvodynia (0.65; 0.34-1.26), chronic prostatitis (0.34; 0.07-1.77) and myofascial pain syndrome (0.88; 0.36-2.14). Outcome numbers were low, most likely, due to the rarity of visceral conditions (aside from irritable bowel syndrome). The association between a history of childhood maltreatment and CSS were mainly observed in somatic CSS. INTERPRETATION:The debilitating effects of CSS carry a substantial physical, psychological and economic burden to both the individuals who are diagnosed with them and the health services who serve them. Primary prevention approaches targeting childhood maltreatment as well as secondary preventative approaches should be considered to minimise the associated burden of CSS.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100392; html:https://europepmc.org/articles/PMC7329705; pdf:https://europepmc.org/articles/PMC7329705?pdf=render"
-  },
-  {
     "id": "30928915",
     "doi": "https://doi.org/10.1136/injuryprev-2018-043085",
     "title": "Comparison of revised Functional Capacity Index scores with Abbreviated Injury Scale 2008 scores in predicting 12-month severe trauma outcomes.",
@@ -4062,6 +4046,22 @@
     "abstract": "INTRODUCTION:Anatomical injury as measured by the AIS often accounts for only a small proportion of variability in outcomes after injury. The predictive Functional Capacity Index (FCI) appended to the 2008 AIS claims to provide a widely available method of predicting 12-month function following injury. OBJECTIVES:To determine the extent to which AIS-based and FCI-based scoring is able to add to a simple predictive model of 12-month function following severe injury. METHODS:Adult trauma patients were drawn from the population-based Victorian State Trauma Registry. Major trauma and severely injured orthopaedic trauma patients were followed up via telephone interview including Glasgow Outcome Scale-Extended, the EQ-5D-3L and return to work status. A battery of AIS-based and FCI-based scores, and a simple count of AIS-coded injuries were added in turn to a base model using age and gender. RESULTS:A total of 20\u2009813 patients survived to 12 months and had at least one functional outcome recorded, representing 85% follow-up. Predictions using the base model varied substantially across outcome measures. Irrespective of the method used to classify the severity of injury, adding injury severity to the model significantly, but only slightly improved model fit. Across the outcomes evaluated, no method of injury severity assessment consistently outperformed any other. CONCLUSIONS:Anatomical injury is a predictor of trauma outcome. However, injury severity as described by the FCI does not consistently improve discrimination, or even provide the best discrimination compared with AIS-based severity scores or a simple injury count.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/injuryprev-2018-043085"
+  },
+  {
+    "id": "32637892",
+    "doi": "https://doi.org/10.1016/j.eclinm.2020.100392",
+    "title": "The association between exposure to childhood maltreatment and the subsequent development of functional somatic and visceral pain syndromes.",
+    "authorString": "Chandan JS, Keerthy D, Zemedikun DT, Okoth K, Gokhale KM, Raza K, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "EClinicalMedicine",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "epidemiology; Primary Care; Childhood Maltreatment; Central Sensitivity Syndromes",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Childhood maltreatment is a global public health issue linked to a vast mortality and morbidity burden. This study builds on current literature to explore the risk of developing central sensitivity syndromes (CSS) (consisting of somatic and visceral pain syndromes) subsequent to childhood maltreatment exposure. METHODS:A retrospective population based open cohort study using the UK primary care database, 'The Health Improvement Network,' between 1st January 1995-31st December 2018. 80,657 adult patients who had experienced childhood maltreatment or maltreatment related concerns (exposed patients) were matched to 161,314 unexposed patients by age and sex. Outcomes of interest were the development of CSS: either somatic (Fibromyalgia, chronic fatigue syndrome, temporomandibular joint disorder, chronic lower back pain, chronic headache, myofascial pain syndrome and restless leg syndrome) or visceral (Interstitial cystitis, vulvodynia, chronic prostatitis and irritable bowel syndrome) in nature. Effect sizes are presented as adjusted incidence rate ratios (aIRR) with confidence intervals (CI). Models were adjusted for the following covariates at cohort entry: age, sex, deprivation, anxiety, depression and serious mental ill health. RESULTS:The average age at cohort entry was 23.4 years and the median follow was 2.2 years. There was an increased risk of developing fibromyalgia (aIRR 2.06; 95% CI 1.71-2.48), chronic fatigue syndrome (1.47; 1.08-2.00), chronic lower back pain (1.99; 1.68-2.35), restless leg syndrome (1.82; 1.41-2.35) and irritable bowel syndrome (1.15; 1.08-1.22) when compared to the unexposed group, whereas no statistical association was seen with the development of temporomandibular joint disorder (1.00; 0.88-1.13), chronic headache (1.04; 0.59-1.86), interstitial cystitis (1.19; 0.51-2.74), vulvodynia (0.65; 0.34-1.26), chronic prostatitis (0.34; 0.07-1.77) and myofascial pain syndrome (0.88; 0.36-2.14). Outcome numbers were low, most likely, due to the rarity of visceral conditions (aside from irritable bowel syndrome). The association between a history of childhood maltreatment and CSS were mainly observed in somatic CSS. INTERPRETATION:The debilitating effects of CSS carry a substantial physical, psychological and economic burden to both the individuals who are diagnosed with them and the health services who serve them. Primary prevention approaches targeting childhood maltreatment as well as secondary preventative approaches should be considered to minimise the associated burden of CSS.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100392; html:https://europepmc.org/articles/PMC7329705; pdf:https://europepmc.org/articles/PMC7329705?pdf=render"
   },
   {
     "id": "33064085",
@@ -4272,22 +4272,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2018-026677; html:https://europepmc.org/articles/PMC6720466; pdf:https://europepmc.org/articles/PMC6720466?pdf=render"
   },
   {
-    "id": "32222069",
-    "doi": "https://doi.org/10.1111/bjd.19052",
-    "title": "Risk of hospitalization and death due to infection in people with psoriasis: a population-based cohort study using the Clinical Practice Research Datalink.",
-    "authorString": "Yiu ZZN, Parisi R, Lunt M, Warren RB, Griffiths CEM, Langan SM, Ashcroft DM.",
-    "authorAffiliations": "",
-    "journalTitle": "The British journal of dermatology",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Psoriasis is associated with risk factors for serious infections, but the independent relationship between psoriasis and serious infection is as yet unclear. OBJECTIVES:To determine whether people with psoriasis have a higher risk of hospitalization due to any infection, respiratory infections, soft-tissue and skin infections, or a higher risk of death due to infection. METHODS:We conducted a cohort study of people (\u2265 18 years) with psoriasis using the UK Clinical Practice Research Datalink (CPRD GOLD) linked to Hospital Episode Statistics (HES) and Office for National Statistics (ONS) mortality records between 1 April 2003 and 31 December 2016, and matched with up to six comparators on age, sex and general practice. Hospitalization was ascertained from HES records; death was ascertained from ONS mortality records. Stratified Cox proportional hazard models were estimated, with stepwise adjustment in different models for potential confounders or mediators between psoriasis and serious infection. RESULTS:There were 69\u00a0315 people with psoriasis and 338\u00a0620 comparators who were followed up for a median (interquartile range) of 4\u00b79 (5\u00b79) and 5\u00b71 (6\u00b73) years, respectively. People with psoriasis had a higher incidence rate of serious infection [20\u00b75 per 1000 person-years, 95% confidence interval (CI) 20\u00b70-21\u00b70, n = 7631] compared with those without psoriasis (16\u00b71 per 1000 person-years, 95% CI 15\u00b79-16\u00b73, n = 30\u00a0761). The fully adjusted hazard ratio for the association between psoriasis and serious infection was 1\u00b736 (95% CI 1\u00b731-1\u00b740), with similar results across the other outcomes. CONCLUSIONS:Psoriasis is associated with a small increase in the risk of serious infection. Further research is needed to understand how psoriasis predisposes to a higher risk of infection.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/bjd.19052"
-  },
-  {
     "id": "30554166",
     "doi": "https://doi.org/10.1136/injuryprev-2018-043019",
     "title": "Work absence due to compensable RTCs in Victoria, Australia.",
@@ -4302,6 +4286,22 @@
     "abstract": "INTRODUCTION:RTC burden is commonly measured using fatality or hospitalisation statistics. However, non-fatal and less severe injuries contribute substantial economic and human costs, including work absence. In Victoria, Australia, two major compensation systems provide income support to employed people injured in RTCs; workers' compensation (if RTC occurred during work) and an RTC-specific compensation system. This study aimed to describe the number and rate of episodes of work absence due to compensable RTC and determine factors associated with work-related RTC resulting in work absence. METHODS:Administrative data for working-age people (15-65 years) with accepted compensation claims between 1 July 2003 and 30 June 2013 were extracted from Victoria's Compensation Research Database and analysed. Injured people receiving at least one day of income support were retained. Rate calculations used Victoria's labour force as the denominator and negative binomial regression determined any time-based trend changes. Multivariable logistic regression was used to determine odds of the RTC being work-related. RESULTS:There were 40\u2009677 claims made by workers with an RTC injury that consequently missed work, averaging 4068 claims per year at a rate of 12.9 per 100\u2009000 working population. Work-related cases contributed 17.4% (N=7061). Males, older adults and RTCs involving heavy vehicles, buses, trains and trams had higher odds of a work-related RTC resulting in work absence. More severe injuries tended not to be work-related. CONCLUSIONS:Work absence due to RTC injury constitutes a substantial burden, and this measure could provide a valuable addition to conventional RTC statistics.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/injuryprev-2018-043019"
+  },
+  {
+    "id": "32222069",
+    "doi": "https://doi.org/10.1111/bjd.19052",
+    "title": "Risk of hospitalization and death due to infection in people with psoriasis: a population-based cohort study using the Clinical Practice Research Datalink.",
+    "authorString": "Yiu ZZN, Parisi R, Lunt M, Warren RB, Griffiths CEM, Langan SM, Ashcroft DM.",
+    "authorAffiliations": "",
+    "journalTitle": "The British journal of dermatology",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Psoriasis is associated with risk factors for serious infections, but the independent relationship between psoriasis and serious infection is as yet unclear. OBJECTIVES:To determine whether people with psoriasis have a higher risk of hospitalization due to any infection, respiratory infections, soft-tissue and skin infections, or a higher risk of death due to infection. METHODS:We conducted a cohort study of people (\u2265 18 years) with psoriasis using the UK Clinical Practice Research Datalink (CPRD GOLD) linked to Hospital Episode Statistics (HES) and Office for National Statistics (ONS) mortality records between 1 April 2003 and 31 December 2016, and matched with up to six comparators on age, sex and general practice. Hospitalization was ascertained from HES records; death was ascertained from ONS mortality records. Stratified Cox proportional hazard models were estimated, with stepwise adjustment in different models for potential confounders or mediators between psoriasis and serious infection. RESULTS:There were 69\u00a0315 people with psoriasis and 338\u00a0620 comparators who were followed up for a median (interquartile range) of 4\u00b79 (5\u00b79) and 5\u00b71 (6\u00b73) years, respectively. People with psoriasis had a higher incidence rate of serious infection [20\u00b75 per 1000 person-years, 95% confidence interval (CI) 20\u00b70-21\u00b70, n = 7631] compared with those without psoriasis (16\u00b71 per 1000 person-years, 95% CI 15\u00b79-16\u00b73, n = 30\u00a0761). The fully adjusted hazard ratio for the association between psoriasis and serious infection was 1\u00b736 (95% CI 1\u00b731-1\u00b740), with similar results across the other outcomes. CONCLUSIONS:Psoriasis is associated with a small increase in the risk of serious infection. Further research is needed to understand how psoriasis predisposes to a higher risk of infection.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/bjd.19052"
   },
   {
     "id": "32108548",
@@ -4864,22 +4864,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2020-038530; html:https://europepmc.org/articles/PMC7239518; pdf:https://europepmc.org/articles/PMC7239518?pdf=render"
   },
   {
-    "id": "31816119",
-    "doi": "https://doi.org/10.1002/sim.8443",
-    "title": "Dynamic predictive probabilities to monitor rapid cystic fibrosis disease progression.",
-    "authorString": "Szczesniak RD, Su W, Brokamp C, Keogh RH, Pestian JP, Seid M, Diggle PJ, Clancy JP.",
-    "authorAffiliations": "",
-    "journalTitle": "Statistics in medicine",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "Longitudinal Data Analysis; Medical Monitoring; Nonstationary Process; Nowcasting; Predictive Probability Distributions",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "Cystic fibrosis (CF) is a progressive, genetic disease characterized by frequent, prolonged drops in lung function. Accurately predicting rapid underlying lung-function decline is essential for clinical decision support and timely intervention. Determining whether an individual is experiencing a period of rapid decline is complicated due to its heterogeneous timing and extent, and error component of the measured lung function. We construct individualized predictive probabilities for \"nowcasting\" rapid decline. We assume each patient's true longitudinal lung function, S(t), follows a nonlinear, nonstationary stochastic process, and accommodate between-patient heterogeneity through random effects. Corresponding lung-function decline at time t is defined as the rate of change, S'(t). We predict S'(t) conditional on observed covariate and measurement history by modeling a measured lung function as a noisy version of S(t). The method is applied to data on 30\u2009879 US CF Registry patients. Results are contrasted with a currently employed decision rule using single-center data on 212 individuals. Rapid decline is identified earlier using predictive probabilities than the center's currently employed decision rule (mean difference: 0.65\u2009years; 95% confidence interval (CI): 0.41, 0.89). We constructed a bootstrapping algorithm to obtain CIs for predictive probabilities. We illustrate real-time implementation with R Shiny. Predictive accuracy is investigated using empirical simulations, which suggest this approach more accurately detects peak decline, compared with a uniform threshold of rapid decline. Median area under the ROC curve estimates (Q1-Q3) were 0.817 (0.814-0.822) and 0.745 (0.741-0.747), respectively, implying reasonable accuracy for both. This article demonstrates how individualized rate of change estimates can be coupled with probabilistic predictive inference and implementation for a useful medical-monitoring approach.",
-    "laySummary": "The objective of this paper was to construct individualised dynamic predictive probabilities to monitor rapid Cystic Fibrosis (CF) disease progression. The results demonstrated how individualised rate of change estimates can be coupled with probabilitic predictive inference and implementation for a useful medical-monitoring approach.",
-    "urls": "doi:https://doi.org/10.1002/sim.8443; html:https://europepmc.org/articles/PMC7028099; pdf:https://europepmc.org/articles/PMC7028099?pdf=render"
-  },
-  {
     "id": "30887727",
     "doi": "https://doi.org/10.1002/ppul.24314",
     "title": "Physical activity among children with asthma: Cross-sectional analysis in the UK millennium cohort.",
@@ -4894,6 +4878,22 @@
     "abstract": "BACKGROUND:Although beneficial for health and well-being, most children do not achieve recommended levels of physical activity. Evidence for children with asthma is mixed, with symptom severity rarely considered. This paper aimed to address this gap. METHODS:We analyzed cross-sectional associations between physical activity and parent-reported asthma symptoms and severity for 6497 UK Millennium Cohort Study 7-year-old participants (3321, [49%] girls). Primary outcomes were daily moderate-to-vigorous physical activity (MVPA, minutes) and proportion of children achieving recommended minimum daily levels of 60\u2009minutes of MVPA. Daily steps, sedentary time, and total activity counts per minute (cpm) were recorded, as were parent-reported asthma symptoms, medications, and recent hospital admissions. Associations were investigated using quantile (continuous outcomes) and Poisson (binary outcomes) regression, adjusting for demographic, socioeconomic, health, and environmental factors. RESULTS:Neither asthma status nor severity was associated with MVPA; children recently hospitalized for asthma were less likely to achieve recommended daily MVPA (risk ratio [95% confidence interval [CI]]: 0.67 [0.44, 1.03]). Recent wheeze, current asthma, and severe asthma symptoms were associated with fewer sedentary hours (difference in medians [95% CI]: -0.18 [-0.27, -0.08]; -0.14 [-0.24, -0.05]; -0.15, [-0.28, -0.02], respectively) and hospital admission with lower total activity (-48\u2009cpm [-68, -28]). CONCLUSION:Children with asthma are as physically active as their asthma-free counterparts, while those recently hospitalized for asthma are less active. Qualitative studies are needed to understand the perceptions of children and families about physical activity following hospital admission and to inform support and advice needed to maintain active lifestyles for children with asthma.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/ppul.24314; html:https://europepmc.org/articles/PMC6617805; pdf:https://europepmc.org/articles/PMC6617805?pdf=render"
+  },
+  {
+    "id": "31816119",
+    "doi": "https://doi.org/10.1002/sim.8443",
+    "title": "Dynamic predictive probabilities to monitor rapid cystic fibrosis disease progression.",
+    "authorString": "Szczesniak RD, Su W, Brokamp C, Keogh RH, Pestian JP, Seid M, Diggle PJ, Clancy JP.",
+    "authorAffiliations": "",
+    "journalTitle": "Statistics in medicine",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "Longitudinal Data Analysis; Medical Monitoring; Nonstationary Process; Nowcasting; Predictive Probability Distributions",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "Cystic fibrosis (CF) is a progressive, genetic disease characterized by frequent, prolonged drops in lung function. Accurately predicting rapid underlying lung-function decline is essential for clinical decision support and timely intervention. Determining whether an individual is experiencing a period of rapid decline is complicated due to its heterogeneous timing and extent, and error component of the measured lung function. We construct individualized predictive probabilities for \"nowcasting\" rapid decline. We assume each patient's true longitudinal lung function, S(t), follows a nonlinear, nonstationary stochastic process, and accommodate between-patient heterogeneity through random effects. Corresponding lung-function decline at time t is defined as the rate of change, S'(t). We predict S'(t) conditional on observed covariate and measurement history by modeling a measured lung function as a noisy version of S(t). The method is applied to data on 30\u2009879 US CF Registry patients. Results are contrasted with a currently employed decision rule using single-center data on 212 individuals. Rapid decline is identified earlier using predictive probabilities than the center's currently employed decision rule (mean difference: 0.65\u2009years; 95% confidence interval (CI): 0.41, 0.89). We constructed a bootstrapping algorithm to obtain CIs for predictive probabilities. We illustrate real-time implementation with R Shiny. Predictive accuracy is investigated using empirical simulations, which suggest this approach more accurately detects peak decline, compared with a uniform threshold of rapid decline. Median area under the ROC curve estimates (Q1-Q3) were 0.817 (0.814-0.822) and 0.745 (0.741-0.747), respectively, implying reasonable accuracy for both. This article demonstrates how individualized rate of change estimates can be coupled with probabilistic predictive inference and implementation for a useful medical-monitoring approach.",
+    "laySummary": "The objective of this paper was to construct individualised dynamic predictive probabilities to monitor rapid Cystic Fibrosis (CF) disease progression. The results demonstrated how individualised rate of change estimates can be coupled with probabilitic predictive inference and implementation for a useful medical-monitoring approach.",
+    "urls": "doi:https://doi.org/10.1002/sim.8443; html:https://europepmc.org/articles/PMC7028099; pdf:https://europepmc.org/articles/PMC7028099?pdf=render"
   },
   {
     "id": "32656368",
@@ -4928,22 +4928,6 @@
     "urls": "doi:https://doi.org/10.2337/dc18-2004"
   },
   {
-    "id": "32811694",
-    "doi": "https://doi.org/10.1016/j.burns.2020.01.005",
-    "title": "Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the Burns Registry of Australia and New Zealand.",
-    "authorString": "Gong J, Singer Y, Cleland H, Wood F, Cameron P, Tracy LM, Gabbe BJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Burns : journal of the International Society for Burn Injuries",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Burns; Quality Indicators; Clinical Quality Registry",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:In 2009, the Burns Registry of Australia and New Zealand (BRANZ) published a set of clinical quality indicators (QIs) to monitor performance, improve quality of care, and inform and change policy. With several years of data collected since the initial development of the indicators for burns, the BRANZ QI Working Party reviewed the clinical QIs for relevance and meaning, and considered new QIs that had not been collected previously. METHOD:Using published literature and expert opinion, the QI Working Party, consisting of multidisciplinary burn clinicians, reviewed the QIs for burn care to be included as routine data items in the BRANZ. RESULTS:In July 2016, the list of clinical QIs in the BRANZ was updated to 23 QIs/data items, covering structure, process, and outcome measures. Four QIs were removed as they were not found to be useful, nine QIs/data items were revised, and eight new QIs/data items were added as they were considered to be clinically useful. CONCLUSION:This review outlines the changes made to the QIs collected by the BRANZ four years since their development and implementation. Ongoing refinement of the BRANZ QIs will ensure that high quality data is collected to drive improvements in clinical and patient outcomes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.burns.2020.01.005"
-  },
-  {
     "id": "32289242",
     "doi": "https://doi.org/10.1098/rsob.190297",
     "title": "Why is cancer not more common? A changing microenvironment may help to explain why, and suggests strategies for anti-cancer therapy.",
@@ -4958,6 +4942,22 @@
     "abstract": "One of the great unsolved puzzles in cancer biology is not why cancers occur, but rather explaining why so few cancers occur compared with the theoretical number that could occur, given the number of progenitor cells in the body and the normal mutation rate. We hypothesized that a contributory explanation is that the tumour microenvironment (TME) is not fixed due to factors such as immune cell infiltration, and that this could impair the ability of neoplastic cells to retain a high enough fitness to become a cancer. The TME has implicitly been assumed to be static in most cancer evolution models, and we therefore developed a mathematical model of spatial cancer evolution assuming that the TME, and thus the optimum cancer phenotype, changes over time. Based on simulations, we show how cancer cell populations adapt to diverse changing TME conditions and fitness landscapes. Compared with static TMEs, which generate neutral dynamics, changing TMEs lead to complex adaptations with characteristic spatio-temporal heterogeneity involving variable fitness effects of driver mutations, subclonal mixing, subclonal competition and phylogeny patterns. In many cases, cancer cell populations fail to grow or undergo spontaneous regression, and even extinction. Our analyses predict that cancer evolution in a changing TME is challenging, and can help to explain why cancer is neither inevitable nor as common as expected. Should cancer driver mutations with effects dependent of the TME exist, they are likely to be selected. Anti-cancer prevention and treatment strategies based on changing the TME are feasible and potentially effective.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1098/rsob.190297; html:https://europepmc.org/articles/PMC7241076; pdf:https://europepmc.org/articles/PMC7241076?pdf=render"
+  },
+  {
+    "id": "32811694",
+    "doi": "https://doi.org/10.1016/j.burns.2020.01.005",
+    "title": "Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the Burns Registry of Australia and New Zealand.",
+    "authorString": "Gong J, Singer Y, Cleland H, Wood F, Cameron P, Tracy LM, Gabbe BJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Burns : journal of the International Society for Burn Injuries",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Burns; Quality Indicators; Clinical Quality Registry",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:In 2009, the Burns Registry of Australia and New Zealand (BRANZ) published a set of clinical quality indicators (QIs) to monitor performance, improve quality of care, and inform and change policy. With several years of data collected since the initial development of the indicators for burns, the BRANZ QI Working Party reviewed the clinical QIs for relevance and meaning, and considered new QIs that had not been collected previously. METHOD:Using published literature and expert opinion, the QI Working Party, consisting of multidisciplinary burn clinicians, reviewed the QIs for burn care to be included as routine data items in the BRANZ. RESULTS:In July 2016, the list of clinical QIs in the BRANZ was updated to 23 QIs/data items, covering structure, process, and outcome measures. Four QIs were removed as they were not found to be useful, nine QIs/data items were revised, and eight new QIs/data items were added as they were considered to be clinically useful. CONCLUSION:This review outlines the changes made to the QIs collected by the BRANZ four years since their development and implementation. Ongoing refinement of the BRANZ QIs will ensure that high quality data is collected to drive improvements in clinical and patient outcomes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.burns.2020.01.005"
   },
   {
     "id": "31780306",
@@ -5088,22 +5088,6 @@
     "urls": "doi:https://doi.org/10.1016/S2215-0366(19)30369-4"
   },
   {
-    "id": "32546850",
-    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
-    "title": "Genetic aetiology of self-harm ideation and behaviour.",
-    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (hsnp2) estimates were ~10%, and both traits were highly genetically correlated (LDSC rg\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
-  },
-  {
     "id": "31062032",
     "doi": "https://doi.org/10.1093/ije/dyz073",
     "title": "Cohort Profile: Extended Cohort for E-health, Environment and DNA (EXCEED).",
@@ -5120,22 +5104,6 @@
     "urls": "doi:https://doi.org/10.1093/ije/dyz073; html:https://europepmc.org/articles/PMC6659362; pdf:https://europepmc.org/articles/PMC6659362?pdf=render"
   },
   {
-    "id": "32142356",
-    "doi": "https://doi.org/10.1164/rccm.201902-0286oc",
-    "title": "Prenatal, Early-Life, and Childhood Exposure to Air Pollution and Lung Function: The ALSPAC Cohort.",
-    "authorString": "Cai Y, Hansell AL, Granell R, Blangiardo M, Zottoli M, Fecht D, Gulliver J, Henderson AJ, Elliott P.",
-    "authorAffiliations": "",
-    "journalTitle": "American journal of respiratory and critical care medicine",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Air pollution; Children; Traffic; Alspac; Respiratory Health",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Rationale: Exposure to air pollution during intrauterine development and through childhood may have lasting effects on respiratory health.Objectives: To investigate lung function at ages 8 and 15 years in relation to air pollution exposures during pregnancy, infancy, and childhood in a UK population-based birth cohort.Methods: Individual exposures to source-specific particulate matter \u226410 \u03bcm in aerodynamic diameter (PM10) during each trimester, 0-6 months, 7-12 months (1990-1993), and up to age 15 years (1991-2008) were examined in relation to FEV1% predicted and FVC% predicted at ages 8 (n\u2009=\u20095,276) and 15 (n\u2009=\u20093,446) years using linear regression models adjusted for potential confounders. A profile regression model was used to identify sensitive time periods.Measurements and Main Results: We did not find clear evidence of a sensitive exposure period for PM10 from road traffic. At age 8 years, 1 \u03bcg/m3 higher exposure during the first trimester was associated with lower FEV1% predicted (-0.826; 95% confidence interval [CI], -1.357 to -0.296) and FVC% predicted (-0.817; 95% CI, -1.357 to -0.276), but similar associations were seen for exposures for other trimesters, 0-6 months, 7-12 months, and 0-7 years. Associations were stronger among boys, as well as children whose mother had a lower education level or smoked during pregnancy. For PM10 from all sources, the third trimester was associated with lower FVC% predicted (-1.312; 95% CI, -2.100 to -0.525). At age 15 years, no adverse associations with lung function were seen.Conclusions: Exposure to road-traffic PM10 during pregnancy may result in small but significant reductions in lung function at age 8 years.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1164/rccm.201902-0286OC"
-  },
-  {
     "id": "30351417",
     "doi": "https://doi.org/10.1093/bioinformatics/bty837",
     "title": "pJRES Binning Algorithm (JBA): a new method to facilitate the recovery of metabolic information from pJRES 1H NMR spectra.",
@@ -5150,6 +5118,22 @@
     "abstract": "MOTIVATION:Data processing is a key bottleneck for 1H NMR-based metabolic profiling of complex biological mixtures, such as biofluids. These spectra typically contain several thousands of signals, corresponding to possibly few hundreds of metabolites. A number of binning-based methods have been proposed to reduce the dimensionality of 1\u2009D 1H NMR datasets, including statistical recoupling of variables (SRV). Here, we introduce a new binning method, named JBA (\"pJRES Binning Algorithm\"), which aims to extend the applicability of SRV to pJRES spectra. RESULTS:The performance of JBA is comprehensively evaluated using 617 plasma 1H NMR spectra from the FGENTCARD cohort. The results presented here show that JBA exhibits higher sensitivity than SRV to detect peaks from low-abundance metabolites. In addition, JBA allows a more efficient removal of spectral variables corresponding to pure electronic noise, and this has a positive impact on multivariate model building. AVAILABILITY AND IMPLEMENTATION:The algorithm is implemented using the MWASTools R/Bioconductor package. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/bioinformatics/bty837; html:https://europepmc.org/articles/PMC6546129; pdf:https://europepmc.org/articles/PMC6546129?pdf=render"
+  },
+  {
+    "id": "32142356",
+    "doi": "https://doi.org/10.1164/rccm.201902-0286oc",
+    "title": "Prenatal, Early-Life, and Childhood Exposure to Air Pollution and Lung Function: The ALSPAC Cohort.",
+    "authorString": "Cai Y, Hansell AL, Granell R, Blangiardo M, Zottoli M, Fecht D, Gulliver J, Henderson AJ, Elliott P.",
+    "authorAffiliations": "",
+    "journalTitle": "American journal of respiratory and critical care medicine",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Air pollution; Children; Traffic; Alspac; Respiratory Health",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Rationale: Exposure to air pollution during intrauterine development and through childhood may have lasting effects on respiratory health.Objectives: To investigate lung function at ages 8 and 15 years in relation to air pollution exposures during pregnancy, infancy, and childhood in a UK population-based birth cohort.Methods: Individual exposures to source-specific particulate matter \u226410 \u03bcm in aerodynamic diameter (PM10) during each trimester, 0-6 months, 7-12 months (1990-1993), and up to age 15 years (1991-2008) were examined in relation to FEV1% predicted and FVC% predicted at ages 8 (n\u2009=\u20095,276) and 15 (n\u2009=\u20093,446) years using linear regression models adjusted for potential confounders. A profile regression model was used to identify sensitive time periods.Measurements and Main Results: We did not find clear evidence of a sensitive exposure period for PM10 from road traffic. At age 8 years, 1 \u03bcg/m3 higher exposure during the first trimester was associated with lower FEV1% predicted (-0.826; 95% confidence interval [CI], -1.357 to -0.296) and FVC% predicted (-0.817; 95% CI, -1.357 to -0.276), but similar associations were seen for exposures for other trimesters, 0-6 months, 7-12 months, and 0-7 years. Associations were stronger among boys, as well as children whose mother had a lower education level or smoked during pregnancy. For PM10 from all sources, the third trimester was associated with lower FVC% predicted (-1.312; 95% CI, -2.100 to -0.525). At age 15 years, no adverse associations with lung function were seen.Conclusions: Exposure to road-traffic PM10 during pregnancy may result in small but significant reductions in lung function at age 8 years.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1164/rccm.201902-0286OC"
   },
   {
     "id": "30537243",
@@ -5262,6 +5246,22 @@
     "abstract": "OBJECTIVE:To explore whether thyroid stimulating hormone (TSH) concentration in patients with a diagnosis of hypothyroidism is associated with increased all cause mortality and a higher risk of cardiovascular disease and fractures. DESIGN:Retrospective cohort study. SETTING:The Health Improvement Network (THIN), a database of electronic patient records from UK primary care. PARTICIPANTS:Adult patients with incident hypothyroidism from 1 January 1995 to 31 December 2017. EXPOSURE:TSH concentration in patients with hypothyroidism. MAIN OUTCOME MEASURES:Ischaemic heart disease, heart failure, stroke/transient ischaemic attack, atrial fibrillation, any fractures, fragility fractures, and mortality. Longitudinal TSH measurements from diagnosis to outcomes, study end, or loss to follow-up were collected. An extended Cox proportional hazards model with TSH considered as a time varying covariate was fitted for each outcome. RESULTS:162\u2009369 patients with hypothyroidism and 863\u2009072 TSH measurements were included in the analysis. Compared with the reference TSH category (2-2.5 mIU/L), risk of ischaemic heart disease and heart failure increased at high TSH concentrations (>10 mIU/L) (hazard ratio 1.18 (95% confidence interval 1.02 to 1.38; P=0.03) and 1.42 (1.21 to 1.67; P<0.001), respectively). A protective effect for heart failure was seen at low TSH concentrations (hazard ratio 0.79 (0.64 to 0.99; P=0.04) for TSH <0.1 mIU/L and 0.76 (0.62 to 0.92; P=0.006) for 0.1-0.4 mIU/L). Increased mortality was observed in both the lowest and highest TSH categories (hazard ratio 1.18 (1.08 to 1.28; P<0.001), 1.29 (1.22 to 1.36; P<0.001), and 2.21 (2.07 to 2.36; P<0.001) for TSH <0.1 mIU/L, 4-10 mIU/L, and >10 mIU/L. An increase in the risk of fragility fractures was observed in patients in the highest TSH category (>10 mIU/L) (hazard ratio 1.15 (1.01 to 1.31; P=0.03)). CONCLUSIONS:In patients with a diagnosis of hypothyroidism, no evidence was found to suggest a clinically meaningful difference in the pattern of long term health outcomes (all cause mortality, atrial fibrillation, ischaemic heart disease, heart failure, stroke/transient ischaemic attack, fractures) when TSH concentrations were within recommended normal limits. Evidence was found for adverse health outcomes when TSH concentration is outside this range, particularly above the upper reference value.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmj.l4892; html:https://europepmc.org/articles/PMC6719286"
+  },
+  {
+    "id": "32546850",
+    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
+    "title": "Genetic aetiology of self-harm ideation and behaviour.",
+    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (hsnp2) estimates were ~10%, and both traits were highly genetically correlated (LDSC rg\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
   },
   {
     "id": "31409800",
@@ -5408,22 +5408,6 @@
     "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.120.045826"
   },
   {
-    "id": "31820220",
-    "doi": "https://doi.org/10.1007/s10926-019-09867-w",
-    "title": "The Association Between Fault Attribution and Work Participation After Road Traffic Injury: A Registry-Based Observational Study.",
-    "authorString": "Lau G, Gabbe BJ, Collie A, Ponsford J, Ameratunga S, Cameron PA, Harrison JE, Giummarra MJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of occupational rehabilitation",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Trauma; Injury; Recovery; Traffic; Accidents; Return To Work",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Purpose To characterise associations between fault attribution and work participation and capacity after road traffic injury. Methods People aged 15-65\u00a0years, working pre-injury, without serious brain injury, who survived to 12\u00a0months after road traffic injury were included from two Victorian trauma registries (n\u2009=\u20092942). Fault profiles from linked compensation claims were defined as no other at fault, another at fault, denied another at fault, claimed another at fault, and unknown. Claimant reports in the denied and claimed another at fault groups contradicted police reports. Patients reported work capacity (Glasgow outcome scale-extended) and return to work (RTW) at 6, 12 and 24\u2009months post-injury (early and sustained RTW, delayed RTW (\u2265\u200912\u2009months), failed RTW attempts, no RTW attempts). Analyses adjusted for demographic, clinical and injury covariates. Results The risk of not returning to work was higher if another was at fault [adjusted relative risk ratio (aRRR)\u2009=\u20091.67, 95% confidence interval (CI) 1.29, 2.17] or was claimed to be at fault (aRRR\u2009=\u20091.58, 95% CI 1.04, 2.41), and lower for those who denied that another was at fault (aRRR\u2009=\u20090.51, 95% CI 0.29, 0.91), compared to cases with no other at fault. Similarly, people had higher odds of work capacity limitations if another was at fault (12m: AOR\u2009=\u20091.49, 95% CI 1.24, 1.80; 24m: 1.63, 95% CI 1.35, 1.97) or was claimed to be at fault (12m: AOR\u2009=\u20091.54, 95% CI 1.16, 2.05; 24m: AOR\u2009=\u20091.80, 95% CI 1.34, 2.41), and lower odds if they denied another was at fault (6m: AOR\u2009=\u20090.67, 95% CI 0.48, 0.95), compared to cases with no other at fault. Conclusion Targeted interventions are needed to support work participation in people at risk of poor RTW post-injury. While interventions targeting fault and justice-related attributions are currently lacking, these may be beneficial for people who believe that another caused their injury.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s10926-019-09867-w"
-  },
-  {
     "id": "30102210",
     "doi": "https://doi.org/10.1016/s1470-2045(18)30425-x",
     "title": "A roadmap for restoring trust in Big Data.",
@@ -5438,6 +5422,22 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S1470-2045(18)30425-X"
+  },
+  {
+    "id": "31820220",
+    "doi": "https://doi.org/10.1007/s10926-019-09867-w",
+    "title": "The Association Between Fault Attribution and Work Participation After Road Traffic Injury: A Registry-Based Observational Study.",
+    "authorString": "Lau G, Gabbe BJ, Collie A, Ponsford J, Ameratunga S, Cameron PA, Harrison JE, Giummarra MJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of occupational rehabilitation",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Trauma; Injury; Recovery; Traffic; Accidents; Return To Work",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Purpose To characterise associations between fault attribution and work participation and capacity after road traffic injury. Methods People aged 15-65\u00a0years, working pre-injury, without serious brain injury, who survived to 12\u00a0months after road traffic injury were included from two Victorian trauma registries (n\u2009=\u20092942). Fault profiles from linked compensation claims were defined as no other at fault, another at fault, denied another at fault, claimed another at fault, and unknown. Claimant reports in the denied and claimed another at fault groups contradicted police reports. Patients reported work capacity (Glasgow outcome scale-extended) and return to work (RTW) at 6, 12 and 24\u2009months post-injury (early and sustained RTW, delayed RTW (\u2265\u200912\u2009months), failed RTW attempts, no RTW attempts). Analyses adjusted for demographic, clinical and injury covariates. Results The risk of not returning to work was higher if another was at fault [adjusted relative risk ratio (aRRR)\u2009=\u20091.67, 95% confidence interval (CI) 1.29, 2.17] or was claimed to be at fault (aRRR\u2009=\u20091.58, 95% CI 1.04, 2.41), and lower for those who denied that another was at fault (aRRR\u2009=\u20090.51, 95% CI 0.29, 0.91), compared to cases with no other at fault. Similarly, people had higher odds of work capacity limitations if another was at fault (12m: AOR\u2009=\u20091.49, 95% CI 1.24, 1.80; 24m: 1.63, 95% CI 1.35, 1.97) or was claimed to be at fault (12m: AOR\u2009=\u20091.54, 95% CI 1.16, 2.05; 24m: AOR\u2009=\u20091.80, 95% CI 1.34, 2.41), and lower odds if they denied another was at fault (6m: AOR\u2009=\u20090.67, 95% CI 0.48, 0.95), compared to cases with no other at fault. Conclusion Targeted interventions are needed to support work participation in people at risk of poor RTW post-injury. While interventions targeting fault and justice-related attributions are currently lacking, these may be beneficial for people who believe that another caused their injury.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s10926-019-09867-w"
   },
   {
     "id": "31969318",
@@ -5616,22 +5616,6 @@
     "urls": "doi:https://doi.org/10.1038/s42003-020-0921-5; html:https://europepmc.org/articles/PMC7181819; pdf:https://europepmc.org/articles/PMC7181819?pdf=render"
   },
   {
-    "id": "32558637",
-    "doi": "https://doi.org/10.1099/mgen.0.000393",
-    "title": "Evaluation of methods for detecting human reads in microbial sequencing datasets.",
-    "authorString": "Bush SJ, Connor TR, Peto TEA, Crook DW, Walker AS.",
-    "authorAffiliations": "",
-    "journalTitle": "Microbial genomics",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "Human; Contamination; Read Depletion; Read Removal",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Sequencing data from host-associated microbes can often be contaminated by the body of the investigator or research subject. Human DNA is typically removed from microbial reads either by subtractive alignment (dropping all reads that map to the human genome) or by using a read classification tool to predict those of human origin, and then discarding them. To inform best practice guidelines, we benchmarked eight alignment-based and two classification-based methods of human read detection using simulated data from 10 clinically prevalent bacteria and three viruses, into which contaminating human reads had been added. While the majority of methods successfully detected >99\u200a% of the human reads, they were distinguishable by variance. The most precise methods, with negligible variance, were Bowtie2 and SNAP, both of which misidentified few, if any, bacterial reads (and no viral reads) as human. While correctly detecting a similar number of human reads, methods based on taxonomic classification, such as Kraken2 and Centrifuge, could misclassify bacterial reads as human, although the extent of this was species-specific. Among the most sensitive methods of human read detection was BWA, although this also made the greatest number of false positive classifications. Across all methods, the set of human reads not identified as such, although often representing <0.1\u200a% of the total reads, were non-randomly distributed along the human genome with many originating from the repeat-rich sex chromosomes. For viral reads and longer (>300\u2009bp) bacterial reads, the highest performing approaches were classification-based, using Kraken2 or Centrifuge. For shorter (c. 150\u2009bp) bacterial reads, combining multiple methods of human read detection maximized the recovery of human reads from contaminated short read datasets without being compromised by false positives. A particularly high-performance approach with shorter bacterial reads was a two-stage classification using Bowtie2 followed by SNAP. Using this approach, we re-examined 11\u200a577 publicly archived bacterial read sets for hitherto undetected human contamination. We were able to extract a sufficient number of reads to call known human SNPs, including those with clinical significance, in 6\u200a% of the samples. These results show that phenotypically distinct human sequence is detectable in publicly archived microbial read datasets.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1099/mgen.0.000393; html:https://europepmc.org/articles/PMC7478626; pdf:https://europepmc.org/articles/PMC7478626?pdf=render"
-  },
-  {
     "id": "31073125",
     "doi": "https://doi.org/10.1038/s41533-019-0132-z",
     "title": "Systematic review of clinical prediction models to support the diagnosis of asthma in primary care.",
@@ -5646,6 +5630,22 @@
     "abstract": "Diagnosing asthma is challenging. Misdiagnosis can lead to untreated symptoms, incorrect treatment and avoidable deaths. The best combination of clinical features and tests to achieve a diagnosis of asthma is unclear. As asthma is usually diagnosed in non-specialist settings, a clinical prediction model to aid the assessment of the probability of asthma in primary care may improve diagnostic accuracy. We aimed to identify and describe existing prediction models to support the diagnosis of asthma in children and adults in primary care. We searched Medline, Embase, CINAHL, TRIP and US National Guidelines Clearinghouse databases from 1 January 1990 to 23 November 17. We included prediction models designed for use in primary care or equivalent settings to aid the diagnostic decision-making of clinicians assessing patients with symptoms suggesting asthma. Two reviewers independently screened titles, abstracts and full texts for eligibility, extracted data and assessed risk of bias. From 13,798 records, 53 full-text articles were reviewed. We included seven modelling studies; all were at high risk of bias. Model performance varied, and the area under the receiving operating characteristic curve ranged from 0.61 to 0.82. Patient-reported wheeze, symptom variability and history of allergy or allergic rhinitis were associated with asthma. In conclusion, clinical prediction models may support the diagnosis of asthma in primary care, but existing models are at high risk of bias and thus unreliable for informing practice. Future studies should adhere to recognised standards, conduct model validation and include a broader range of clinical data to derive a prediction model of value for clinicians.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41533-019-0132-z; html:https://europepmc.org/articles/PMC6509212; pdf:https://europepmc.org/articles/PMC6509212?pdf=render"
+  },
+  {
+    "id": "32558637",
+    "doi": "https://doi.org/10.1099/mgen.0.000393",
+    "title": "Evaluation of methods for detecting human reads in microbial sequencing datasets.",
+    "authorString": "Bush SJ, Connor TR, Peto TEA, Crook DW, Walker AS.",
+    "authorAffiliations": "",
+    "journalTitle": "Microbial genomics",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "Human; Contamination; Read Depletion; Read Removal",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Sequencing data from host-associated microbes can often be contaminated by the body of the investigator or research subject. Human DNA is typically removed from microbial reads either by subtractive alignment (dropping all reads that map to the human genome) or by using a read classification tool to predict those of human origin, and then discarding them. To inform best practice guidelines, we benchmarked eight alignment-based and two classification-based methods of human read detection using simulated data from 10 clinically prevalent bacteria and three viruses, into which contaminating human reads had been added. While the majority of methods successfully detected >99\u200a% of the human reads, they were distinguishable by variance. The most precise methods, with negligible variance, were Bowtie2 and SNAP, both of which misidentified few, if any, bacterial reads (and no viral reads) as human. While correctly detecting a similar number of human reads, methods based on taxonomic classification, such as Kraken2 and Centrifuge, could misclassify bacterial reads as human, although the extent of this was species-specific. Among the most sensitive methods of human read detection was BWA, although this also made the greatest number of false positive classifications. Across all methods, the set of human reads not identified as such, although often representing <0.1\u200a% of the total reads, were non-randomly distributed along the human genome with many originating from the repeat-rich sex chromosomes. For viral reads and longer (>300\u2009bp) bacterial reads, the highest performing approaches were classification-based, using Kraken2 or Centrifuge. For shorter (c. 150\u2009bp) bacterial reads, combining multiple methods of human read detection maximized the recovery of human reads from contaminated short read datasets without being compromised by false positives. A particularly high-performance approach with shorter bacterial reads was a two-stage classification using Bowtie2 followed by SNAP. Using this approach, we re-examined 11\u200a577 publicly archived bacterial read sets for hitherto undetected human contamination. We were able to extract a sufficient number of reads to call known human SNPs, including those with clinical significance, in 6\u200a% of the samples. These results show that phenotypically distinct human sequence is detectable in publicly archived microbial read datasets.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1099/mgen.0.000393; html:https://europepmc.org/articles/PMC7478626; pdf:https://europepmc.org/articles/PMC7478626?pdf=render"
   },
   {
     "id": "32706893",
@@ -6032,22 +6032,6 @@
     "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041546; html:https://europepmc.org/articles/PMC6749971; pdf:https://europepmc.org/articles/PMC6749971?pdf=render"
   },
   {
-    "id": "31862893",
-    "doi": "https://doi.org/10.1038/s41467-019-13848-1",
-    "title": "Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
-    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Recent genome-wide association studies in stroke have enabled the generation of genomic risk scores (GRS) but their predictive power has been modest compared to established stroke risk factors. Here, using a meta-scoring approach, we develop a metaGRS for ischaemic stroke (IS) and analyse this score in the UK Biobank (n\u2009=\u2009395,393; 3075 IS events by age 75). The metaGRS hazard ratio for IS (1.26, 95% CI 1.22-1.31 per metaGRS standard deviation) doubles that of a previous GRS, identifying a subset of individuals at monogenic levels of risk: the top 0.25% of metaGRS have three-fold risk of IS. The metaGRS is similarly or more predictive compared to several risk factors, such as family history, blood pressure, body mass index, and smoking. We estimate the reductions needed in modifiable risk factors for individuals with different levels of genomic risk and suggest that, for individuals with high metaGRS, achieving risk factor levels recommended by current guidelines may be insufficient to mitigate risk.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-019-13848-1; html:https://europepmc.org/articles/PMC6925280; pdf:https://europepmc.org/articles/PMC6925280?pdf=render"
-  },
-  {
     "id": "33062309",
     "doi": "https://doi.org/10.1177/2059513120952336",
     "title": "Epidemiology of burn injury in older adults: An Australian and New Zealand perspective.",
@@ -6080,20 +6064,20 @@
     "urls": "doi:https://doi.org/10.1093/cvr/cvz197"
   },
   {
-    "id": "31848017",
-    "doi": "https://doi.org/10.1016/j.injury.2019.12.016",
-    "title": "Pre-injury health status of major trauma patients with orthopaedic injuries.",
-    "authorString": "Gelaw AY, Gabbe BJ, Simpson PM, Ekegren CL.",
+    "id": "31862893",
+    "doi": "https://doi.org/10.1038/s41467-019-13848-1",
+    "title": "Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
+    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
     "authorAffiliations": "",
-    "journalTitle": "Injury",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Trauma; Injury; Quality of life; Health Status; Orthopaedic; Pre-injury",
+    "journalTitle": "Nature communications",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "BACKGROUND:Pre-injury health status is an important determining factor of long-term outcomes after orthopaedic major trauma. Determining pre-injury health status of major trauma patients with orthopaedic injuries is also important for evaluating the change from pre to post-injury health status. OBJECTIVES:Describe pre-injury health statuses reported at three different time points (6, 12 and 24 months) after injury and compare these with Australian normative values; determine the agreement between pre-injury health status collected at multiple time points post-injury; and identify factors associated with reporting better pre-injury health status. MATERIALS AND METHODS:A registry-based cohort study was conducted. Major trauma patients with orthopaedic injuries captured by the Victorian State Trauma Registry with a date of injury from January 2009 to December 2016 were included. Pre-injury health status (measured using the EuroQol-Visual Analogue Scale (EQ-VAS)), reported 6, 12 and 24 months post-injury, was compared against Australian population normative values. The Bland-Altman method of comparison was used to determine the agreement between pre-injury EQ-VAS scores reported 6 to 12 and 6 to 24 months post-injury. Mixed effects ordinal logistic regression was used to determine factors associated with reporting better pre-injury health status. RESULTS:A total of 3,371 patients were eligible for the study. The median (IQR) pre-injury EQ-VAS score reported 6, 12 and 24 months post-injury was 90 (85-100) out of 100. Participants' pre-injury EQ-VAS scores reported 6, 12 and 24 months post-injury were significantly higher than Australian population normative values. Pre-injury EQ-VAS scores reported 6 months post-injury agreed with pre-injury EQ-VAS scores reported 12 and 24 months post-injury. A significant association exists between pre-injury health status and age, comorbidities, injury characteristics, socioeconomic status and pre-injury work status. CONCLUSIONS:People with orthopaedic major trauma have better pre-injury health compared to the general Australian population. Therefore, population-specific values should be used as baseline measures to evaluate orthopaedic trauma outcomes. Pre-injury health status values reported at three different post-injury time points were comparable. If conducting a retrospective pre-injury health evaluation, researchers need be aware of factors that influence self-reporting of pre-injury health status and the response shift that may happen due to encountering injury.",
+    "abstract": "Recent genome-wide association studies in stroke have enabled the generation of genomic risk scores (GRS) but their predictive power has been modest compared to established stroke risk factors. Here, using a meta-scoring approach, we develop a metaGRS for ischaemic stroke (IS) and analyse this score in the UK Biobank (n\u2009=\u2009395,393; 3075 IS events by age 75). The metaGRS hazard ratio for IS (1.26, 95% CI 1.22-1.31 per metaGRS standard deviation) doubles that of a previous GRS, identifying a subset of individuals at monogenic levels of risk: the top 0.25% of metaGRS have three-fold risk of IS. The metaGRS is similarly or more predictive compared to several risk factors, such as family history, blood pressure, body mass index, and smoking. We estimate the reductions needed in modifiable risk factors for individuals with different levels of genomic risk and suggest that, for individuals with high metaGRS, achieving risk factor levels recommended by current guidelines may be insufficient to mitigate risk.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.injury.2019.12.016"
+    "urls": "doi:https://doi.org/10.1038/s41467-019-13848-1; html:https://europepmc.org/articles/PMC6925280; pdf:https://europepmc.org/articles/PMC6925280?pdf=render"
   },
   {
     "id": "31815634",
@@ -6110,6 +6094,22 @@
     "abstract": "BACKGROUND:The use of metformin after acute myocardial infarction (AMI) has been associated with reduced mortality in people with type 2 diabetes mellitus (T2DM). However, it is not known if it is acutely cardioprotective in patients taking metformin at the time of AMI. We compared patient outcomes according to metformin status at the time of admission for fatal and non-fatal AMI in a large cohort of patients in England. METHODS:This study used linked data from primary care, hospital admissions and death registry from 4.7 million inhabitants in England, as part of the CALIBER resource. The primary endpoint was a composite of acute myocardial infarction requiring hospitalisation, stroke and cardiovascular death. The secondary endpoints were heart failure (HF) hospitalisation and all-cause mortality. RESULTS:4,030 patients with T2DM and incident AMI recorded between January 1998 and October 2010 were included. At AMI admission, 63.9% of patients were receiving metformin and 36.1% another oral hypoglycaemic drug. Median follow-up was 343 (IQR: 1-1436) days. Adjusted analyses showed an increased hazard of the composite endpoint in metformin users compared to non-users (HR 1.09 [1.01-1.19]), but not of the secondary endpoints. The higher risk of the composite endpoint in metformin users was only observed in people taking metformin at AMI admission, whereas metformin use post-AMI was associated with a reduction in risk of all-cause mortality (0.76 [0.62-0.93], P\u2009=\u20090.009). CONCLUSIONS:Our study suggests that metformin use at the time of first AMI is associated with increased risk of cardiovascular disease and death in patients with T2DM, while its use post-AMI might be beneficial. Further investigation in well-designed randomised controlled trials is indicated, especially in view of emerging evidence of cardioprotection from sodium-glucose co-transporter-2 (SGLT2) inhibitors.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1186/s12933-019-0972-4; html:https://europepmc.org/articles/PMC6900858; pdf:https://europepmc.org/articles/PMC6900858?pdf=render"
+  },
+  {
+    "id": "31848017",
+    "doi": "https://doi.org/10.1016/j.injury.2019.12.016",
+    "title": "Pre-injury health status of major trauma patients with orthopaedic injuries.",
+    "authorString": "Gelaw AY, Gabbe BJ, Simpson PM, Ekegren CL.",
+    "authorAffiliations": "",
+    "journalTitle": "Injury",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Trauma; Injury; Quality of life; Health Status; Orthopaedic; Pre-injury",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Pre-injury health status is an important determining factor of long-term outcomes after orthopaedic major trauma. Determining pre-injury health status of major trauma patients with orthopaedic injuries is also important for evaluating the change from pre to post-injury health status. OBJECTIVES:Describe pre-injury health statuses reported at three different time points (6, 12 and 24 months) after injury and compare these with Australian normative values; determine the agreement between pre-injury health status collected at multiple time points post-injury; and identify factors associated with reporting better pre-injury health status. MATERIALS AND METHODS:A registry-based cohort study was conducted. Major trauma patients with orthopaedic injuries captured by the Victorian State Trauma Registry with a date of injury from January 2009 to December 2016 were included. Pre-injury health status (measured using the EuroQol-Visual Analogue Scale (EQ-VAS)), reported 6, 12 and 24 months post-injury, was compared against Australian population normative values. The Bland-Altman method of comparison was used to determine the agreement between pre-injury EQ-VAS scores reported 6 to 12 and 6 to 24 months post-injury. Mixed effects ordinal logistic regression was used to determine factors associated with reporting better pre-injury health status. RESULTS:A total of 3,371 patients were eligible for the study. The median (IQR) pre-injury EQ-VAS score reported 6, 12 and 24 months post-injury was 90 (85-100) out of 100. Participants' pre-injury EQ-VAS scores reported 6, 12 and 24 months post-injury were significantly higher than Australian population normative values. Pre-injury EQ-VAS scores reported 6 months post-injury agreed with pre-injury EQ-VAS scores reported 12 and 24 months post-injury. A significant association exists between pre-injury health status and age, comorbidities, injury characteristics, socioeconomic status and pre-injury work status. CONCLUSIONS:People with orthopaedic major trauma have better pre-injury health compared to the general Australian population. Therefore, population-specific values should be used as baseline measures to evaluate orthopaedic trauma outcomes. Pre-injury health status values reported at three different post-injury time points were comparable. If conducting a retrospective pre-injury health evaluation, researchers need be aware of factors that influence self-reporting of pre-injury health status and the response shift that may happen due to encountering injury.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.injury.2019.12.016"
   },
   {
     "id": "33127858",
@@ -6160,22 +6160,6 @@
     "urls": "doi:https://doi.org/10.1038/s41591-019-0665-2; html:https://europepmc.org/articles/PMC6922049; pdf:https://europepmc.org/articles/PMC6922049?pdf=render; doi:https://doi.org/10.1038/s41591-019-0665-2"
   },
   {
-    "id": "31504409",
-    "doi": "https://doi.org/10.1093/eurheartj/ehz587",
-    "title": "The relation between systemic inflammation and incident cancer in patients with stable cardiovascular disease: a cohort study.",
-    "authorString": "Van't Klooster CC, Ridker PM, Hjortnaes J, van der Graaf Y, Asselbergs FW, Westerink J, Aerts JGJV, Visseren FLJ.",
-    "authorAffiliations": "",
-    "journalTitle": "European heart journal",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Risk factor; High-sensitive C-reactive Protein; Incident Cancer; Chronic Systemic Low-grade Inflammation; Patients With Vascular Disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "AIMS:Low-grade inflammation, measured by elevated plasma concentrations of high-sensitive C-reactive protein (CRP), is a risk factor for cardiovascular disease (CVD). There is evidence that low-grade inflammation is also related to a higher risk of cancer. The present prospective cohort study evaluates the relation between low-grade systemic inflammation and risk of cancer in patients with stable CVD. METHODS AND RESULTS:In total, 7178 patients with stable CVD and plasma CRP levels \u226410\u2009mg/L were included. Data were linked to the Dutch national cancer registry. Cox regression models were fitted to study the relation between CRP and incident CVD and cancer. After a median follow-up time of 8.3\u2009years (interquartile range 4.6-12.3) 1072 incident cancer diagnoses were observed. C-reactive protein concentration was related to total cancer [hazard ratio (HR) 1.35; 95% confidence interval (CI) 1.10-1.65] comparing last quintile to first quintile of CRP. Especially lung cancer, independent of histopathological subtype, was related to CRP (HR 3.39; 95% CI 2.02-5.69 comparing last to first quintile of CRP). Incidence of epithelial neoplasms and especially squamous cell neoplasms were related to CRP concentration, irrespective of anatomical location. Sensitivity analyses after excluding patients with a cancer diagnosis within 1, 2, and 5 years of follow-up showed similar results. No effect modification was observed by smoking status or time since smoking cessation (P-values for interaction > 0.05). CONCLUSION:Chronic systemic low-grade inflammation, measured by CRP levels \u226410\u2009mg/L, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD. The relation between inflammation and incident cancer is seen in former and current smokers and is uncertain in never smokers.",
-    "laySummary": "Inflammation is a risk factor for cardiovascular disease (CVD) and is linked with a higher risk of cancer. This study investigates the relationship between inflammation and risk of cancer in patients with stable CVD. The study reports that low-grade inflammation, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD.",
-    "urls": "doi:https://doi.org/10.1093/eurheartj/ehz587; html:https://europepmc.org/articles/PMC6925382; pdf:https://europepmc.org/articles/PMC6925382?pdf=render"
-  },
-  {
     "id": "31197928",
     "doi": "https://doi.org/10.1002/pds.4811",
     "title": "Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database.",
@@ -6190,6 +6174,22 @@
     "abstract": "PURPOSE:Primary care databases are increasingly used for researching pregnancy, eg, the effects of maternal drug exposures. However, ascertaining pregnancies, their timing, and outcomes in these data is challenging. While individual studies have adopted different methods, no systematic approach to characterise all pregnancies in a primary care database has yet been published. Therefore, we developed a new algorithm to establish a Pregnancy Register in the UK Clinical Practice Research Datalink (CPRD) GOLD primary care database. METHODS:We compiled over 4000 read and entity codes to identify pregnancy-related records among women aged 11 to 49\u00a0years in CPRD GOLD. Codes were categorised by the stage or outcome of pregnancy to facilitate delineation of pregnancy episodes. We constructed hierarchical rule systems to handle information from multiple sources. We assessed the validity of the Register to identify pregnancy outcomes by comparing our results to linked hospitalisation records and Office for National Statistics population rates. RESULTS:Our algorithm identified 5.8 million pregnancies among 2.4 million women (January 1987-February 2018). We observed close agreement with hospitalisation data regarding completeness of pregnancy outcomes (91% sensitivity for deliveries and 77% for pregnancy losses) and their timing (median 0\u00a0days difference, interquartile range 0-2\u00a0days). Miscarriage and prematurity rates were consistent with population figures, although termination and, to a lesser extent, live birth rates were underestimated in the Register. CONCLUSIONS:The Pregnancy Register offers huge research potential because of its large size, high completeness, and availability. Further validation work is underway to enhance this data resource and identify optimal approaches for its use.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/pds.4811; html:https://europepmc.org/articles/PMC6618019; pdf:https://europepmc.org/articles/PMC6618019?pdf=render"
+  },
+  {
+    "id": "31504409",
+    "doi": "https://doi.org/10.1093/eurheartj/ehz587",
+    "title": "The relation between systemic inflammation and incident cancer in patients with stable cardiovascular disease: a cohort study.",
+    "authorString": "Van't Klooster CC, Ridker PM, Hjortnaes J, van der Graaf Y, Asselbergs FW, Westerink J, Aerts JGJV, Visseren FLJ.",
+    "authorAffiliations": "",
+    "journalTitle": "European heart journal",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Risk factor; High-sensitive C-reactive Protein; Incident Cancer; Chronic Systemic Low-grade Inflammation; Patients With Vascular Disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "AIMS:Low-grade inflammation, measured by elevated plasma concentrations of high-sensitive C-reactive protein (CRP), is a risk factor for cardiovascular disease (CVD). There is evidence that low-grade inflammation is also related to a higher risk of cancer. The present prospective cohort study evaluates the relation between low-grade systemic inflammation and risk of cancer in patients with stable CVD. METHODS AND RESULTS:In total, 7178 patients with stable CVD and plasma CRP levels \u226410\u2009mg/L were included. Data were linked to the Dutch national cancer registry. Cox regression models were fitted to study the relation between CRP and incident CVD and cancer. After a median follow-up time of 8.3\u2009years (interquartile range 4.6-12.3) 1072 incident cancer diagnoses were observed. C-reactive protein concentration was related to total cancer [hazard ratio (HR) 1.35; 95% confidence interval (CI) 1.10-1.65] comparing last quintile to first quintile of CRP. Especially lung cancer, independent of histopathological subtype, was related to CRP (HR 3.39; 95% CI 2.02-5.69 comparing last to first quintile of CRP). Incidence of epithelial neoplasms and especially squamous cell neoplasms were related to CRP concentration, irrespective of anatomical location. Sensitivity analyses after excluding patients with a cancer diagnosis within 1, 2, and 5 years of follow-up showed similar results. No effect modification was observed by smoking status or time since smoking cessation (P-values for interaction > 0.05). CONCLUSION:Chronic systemic low-grade inflammation, measured by CRP levels \u226410\u2009mg/L, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD. The relation between inflammation and incident cancer is seen in former and current smokers and is uncertain in never smokers.",
+    "laySummary": "Inflammation is a risk factor for cardiovascular disease (CVD) and is linked with a higher risk of cancer. This study investigates the relationship between inflammation and risk of cancer in patients with stable CVD. The study reports that low-grade inflammation, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD.",
+    "urls": "doi:https://doi.org/10.1093/eurheartj/ehz587; html:https://europepmc.org/articles/PMC6925382; pdf:https://europepmc.org/articles/PMC6925382?pdf=render"
   },
   {
     "id": "31995663",
@@ -6544,22 +6544,6 @@
     "urls": "doi:https://doi.org/10.2196/19992; html:https://europepmc.org/articles/PMC7527031"
   },
   {
-    "id": "32956399",
-    "doi": "https://doi.org/10.1371/journal.pmed.1003336",
-    "title": "Antibiotic prescribing for lower UTI in elderly patients in primary care and risk of bloodstream infection: A cohort study using electronic health records in England.",
-    "authorString": "Shallcross L, Rockenschaub P, Blackburn R, Nazareth I, Freemantle N, Hayward A.",
-    "authorAffiliations": "",
-    "journalTitle": "PLoS medicine",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Research has questioned the safety of delaying or withholding antibiotics for suspected urinary tract infection (UTI) in older patients. We evaluated the association between antibiotic treatment for lower UTI and risk of bloodstream infection (BSI) in adults aged \u226565 years in primary care. METHODS AND FINDINGS:We analyzed primary care records from patients aged \u226565 years in England with community-onset UTI using the Clinical Practice Research Datalink (2007-2015) linked to Hospital Episode Statistics and census data. The primary outcome was BSI within 60 days, comparing patients treated immediately with antibiotics and those not treated immediately. Crude and adjusted associations between exposure and outcome were estimated using generalized estimating equations. A total of 147,334 patients were included representing 280,462 episodes of lower UTI. BSI occurred in 0.4% (1,025/244,963) of UTI episodes with immediate antibiotics versus 0.6% (228/35,499) of episodes without immediate antibiotics. After adjusting for patient demographics, year of consultation, comorbidities, smoking status, recent hospitalizations, recent accident and emergency (A&E) attendances, recent antibiotic prescribing, and home visits, the odds of BSI were equivalent in patients who were not treated with antibiotics immediately and those who were treated on the date of their UTI consultation (adjusted odds ratio [aOR] 1.13, 95% CI 0.97-1.32, p-value = 0.105). Delaying or withholding antibiotics was associated with increased odds of death in the subsequent 60 days (aOR 1.17, 95% CI 1.09-1.26, p-value < 0.001), but there was limited evidence that increased deaths were attributable to urinary-source BSI. Limitations include overlap between the categories of immediate and delayed antibiotic prescribing, residual confounding underlying differences between patients who were/were not treated with antibiotics, and lack of microbiological diagnosis for BSI. CONCLUSIONS:In this study, we observed that delaying or withholding antibiotics in older adults with suspected UTI did not increase patients' risk of BSI, in contrast with a previous study that analyzed the same dataset, but mortality was increased. Our findings highlight uncertainty around the risks of delaying or withholding antibiotic treatment, which is exacerbated by systematic differences between patients who were and were not treated immediately with antibiotics. Overall, our findings emphasize the need for improved diagnostic/risk prediction strategies to guide antibiotic prescribing for suspected UTI in older adults.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pmed.1003336; html:https://europepmc.org/articles/PMC7505443; pdf:https://europepmc.org/articles/PMC7505443?pdf=render"
-  },
-  {
     "id": "31801372",
     "doi": "https://doi.org/10.1161/atvbaha.119.313226",
     "title": "Carotid Intima-Media Thickness: Novel Loci, Sex-Specific Effects, and Genetic Correlations With Obesity and Glucometabolic Traits in UK Biobank.",
@@ -6574,6 +6558,22 @@
     "abstract": "OBJECTIVE:Atherosclerosis is the underlying cause of most cardiovascular disease, but mechanisms underlying atherosclerosis are incompletely understood. Ultrasound measurement of the carotid intima-media thickness (cIMT) can be used to measure vascular remodeling, which is indicative of atherosclerosis. Genome-wide association studies have identified many genetic loci associated with cIMT, but heterogeneity of measurements collected by many small cohorts have been a major limitation in these efforts. Here, we conducted genome-wide association analyses in UKB (UK Biobank; N=22\u2009179), the largest single study with consistent cIMT measurements. Approach and Results: We used BOLT-LMM software to run linear regression of cIMT in UKB, adjusted for age, sex, and genotyping chip. In white British participants, we identified 5 novel loci associated with cIMT and replicated most previously reported loci. In the first sex-specific analyses of cIMT, we identified a locus on chromosome 5, associated with cIMT in women only and highlight VCAN as a good candidate gene at this locus. Genetic correlations with body mass index and glucometabolic traits were also observed. Two loci influenced risk of ischemic heart disease. CONCLUSIONS:These findings replicate previously reported associations, highlight novel biology, and provide new directions for investigating the sex differences observed in cardiovascular disease presentation and progression.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1161/ATVBAHA.119.313226; html:https://europepmc.org/articles/PMC6975521; pdf:https://europepmc.org/articles/PMC6975521?pdf=render"
+  },
+  {
+    "id": "32956399",
+    "doi": "https://doi.org/10.1371/journal.pmed.1003336",
+    "title": "Antibiotic prescribing for lower UTI in elderly patients in primary care and risk of bloodstream infection: A cohort study using electronic health records in England.",
+    "authorString": "Shallcross L, Rockenschaub P, Blackburn R, Nazareth I, Freemantle N, Hayward A.",
+    "authorAffiliations": "",
+    "journalTitle": "PLoS medicine",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Research has questioned the safety of delaying or withholding antibiotics for suspected urinary tract infection (UTI) in older patients. We evaluated the association between antibiotic treatment for lower UTI and risk of bloodstream infection (BSI) in adults aged \u226565 years in primary care. METHODS AND FINDINGS:We analyzed primary care records from patients aged \u226565 years in England with community-onset UTI using the Clinical Practice Research Datalink (2007-2015) linked to Hospital Episode Statistics and census data. The primary outcome was BSI within 60 days, comparing patients treated immediately with antibiotics and those not treated immediately. Crude and adjusted associations between exposure and outcome were estimated using generalized estimating equations. A total of 147,334 patients were included representing 280,462 episodes of lower UTI. BSI occurred in 0.4% (1,025/244,963) of UTI episodes with immediate antibiotics versus 0.6% (228/35,499) of episodes without immediate antibiotics. After adjusting for patient demographics, year of consultation, comorbidities, smoking status, recent hospitalizations, recent accident and emergency (A&E) attendances, recent antibiotic prescribing, and home visits, the odds of BSI were equivalent in patients who were not treated with antibiotics immediately and those who were treated on the date of their UTI consultation (adjusted odds ratio [aOR] 1.13, 95% CI 0.97-1.32, p-value = 0.105). Delaying or withholding antibiotics was associated with increased odds of death in the subsequent 60 days (aOR 1.17, 95% CI 1.09-1.26, p-value < 0.001), but there was limited evidence that increased deaths were attributable to urinary-source BSI. Limitations include overlap between the categories of immediate and delayed antibiotic prescribing, residual confounding underlying differences between patients who were/were not treated with antibiotics, and lack of microbiological diagnosis for BSI. CONCLUSIONS:In this study, we observed that delaying or withholding antibiotics in older adults with suspected UTI did not increase patients' risk of BSI, in contrast with a previous study that analyzed the same dataset, but mortality was increased. Our findings highlight uncertainty around the risks of delaying or withholding antibiotic treatment, which is exacerbated by systematic differences between patients who were and were not treated immediately with antibiotics. Overall, our findings emphasize the need for improved diagnostic/risk prediction strategies to guide antibiotic prescribing for suspected UTI in older adults.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pmed.1003336; html:https://europepmc.org/articles/PMC7505443; pdf:https://europepmc.org/articles/PMC7505443?pdf=render"
   },
   {
     "id": "31134468",
@@ -6960,22 +6960,6 @@
     "urls": "doi:https://doi.org/10.1038/s41467-019-10724-w; html:https://europepmc.org/articles/PMC6616926; pdf:https://europepmc.org/articles/PMC6616926?pdf=render"
   },
   {
-    "id": "32478737",
-    "doi": "https://doi.org/10.3791/60794",
-    "title": "Implementation of a Real-Time Psychosis Risk Detection and Alerting System Based on Electronic Health Records using CogStack.",
-    "authorString": "Wang T, Oliver D, Msosa Y, Colling C, Spada G, Roguski \u0141, Folarin A, Stewart R, Roberts A, Dobson RJB, Fusar-Poli P.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of visualized experiments : JoVE",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Recent studies have shown that an automated, lifespan-inclusive, transdiagnostic, and clinically based, individualized risk calculator provides a powerful system for supporting the early detection of individuals at-risk of psychosis at a large scale, by leveraging electronic health records (EHRs). This risk calculator has been externally validated twice and is undergoing feasibility testing for clinical implementation. Integration of this risk calculator in clinical routine should be facilitated by prospective feasibility studies, which are required to address pragmatic challenges, such as missing data, and the usability of this risk calculator in a real-world and routine clinical setting. Here, we present an approach for a prospective implementation of a real-time psychosis risk detection and alerting service in a real-world EHR system. This method leverages the CogStack platform, which is an open-source, lightweight, and distributed information retrieval and text extraction system. The CogStack platform incorporates a set of services that allow for full-text search of clinical data, lifespan-inclusive, real-time calculation of psychosis risk, early risk-alerting to clinicians, and the visual monitoring of patients over time. Our method includes: 1) ingestion and synchronization of data from multiple sources into the CogStack platform, 2) implementation of a risk calculator, whose algorithm was previously developed and validated, for timely computation of a patient's risk of psychosis, 3) creation of interactive visualizations and dashboards to monitor patients' health status over time, and 4) building automated alerting systems to ensure that clinicians are notified of patients at-risk, so that appropriate actions can be pursued. This is the first ever study that has developed and implemented a similar detection and alerting system in clinical routine for early detection of psychosis.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3791/60794"
-  },
-  {
     "id": "31317072",
     "doi": "https://doi.org/10.1002/lrh2.10191",
     "title": "Our data, our society, our health: A vision for inclusive and transparent health data science in the United Kingdom and beyond.",
@@ -6990,6 +6974,22 @@
     "abstract": "The last 6\u00a0years have seen sustained investment in health data science in the United Kingdom and beyond, which should result in a data science community that is inclusive of all stakeholders, working together to use data to benefit society through the improvement of public health and well-being. However, opportunities made possible through the innovative use of data are still not being fully realised, resulting in research inefficiencies and avoidable health harms. In this paper, we identify the most important barriers to achieving higher productivity in health data science. We then draw on previous research, domain expertise, and theory to outline how to go about overcoming these barriers, applying our core values of inclusivity and transparency. We believe a step change can be achieved through meaningful stakeholder involvement at every stage of research planning, design, and execution and team-based data science, as well as harnessing novel and secure data technologies. Applying these values to health data science will safeguard a social licence for health data research and ensure transparent and secure data usage for public benefit.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/lrh2.10191; html:https://europepmc.org/articles/PMC6628981; pdf:https://europepmc.org/articles/PMC6628981?pdf=render"
+  },
+  {
+    "id": "32478737",
+    "doi": "https://doi.org/10.3791/60794",
+    "title": "Implementation of a Real-Time Psychosis Risk Detection and Alerting System Based on Electronic Health Records using CogStack.",
+    "authorString": "Wang T, Oliver D, Msosa Y, Colling C, Spada G, Roguski \u0141, Folarin A, Stewart R, Roberts A, Dobson RJB, Fusar-Poli P.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of visualized experiments : JoVE",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Recent studies have shown that an automated, lifespan-inclusive, transdiagnostic, and clinically based, individualized risk calculator provides a powerful system for supporting the early detection of individuals at-risk of psychosis at a large scale, by leveraging electronic health records (EHRs). This risk calculator has been externally validated twice and is undergoing feasibility testing for clinical implementation. Integration of this risk calculator in clinical routine should be facilitated by prospective feasibility studies, which are required to address pragmatic challenges, such as missing data, and the usability of this risk calculator in a real-world and routine clinical setting. Here, we present an approach for a prospective implementation of a real-time psychosis risk detection and alerting service in a real-world EHR system. This method leverages the CogStack platform, which is an open-source, lightweight, and distributed information retrieval and text extraction system. The CogStack platform incorporates a set of services that allow for full-text search of clinical data, lifespan-inclusive, real-time calculation of psychosis risk, early risk-alerting to clinicians, and the visual monitoring of patients over time. Our method includes: 1) ingestion and synchronization of data from multiple sources into the CogStack platform, 2) implementation of a risk calculator, whose algorithm was previously developed and validated, for timely computation of a patient's risk of psychosis, 3) creation of interactive visualizations and dashboards to monitor patients' health status over time, and 4) building automated alerting systems to ensure that clinicians are notified of patients at-risk, so that appropriate actions can be pursued. This is the first ever study that has developed and implemented a similar detection and alerting system in clinical routine for early detection of psychosis.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3791/60794"
   },
   {
     "id": "33082154",
