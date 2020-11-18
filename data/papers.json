@@ -752,22 +752,6 @@
     "urls": "doi:https://doi.org/10.1093/nar/gkz895; html:https://europepmc.org/articles/PMC7145571; pdf:https://europepmc.org/articles/PMC7145571?pdf=render"
   },
   {
-    "id": "31878916",
-    "doi": "https://doi.org/10.1186/s12889-019-7919-2",
-    "title": "Sustained adherence to a Mediterranean diet and physical activity on all-cause mortality in the Melbourne Collaborative Cohort Study: application of the g-formula.",
-    "authorString": "Williamson EJ, Polak J, Simpson JA, Giles GG, English DR, Hodge A, Gurrin L, Forbes AB.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC public health",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "G-computation; Time-varying Confounding; Parametric G-formula; G-methods",
-    "nationalPriorities": "Improving Public Health, Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Adherence to a traditional Mediterranean diet has been associated with lower mortality and cardiovascular disease risk. The relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time remains unknown. METHODS:We used the parametric G-formula to account for time-dependent confounding, in order to assess the relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time. We included healthy Melbourne Collaborative Cohort Study participants attending a visit during 1995-1999. Questionnaires assessed diet and physical activity at each of three study waves. Deaths were identified by linkage to national registries. We estimated mortality risk over approximately 14\u2009years (1995-2011). RESULTS:Of 22,213 participants, 2163 (9.7%) died during 13.6\u2009years median follow-up. Sustained high physical activity and adherence to a Mediterranean-style diet resulted in an estimated reduction in all-cause mortality of 1.82 per 100 people (95% confidence interval (CI): 0.03, 3.6). The population attributable fraction was 13% (95% CI: 4, 23%) for sustained high physical activity, 7% (95% CI: -\u20093, 17%) for sustained adherence to a Mediterranean-style diet and 18% (95% CI: 0, 36%) for their combination. CONCLUSIONS:A small reduction in mortality may be achieved by sustained elevated physical activity levels in healthy middle-aged adults, but there may be comparatively little gain from increasing adherence to a Mediterranean-style diet.",
-    "laySummary": "This study aimed to calculate the proportion of deaths that could be prevented over a 14 year period through making long-term changes in lifestyle (diet and physical activity). Over 22K people were included in the study and filled out questionnaires about their lifestyle at three different time points. The authors used statistical methods that take into account how lifestyle measurements change over time and estimated the relative impact that different lifestyle factors have on death. The study suggests that being more physically active in middle age is more likely to reduce mortality than maintaining a Mediterranean-style diet.",
-    "urls": "doi:https://doi.org/10.1186/s12889-019-7919-2; html:https://europepmc.org/articles/PMC6933918; pdf:https://europepmc.org/articles/PMC6933918?pdf=render"
-  },
-  {
     "id": "31315158",
     "doi": "https://doi.org/10.1002/cnm.3235",
     "title": "Non-invasive coronary CT angiography-derived fractional flow reserve: A benchmark study comparing the diagnostic performance of four different computational methodologies.",
@@ -782,6 +766,22 @@
     "abstract": "Non-invasive coronary computed tomography (CT) angiography-derived fractional flow reserve (cFFR) is an emergent approach to determine the functional relevance of obstructive coronary lesions. Its feasibility and diagnostic performance has been reported in several studies. It is unclear if differences in sensitivity and specificity between these studies are due to study design, population, or \"computational methodology.\" We evaluate the diagnostic performance of four different computational workflows for the prediction of cFFR using a limited data set of 10 patients, three based on reduced-order modelling and one based on a 3D rigid-wall model. The results for three of these methodologies yield similar accuracy of 6.5%\u00a0to 10.5% mean absolute difference between computed and measured FFR. The main aspects of modelling which affected cFFR estimation were choice of inlet and outlet boundary conditions and estimation of flow distribution in the coronary network. One of the reduced-order models showed the lowest overall deviation from the clinical FFR measurements, indicating that reduced-order models are capable of a similar level of accuracy to a 3D model. In addition, this reduced-order model did not include a lumped pressure-drop model for a stenosis, which implies that the additional effort of isolating a stenosis and inserting a pressure-drop element in the spatial mesh may not be required for FFR estimation. The present benchmark study is the first of this kind, in which we attempt to homogenize the data required to compute FFR using mathematical models. The clinical data utilised in the cFFR workflows are made publicly available online.",
     "laySummary": "Retrospective case series of 10 patients having coronary angiogram and invasive fractional flow reserve measurement. The authors used 4 different techniques to estimate coronary vessel flow rate and compared their measurement agreement with clinical FFA measurements and with each other. They found that all 4 methods gave different results, but one approach was more similar with the clinical gold standard. They propose this method with most worthy of further investigaiton.",
     "urls": "doi:https://doi.org/10.1002/cnm.3235; html:https://europepmc.org/articles/PMC6851543; pdf:https://europepmc.org/articles/PMC6851543?pdf=render"
+  },
+  {
+    "id": "31878916",
+    "doi": "https://doi.org/10.1186/s12889-019-7919-2",
+    "title": "Sustained adherence to a Mediterranean diet and physical activity on all-cause mortality in the Melbourne Collaborative Cohort Study: application of the g-formula.",
+    "authorString": "Williamson EJ, Polak J, Simpson JA, Giles GG, English DR, Hodge A, Gurrin L, Forbes AB.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC public health",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "G-computation; Time-varying Confounding; Parametric G-formula; G-methods",
+    "nationalPriorities": "Improving Public Health, Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Adherence to a traditional Mediterranean diet has been associated with lower mortality and cardiovascular disease risk. The relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time remains unknown. METHODS:We used the parametric G-formula to account for time-dependent confounding, in order to assess the relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time. We included healthy Melbourne Collaborative Cohort Study participants attending a visit during 1995-1999. Questionnaires assessed diet and physical activity at each of three study waves. Deaths were identified by linkage to national registries. We estimated mortality risk over approximately 14\u2009years (1995-2011). RESULTS:Of 22,213 participants, 2163 (9.7%) died during 13.6\u2009years median follow-up. Sustained high physical activity and adherence to a Mediterranean-style diet resulted in an estimated reduction in all-cause mortality of 1.82 per 100 people (95% confidence interval (CI): 0.03, 3.6). The population attributable fraction was 13% (95% CI: 4, 23%) for sustained high physical activity, 7% (95% CI: -\u20093, 17%) for sustained adherence to a Mediterranean-style diet and 18% (95% CI: 0, 36%) for their combination. CONCLUSIONS:A small reduction in mortality may be achieved by sustained elevated physical activity levels in healthy middle-aged adults, but there may be comparatively little gain from increasing adherence to a Mediterranean-style diet.",
+    "laySummary": "This study aimed to calculate the proportion of deaths that could be prevented over a 14 year period through making long-term changes in lifestyle (diet and physical activity). Over 22K people were included in the study and filled out questionnaires about their lifestyle at three different time points. The authors used statistical methods that take into account how lifestyle measurements change over time and estimated the relative impact that different lifestyle factors have on death. The study suggests that being more physically active in middle age is more likely to reduce mortality than maintaining a Mediterranean-style diet.",
+    "urls": "doi:https://doi.org/10.1186/s12889-019-7919-2; html:https://europepmc.org/articles/PMC6933918; pdf:https://europepmc.org/articles/PMC6933918?pdf=render"
   },
   {
     "id": "33123364",
@@ -1408,22 +1408,6 @@
     "urls": "doi:https://doi.org/10.1038/s41591-020-1037-7; html:https://europepmc.org/articles/PMC7598944; pdf:https://europepmc.org/articles/PMC7598944?pdf=render"
   },
   {
-    "id": "32728709",
-    "doi": "https://doi.org/10.1093/pubmed/fdaa115",
-    "title": "Are children who are home from school at an increased risk of child maltreatment?",
-    "authorString": "Syed S, Gilbert R.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of public health (Oxford, England)",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/pubmed/fdaa115"
-  },
-  {
     "id": "PMC7533363",
     "doi": "https://doi.org/",
     "title": "Investigating the effects of comprehensive smoke-free legislation on neonatal and infant mortality in Thailand using the synthetic control method",
@@ -1438,6 +1422,22 @@
     "abstract": "Background Almost all of the evidence on the benefits of smoke-free legislation on child health comes from evaluations in high-income countries. We investigated the effects of Thailand's 2010 comprehensive smoke-free legislation on neonatal and infant mortality. Methods To overcome some of the methodological issues inherent to traditional quasi-experimental methods, we applied the novel synthetic control approach. Using 2001\u20132017 country-level panel data from the World Bank and Penn World datasets, we estimated the effects of smoke-free legislation as the difference between the outcome trends in Thailand versus those in a synthetic control country. The synthetic control country was composed of \u2018control\u2019 middle-income countries without comprehensive smoke-free legislation to recreate trends in Thailand in the 2001\u20132009 pre-legislation outcomes and covariates. We compared the legislation effects to \u2018placebo effects\u2019 obtained for each control country by fictitiously assuming that comprehensive smoke-free legislation was introduced there in 2010, similar to Thailand. Findings Neonatal and infant mortality decreased by 2.9% and 2.8%/year respectively following smoke-free legislation, with an estimated 7463 infant deaths (including 4623 neonatal deaths) having been averted over eight years. The results were robust to different specifications of the control countries. Comparison with placebo effects indicated that the findings were unlikely to be attributable to factors other than the smoke-free legislation. Interpretation Expanding comprehensive smoke-free policies to middle-income countries can support national efforts to achieve Sustainable Development Goal 3.2 for reducing preventable early-life deaths. Funding Netherlands Lung Foundation, HDRUK, Asthma UK center for Applied Research and NIHR Global Respiratory Health Unit (RESPIRE).",
     "laySummary": "",
     "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533363/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533363/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7533363; pdf:https://europepmc.org/articles/PMC7533363?pdf=render"
+  },
+  {
+    "id": "32728709",
+    "doi": "https://doi.org/10.1093/pubmed/fdaa115",
+    "title": "Are children who are home from school at an increased risk of child maltreatment?",
+    "authorString": "Syed S, Gilbert R.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of public health (Oxford, England)",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/pubmed/fdaa115"
   },
   {
     "id": "31628383",
@@ -1712,22 +1712,6 @@
     "urls": "doi:https://doi.org/10.1093/jamia/ocz105; html:https://europepmc.org/articles/PMC6857510; pdf:https://europepmc.org/articles/PMC6857510?pdf=render"
   },
   {
-    "id": "32355555",
-    "doi": "https://doi.org/10.7189/jogh.10.010104",
-    "title": "COVID-19 must catalyse key global natural experiments.",
-    "authorString": "Been JV, Sheikh A.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of global health",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "\"Been and Sheikh\u2019s editorial about COVID-19, outlines the importance of two natural experiments: a- how different countries responded to the pandemic and its effects and b- impact of improvements in air quality on human and planetary health.\"",
-    "urls": "doi:https://doi.org/10.7189/jogh.10.010104; html:https://europepmc.org/articles/PMC7179980; pdf:https://europepmc.org/articles/PMC7179980?pdf=render"
-  },
-  {
     "id": "32518842",
     "doi": "https://doi.org/10.12688/wellcomeopenres.15786.1",
     "title": "Inferring the number of COVID-19 cases from recently reported deaths.",
@@ -1742,6 +1726,22 @@
     "abstract": "We estimate the number of COVID-19 cases from newly reported deaths in a population without previous reports. Our results suggest that by the time a single death occurs, hundreds to thousands of cases are likely to be present in that population. This suggests containment via contact tracing will be challenging at this point, and other response strategies should be considered. Our approach is implemented in a publicly available, user-friendly, online tool.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15786.1; html:https://europepmc.org/articles/PMC7255910; pdf:https://europepmc.org/articles/PMC7255910?pdf=render"
+  },
+  {
+    "id": "32355555",
+    "doi": "https://doi.org/10.7189/jogh.10.010104",
+    "title": "COVID-19 must catalyse key global natural experiments.",
+    "authorString": "Been JV, Sheikh A.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of global health",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "\"Been and Sheikh\u2019s editorial about COVID-19, outlines the importance of two natural experiments: a- how different countries responded to the pandemic and its effects and b- impact of improvements in air quality on human and planetary health.\"",
+    "urls": "doi:https://doi.org/10.7189/jogh.10.010104; html:https://europepmc.org/articles/PMC7179980; pdf:https://europepmc.org/articles/PMC7179980?pdf=render"
   },
   {
     "id": "31194737",
@@ -2048,22 +2048,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0225625; html:https://europepmc.org/articles/PMC6876873; pdf:https://europepmc.org/articles/PMC6876873?pdf=render"
   },
   {
-    "id": "32831176",
-    "doi": "https://doi.org/10.7554/elife.58699",
-    "title": "The contribution of asymptomatic SARS-CoV-2 infections to transmission on the Diamond Princess cruise ship.",
-    "authorString": "Emery JC, Russell TW, Liu Y, Hellewell J, Pearson CA, CMMID COVID-19 Working Group, Atkins KE, Klepac P, Endo A, Jarvis CI, Davies NG, Rees EM, Meakin SR, Rosello A, van Zandvoort K, Munday JD, Edmunds WJ, Jombart T, Auzenbergs M, Nightingale ES, Jit M, Abbott S, Simons D, Bosse NI, Leclerc QJ, Procter SR, Villabona-Arenas CJ, Tully DC, Deol AK, Sun FY, Hu\u00e9 S, Foss AM, Prem K, Medley G, Gimma A, Lowe R, Clifford S, Quaife M, Diamond C, Gibbs HP, Quilty BJ, OReilly K, Knight GM, Eggo RM, Kucharski AJ, Funk S, Flasche S, Houben RM.",
-    "authorAffiliations": "",
-    "journalTitle": "eLife",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "Human; Microbiology; Transmission; Infectious disease; epidemiology; Global Health; Asymptomatic Infections; Subclinical Infections; Covid-19; Sars-cov-2",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "A key unknown for SARS-CoV-2 is how asymptomatic infections contribute to transmission. We used a transmission model with asymptomatic and presymptomatic states, calibrated to data on disease onset and test frequency from the Diamond Princess cruise ship outbreak, to quantify the contribution of asymptomatic infections to transmission. The model estimated that 74% (70-78%, 95% posterior interval) of infections proceeded asymptomatically. Despite intense testing, 53% (51-56%) of infections remained undetected, most of them asymptomatic. Asymptomatic individuals were the source for 69% (20-85%) of all infections. The data did not allow identification of the infectiousness of asymptomatic infections, however low ranges (0-25%) required a net reproduction number for individuals progressing through presymptomatic and symptomatic stages of at least 15. Asymptomatic SARS-CoV-2 infections may contribute substantially to transmission. Control measures, and models projecting their potential impact, need to look beyond the symptomatic cases if they are to understand and address ongoing transmission.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.7554/eLife.58699; html:https://europepmc.org/articles/PMC7527238; pdf:https://europepmc.org/articles/PMC7527238?pdf=render"
-  },
-  {
     "id": "32861307",
     "doi": "https://doi.org/10.1016/s0140-6736(20)30930-2",
     "title": "Invasive versus non-invasive management of older patients with non-ST elevation myocardial infarction (SENIOR-NSTEMI): a cohort study based on routine clinical data.",
@@ -2078,6 +2062,22 @@
     "abstract": "BACKGROUND:Previous trials suggest lower long-term risk of mortality after invasive rather than non-invasive management of patients with non-ST elevation myocardial infarction (NSTEMI), but the trials excluded very elderly patients. We aimed to estimate the effect of invasive versus non-invasive management within 3 days of peak troponin concentration on the survival of patients aged 80 years or older with NSTEMI. METHODS:Routine clinical data for this study were obtained from five collaborating hospitals hosting NIHR Biomedical Research Centres in the UK (all tertiary centres with emergency departments). Eligible patients were 80 years old or older when they underwent troponin measurements and were diagnosed with NSTEMI between 2010 (2008 for University College Hospital) and 2017. Propensity scores (patients' estimated probability of receiving invasive management) based on pretreatment variables were derived using logistic regression; patients with high probabilities of non-invasive or invasive management were excluded. Patients who died within 3 days of peak troponin concentration without receiving invasive management were assigned to the invasive or non-invasive management groups based on their propensity scores, to mitigate immortal time bias. We estimated mortality hazard ratios comparing invasive with non-invasive management, and compared the rate of hospital admissions for heart failure. FINDINGS:Of the 1976 patients with NSTEMI, 101 died within 3 days of their peak troponin concentration and 375 were excluded because of extreme propensity scores. The remaining 1500 patients had a median age of 86 (IQR 82-89) years of whom (845 [56%] received non-invasive management. During median follow-up of 3\u00b70 (IQR 1\u00b72-4\u00b78) years, 613 (41%) patients died. The adjusted cumulative 5-year mortality was 36% in the invasive management group and 55% in the non-invasive management group (adjusted hazard ratio 0\u00b768, 95% CI 0\u00b755-0\u00b784). Invasive management was associated with lower incidence of hospital admissions for heart failure (adjusted rate ratio compared with non-invasive management 0\u00b767, 95% CI 0\u00b748-0\u00b793). INTERPRETATION:The survival advantage of invasive compared with non-invasive management appears to extend to patients with NSTEMI who are aged 80 years or older. FUNDING:NIHR Imperial Biomedical Research Centre, as part of the NIHR Health Informatics Collaborative.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)30930-2; html:https://europepmc.org/articles/PMC7456783; pdf:https://europepmc.org/articles/PMC7456783?pdf=render"
+  },
+  {
+    "id": "32831176",
+    "doi": "https://doi.org/10.7554/elife.58699",
+    "title": "The contribution of asymptomatic SARS-CoV-2 infections to transmission on the Diamond Princess cruise ship.",
+    "authorString": "Emery JC, Russell TW, Liu Y, Hellewell J, Pearson CA, CMMID COVID-19 Working Group, Atkins KE, Klepac P, Endo A, Jarvis CI, Davies NG, Rees EM, Meakin SR, Rosello A, van Zandvoort K, Munday JD, Edmunds WJ, Jombart T, Auzenbergs M, Nightingale ES, Jit M, Abbott S, Simons D, Bosse NI, Leclerc QJ, Procter SR, Villabona-Arenas CJ, Tully DC, Deol AK, Sun FY, Hu\u00e9 S, Foss AM, Prem K, Medley G, Gimma A, Lowe R, Clifford S, Quaife M, Diamond C, Gibbs HP, Quilty BJ, OReilly K, Knight GM, Eggo RM, Kucharski AJ, Funk S, Flasche S, Houben RM.",
+    "authorAffiliations": "",
+    "journalTitle": "eLife",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "Human; Microbiology; Transmission; Infectious disease; epidemiology; Global Health; Asymptomatic Infections; Subclinical Infections; Covid-19; Sars-cov-2",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "A key unknown for SARS-CoV-2 is how asymptomatic infections contribute to transmission. We used a transmission model with asymptomatic and presymptomatic states, calibrated to data on disease onset and test frequency from the Diamond Princess cruise ship outbreak, to quantify the contribution of asymptomatic infections to transmission. The model estimated that 74% (70-78%, 95% posterior interval) of infections proceeded asymptomatically. Despite intense testing, 53% (51-56%) of infections remained undetected, most of them asymptomatic. Asymptomatic individuals were the source for 69% (20-85%) of all infections. The data did not allow identification of the infectiousness of asymptomatic infections, however low ranges (0-25%) required a net reproduction number for individuals progressing through presymptomatic and symptomatic stages of at least 15. Asymptomatic SARS-CoV-2 infections may contribute substantially to transmission. Control measures, and models projecting their potential impact, need to look beyond the symptomatic cases if they are to understand and address ongoing transmission.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.7554/eLife.58699; html:https://europepmc.org/articles/PMC7527238; pdf:https://europepmc.org/articles/PMC7527238?pdf=render"
   },
   {
     "id": "32771960",
@@ -2432,22 +2432,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0213435; html:https://europepmc.org/articles/PMC6457613; pdf:https://europepmc.org/articles/PMC6457613?pdf=render"
   },
   {
-    "id": "30181555",
-    "doi": "https://doi.org/10.1038/s41398-018-0236-1",
-    "title": "Genetics of self-reported risk-taking behaviour, trans-ethnic consistency and relevance to brain gene expression.",
-    "authorString": "Strawbridge RJ, Ward J, Lyall LM, Tunbridge EM, Cullen B, Graham N, Ferguson A, Johnston KJA, Lyall DM, Mackay D, Cavanagh J, Howard DM, Adams MJ, Deary I, Escott-Price V, O'Donovan M, McIntosh AM, Bailey MES, Pell JP, Harrison PJ, Smith DJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Translational psychiatry",
-    "pubYear": "2018",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "Risk-taking behaviour is an important component of several psychiatric disorders, including attention-deficit hyperactivity disorder, schizophrenia and bipolar disorder. Previously, two genetic loci have been associated with self-reported risk taking and significant genetic overlap with psychiatric disorders was identified within a subsample of UK Biobank. Using the white British participants of the full UK Biobank cohort (n\u2009=\u200983,677 risk takers versus 244,662 controls) for our primary analysis, we conducted a genome-wide association study of self-reported risk-taking behaviour. In secondary analyses, we assessed sex-specific effects, trans-ethnic heterogeneity and genetic overlap with psychiatric traits. We also investigated the impact of risk-taking-associated SNPs on both gene expression and structural brain imaging. We identified 10 independent loci for risk-taking behaviour, of which eight were novel and two replicated previous findings. In addition, we found two further sex-specific risk-taking loci. There were strong positive genetic correlations between risk-taking and attention-deficit hyperactivity disorder, bipolar disorder and schizophrenia. Index genetic variants demonstrated effects generally consistent with the discovery analysis in individuals of non-British White, South Asian, African-Caribbean or mixed ethnicity. Polygenic risk scores comprising alleles associated with increased risk taking were associated with lower white matter integrity. Genotype-specific expression pattern analyses highlighted DPYSL5, CGREF1 and C15orf59 as plausible candidate genes. Overall, our findings substantially advance our understanding of the biology of risk-taking behaviour, including the possibility of sex-specific contributions, and reveal consistency across ethnicities. We further highlight several putative novel candidate genes, which may mediate these genetic effects.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41398-018-0236-1; html:https://europepmc.org/articles/PMC6123450; pdf:https://europepmc.org/articles/PMC6123450?pdf=render"
-  },
-  {
     "id": "31353050",
     "doi": "https://doi.org/10.1016/s0140-6736(19)31359-5",
     "title": "Eligibility and subsequent burden of cardiovascular disease of four strategies for blood pressure-lowering treatment: a retrospective cohort study.",
@@ -2462,6 +2446,22 @@
     "abstract": "BACKGROUND:Worldwide treatment recommendations for lowering blood pressure continue to be guided predominantly by blood pressure thresholds, despite strong evidence that the benefits of blood pressure reduction are observed in patients across the blood pressure spectrum. In this study, we aimed to investigate the implications of alternative strategies for offering blood pressure treatment, using the UK as an illustrative example. METHODS:We did a retrospective cohort study in primary care patients aged 30-79 years without cardiovascular disease, using data from the UK's Clinical Practice Research Datalink linked to Hospital Episode Statistics and Office for National Statistics mortality. We assessed and compared four different strategies to determine eligibility for treatment: using 2011 UK National Institute for Health and Care Excellence (NICE) guideline, or proposed 2019 NICE guideline, or blood pressure alone (threshold \u2265140/90 mm Hg), or predicted 10-year cardiovascular risk alone (QRISK2 score \u226510%). Patients were followed up until the earliest occurrence of a cardiovascular disease diagnosis, death, or end of follow-up period (March 31, 2016). For each strategy, we estimated the proportion of patients eligible for treatment and number of cardiovascular events that could be prevented with treatment. We then estimated eligibility and number of events that would occur during 10 years in the UK general population. FINDINGS:Between Jan 1, 2011, and March 31, 2016, 1\u2008222\u2008670 patients in the cohort were followed up for a median of 4\u00b73 years (IQR 2\u00b75-5\u00b72). 271\u2008963 (22\u00b72%) patients were eligible for treatment under the 2011 NICE guideline, 327\u2008429 (26\u00b78%) under the proposed 2019 NICE guideline, 481\u2008859 (39\u00b74%) on the basis of a blood pressure threshold of 140/90 mm Hg or higher, and 357\u2008840 (29\u00b73%) on the basis of a QRISK2 threshold of 10% or higher. During follow-up, 32\u2008183 patients were diagnosed with cardiovascular disease (overall rate 7\u00b71 per 1000 person-years, 95% CI 7\u00b70-7\u00b72). Cardiovascular event rates in patients eligible for each strategy were 15\u00b72 per 1000 person-years (95% CI 15\u00b70-15\u00b75) under the 2011 NICE guideline, 14\u00b79 (14\u00b77-15\u00b71) under the proposed 2019 NICE guideline, 11\u00b74 (11\u00b73-11\u00b76) with blood pressure threshold alone, and 16\u00b79 (16\u00b77-17\u00b71) with QRISK2 threshold alone. Scaled to the UK population, we estimated that 233\u2008152 events would be avoided under the 2011 NICE guideline (28 patients needed to treat for 10 years to avoid one event), 270\u2008233 under the 2019 NICE guideline (29 patients), 301\u2008523 using a blood pressure threshold (38 patients), and 322\u2008921 using QRISK2 threshold (27 patients). INTERPRETATION:A cardiovascular risk-based strategy (QRISK2 \u226510%) could prevent over a third more cardiovascular disease events than the 2011 NICE guideline and a fifth more than the 2019 NICE guideline, with similar efficiency regarding number treated per event avoided. FUNDING:National Institute for Health Research.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31359-5; html:https://europepmc.org/articles/PMC6717081"
+  },
+  {
+    "id": "30181555",
+    "doi": "https://doi.org/10.1038/s41398-018-0236-1",
+    "title": "Genetics of self-reported risk-taking behaviour, trans-ethnic consistency and relevance to brain gene expression.",
+    "authorString": "Strawbridge RJ, Ward J, Lyall LM, Tunbridge EM, Cullen B, Graham N, Ferguson A, Johnston KJA, Lyall DM, Mackay D, Cavanagh J, Howard DM, Adams MJ, Deary I, Escott-Price V, O'Donovan M, McIntosh AM, Bailey MES, Pell JP, Harrison PJ, Smith DJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Translational psychiatry",
+    "pubYear": "2018",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "Risk-taking behaviour is an important component of several psychiatric disorders, including attention-deficit hyperactivity disorder, schizophrenia and bipolar disorder. Previously, two genetic loci have been associated with self-reported risk taking and significant genetic overlap with psychiatric disorders was identified within a subsample of UK Biobank. Using the white British participants of the full UK Biobank cohort (n\u2009=\u200983,677 risk takers versus 244,662 controls) for our primary analysis, we conducted a genome-wide association study of self-reported risk-taking behaviour. In secondary analyses, we assessed sex-specific effects, trans-ethnic heterogeneity and genetic overlap with psychiatric traits. We also investigated the impact of risk-taking-associated SNPs on both gene expression and structural brain imaging. We identified 10 independent loci for risk-taking behaviour, of which eight were novel and two replicated previous findings. In addition, we found two further sex-specific risk-taking loci. There were strong positive genetic correlations between risk-taking and attention-deficit hyperactivity disorder, bipolar disorder and schizophrenia. Index genetic variants demonstrated effects generally consistent with the discovery analysis in individuals of non-British White, South Asian, African-Caribbean or mixed ethnicity. Polygenic risk scores comprising alleles associated with increased risk taking were associated with lower white matter integrity. Genotype-specific expression pattern analyses highlighted DPYSL5, CGREF1 and C15orf59 as plausible candidate genes. Overall, our findings substantially advance our understanding of the biology of risk-taking behaviour, including the possibility of sex-specific contributions, and reveal consistency across ethnicities. We further highlight several putative novel candidate genes, which may mediate these genetic effects.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41398-018-0236-1; html:https://europepmc.org/articles/PMC6123450; pdf:https://europepmc.org/articles/PMC6123450?pdf=render"
   },
   {
     "id": "31666244",
@@ -2720,22 +2720,6 @@
     "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574931/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574931/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7574931; pdf:https://europepmc.org/articles/PMC7574931?pdf=render"
   },
   {
-    "id": "32128788",
-    "doi": "https://doi.org/10.1111/bjd.18889",
-    "title": "The association between partner bereavement and melanoma: cohort studies in the U.K. and Denmark.",
-    "authorString": "Wong AYS, Fr\u00f8slev T, Dearing L, Forbes HJ, Mulick A, Mansfield KE, Silverwood RJ, Kjaersgaard A, S\u00f8rensen HT, Smeeth L, Lewin A, Schmidt SAJ, Langan SM.",
-    "authorAffiliations": "",
-    "journalTitle": "The British journal of dermatology",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Psychological stress is commonly cited as a risk factor for melanoma, but clinical evidence is limited. OBJECTIVES:This study aimed to evaluate the association between partner bereavement and (i) first-time melanoma diagnosis and (ii) mortality in patients with melanoma. METHODS:We conducted two cohort studies using data from the U.K. Clinical Practice Research Datalink (1997-2017) and Danish nationwide registries (1997-2016). In study 1, we compared the risk of first melanoma diagnosis in bereaved vs. matched nonbereaved people using stratified Cox regression. In study 2 we estimated hazard ratios (HRs) for death from melanoma in bereaved compared with nonbereaved individuals with melanoma using Cox regression. We estimated HRs separately for the U.K. and for Denmark, and then pooled the data to perform a random-effects meta-analysis. RESULTS:In study 1, the pooled adjusted HR for the association between partner bereavement and melanoma diagnosis was 0\u00b788 [95% confidence interval (CI) 0\u00b784-0\u00b792] across the entire follow-up period. In study 2, we observed increased melanoma-specific mortality in people experiencing partner bereavement across the entire follow-up period (HR 1\u00b717, 95% CI 1\u00b706-1\u00b730), with the peak occurring during the first year of follow-up (HR 1\u00b731, 95% CI 1\u00b707-1\u00b760). CONCLUSIONS:We found decreased risk of melanoma diagnosis, but increased mortality associated with partner bereavement. These findings may be partly explained by delayed detection resulting from the loss of a partner who could notice skin changes. Stress may play a role in melanoma progression. Our findings indicate the need for a low threshold for skin examination in individuals whose partners have died. What is already known about this topic? Psychological stress has been proposed as a risk factor for the development and progression of cancer, including melanoma, but evidence is conflicting. Clinical evidence is limited by small sample sizes, potential recall bias associated with self-report, and heterogeneous stress definitions. What does this study add? We found a decreased risk of melanoma diagnosis, but increased mortality associated with partner bereavement. While stress might play a role in the progression of melanoma, an alternative explanation is that bereaved people no longer have a close person to help notice skin changes, leading to delayed melanoma detection. Linked Comment: Talaganis et al. Br J Dermatol 2020; 183:607-608.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/bjd.18889; html:https://europepmc.org/articles/PMC7587014; pdf:https://europepmc.org/articles/PMC7587014?pdf=render"
-  },
-  {
     "id": "32573463",
     "doi": "https://doi.org/10.2196/18185",
     "title": "Superusers' Engagement in Asthma Online Communities: Asynchronous Web-Based Interview Study.",
@@ -2750,6 +2734,22 @@
     "abstract": "BACKGROUND:Superusers, defined as the 1% of users who write a large number of posts, play critical roles in online health communities (OHCs), catalyzing engagement and influencing other users' self-care. Their unique online behavior is key to sustaining activity in OHCs and making them flourish. Our previous work showed the presence of 20 to 30 superusers active on a weekly basis among 3345 users in the nationwide Asthma UK OHC and that the community would disintegrate if superusers were removed. Recruiting these highly skilled individuals for research purposes can be challenging, and little is known about superusers. OBJECTIVE:This study aimed to explore superusers' motivation to actively engage in OHCs, the difficulties they may face, and their interactions with health care professionals (HCPs). METHODS:An asynchronous web-based structured interview study was conducted. Superusers of the Asthma UK OHC and Facebook groups were recruited through Asthma UK staff to pilot and subsequently complete the questionnaire. Open-ended questions were analyzed using content analysis. RESULTS:There were 17 superusers recruited for the study (14 patients with asthma and 3 carers); the majority were female (15/17). The age range of participants was 18 to 75 years. They were active in OHCs for 1 to 6 years and spent between 1 and 20 hours per week reading and 1 and 3 hours per week writing posts. Superusers' participation in OHCs was prompted by curiosity about asthma and its medical treatment and by the availability of spare time when they were off work due to asthma exacerbations or retired. Their engagement increased over time as participants furthered their familiarity with the OHCs and their knowledge of asthma and its self-management. Financial or social recognition of the superuser role was not important; their reward came from helping and interacting with others. According to the replies provided, they showed careful judgment to distinguish what can be dealt with through peer advice and what needs input from HCPs. Difficulties were encountered when dealing with misunderstandings about asthma and its treatment, patients not seeking advice from HCPs when needed, and miracle cures or dangerous ideas. Out of 17 participants, only 3 stated that their HCPs were aware of their engagement with OHCs. All superusers thought that HCPs should direct patients to OHCs, provided they are trusted and moderated. In addition, 9 users felt that HCPs themselves should take part in OHCs. CONCLUSIONS:Superusers from a UK-wide online community are highly motivated, altruistic, and mostly female individuals who exhibit judgment about the complexity of coping with asthma and the limits of their advice. Engagement with OHCs satisfies their psychosocial needs. Future research should explore how to address their unmet needs, their interactions with HCPs, and the potential integration of OHCs in traditional healthcare.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.2196/18185; html:https://europepmc.org/articles/PMC7381072"
+  },
+  {
+    "id": "32128788",
+    "doi": "https://doi.org/10.1111/bjd.18889",
+    "title": "The association between partner bereavement and melanoma: cohort studies in the U.K. and Denmark.",
+    "authorString": "Wong AYS, Fr\u00f8slev T, Dearing L, Forbes HJ, Mulick A, Mansfield KE, Silverwood RJ, Kjaersgaard A, S\u00f8rensen HT, Smeeth L, Lewin A, Schmidt SAJ, Langan SM.",
+    "authorAffiliations": "",
+    "journalTitle": "The British journal of dermatology",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Psychological stress is commonly cited as a risk factor for melanoma, but clinical evidence is limited. OBJECTIVES:This study aimed to evaluate the association between partner bereavement and (i) first-time melanoma diagnosis and (ii) mortality in patients with melanoma. METHODS:We conducted two cohort studies using data from the U.K. Clinical Practice Research Datalink (1997-2017) and Danish nationwide registries (1997-2016). In study 1, we compared the risk of first melanoma diagnosis in bereaved vs. matched nonbereaved people using stratified Cox regression. In study 2 we estimated hazard ratios (HRs) for death from melanoma in bereaved compared with nonbereaved individuals with melanoma using Cox regression. We estimated HRs separately for the U.K. and for Denmark, and then pooled the data to perform a random-effects meta-analysis. RESULTS:In study 1, the pooled adjusted HR for the association between partner bereavement and melanoma diagnosis was 0\u00b788 [95% confidence interval (CI) 0\u00b784-0\u00b792] across the entire follow-up period. In study 2, we observed increased melanoma-specific mortality in people experiencing partner bereavement across the entire follow-up period (HR 1\u00b717, 95% CI 1\u00b706-1\u00b730), with the peak occurring during the first year of follow-up (HR 1\u00b731, 95% CI 1\u00b707-1\u00b760). CONCLUSIONS:We found decreased risk of melanoma diagnosis, but increased mortality associated with partner bereavement. These findings may be partly explained by delayed detection resulting from the loss of a partner who could notice skin changes. Stress may play a role in melanoma progression. Our findings indicate the need for a low threshold for skin examination in individuals whose partners have died. What is already known about this topic? Psychological stress has been proposed as a risk factor for the development and progression of cancer, including melanoma, but evidence is conflicting. Clinical evidence is limited by small sample sizes, potential recall bias associated with self-report, and heterogeneous stress definitions. What does this study add? We found a decreased risk of melanoma diagnosis, but increased mortality associated with partner bereavement. While stress might play a role in the progression of melanoma, an alternative explanation is that bereaved people no longer have a close person to help notice skin changes, leading to delayed melanoma detection. Linked Comment: Talaganis et al. Br J Dermatol 2020; 183:607-608.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/bjd.18889; html:https://europepmc.org/articles/PMC7587014; pdf:https://europepmc.org/articles/PMC7587014?pdf=render"
   },
   {
     "id": "31747863",
@@ -2784,22 +2784,6 @@
     "urls": "doi:https://doi.org/10.1136/archdischild-2020-319027"
   },
   {
-    "id": "32738956",
-    "doi": "https://doi.org/10.1016/s0140-6736(20)31286-1",
-    "title": "Atopic dermatitis.",
-    "authorString": "Langan SM, Irvine AD, Weidinger S.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Atopic dermatitis is a common inflammatory skin disorder characterised by recurrent eczematous lesions and intense itch. The disorder affects people of all ages and ethnicities, has a substantial psychosocial impact on patients and relatives, and is the leading cause of the global burden from skin disease. Atopic dermatitis is associated with increased risk of multiple comorbidities, including food allergy, asthma, allergic rhinitis, and mental health disorders. The pathophysiology is complex and involves a strong genetic predisposition, epidermal dysfunction, and T-cell driven inflammation. Although type-2 mechanisms are dominant, there is increasing evidence that the disorder involves multiple immune pathways. Currently, there is no cure, but increasing numbers of innovative and targeted therapies hold promise for achieving disease control, including in patients with recalcitrant disease. We summarise and discuss advances in our understanding of the disease and their implications for prevention, management, and future research.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31286-1"
-  },
-  {
     "id": "31168069",
     "doi": "https://doi.org/10.1038/s41380-019-0439-8",
     "title": "The genomic basis of mood instability: identification of 46 loci in 363,705 UK Biobank participants, genetic correlation with psychiatric disorders, and association with gene expression and function.",
@@ -2814,6 +2798,22 @@
     "abstract": "Genome-wide association studies (GWAS) of psychiatric phenotypes have tended to focus on categorical diagnoses, but to understand the biology of mental illness it may be more useful to study traits which cut across traditional boundaries. Here, we report the results of a GWAS of mood instability as a trait in a large population cohort (UK Biobank, n\u2009=\u2009363,705). We also assess the clinical and biological relevance of the findings, including whether genetic associations show enrichment for nervous system pathways. Forty six unique loci associated with mood instability were identified with a SNP heritability estimate of 9%. Linkage Disequilibrium Score Regression (LDSR) analyses identified genetic correlations with Major Depressive Disorder (MDD), Bipolar Disorder (BD), Schizophrenia, anxiety, and Post Traumatic Stress Disorder (PTSD). Gene-level and gene set analyses identified 244 significant genes and 6 enriched gene sets. Tissue expression analysis of the SNP-level data found enrichment in multiple brain regions, and eQTL analyses highlighted an inversion on chromosome 17 plus two brain-specific eQTLs. In addition, we used a Phenotype Linkage Network (PLN) analysis and community analysis to assess for enrichment of nervous system gene sets using mouse orthologue databases. The PLN analysis found enrichment in nervous system PLNs for a community containing serotonin and melatonin receptors. In summary, this work has identified novel loci, tissues and gene sets contributing to mood instability. These findings may be relevant for the identification of novel trans-diagnostic drug targets and could help to inform future stratified medicine innovations in mental health.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41380-019-0439-8; html:https://europepmc.org/articles/PMC7116257; pdf:https://europepmc.org/articles/PMC7116257?pdf=render"
+  },
+  {
+    "id": "32738956",
+    "doi": "https://doi.org/10.1016/s0140-6736(20)31286-1",
+    "title": "Atopic dermatitis.",
+    "authorString": "Langan SM, Irvine AD, Weidinger S.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Atopic dermatitis is a common inflammatory skin disorder characterised by recurrent eczematous lesions and intense itch. The disorder affects people of all ages and ethnicities, has a substantial psychosocial impact on patients and relatives, and is the leading cause of the global burden from skin disease. Atopic dermatitis is associated with increased risk of multiple comorbidities, including food allergy, asthma, allergic rhinitis, and mental health disorders. The pathophysiology is complex and involves a strong genetic predisposition, epidermal dysfunction, and T-cell driven inflammation. Although type-2 mechanisms are dominant, there is increasing evidence that the disorder involves multiple immune pathways. Currently, there is no cure, but increasing numbers of innovative and targeted therapies hold promise for achieving disease control, including in patients with recalcitrant disease. We summarise and discuss advances in our understanding of the disease and their implications for prevention, management, and future research.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31286-1"
   },
   {
     "id": "32735830",
@@ -2912,22 +2912,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jor.2020.02.001"
   },
   {
-    "id": "31994239",
-    "doi": "https://doi.org/10.1002/bimj.201900041",
-    "title": "Estimating treatment effects with partially observed covariates using outcome regression with missing indicators.",
-    "authorString": "Blake HA, Leyrat C, Mansfield KE, Tomlinson LA, Carpenter J, Williamson EJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Biometrical journal. Biometrische Zeitschrift",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Average Treatment Effect; Outcome Regression; Missing Covariate Data; Missing Indicator; Missing Confounder Data",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Missing data is a common issue in research using observational studies to investigate the effect of treatments on health outcomes. When missingness occurs only in the covariates, a simple approach is to use missing indicators to handle the partially observed covariates. The missing indicator approach has been criticized for giving biased results in outcome regression. However, recent papers have suggested that the missing indicator approach can provide unbiased results in propensity score analysis under certain assumptions. We consider assumptions under which the missing indicator approach can provide valid inferences, namely, (1) no unmeasured confounding within missingness patterns; either (2a) covariate values of patients with missing data were conditionally independent of treatment or (2b) these values were conditionally independent of outcome; and (3) the outcome model is correctly specified: specifically, the true outcome model does not include interactions between missing indicators and fully observed covariates. We prove that, under the assumptions above, the missing indicator approach with outcome regression can provide unbiased estimates of the average treatment effect. We use a simulation study to investigate the extent of bias in estimates of the treatment effect when the assumptions are violated and we illustrate our findings using data from electronic health records. In conclusion, the missing indicator approach can provide valid inferences for outcome regression, but the plausibility of its assumptions must first be considered\u00a0carefully.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/bimj.201900041"
-  },
-  {
     "id": "31984563",
     "doi": "https://doi.org/10.1111/jce.14368",
     "title": "Early recurrences of atrial tachyarrhythmias post pulmonary vein isolation.",
@@ -2942,6 +2926,22 @@
     "abstract": "AIMS:To investigate the significance of early recurrence (ER) of atrial tachyarrhythmias after pulmonary vein isolation (PVI) on the development of late recurrence (LR) and to redefine the blanking period during which an ER is considered nonspecific. METHODS:Data of 713 patients undergoing their first PVI for paroxysmal or persistent atrial fibrillation between January 2012 and December 2017 were included. All patients were followed-up for 12 months according to clinical and outpatient routine and were screened for any atrial tachyarrhythmia lasting >30 seconds occurring during the first 3 months postablation (ER) and after the 3 months blanking period (LR). RESULTS:Patients with ER compared to those without ER had significantly more LR (74.5% vs 16.5% vs, P\u2009<\u2009.001). The occurrence of ER during the first, second and third months showed increasing LR rates of 35.2%, 67.9%, and 94.8%, respectively (P\u2009<\u2009.001). Receiver operator characteristic analysis revealed a blanking period of 46 days with the highest sensitivity (68.1%) and specificity (96.5%). Later timing and longer time span of ER were independent predictors for LR in multivariable analysis. CONCLUSION:ER is a strong predictor for LR. Our study advocates a shortening of the post-PVI blanking period followed by a \"gray zone\" up to 3 months where individualized therapeutic decisions based on additional risk factors should be considered. We suggest that the ER time span might serve as such a predictor identifying patients at the highest risk for LR.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/jce.14368"
+  },
+  {
+    "id": "31994239",
+    "doi": "https://doi.org/10.1002/bimj.201900041",
+    "title": "Estimating treatment effects with partially observed covariates using outcome regression with missing indicators.",
+    "authorString": "Blake HA, Leyrat C, Mansfield KE, Tomlinson LA, Carpenter J, Williamson EJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Biometrical journal. Biometrische Zeitschrift",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Average Treatment Effect; Outcome Regression; Missing Covariate Data; Missing Indicator; Missing Confounder Data",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Missing data is a common issue in research using observational studies to investigate the effect of treatments on health outcomes. When missingness occurs only in the covariates, a simple approach is to use missing indicators to handle the partially observed covariates. The missing indicator approach has been criticized for giving biased results in outcome regression. However, recent papers have suggested that the missing indicator approach can provide unbiased results in propensity score analysis under certain assumptions. We consider assumptions under which the missing indicator approach can provide valid inferences, namely, (1) no unmeasured confounding within missingness patterns; either (2a) covariate values of patients with missing data were conditionally independent of treatment or (2b) these values were conditionally independent of outcome; and (3) the outcome model is correctly specified: specifically, the true outcome model does not include interactions between missing indicators and fully observed covariates. We prove that, under the assumptions above, the missing indicator approach with outcome regression can provide unbiased estimates of the average treatment effect. We use a simulation study to investigate the extent of bias in estimates of the treatment effect when the assumptions are violated and we illustrate our findings using data from electronic health records. In conclusion, the missing indicator approach can provide valid inferences for outcome regression, but the plausibility of its assumptions must first be considered\u00a0carefully.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/bimj.201900041"
   },
   {
     "id": "33048945",
@@ -3104,22 +3104,6 @@
     "urls": "doi:https://doi.org/10.3233/SHTI200210"
   },
   {
-    "id": "33180769",
-    "doi": "https://doi.org/10.1371/journal.pone.0240902",
-    "title": "Probable PTSD, depression and anxiety in 40,299 UK police officers and staff: Prevalence, risk factors and associations with blood pressure.",
-    "authorString": "Stevelink SAM, Opie E, Pernet D, Gao H, Elliott P, Wessely S, Fear NT, Hotopf M, Greenberg N.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION:Police employees undertake challenging duties which may adversely impact their health. This study explored the prevalence of and risk factors for probable mental disorders amongst a representative sample of UK police employees. The association between mental illness and alterations in blood pressure was also explored. METHODS:Data were used from the Airwave Health Monitoring Study which was established to monitor the possible physical health impacts of a new communication system on police employees. Data included sociodemographic characteristics, lifestyle habits, depression, anxiety, and post-traumatic stress disorder (PTSD) symptoms and blood pressure. Descriptive statistics were used to explore the prevalence of probable mental disorders and associated factors. Stepwise linear regression was conducted, controlling for confounding variables, to examine associations between mental disorders and blood pressure. RESULTS:The sample included 40,299 police staff, police constable/sergeants and inspectors or above. Probable depression was most frequently reported (9.8%), followed by anxiety (8.5%) and PTSD (3.9%). Groups at risk for probable mental disorders included police staff, and police employees who reported drinking heavily. Police employees exposed to traumatic incidents in the past six months had a doubling in rates of anxiety or depression and a six-fold increase in PTSD compared to those with no recent trauma exposure. Adjusted logistic regression models did not reveal any significant association between probable mental disorders and systolic blood pressure but significantly elevated diastolic blood pressure (\u22481mmHg) was found across mental disorders. CONCLUSIONS:These results show lower rates of probable mental disorders, especially PTSD, than reported in other studies focusing on police employees. Although mental ill health was associated with increased diastolic blood pressure, this was unlikely to be clinically significant. These findings highlight the importance of continued health monitoring of members of the UK police forces, focusing on employees recently exposed to traumatic incidents, heavy drinkers and police staff.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0240902"
-  },
-  {
     "id": "30183734",
     "doi": "https://doi.org/10.1371/journal.pone.0202359",
     "title": "Time spent at blood pressure target and the risk of death and cardiovascular diseases.",
@@ -3134,6 +3118,22 @@
     "abstract": "BACKGROUND:The time a patient spends with blood pressure at target level is an intuitive measure of successful BP management, but population studies on its effectiveness are as yet unavailable. METHOD:We identified a population-based cohort of 169,082 individuals with newly identified high blood pressure who were free of cardiovascular disease from January 1997 to March 2010. We used 1.64 million clinical blood pressure readings to calculate the TIme at TaRgEt (TITRE) based on current target blood pressure levels. RESULT:The median (Inter-quartile range) TITRE among all patients was 2.8 (0.3, 5.6) months per year, only 1077 (0.6%) patients had a TITRE \u226511 months. Compared to people with a 0% TITRE, patients with a TITRE of 3-5.9 months, and 6-8.9 months had 75% and 78% lower odds of the composite of cardiovascular death, myocardial infarction and stroke (adjusted odds ratios, 0.25 (95% confidence interval: 0.21, 0.31) and 0.22 (0.17, 0.27), respectively). These associations were consistent for heart failure and any cardiovascular disease and death (comparing a 3-5.9 month to 0% TITRE, 63% and 60% lower in odds, respectively), among people who did or did not have blood pressure 'controlled' on a single occasion during the first year of follow-up, and across groups defined by number of follow-up BP measure categories. CONCLUSION:Based on the current frequency of measurement of blood pressure this study suggests that few newly hypertensive patients sustained a complete, year-round on target blood pressure over time. The inverse associations between a higher TITRE and lower risk of incident cardiovascular diseases were independent of widely-used blood pressure 'control' indicators. Randomized trials are required to evaluate interventions to increase a person's time spent at blood pressure target.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0202359; html:https://europepmc.org/articles/PMC6124703; pdf:https://europepmc.org/articles/PMC6124703?pdf=render"
+  },
+  {
+    "id": "33180769",
+    "doi": "https://doi.org/10.1371/journal.pone.0240902",
+    "title": "Probable PTSD, depression and anxiety in 40,299 UK police officers and staff: Prevalence, risk factors and associations with blood pressure.",
+    "authorString": "Stevelink SAM, Opie E, Pernet D, Gao H, Elliott P, Wessely S, Fear NT, Hotopf M, Greenberg N.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "INTRODUCTION:Police employees undertake challenging duties which may adversely impact their health. This study explored the prevalence of and risk factors for probable mental disorders amongst a representative sample of UK police employees. The association between mental illness and alterations in blood pressure was also explored. METHODS:Data were used from the Airwave Health Monitoring Study which was established to monitor the possible physical health impacts of a new communication system on police employees. Data included sociodemographic characteristics, lifestyle habits, depression, anxiety, and post-traumatic stress disorder (PTSD) symptoms and blood pressure. Descriptive statistics were used to explore the prevalence of probable mental disorders and associated factors. Stepwise linear regression was conducted, controlling for confounding variables, to examine associations between mental disorders and blood pressure. RESULTS:The sample included 40,299 police staff, police constable/sergeants and inspectors or above. Probable depression was most frequently reported (9.8%), followed by anxiety (8.5%) and PTSD (3.9%). Groups at risk for probable mental disorders included police staff, and police employees who reported drinking heavily. Police employees exposed to traumatic incidents in the past six months had a doubling in rates of anxiety or depression and a six-fold increase in PTSD compared to those with no recent trauma exposure. Adjusted logistic regression models did not reveal any significant association between probable mental disorders and systolic blood pressure but significantly elevated diastolic blood pressure (\u22481mmHg) was found across mental disorders. CONCLUSIONS:These results show lower rates of probable mental disorders, especially PTSD, than reported in other studies focusing on police employees. Although mental ill health was associated with increased diastolic blood pressure, this was unlikely to be clinically significant. These findings highlight the importance of continued health monitoring of members of the UK police forces, focusing on employees recently exposed to traumatic incidents, heavy drinkers and police staff.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0240902"
   },
   {
     "id": "33185016",
@@ -3261,7 +3261,7 @@
     "healthCategories": "",
     "abstract": "BACKGROUND:Clinical trials show that antimicrobial-impregnated central venous catheters reduce catheter-related bloodstream infection in adults and children receiving intensive care, but there is insufficient evidence for use in newborn babies. OBJECTIVES:The objectives were (1) to determine clinical effectiveness by conducting a randomised controlled trial comparing antimicrobial-impregnated peripherally inserted central venous catheters with standard peripherally inserted central venous catheters for reducing bloodstream or cerebrospinal fluid infections (referred to as bloodstream infections); (2) to conduct an economic evaluation of the costs, cost-effectiveness and value of conducting additional research; and (3) to conduct a generalisability analysis of trial findings to neonatal care in the NHS. DESIGN:Three separate studies were undertaken, each addressing one of the three objectives. (1) This was a multicentre, open-label, pragmatic randomised controlled trial; (2) an analysis was undertaken of hospital care costs, lifetime cost-effectiveness and value of information from an NHS perspective; and (3) this was a retrospective cohort study of bloodstream infection rates in neonatal units in England. SETTING:The randomised controlled trial was conducted in 18 neonatal intensive care units in England. PARTICIPANTS:Participants were babies who required a peripherally inserted central venous catheter (of 1 French gauge in size). INTERVENTIONS:The interventions were an antimicrobial-impregnated peripherally inserted central venous catheter (coated with rifampicin-miconazole) or a standard peripherally inserted central venous catheter, allocated randomly (1\u2009:\u20091) using web randomisation. MAIN OUTCOME MEASURE:Study 1 - time to first bloodstream infection, sampled between 24 hours after randomisation and 48 hours after peripherally inserted central venous catheter removal. Study 2 - cost-effectiveness of the antimicrobial-impregnated peripherally inserted central venous catheter compared with the standard peripherally inserted central venous catheters. Study 3 - risk-adjusted bloodstream rates in the trial compared with those in neonatal units in England. For study 3, the data used were as follows: (1) case report forms and linked death registrations; (2) case report forms and linked death registrations linked to administrative health records with 6-month follow-up; and (3) neonatal health records linked to infection surveillance data. RESULTS:Study 1, clinical effectiveness - 861 babies were randomised (antimicrobial-impregnated peripherally inserted central venous catheter, n\u2009=\u2009430; standard peripherally inserted central venous catheter, n\u2009=\u2009431). Bloodstream infections occurred in 46 babies (10.7%) randomised to antimicrobial-impregnated peripherally inserted central venous catheters and in 44 (10.2%) babies randomised to standard peripherally inserted central venous catheters. No difference in time to bloodstream infection was detected (hazard ratio 1.11, 95% confidence interval 0.73 to 1.67; p\u2009=\u20090.63). Secondary outcomes of rifampicin resistance in positive blood/cerebrospinal fluid cultures, mortality, clinical outcomes at neonatal unit discharge and time to peripherally inserted central venous catheter removal were similar in both groups. Rifampicin resistance in positive peripherally inserted central venous catheter tip cultures was higher in the antimicrobial-impregnated peripherally inserted central venous catheter group (relative risk 3.51, 95% confidence interval 1.16 to 10.57; p\u2009=\u20090.02) than in the standard peripherally inserted central venous catheter group. Adverse events were similar in both groups. Study 2, economic evaluation - the mean cost of babies' hospital care was \u00a383,473. Antimicrobial-impregnated peripherally inserted central venous catheters were not cost-effective. Given the increased price, compared with standard peripherally inserted central venous catheters, the minimum reduction in risk of bloodstream infection for antimicrobial-impregnated peripherally inserted central venous catheters to be cost-effective was 3% and 15% for babies born at 23-27 and 28-32 weeks' gestation, respectively. Study 3, generalisability analysis - risk-adjusted bloodstream infection rates per 1000 peripherally inserted central venous catheter days were similar among babies in the trial and in all neonatal units. Of all bloodstream infections in babies receiving intensive or high-dependency care in neonatal units, 46% occurred during peripherally inserted central venous catheter days. LIMITATIONS:The trial was open label as antimicrobial-impregnated and standard peripherally inserted central venous catheters are different colours. There was insufficient power to determine differences in rifampicin resistance. CONCLUSIONS:No evidence of benefit or harm was found of peripherally inserted central venous catheters impregnated with rifampicin-miconazole during neonatal care. Interventions with small effects on bloodstream infections could be cost-effective over a child's life course. Findings were generalisable to neonatal units in England. Future research should focus on other types of antimicrobial impregnation of peripherally inserted central venous catheters and alternative approaches for preventing bloodstream infections in neonatal care. TRIAL REGISTRATION:Current Controlled Trials ISRCTN81931394. FUNDING:This project was funded by the National Institute for Health Research Health Technology Assessment programme and will be published in full in Health Technology Assessment; Vol. 24, No. 57. See the NIHR Journals Library website for further project information.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/https://doi.org/10.1093/ije/dyw098"
+    "urls": "html:http://europepmc.org/books/NBK563908; doi:https://doi.org/https://doi.org/10.1093/ije/dyw098"
   },
   {
     "id": "30742608",
@@ -3312,22 +3312,6 @@
     "urls": "doi:https://doi.org/10.1093/ehjqcco/qcaa079"
   },
   {
-    "id": "31558464",
-    "doi": "https://doi.org/10.1136/bmjopen-2019-033013",
-    "title": "Long-term impact of giving antibiotics before skin incision versus after cord clamping on children born by caesarean section: protocol for a longitudinal study based on UK electronic health records.",
-    "authorString": "\u0160umilo D, Nirantharakumar K, Willis BH, Rudge G, Martin J, Gokhale K, Thayakaran R, Adderley NJ, Chandan JS, Okoth K, Hewston R, Skrybant M, Deeks JJ, Brocklehurst P.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Child; Asthma; Caesarean section; Eczema; Antibiotic Prophylaxis; Immune System Diseases",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION:In the UK, about a quarter of women give birth by caesarean section (CS) and are offered prophylactic broad-spectrum antibiotics to reduce the risk of maternal postpartum infection. In 2011, national guidance was changed from recommending antibiotics after the umbilical cord was cut to giving antibiotics prior to skin incision based on evidence that earlier administration reduces maternal infectious morbidity. Although antibiotics cross the placenta, there are no known short-term harms to the baby. This study aims to address the research gap on longer term impact of these antibiotics on child health. METHODS AND ANALYSIS:A controlled interrupted time series study will use anonymised mother-baby linked routine electronic health records for children born during 2006-2018 recorded in UK primary care (The Health Improvement Network, THIN and Clinical Practice Research Datalink, CPRD) and secondary care (Hospital Episode Statistics, HES) databases. The primary outcomes of interest are asthma and eczema, two common allergy-related diseases in childhood. In-utero exposure to antibiotics immediately prior to CS will be compared with no exposure when given after cord clamping. The risk of outcomes in children delivered by CS will also be compared with a control cohort delivered vaginally to account for time effects. We will use all available data from THIN, CPRD and HES with estimated power of 80% and 90% to detect relative increase in risk of asthma of 16% and 18%, respectively at the 5% significance level. ETHICS AND DISSEMINATION:Ethical approval has been obtained from the University of Birmingham Ethical Review Committee with scientific approvals obtained from the independent scientific advisory committees from the Medicines and Healthcare products Regulatory Agency for CPRD and the data provider, IQVIA for THIN. The results will be published in peer-reviewed journals, presented at national and international conferences and disseminated to stakeholders.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-033013; html:https://europepmc.org/articles/PMC6773283; pdf:https://europepmc.org/articles/PMC6773283?pdf=render"
-  },
-  {
     "id": "32564639",
     "doi": "https://doi.org/10.1177/0300060520931298",
     "title": "Mortality statistics in England and Wales: the SARS-CoV-2 paradox.",
@@ -3342,6 +3326,22 @@
     "abstract": "OBJECTIVE:To analyse mortality statistics in the United Kingdom during the initial phases of the severe acute respiratory coronavirus 2 (SARS-CoV-2) pandemic and to understand the impact of the pandemic on national mortality. METHODS:Retrospective review of weekly national mortality statistics in the United Kingdom over the past 5 years, including subgroup analysis of respiratory mortality rates. RESULTS:During the early phases of the SARS-CoV-2 pandemic in the first months of 2020, there were consistently fewer deaths per week compared with the preceding 5 years. This pattern was not observed at any other time within the past 5 years. We have termed this phenomenon the \"SARS-CoV-2 paradox.\" We postulate potential explanations for this seeming paradox and explore the implications of these data. CONCLUSIONS:Paradoxically, but potentially importantly, lower rather than higher weekly mortality rates were observed during the early stages of the SARS-CoV-2 pandemic. This paradox may have implications for current and future healthcare utilisation. A rebound increase in non-SARS-CoV-2 mortality later this year might coincide with the peak of SARS-CoV-2 admissions and mortality.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1177/0300060520931298; html:https://europepmc.org/articles/PMC7307394; pdf:https://europepmc.org/articles/PMC7307394?pdf=render"
+  },
+  {
+    "id": "31558464",
+    "doi": "https://doi.org/10.1136/bmjopen-2019-033013",
+    "title": "Long-term impact of giving antibiotics before skin incision versus after cord clamping on children born by caesarean section: protocol for a longitudinal study based on UK electronic health records.",
+    "authorString": "\u0160umilo D, Nirantharakumar K, Willis BH, Rudge G, Martin J, Gokhale K, Thayakaran R, Adderley NJ, Chandan JS, Okoth K, Hewston R, Skrybant M, Deeks JJ, Brocklehurst P.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Child; Asthma; Caesarean section; Eczema; Antibiotic Prophylaxis; Immune System Diseases",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "INTRODUCTION:In the UK, about a quarter of women give birth by caesarean section (CS) and are offered prophylactic broad-spectrum antibiotics to reduce the risk of maternal postpartum infection. In 2011, national guidance was changed from recommending antibiotics after the umbilical cord was cut to giving antibiotics prior to skin incision based on evidence that earlier administration reduces maternal infectious morbidity. Although antibiotics cross the placenta, there are no known short-term harms to the baby. This study aims to address the research gap on longer term impact of these antibiotics on child health. METHODS AND ANALYSIS:A controlled interrupted time series study will use anonymised mother-baby linked routine electronic health records for children born during 2006-2018 recorded in UK primary care (The Health Improvement Network, THIN and Clinical Practice Research Datalink, CPRD) and secondary care (Hospital Episode Statistics, HES) databases. The primary outcomes of interest are asthma and eczema, two common allergy-related diseases in childhood. In-utero exposure to antibiotics immediately prior to CS will be compared with no exposure when given after cord clamping. The risk of outcomes in children delivered by CS will also be compared with a control cohort delivered vaginally to account for time effects. We will use all available data from THIN, CPRD and HES with estimated power of 80% and 90% to detect relative increase in risk of asthma of 16% and 18%, respectively at the 5% significance level. ETHICS AND DISSEMINATION:Ethical approval has been obtained from the University of Birmingham Ethical Review Committee with scientific approvals obtained from the independent scientific advisory committees from the Medicines and Healthcare products Regulatory Agency for CPRD and the data provider, IQVIA for THIN. The results will be published in peer-reviewed journals, presented at national and international conferences and disseminated to stakeholders.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-033013; html:https://europepmc.org/articles/PMC6773283; pdf:https://europepmc.org/articles/PMC6773283?pdf=render"
   },
   {
     "id": "PMC7486860",
@@ -3824,22 +3824,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ebiom.2018.08.004; html:https://europepmc.org/articles/PMC6154782; pdf:https://europepmc.org/articles/PMC6154782?pdf=render"
   },
   {
-    "id": "32743489",
-    "doi": "https://doi.org/10.1016/j.eclinm.2020.100469",
-    "title": "Gender differences in the presentation of fibromyalgia amongst children who have been maltreated.",
-    "authorString": "Chandan JS, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "EClinicalMedicine",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100469"
-  },
-  {
     "id": "31671849",
     "doi": "https://doi.org/10.3390/ijerph16214178",
     "title": "Associations between the Home Physical Environment and Children's Home-Based Physical Activity and Sitting.",
@@ -3854,6 +3838,22 @@
     "abstract": "It is important to understand the correlates of children's physical activity (PA) and sitting at home, where children spend significant time. The home social environment has an important influence; however, much less is known about the home physical environment. Therefore, the study aimed to assess relationships between the physical environment and children's sitting and PA at home. In total, 235 child-parent dyads were included in the analyses. Children spent 67% of their time at home sitting. Linear regression analyses examined associations between physical home environmental factors obtained via an audit and children's (55% girl, 10.2 \u00b1 0.7) objective PA and sitting at home. Following adjustment for socio-demographics and social environmental factors, an open plan living area (OPLA), musical instrument accessibility and availability, and perceived house size were negatively and positively associated, whereas media equipment accessibility and availability was positively and negatively associated with sitting and standing, respectively. Additionally, an OPLA was positively associated with total and moderate-to-vigorous PA. Furthermore, sitting breaks were positively associated with objective garden size and negatively associated with digital TV. The physical home environment may have an important influence on children's sitting, standing and PA at home; therefore, interventions that target this environment are needed.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/ijerph16214178; html:https://europepmc.org/articles/PMC6862192; pdf:https://europepmc.org/articles/PMC6862192?pdf=render"
+  },
+  {
+    "id": "32743489",
+    "doi": "https://doi.org/10.1016/j.eclinm.2020.100469",
+    "title": "Gender differences in the presentation of fibromyalgia amongst children who have been maltreated.",
+    "authorString": "Chandan JS, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "EClinicalMedicine",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100469"
   },
   {
     "id": "31818272",
@@ -3872,22 +3872,6 @@
     "urls": "doi:https://doi.org/10.1186/s12889-019-8015-3; html:https://europepmc.org/articles/PMC6902530; pdf:https://europepmc.org/articles/PMC6902530?pdf=render"
   },
   {
-    "id": "32692755",
-    "doi": "https://doi.org/10.1371/journal.pone.0236193",
-    "title": "A genetic model of ivabradine recapitulates results from randomized clinical trials.",
-    "authorString": "Legault MA, Sandoval J, Provost S, Barhdadi A, Lemieux Perreault LP, Shah S, Lumbers RT, de Denus S, Tyl B, Tardif JC, Dub\u00e9 MP.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Naturally occurring human genetic variants provide a valuable tool to identify drug targets and guide drug prioritization and clinical trial design. Ivabradine is a heart rate lowering drug with protective effects on heart failure despite increasing the risk of atrial fibrillation. In patients with coronary artery disease without heart failure, the drug does not protect against major cardiovascular adverse events prompting questions about the ability of genetics to have predicted those effects. This study evaluates the effect of a variant in HCN4, ivabradine's drug target, on safety and efficacy endpoints. METHODS:We used genetic association testing and Mendelian randomization to predict the effect of ivabradine and heart rate lowering on cardiovascular outcomes. RESULTS:Using data from the UK Biobank and large GWAS consortia, we evaluated the effect of a heart rate-reducing genetic variant at the HCN4 locus encoding ivabradine's drug target. These genetic association analyses showed increases in risk for atrial fibrillation (OR 1.09, 95% CI: 1.06-1.13, P = 9.3 \u00d710-9) in the UK Biobank. In a cause-specific competing risk model to account for the increased risk of atrial fibrillation, the HCN4 variant reduced incident heart failure in participants that did not develop atrial fibrillation (HR 0.90, 95% CI: 0.83-0.98, P = 0.013). In contrast, the same heart rate reducing HCN4 variant did not prevent a composite endpoint of myocardial infarction or cardiovascular death (OR 0.99, 95% CI: 0.93-1.04, P = 0.61). CONCLUSION:Genetic modelling of ivabradine recapitulates its benefits in heart failure, promotion of atrial fibrillation, and neutral effect on myocardial infarction.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0236193; html:https://europepmc.org/articles/PMC7373274; pdf:https://europepmc.org/articles/PMC7373274?pdf=render"
-  },
-  {
     "id": "31089183",
     "doi": "https://doi.org/10.1038/s41598-019-43861-9",
     "title": "Genetic variation in CADM2 as a link between psychological traits and obesity.",
@@ -3904,20 +3888,20 @@
     "urls": "doi:https://doi.org/10.1038/s41598-019-43861-9; html:https://europepmc.org/articles/PMC6517397; pdf:https://europepmc.org/articles/PMC6517397?pdf=render"
   },
   {
-    "id": "31822919",
-    "doi": "https://doi.org/10.1093/pubmed/fdz172",
-    "title": "Unmet needs of women with GDM: a health needs assessment in Sandwell, West Midlands.",
-    "authorString": "Plant N, \u0160umilo D, Chapman R, Webber J, Saravanan P, Nirantharakumar K.",
+    "id": "32692755",
+    "doi": "https://doi.org/10.1371/journal.pone.0236193",
+    "title": "A genetic model of ivabradine recapitulates results from randomized clinical trials.",
+    "authorString": "Legault MA, Sandoval J, Provost S, Barhdadi A, Lemieux Perreault LP, Shah S, Lumbers RT, de Denus S, Tyl B, Tardif JC, Dub\u00e9 MP.",
     "authorAffiliations": "",
-    "journalTitle": "Journal of public health (Oxford, England)",
-    "pubYear": "2019",
-    "isOpenAccess": "N",
-    "keywords": "United Kingdom; Needs Assessment; Gestational Diabetes",
+    "journalTitle": "PloS one",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "BACKGROUND:Gestational diabetes mellitus (GDM) affects over 4% of pregnancies in England. We investigated GDM epidemiology within ethnically diverse population and the current offer of services to women with previous GDM to reduce their type 2 diabetes mellitus (T2DM) risk. METHODS:(i) Analysis of routinely collected maternity data examining GDM incidence and risk factors; (ii) local authority self-assessment questionnaire on public health interventions targeting women with previous GDM and (iii) service development discussions regarding the current pathway and areas for improvement. RESULTS:Of 9390 births between 2014 and 2018, 6.8% had a record of GDM. High body mass index (BMI), maternal age, and ethnicity (South Asian and some mixed ethnic backgrounds) were independent predictors of GDM. There were no public health commissioned services specifically targeting women with previous GDM. Weaknesses in transition from secondary to primary care and areas for improvement when screening for GDM were identified. CONCLUSIONS:GDM burden in this population was high. Awareness should be raised on the importance of regular glucose testing and lifestyle modification to delay or prevent progression to T2DM, particularly within high risk groups. The potential for health visitors to contribute to this should be explored. Commissioners should review evidence to develop a flexible lifestyle services model to meet the specific needs of these women.",
+    "abstract": "BACKGROUND:Naturally occurring human genetic variants provide a valuable tool to identify drug targets and guide drug prioritization and clinical trial design. Ivabradine is a heart rate lowering drug with protective effects on heart failure despite increasing the risk of atrial fibrillation. In patients with coronary artery disease without heart failure, the drug does not protect against major cardiovascular adverse events prompting questions about the ability of genetics to have predicted those effects. This study evaluates the effect of a variant in HCN4, ivabradine's drug target, on safety and efficacy endpoints. METHODS:We used genetic association testing and Mendelian randomization to predict the effect of ivabradine and heart rate lowering on cardiovascular outcomes. RESULTS:Using data from the UK Biobank and large GWAS consortia, we evaluated the effect of a heart rate-reducing genetic variant at the HCN4 locus encoding ivabradine's drug target. These genetic association analyses showed increases in risk for atrial fibrillation (OR 1.09, 95% CI: 1.06-1.13, P = 9.3 \u00d710-9) in the UK Biobank. In a cause-specific competing risk model to account for the increased risk of atrial fibrillation, the HCN4 variant reduced incident heart failure in participants that did not develop atrial fibrillation (HR 0.90, 95% CI: 0.83-0.98, P = 0.013). In contrast, the same heart rate reducing HCN4 variant did not prevent a composite endpoint of myocardial infarction or cardiovascular death (OR 0.99, 95% CI: 0.93-1.04, P = 0.61). CONCLUSION:Genetic modelling of ivabradine recapitulates its benefits in heart failure, promotion of atrial fibrillation, and neutral effect on myocardial infarction.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/pubmed/fdz172"
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0236193; html:https://europepmc.org/articles/PMC7373274; pdf:https://europepmc.org/articles/PMC7373274?pdf=render"
   },
   {
     "id": "32835195",
@@ -3934,6 +3918,22 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S2589-7500(20)30134-5; html:https://europepmc.org/articles/PMC7292602; pdf:https://europepmc.org/articles/PMC7292602?pdf=render"
+  },
+  {
+    "id": "31822919",
+    "doi": "https://doi.org/10.1093/pubmed/fdz172",
+    "title": "Unmet needs of women with GDM: a health needs assessment in Sandwell, West Midlands.",
+    "authorString": "Plant N, \u0160umilo D, Chapman R, Webber J, Saravanan P, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of public health (Oxford, England)",
+    "pubYear": "2019",
+    "isOpenAccess": "N",
+    "keywords": "United Kingdom; Needs Assessment; Gestational Diabetes",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Gestational diabetes mellitus (GDM) affects over 4% of pregnancies in England. We investigated GDM epidemiology within ethnically diverse population and the current offer of services to women with previous GDM to reduce their type 2 diabetes mellitus (T2DM) risk. METHODS:(i) Analysis of routinely collected maternity data examining GDM incidence and risk factors; (ii) local authority self-assessment questionnaire on public health interventions targeting women with previous GDM and (iii) service development discussions regarding the current pathway and areas for improvement. RESULTS:Of 9390 births between 2014 and 2018, 6.8% had a record of GDM. High body mass index (BMI), maternal age, and ethnicity (South Asian and some mixed ethnic backgrounds) were independent predictors of GDM. There were no public health commissioned services specifically targeting women with previous GDM. Weaknesses in transition from secondary to primary care and areas for improvement when screening for GDM were identified. CONCLUSIONS:GDM burden in this population was high. Awareness should be raised on the importance of regular glucose testing and lifestyle modification to delay or prevent progression to T2DM, particularly within high risk groups. The potential for health visitors to contribute to this should be explored. Commissioners should review evidence to develop a flexible lifestyle services model to meet the specific needs of these women.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/pubmed/fdz172"
   },
   {
     "id": "32639589",
@@ -4128,22 +4128,6 @@
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz089"
   },
   {
-    "id": "31363735",
-    "doi": "https://doi.org/10.1093/hmg/ddz187",
-    "title": "Towards clinical utility of polygenic risk scores.",
-    "authorString": "Lambert SA, Abraham G, Inouye M.",
-    "authorAffiliations": "",
-    "journalTitle": "Human molecular genetics",
-    "pubYear": "2019",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Prediction of disease risk is an essential part of preventative medicine, often guiding clinical management. Risk prediction typically includes risk factors such as age, sex, family history of disease and lifestyle (e.g. smoking status); however, in recent years, there has been increasing interest to include genomic information into risk models. Polygenic risk scores (PRS) aggregate the effects of many genetic variants across the human genome into a single score and have recently been shown to have predictive value for multiple common diseases. In this review, we summarize the potential use cases for seven common diseases (breast cancer, prostate cancer, coronary artery disease, obesity, type 1 diabetes, type 2 diabetes and Alzheimer's disease) where PRS has or could have clinical utility. PRS analysis for these diseases frequently revolved around (i) risk prediction performance of a PRS alone and in combination with other non-genetic risk factors, (ii) estimation of lifetime risk trajectories, (iii) the independent information of PRS and family history of disease or monogenic mutations and (iv) estimation of the value of adding a PRS to specific clinical risk prediction scenarios. We summarize open questions regarding PRS usability, ancestry bias and transferability, emphasizing the need for the next wave of studies to focus on the implementation and health-economic value of PRS testing. In conclusion, it is becoming clear that PRS have value in disease risk prediction and there are multiple areas where this may have clinical utility.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/hmg/ddz187"
-  },
-  {
     "id": "33064085",
     "doi": "https://doi.org/10.2196/17003",
     "title": "Impact of Electronic Health Record Interface Design on Unsafe Prescribing of Ciclosporin, Tacrolimus, and Diltiazem: Cohort Study in English National Health Service Primary Care.",
@@ -4158,6 +4142,22 @@
     "abstract": "BACKGROUND:In England, national safety guidance recommends that ciclosporin, tacrolimus, and diltiazem are prescribed by brand name due to their narrow therapeutic windows and, in the case of tacrolimus, to reduce the chance of organ transplantation rejection. Various small studies have shown that changes to electronic health record (EHR) system interfaces can affect prescribing choices. OBJECTIVE:Our objectives were to assess variation by EHR systems in breach of safety guidance around prescribing of ciclosporin, tacrolimus, and diltiazem, and to conduct user-interface research into the causes of such breaches. METHODS:We carried out a retrospective cohort study using prescribing data in English primary care. Participants were English general practices and their respective EHR systems. The main outcome measures were (1) the variation in ratio of safety breaches to adherent prescribing in all practices and (2) the description of observations of EHR system usage. RESULTS:A total of 2,575,411 prescriptions were issued in 2018 for ciclosporin, tacrolimus, and diltiazem (over 60 mg); of these, 316,119 prescriptions breached NHS guidance (12.27%). Breaches were most common among users of the EMIS EHR system (breaches in 18.81% of ciclosporin and tacrolimus prescriptions and in 17.99% of diltiazem prescriptions), but breaches were observed in all EHR systems. CONCLUSIONS:Design choices in EHR systems strongly influence safe prescribing of ciclosporin, tacrolimus, and diltiazem, and breaches are prevalent in general practices in England. We recommend that all EHR vendors review their systems to increase safe prescribing of these medicines in line with national guidance. Almost all clinical practice is now mediated through an EHR system; further quantitative research into the effect of EHR system design on clinical practice is long overdue.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.2196/17003; html:https://europepmc.org/articles/PMC7600019"
+  },
+  {
+    "id": "31363735",
+    "doi": "https://doi.org/10.1093/hmg/ddz187",
+    "title": "Towards clinical utility of polygenic risk scores.",
+    "authorString": "Lambert SA, Abraham G, Inouye M.",
+    "authorAffiliations": "",
+    "journalTitle": "Human molecular genetics",
+    "pubYear": "2019",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Prediction of disease risk is an essential part of preventative medicine, often guiding clinical management. Risk prediction typically includes risk factors such as age, sex, family history of disease and lifestyle (e.g. smoking status); however, in recent years, there has been increasing interest to include genomic information into risk models. Polygenic risk scores (PRS) aggregate the effects of many genetic variants across the human genome into a single score and have recently been shown to have predictive value for multiple common diseases. In this review, we summarize the potential use cases for seven common diseases (breast cancer, prostate cancer, coronary artery disease, obesity, type 1 diabetes, type 2 diabetes and Alzheimer's disease) where PRS has or could have clinical utility. PRS analysis for these diseases frequently revolved around (i) risk prediction performance of a PRS alone and in combination with other non-genetic risk factors, (ii) estimation of lifetime risk trajectories, (iii) the independent information of PRS and family history of disease or monogenic mutations and (iv) estimation of the value of adding a PRS to specific clinical risk prediction scenarios. We summarize open questions regarding PRS usability, ancestry bias and transferability, emphasizing the need for the next wave of studies to focus on the implementation and health-economic value of PRS testing. In conclusion, it is becoming clear that PRS have value in disease risk prediction and there are multiple areas where this may have clinical utility.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/hmg/ddz187"
   },
   {
     "id": "32719032",
@@ -4512,22 +4512,6 @@
     "urls": "doi:https://doi.org/10.3389/fgene.2019.00567; html:https://europepmc.org/articles/PMC6614185; pdf:https://europepmc.org/articles/PMC6614185?pdf=render"
   },
   {
-    "id": "31702773",
-    "doi": "https://doi.org/10.1093/bioinformatics/btz796",
-    "title": "Model selection for metabolomics: predicting diagnosis of coronary artery disease using automated machine learning.",
-    "authorString": "Orlenko A, Kofink D, Lyytik\u00e4inen LP, Nikus K, Mishra P, Kuukasj\u00e4rvi P, Karhunen PJ, K\u00e4h\u00f6nen M, Laurikka JO, Lehtim\u00e4ki T, Asselbergs FW, Moore JH.",
-    "authorAffiliations": "",
-    "journalTitle": "Bioinformatics (Oxford, England)",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "MOTIVATION:Selecting the optimal machine learning (ML) model for a given dataset is often challenging. Automated ML (AutoML) has emerged as a powerful tool for enabling the automatic selection of ML methods and parameter settings for the prediction of biomedical endpoints. Here, we apply the tree-based pipeline optimization tool (TPOT) to predict angiographic diagnoses of coronary artery disease (CAD). With TPOT, ML models are represented as expression trees and optimal pipelines discovered using a stochastic search method called genetic programing. We provide some guidelines for TPOT-based ML pipeline selection and optimization-based on various clinical phenotypes and high-throughput metabolic profiles in the Angiography and Genes Study (ANGES). RESULTS:We analyzed nuclear magnetic resonance-derived lipoprotein and metabolite profiles in the ANGES cohort with a goal to identify the role of non-obstructive CAD patients in CAD diagnostics. We performed a comparative analysis of TPOT-generated ML pipelines with selected ML classifiers, optimized with a grid search approach, applied to two phenotypic CAD profiles. As a result, TPOT-generated ML pipelines that outperformed grid search optimized models across multiple performance metrics including balanced accuracy and area under the precision-recall curve. With the selected models, we demonstrated that the phenotypic profile that distinguishes non-obstructive CAD patients from no CAD patients is associated with higher precision, suggesting a discrepancy in the underlying processes between these phenotypes. AVAILABILITY AND IMPLEMENTATION:TPOT is freely available via http://epistasislab.github.io/tpot/. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/bioinformatics/btz796"
-  },
-  {
     "id": "30649175",
     "doi": "https://doi.org/10.1001/jamacardio.2018.4537",
     "title": "Cardiovascular Risk Factors Associated With Venous Thromboembolism.",
@@ -4542,6 +4526,22 @@
     "abstract": "Importance:It is uncertain to what extent established cardiovascular risk factors are associated with venous thromboembolism (VTE). Objective:To estimate the associations of major cardiovascular risk factors with VTE, ie, deep vein thrombosis and pulmonary embolism. Design, Setting, and Participants:This study included individual participant data mostly from essentially population-based cohort studies from the Emerging Risk Factors Collaboration (ERFC; 731\u202f728 participants; 75 cohorts; years of baseline surveys, February 1960 to June 2008; latest date of follow-up, December 2015) and the UK Biobank (421\u202f537 participants; years of baseline surveys, March 2006 to September 2010; latest date of follow-up, February 2016). Participants without cardiovascular disease at baseline were included. Data were analyzed from June 2017 to September 2018. Exposures:A panel of several established cardiovascular risk factors. Main Outcomes and Measures:Hazard ratios (HRs) per 1-SD higher usual risk factor levels (or presence/absence). Incident fatal outcomes in ERFC (VTE,\u20091041; coronary heart disease [CHD], 25\u202f131) and incident fatal/nonfatal outcomes in UK Biobank (VTE, 2321; CHD, 3385). Hazard ratios were adjusted for age, sex, smoking status, diabetes, and body mass index (BMI). Results:Of the 731\u202f728 participants from the ERFC, 403\u202f396 (55.1%) were female, and the mean (SD) age at the time of the survey was 51.9 (9.0) years; of the 421\u202f537 participants from the UK Biobank, 233\u202f699 (55.4%) were female, and the mean (SD) age at the time of the survey was 56.4 (8.1) years. Risk factors for VTE included older age (ERFC: HR per decade, 2.67; 95% CI, 2.45-2.91; UK Biobank: HR, 1.81; 95% CI, 1.71-1.92), current smoking (ERFC: HR, 1.38; 95% CI, 1.20-1.58; UK Biobank: HR, 1.23; 95% CI, 1.08-1.40), and BMI (ERFC: HR per 1-SD higher BMI, 1.43; 95% CI, 1.35-1.50; UK Biobank: HR, 1.37; 95% CI, 1.32-1.41). For these factors, there were similar HRs for pulmonary embolism and deep vein thrombosis in UK Biobank (except adiposity was more strongly associated with pulmonary embolism) and similar HRs for unprovoked vs provoked VTE. Apart from adiposity, these risk factors were less strongly associated with VTE than CHD. There were inconsistent associations of VTEs with diabetes and blood pressure across ERFC and UK Biobank, and there was limited ability to study lipid and inflammation markers. Conclusions and Relevance:Older age, smoking, and adiposity were consistently associated with higher VTE risk.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1001/jamacardio.2018.4537; html:https://europepmc.org/articles/PMC6386140"
+  },
+  {
+    "id": "31702773",
+    "doi": "https://doi.org/10.1093/bioinformatics/btz796",
+    "title": "Model selection for metabolomics: predicting diagnosis of coronary artery disease using automated machine learning.",
+    "authorString": "Orlenko A, Kofink D, Lyytik\u00e4inen LP, Nikus K, Mishra P, Kuukasj\u00e4rvi P, Karhunen PJ, K\u00e4h\u00f6nen M, Laurikka JO, Lehtim\u00e4ki T, Asselbergs FW, Moore JH.",
+    "authorAffiliations": "",
+    "journalTitle": "Bioinformatics (Oxford, England)",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "MOTIVATION:Selecting the optimal machine learning (ML) model for a given dataset is often challenging. Automated ML (AutoML) has emerged as a powerful tool for enabling the automatic selection of ML methods and parameter settings for the prediction of biomedical endpoints. Here, we apply the tree-based pipeline optimization tool (TPOT) to predict angiographic diagnoses of coronary artery disease (CAD). With TPOT, ML models are represented as expression trees and optimal pipelines discovered using a stochastic search method called genetic programing. We provide some guidelines for TPOT-based ML pipeline selection and optimization-based on various clinical phenotypes and high-throughput metabolic profiles in the Angiography and Genes Study (ANGES). RESULTS:We analyzed nuclear magnetic resonance-derived lipoprotein and metabolite profiles in the ANGES cohort with a goal to identify the role of non-obstructive CAD patients in CAD diagnostics. We performed a comparative analysis of TPOT-generated ML pipelines with selected ML classifiers, optimized with a grid search approach, applied to two phenotypic CAD profiles. As a result, TPOT-generated ML pipelines that outperformed grid search optimized models across multiple performance metrics including balanced accuracy and area under the precision-recall curve. With the selected models, we demonstrated that the phenotypic profile that distinguishes non-obstructive CAD patients from no CAD patients is associated with higher precision, suggesting a discrepancy in the underlying processes between these phenotypes. AVAILABILITY AND IMPLEMENTATION:TPOT is freely available via http://epistasislab.github.io/tpot/. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/bioinformatics/btz796"
   },
   {
     "id": "33130851",
@@ -4752,22 +4752,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jaci.2020.10.007; html:https://europepmc.org/articles/PMC7566694; pdf:https://europepmc.org/articles/PMC7566694?pdf=render"
   },
   {
-    "id": "31964672",
-    "doi": "https://doi.org/10.1136/bmjopen-2019-033318",
-    "title": "Educational differentials in key domains of physical activity by ethnicity, age and sex: a cross-sectional study of over 40 000 participants in the UK household longitudinal study (2013-2015).",
-    "authorString": "Fluharty ME, Pinto Pereira SM, Benzeval M, Hamer M, Jefferis B, Griffiths LJ, Cooper R, Bann D.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "epidemiology; Physical Activity; Health Disparities",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "OBJECTIVES:To assess whether educational differentials in three key physical activity (PA) domains vary by age, sex and ethnicity. DESIGN:National cross-sectional survey. SETTING:UK. PARTICIPANTS:Altogether 40\u2009270 participants, aged 20 years and over, from the UK Household Longitudinal Study with information on education, PA and demographics collected in 2013-2015. OUTCOME MEASURES:Participation in active travel (AT), occupational activity (OA) and leisure time physical activity (LTPA) at the time of assessment. RESULTS:Lower educational attainment was associated with higher AT and OA, but lower weekly LTPA activity; these associations were modified by sex, ethnicity and age. Education-related differences in AT were larger for women-the difference in predicted probability of activity between the highest and the lowest education groups was -10% in women (95%\u2009CI: -11.9% to 7.9%) and -3% in men (-4.8% to -0.4%). Education-related differences in OA were larger among men -35% (-36.9% to -32.4%) than women -17% (-19.4% to -15.0%). Finally, education-related differences in moderate-to-vigorous LTPA varied by ethnicity; for example, differences were 17% (16.2% to 18.7%) for white individuals compared with 6% (0.6% to 11.6%) for black individuals. CONCLUSIONS:Educational differences in PA vary by domain and are modified by age, sex and ethnicity. A better understanding of physically inactive subgroups may aid development of interventions to both increase activity levels and reduce health inequalities.",
-    "laySummary": "This study which includes over 40 thousant adults in the UK, aims to assess whether there are links between different levels of physical activity and educational achievements. It found that lower educational achievement was associated with higher travel and work related physical activity, but not leisure time activity. They found this difference to be larger in men than in women, and also in white compared to black individuals.",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-033318; html:https://europepmc.org/articles/PMC7045199; pdf:https://europepmc.org/articles/PMC7045199?pdf=render"
-  },
-  {
     "id": "31220083",
     "doi": "https://doi.org/10.1371/journal.pmed.1002833",
     "title": "Associations of genetically determined iron status across the phenome: A mendelian randomization study.",
@@ -4782,6 +4766,22 @@
     "abstract": "BACKGROUND:Iron is integral to many physiological processes, and variations in its levels, even within the normal range, can have implications for health. The objective of this study was to explore the broad clinical effects of varying iron status. METHODS AND FINDINGS:Genome-wide association study (GWAS) summary data obtained from 48,972 European individuals (55% female) across 19 cohorts in the Genetics of Iron Status Consortium were used to identify 3 genetic variants (rs1800562 and rs1799945 in the hemochromatosis gene [HFE] and rs855791 in the transmembrane protease serine 6 gene [TMPRSS6]) that associate with increased serum iron, ferritin, and transferrin saturation and decreased transferrin levels, thus serving as instruments for systemic iron status. Phenome-wide association study (PheWAS) of these instruments was performed on 424,439 European individuals (54% female) in the UK Biobank who were aged 40-69 years when recruited from 2006 to 2010, with their genetic data linked to Hospital Episode Statistics (HES) from April, 1995 to March, 2016. Two-sample summary data mendelian randomization (MR) analysis was performed to investigate the effect of varying iron status on outcomes across the human phenome. MR-PheWAS analysis for the 3 iron status genetic instruments was performed separately and then pooled by meta-analysis. Correction was made for testing of multiple correlated phenotypes using a 5% false discovery rate (FDR) threshold. Heterogeneity between MR estimates for different instruments was used to indicate possible bias due to effects of the genetic variants through pathways unrelated to iron status. There were 904 distinct phenotypes included in the MR-PheWAS analyses. After correcting for multiple testing, the 3 genetic instruments for systemic iron status demonstrated consistent evidence of a causal effect of higher iron status on decreasing risk of traits related to anemia (iron deficiency anemia: odds ratio [OR] scaled to a standard deviation [SD] increase in genetically determined serum iron levels 0.72, 95% confidence interval [CI] 0.64-0.81, P = 4 \u00d7 10-8) and hypercholesterolemia (hypercholesterolemia: OR 0.88, 95% CI 0.83-0.93, P = 2 \u00d7 10-5) and increasing risk of traits related to infection of the skin and related structures (cellulitis and abscess of the leg: OR 1.25, 95% CI 1.10-1.42, P = 6 \u00d7 10-4). The main limitations of this study relate to possible bias from pleiotropic effects of the considered genetic variants and misclassification of diagnoses in the HES data. Furthermore, this work only investigated participants with European ancestry, and the findings may not be applicable to other ethnic groups. CONCLUSIONS:Our findings offer novel, to our knowledge, insight into previously unreported effects of iron status, highlighting a potential protective effect of higher iron status on hypercholesterolemia and a detrimental role on risk of skin and skin structure infections. Given the modifiable and variable nature of iron status, these findings warrant further investigation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pmed.1002833; html:https://europepmc.org/articles/PMC6586257; pdf:https://europepmc.org/articles/PMC6586257?pdf=render"
+  },
+  {
+    "id": "31964672",
+    "doi": "https://doi.org/10.1136/bmjopen-2019-033318",
+    "title": "Educational differentials in key domains of physical activity by ethnicity, age and sex: a cross-sectional study of over 40 000 participants in the UK household longitudinal study (2013-2015).",
+    "authorString": "Fluharty ME, Pinto Pereira SM, Benzeval M, Hamer M, Jefferis B, Griffiths LJ, Cooper R, Bann D.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "epidemiology; Physical Activity; Health Disparities",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "OBJECTIVES:To assess whether educational differentials in three key physical activity (PA) domains vary by age, sex and ethnicity. DESIGN:National cross-sectional survey. SETTING:UK. PARTICIPANTS:Altogether 40\u2009270 participants, aged 20 years and over, from the UK Household Longitudinal Study with information on education, PA and demographics collected in 2013-2015. OUTCOME MEASURES:Participation in active travel (AT), occupational activity (OA) and leisure time physical activity (LTPA) at the time of assessment. RESULTS:Lower educational attainment was associated with higher AT and OA, but lower weekly LTPA activity; these associations were modified by sex, ethnicity and age. Education-related differences in AT were larger for women-the difference in predicted probability of activity between the highest and the lowest education groups was -10% in women (95%\u2009CI: -11.9% to 7.9%) and -3% in men (-4.8% to -0.4%). Education-related differences in OA were larger among men -35% (-36.9% to -32.4%) than women -17% (-19.4% to -15.0%). Finally, education-related differences in moderate-to-vigorous LTPA varied by ethnicity; for example, differences were 17% (16.2% to 18.7%) for white individuals compared with 6% (0.6% to 11.6%) for black individuals. CONCLUSIONS:Educational differences in PA vary by domain and are modified by age, sex and ethnicity. A better understanding of physically inactive subgroups may aid development of interventions to both increase activity levels and reduce health inequalities.",
+    "laySummary": "This study which includes over 40 thousant adults in the UK, aims to assess whether there are links between different levels of physical activity and educational achievements. It found that lower educational achievement was associated with higher travel and work related physical activity, but not leisure time activity. They found this difference to be larger in men than in women, and also in white compared to black individuals.",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-033318; html:https://europepmc.org/articles/PMC7045199; pdf:https://europepmc.org/articles/PMC7045199?pdf=render"
   },
   {
     "id": "33090454",
@@ -4816,22 +4816,6 @@
     "urls": "doi:https://doi.org/10.1001/jamaneurol.2020.3502"
   },
   {
-    "id": "31053412",
-    "doi": "https://doi.org/10.1016/j.burns.2019.04.006",
-    "title": "Severe burns in Australian and New Zealand adults: Epidemiology and burn centre care.",
-    "authorString": "Toppi J, Cleland H, Gabbe B.",
-    "authorAffiliations": "",
-    "journalTitle": "Burns : journal of the International Society for Burn Injuries",
-    "pubYear": "2019",
-    "isOpenAccess": "N",
-    "keywords": "Mortality; Burn; Severe burns; epidemiology",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION:Studies describing the epidemiology of severe burns (>20% total body surface area) in adults are limited despite the extensive associated morbidity and mortality. This study aimed to describe the epidemiology of severe burn injuries admitted to burn centres in Australia and New Zealand. MATERIALS AND METHODS:Data from the Burns Registry of Australia and New Zealand (BRANZ) were used in this study. Patients were eligible for inclusion if they were admitted between August 2009 and June 2013, were adults (18-years or older), and had burns of 20% total body surface area (TBSA) or greater. Demographics, burn characteristics and in-hospital mortality risk factors were investigated using multivariable Cox proportional hazards analysis. RESULTS:There were 496 BRANZ registered patients who met the inclusion criteria. Over half of the patients were aged 18-40 years and most were male. The median (IQR) TBSA was 31 (25-47). Most (75%) patients had burns involving <50% TBSA, 58% sustained their burn injury at home, and 86% had sustained flame burns. Leisure activities, working for income and preparing food together accounted for over 48% of the activities undertaken at the time of injury. The in-hospital mortality rate was 17% and the median (IQR) length of stay was 24 (12-44) days. Seventy-two percent were admitted to an intensive care unit (ICU) and 40% of patients had an associated inhalation injury. Alcohol and/or drug involvement was suspected in 25% of cases. CONCLUSION:This study describes the demographics, burn injury characteristics and in-hospital outcomes of severe burn injuries in adults whilst also identifying key predictors of inpatient mortality. Key findings included the over-representation of young males, intentional self-harm injuries and flame as a cause of burns and highlights high risk groups to help aid in the development of targeted prevention strategies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.burns.2019.04.006"
-  },
-  {
     "id": "32724101",
     "doi": "https://doi.org/10.1038/s41467-020-17477-x",
     "title": "Neonatal genetics of gene expression reveal potential origins of autoimmune and allergic disease risk.",
@@ -4846,6 +4830,22 @@
     "abstract": "Chronic immune-mediated diseases of adulthood often originate in early childhood. To investigate genetic associations between neonatal immunity and disease, we map expression quantitative trait loci (eQTLs) in resting myeloid cells and CD4+ T cells from cord blood samples, as well as in response to lipopolysaccharide (LPS) or phytohemagglutinin (PHA) stimulation, respectively. Cis-eQTLs are largely specific to cell type or stimulation, and 31% and 52% of genes with cis-eQTLs have response eQTLs (reQTLs) in myeloid cells and T cells, respectively. We identified cis regulatory factors acting as mediators of trans effects. There is extensive colocalisation between condition-specific neonatal cis-eQTLs and variants associated with immune-mediated diseases, in particular CTSH had widespread colocalisation across diseases. Mendelian randomisation shows causal neonatal gene expression effects on disease risk for BTN3A2, HLA-C and others. Our study elucidates the genetics of gene expression in neonatal immune cells, and aetiological origins of autoimmune and allergic diseases.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41467-020-17477-x; html:https://europepmc.org/articles/PMC7387553; pdf:https://europepmc.org/articles/PMC7387553?pdf=render"
+  },
+  {
+    "id": "31053412",
+    "doi": "https://doi.org/10.1016/j.burns.2019.04.006",
+    "title": "Severe burns in Australian and New Zealand adults: Epidemiology and burn centre care.",
+    "authorString": "Toppi J, Cleland H, Gabbe B.",
+    "authorAffiliations": "",
+    "journalTitle": "Burns : journal of the International Society for Burn Injuries",
+    "pubYear": "2019",
+    "isOpenAccess": "N",
+    "keywords": "Mortality; Burn; Severe burns; epidemiology",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "INTRODUCTION:Studies describing the epidemiology of severe burns (>20% total body surface area) in adults are limited despite the extensive associated morbidity and mortality. This study aimed to describe the epidemiology of severe burn injuries admitted to burn centres in Australia and New Zealand. MATERIALS AND METHODS:Data from the Burns Registry of Australia and New Zealand (BRANZ) were used in this study. Patients were eligible for inclusion if they were admitted between August 2009 and June 2013, were adults (18-years or older), and had burns of 20% total body surface area (TBSA) or greater. Demographics, burn characteristics and in-hospital mortality risk factors were investigated using multivariable Cox proportional hazards analysis. RESULTS:There were 496 BRANZ registered patients who met the inclusion criteria. Over half of the patients were aged 18-40 years and most were male. The median (IQR) TBSA was 31 (25-47). Most (75%) patients had burns involving <50% TBSA, 58% sustained their burn injury at home, and 86% had sustained flame burns. Leisure activities, working for income and preparing food together accounted for over 48% of the activities undertaken at the time of injury. The in-hospital mortality rate was 17% and the median (IQR) length of stay was 24 (12-44) days. Seventy-two percent were admitted to an intensive care unit (ICU) and 40% of patients had an associated inhalation injury. Alcohol and/or drug involvement was suspected in 25% of cases. CONCLUSION:This study describes the demographics, burn injury characteristics and in-hospital outcomes of severe burn injuries in adults whilst also identifying key predictors of inpatient mortality. Key findings included the over-representation of young males, intentional self-harm injuries and flame as a cause of burns and highlights high risk groups to help aid in the development of targeted prevention strategies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.burns.2019.04.006"
   },
   {
     "id": "31912232",
@@ -4960,22 +4960,6 @@
     "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15889.2; html:https://europepmc.org/articles/PMC7327724; pdf:https://europepmc.org/articles/PMC7327724?pdf=render"
   },
   {
-    "id": "32929109",
-    "doi": "https://doi.org/10.1038/s41598-020-72060-0",
-    "title": "A data-driven typology of asthma medication adherence using cluster analysis.",
-    "authorString": "Tibble H, Chan A, Mitchell EA, Horne E, Doudesis D, Horne R, Mizani MA, Sheikh A, Tsanas A.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Asthma preventer medication non-adherence is strongly associated with poor asthma control. One-dimensional measures of adherence may ignore clinically important patterns of medication-taking behavior. We sought to construct a data-driven multi-dimensional typology of medication non-adherence in children with asthma. We analyzed data from an intervention study of electronic inhaler monitoring devices, comprising 211 patients yielding 35,161 person-days of data. Five adherence measures were extracted: the percentage of doses taken, the percentage of days on which zero doses were taken, the percentage of days on which both doses were taken, the number of treatment intermissions per 100 study days, and the duration of treatment intermissions per 100 study days. We applied principal component analysis on the measures and subsequently applied k-means to determine cluster membership. Decision trees identified the measure that could predict cluster assignment with the highest accuracy, increasing interpretability and increasing clinical utility. We demonstrate the use of adherence measures towards a three-group categorization of medication non-adherence, which succinctly describes the diversity of patient medication taking patterns in asthma. The percentage of prescribed doses taken during the study contributed to the prediction of cluster assignment most accurately (84% in out-of-sample data).",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-72060-0; html:https://europepmc.org/articles/PMC7490405; pdf:https://europepmc.org/articles/PMC7490405?pdf=render"
-  },
-  {
     "id": "32430455",
     "doi": "https://doi.org/10.1136/bmjopen-2020-038530",
     "title": "Evaluating the real-world implementation of the Family Nurse Partnership in England: protocol for a data linkage study.",
@@ -4990,6 +4974,22 @@
     "abstract": "INTRODUCTION:Almost 20 000 babies are born to teenage mothers each year in England, with poorer outcomes for mothers and babies than among older mothers. A nurse home visitation programme in the USA was found to improve a wide range of outcomes for young mothers and their children. However, a randomised controlled trial in England found no effect on short-term primary outcomes, although cognitive development up to age 2 showed improvement. Our study will use linked routinely collected health, education and social care data to evaluate the real-world effects of the Family Nurse Partnership (FNP) on child outcomes up to age 7, with a focus on identifying whether the FNP works better for particular groups of families, thereby informing programme targeting and resource allocation. METHODS AND ANALYSIS:We will construct a retrospective cohort of all women aged 13-24 years giving birth in English NHS hospitals between 2010 and 2017, linking information on mothers and children from FNP programme data, Hospital Episodes Statistics and the National Pupil Database. To assess the effectiveness of FNP, we will compare outcomes for eligible mothers ever and never enrolled in FNP, and their children, using two analysis strategies to adjust for measured confounding: propensity score matching and analyses adjusting for maternal characteristics up to enrolment/28 weeks gestation. Outcomes of interest include early childhood development, childhood unplanned hospital admissions for injury or maltreatment-related diagnoses and children in care. Subgroup analyses will determine whether the effect of FNP varied according to maternal characteristics (eg, age and education). ETHICS AND DISSEMINATION:The Nottingham Research Ethics Committee approved this study. Mothers participating in FNP were supportive of our planned research. Results will inform policy-makers for targeting home visiting programmes. Methodological findings on the accuracy and reliability of cross-sectoral data linkage will be of interest to researchers.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2020-038530; html:https://europepmc.org/articles/PMC7239518; pdf:https://europepmc.org/articles/PMC7239518?pdf=render"
+  },
+  {
+    "id": "32929109",
+    "doi": "https://doi.org/10.1038/s41598-020-72060-0",
+    "title": "A data-driven typology of asthma medication adherence using cluster analysis.",
+    "authorString": "Tibble H, Chan A, Mitchell EA, Horne E, Doudesis D, Horne R, Mizani MA, Sheikh A, Tsanas A.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Asthma preventer medication non-adherence is strongly associated with poor asthma control. One-dimensional measures of adherence may ignore clinically important patterns of medication-taking behavior. We sought to construct a data-driven multi-dimensional typology of medication non-adherence in children with asthma. We analyzed data from an intervention study of electronic inhaler monitoring devices, comprising 211 patients yielding 35,161 person-days of data. Five adherence measures were extracted: the percentage of doses taken, the percentage of days on which zero doses were taken, the percentage of days on which both doses were taken, the number of treatment intermissions per 100 study days, and the duration of treatment intermissions per 100 study days. We applied principal component analysis on the measures and subsequently applied k-means to determine cluster membership. Decision trees identified the measure that could predict cluster assignment with the highest accuracy, increasing interpretability and increasing clinical utility. We demonstrate the use of adherence measures towards a three-group categorization of medication non-adherence, which succinctly describes the diversity of patient medication taking patterns in asthma. The percentage of prescribed doses taken during the study contributed to the prediction of cluster assignment most accurately (84% in out-of-sample data).",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-72060-0; html:https://europepmc.org/articles/PMC7490405; pdf:https://europepmc.org/articles/PMC7490405?pdf=render"
   },
   {
     "id": "31863937",
@@ -5024,22 +5024,6 @@
     "urls": "doi:https://doi.org/10.2337/dc18-2004"
   },
   {
-    "id": "32916155",
-    "doi": "https://doi.org/10.1016/j.molmet.2020.101072",
-    "title": "Corrigendum to \"Genome-wide association study of adipocyte lipolysis in the GENetics of adipocyte lipolysis (GENiAL) cohort\" [Molecular Metabolism 34 (2020) 85-96].",
-    "authorString": "Kulyt\u00e9 A, Lundb\u00e4ck V, Lindgren CM, Luan J, Lotta LA, Langenberg C, Arner P, Strawbridge RJ, Dahlman I.",
-    "authorAffiliations": "",
-    "journalTitle": "Molecular metabolism",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.molmet.2020.101072; html:https://europepmc.org/articles/PMC7492984; pdf:https://europepmc.org/articles/PMC7492984?pdf=render"
-  },
-  {
     "id": "30887727",
     "doi": "https://doi.org/10.1002/ppul.24314",
     "title": "Physical activity among children with asthma: Cross-sectional analysis in the UK millennium cohort.",
@@ -5054,6 +5038,22 @@
     "abstract": "BACKGROUND:Although beneficial for health and well-being, most children do not achieve recommended levels of physical activity. Evidence for children with asthma is mixed, with symptom severity rarely considered. This paper aimed to address this gap. METHODS:We analyzed cross-sectional associations between physical activity and parent-reported asthma symptoms and severity for 6497 UK Millennium Cohort Study 7-year-old participants (3321, [49%] girls). Primary outcomes were daily moderate-to-vigorous physical activity (MVPA, minutes) and proportion of children achieving recommended minimum daily levels of 60\u2009minutes of MVPA. Daily steps, sedentary time, and total activity counts per minute (cpm) were recorded, as were parent-reported asthma symptoms, medications, and recent hospital admissions. Associations were investigated using quantile (continuous outcomes) and Poisson (binary outcomes) regression, adjusting for demographic, socioeconomic, health, and environmental factors. RESULTS:Neither asthma status nor severity was associated with MVPA; children recently hospitalized for asthma were less likely to achieve recommended daily MVPA (risk ratio [95% confidence interval [CI]]: 0.67 [0.44, 1.03]). Recent wheeze, current asthma, and severe asthma symptoms were associated with fewer sedentary hours (difference in medians [95% CI]: -0.18 [-0.27, -0.08]; -0.14 [-0.24, -0.05]; -0.15, [-0.28, -0.02], respectively) and hospital admission with lower total activity (-48\u2009cpm [-68, -28]). CONCLUSION:Children with asthma are as physically active as their asthma-free counterparts, while those recently hospitalized for asthma are less active. Qualitative studies are needed to understand the perceptions of children and families about physical activity following hospital admission and to inform support and advice needed to maintain active lifestyles for children with asthma.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/ppul.24314; html:https://europepmc.org/articles/PMC6617805; pdf:https://europepmc.org/articles/PMC6617805?pdf=render"
+  },
+  {
+    "id": "32916155",
+    "doi": "https://doi.org/10.1016/j.molmet.2020.101072",
+    "title": "Corrigendum to \"Genome-wide association study of adipocyte lipolysis in the GENetics of adipocyte lipolysis (GENiAL) cohort\" [Molecular Metabolism 34 (2020) 85-96].",
+    "authorString": "Kulyt\u00e9 A, Lundb\u00e4ck V, Lindgren CM, Luan J, Lotta LA, Langenberg C, Arner P, Strawbridge RJ, Dahlman I.",
+    "authorAffiliations": "",
+    "journalTitle": "Molecular metabolism",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.molmet.2020.101072; html:https://europepmc.org/articles/PMC7492984; pdf:https://europepmc.org/articles/PMC7492984?pdf=render"
   },
   {
     "id": "31816119",
@@ -5680,22 +5680,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2019-035968; html:https://europepmc.org/articles/PMC7380883; pdf:https://europepmc.org/articles/PMC7380883?pdf=render"
   },
   {
-    "id": "31234639",
-    "doi": "https://doi.org/10.1161/circulationaha.118.038814",
-    "title": "Use of Genetic Variants Related to Antihypertensive Drugs to Inform on Efficacy and Side Effects.",
-    "authorString": "Gill D, Georgakis MK, Koskeridis F, Jiang L, Feng Q, Wei WQ, Theodoratou E, Elliott P, Denny JC, Malik R, Evangelou E, Dehghan A, Dichgans M, Tzoulaki I.",
-    "authorAffiliations": "",
-    "journalTitle": "Circulation",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Antihypertensive drugs; Mendelian Randomization Analysis",
-    "nationalPriorities": "Better Care, The Human Phenome",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Drug effects can be investigated through natural variation in the genes for their protein targets. The present study aimed to use this approach to explore the potential side effects and repurposing potential of antihypertensive drugs, which are among the most commonly used medications worldwide. METHODS:Genetic proxies for the effect of antihypertensive drug classes were identified as variants in the genes for the corresponding targets that associated with systolic blood pressure at genome-wide significance. Mendelian randomization estimates for drug effects on coronary heart disease and stroke risk were compared with randomized, controlled trial results. A phenome-wide association study in the UK Biobank was performed to identify potential side effects and repurposing opportunities, with findings investigated in the Vanderbilt University biobank (BioVU) and in observational analysis of the UK Biobank. RESULTS:Suitable genetic proxies for angiotensin-converting enzyme inhibitors, \u03b2-blockers, and calcium channel blockers (CCBs) were identified. Mendelian randomization estimates for their effect on coronary heart disease and stroke risk, respectively, were comparable to results from randomized, controlled trials against placebo. A phenome-wide association study in the UK Biobank identified an association of the CCB standardized genetic risk score with increased risk of diverticulosis (odds ratio, 1.02 per standard deviation increase; 95% CI, 1.01-1.04), with a consistent estimate found in BioVU (odds ratio, 1.01; 95% CI, 1.00-1.02). Cox regression analysis of drug use in the UK Biobank suggested that this association was specific to nondihydropyridine CCBs (hazard ratio 1.49 considering thiazide diuretic agents as a comparator; 95% CI, 1.04-2.14) but not dihydropyridine CCBs (hazard ratio, 1.04; 95% CI, 0.83-1.32). CONCLUSIONS:Genetic variants can be used to explore the efficacy and side effects of antihypertensive medications. The identified potential effect of nondihydropyridine CCBs on diverticulosis risk could have clinical implications and warrants further investigation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.118.038814; html:https://europepmc.org/articles/PMC6687408; pdf:https://europepmc.org/articles/PMC6687408?pdf=render"
-  },
-  {
     "id": "32724858",
     "doi": "https://doi.org/10.1136/bmjophth-2020-000481",
     "title": "Outcomes important to patients with non-infectious posterior segment-involving uveitis: a qualitative study.",
@@ -5710,6 +5694,22 @@
     "abstract": "Objective:Uveitis, a group of disorders characterised by intraocular inflammation, causes 10%-15% of total blindness in the developed world. The most sight-threatening forms of non-infectious uveitis are those affecting the posterior segment of the eye, collectively known as posterior segment-involving uveitis (PSIU). Numerous different clinical outcomes have been used in trials evaluating treatments for PSIU, but these may not represent patients' and carers' concerns. Therefore, the aims of this study were to understand the impact of PSIU on adult patients' and carers' lives and to explore what outcomes of treatment are important to them. Methods and Analysis:Four focus group discussions were undertaken to understand the perspectives of adult patients (=18) and carers (10) with PSIU. Participants were grouped according to whether or not their uveitis was complicated by the sight-threatening condition uveitic macular oedema. Discussions were audio-recorded, transcribed and analysed using the framework analytical approach. Outcomes were identified and grouped into outcome domains. Results:Eleven core domains were identified as important to patients and carers undergoing treatment for PSIU, comprising (1) visual function, (2) symptoms, (3) functional ability, (4) impact on relationships, (5) financial impact, (6) psychological morbidity and emotional well-being, (7) psychosocial adjustment to uveitis, (8) doctor/patient/interprofessional relationships and access to healthcare, (9) treatment burden, (10) treatment side effects, and (11) disease control. Conclusion:The domains identified represent patients' and carers' experience and perspectives and can be used to reflect on outcomes assessed in PSIU. They will directly inform the development of a core outcome set for PSIU clinical trials.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjophth-2020-000481; html:https://europepmc.org/articles/PMC7375431; pdf:https://europepmc.org/articles/PMC7375431?pdf=render"
+  },
+  {
+    "id": "31234639",
+    "doi": "https://doi.org/10.1161/circulationaha.118.038814",
+    "title": "Use of Genetic Variants Related to Antihypertensive Drugs to Inform on Efficacy and Side Effects.",
+    "authorString": "Gill D, Georgakis MK, Koskeridis F, Jiang L, Feng Q, Wei WQ, Theodoratou E, Elliott P, Denny JC, Malik R, Evangelou E, Dehghan A, Dichgans M, Tzoulaki I.",
+    "authorAffiliations": "",
+    "journalTitle": "Circulation",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Antihypertensive drugs; Mendelian Randomization Analysis",
+    "nationalPriorities": "Better Care, The Human Phenome",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Drug effects can be investigated through natural variation in the genes for their protein targets. The present study aimed to use this approach to explore the potential side effects and repurposing potential of antihypertensive drugs, which are among the most commonly used medications worldwide. METHODS:Genetic proxies for the effect of antihypertensive drug classes were identified as variants in the genes for the corresponding targets that associated with systolic blood pressure at genome-wide significance. Mendelian randomization estimates for drug effects on coronary heart disease and stroke risk were compared with randomized, controlled trial results. A phenome-wide association study in the UK Biobank was performed to identify potential side effects and repurposing opportunities, with findings investigated in the Vanderbilt University biobank (BioVU) and in observational analysis of the UK Biobank. RESULTS:Suitable genetic proxies for angiotensin-converting enzyme inhibitors, \u03b2-blockers, and calcium channel blockers (CCBs) were identified. Mendelian randomization estimates for their effect on coronary heart disease and stroke risk, respectively, were comparable to results from randomized, controlled trials against placebo. A phenome-wide association study in the UK Biobank identified an association of the CCB standardized genetic risk score with increased risk of diverticulosis (odds ratio, 1.02 per standard deviation increase; 95% CI, 1.01-1.04), with a consistent estimate found in BioVU (odds ratio, 1.01; 95% CI, 1.00-1.02). Cox regression analysis of drug use in the UK Biobank suggested that this association was specific to nondihydropyridine CCBs (hazard ratio 1.49 considering thiazide diuretic agents as a comparator; 95% CI, 1.04-2.14) but not dihydropyridine CCBs (hazard ratio, 1.04; 95% CI, 0.83-1.32). CONCLUSIONS:Genetic variants can be used to explore the efficacy and side effects of antihypertensive medications. The identified potential effect of nondihydropyridine CCBs on diverticulosis risk could have clinical implications and warrants further investigation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.118.038814; html:https://europepmc.org/articles/PMC6687408; pdf:https://europepmc.org/articles/PMC6687408?pdf=render"
   },
   {
     "id": "32294163",
@@ -6160,6 +6160,22 @@
     "urls": "doi:https://doi.org/10.1128/AAC.00400-19; html:https://europepmc.org/articles/PMC6658746; pdf:https://europepmc.org/articles/PMC6658746?pdf=render; doi:https://doi.org/10.1128/aac.00400-19"
   },
   {
+    "id": "31331193",
+    "doi": "https://doi.org/10.1161/circulationaha.119.041546",
+    "title": "Impact of ADCY9 Genotype on Response to Anacetrapib.",
+    "authorString": "Hopewell JC, Ibrahim M, Hill M, Shaw PM, Braunwald E, Blaustein RO, Bowman L, Landray MJ, Sabatine MS, Collins R, HPS3/TIMI55 - REVEAL Collaborative Group.",
+    "authorAffiliations": "",
+    "journalTitle": "Circulation",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Anacetrapib; Major Vascular Events; Cetp-inhibition",
+    "nationalPriorities": "Better, Faster and More Efficient Clinical Trials",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Exploratory analyses of previous randomized trials generated a hypothesis that the clinical response to CETP inhibitor therapy differs by ADCY9 genotype, prompting the ongoing dal-GenE trial in individuals with a particular genetic profile. The randomized placebo-controlled REVEAL trial demonstrated the clinical efficacy of the CETP inhibitor anacetrapib among patients with pre-existing atherosclerotic vascular disease. In the present study, we have examined the impact of ADCY9 genotype on response to anacetrapib within the REVEAL trial. METHODS:Individuals with stable atherosclerotic vascular disease, who were treated with intensive atorvastatin therapy, received either anacetrapib 100 mg daily or matching placebo. Cox proportional hazards models, adjusted for the first 5 principal components of ancestry, were used to estimate the effects of allocation to anacetrapib on major vascular events (a composite of coronary death, myocardial infarction, coronary revascularization or presumed ischaemic stroke) and the interaction with ADCY9 rs1967309 genotype. RESULTS:Among 19,210 genotyped individuals of European ancestry, 2,504 (13.0%) had a first major vascular event during 4 years median follow-up: 1,216 (12.6%) among anacetrapib-allocated participants and 1,288 (13.4%) among placebo-allocated participants. Proportional reductions in the risk of major vascular events with anacetrapib did not differ significantly by ADCY9 genotype: HR = 0.92 (95% CI, 0.81-1.05) for GG; HR = 0.94 (95% CI, 0.84-1.06) for AG; and HR = 0.93 (95% CI, 0.76-1.13) for AA genotype carriers respectively; genotypic p for interaction = 0.96. Furthermore, there were no associations between ADCY9 genotype and the proportional reductions in the separate components of major vascular events, or meaningful differences in lipid response to anacetrapib. CONCLUSIONS:The REVEAL trial is the single largest study to date evaluating the ADCY9 pharmacogenetic interaction. It provides no support for the hypothesis that ADCY9 genotype is materially relevant to the clinical effects of the CETP inhibitor anacetrapib. The ongoing dal-GenE study will provide direct evidence as to whether there is any specific pharmacogenetic interaction with dalcetrapib. CLINICAL TRIAL REGISTRATION:URL: https://www.clinicaltrials.gov Unique Identifier: NCT01252953; URL: http://www.isrctn.com Unique Identifier: ISRCTN48678192; URL: https://www.clinicaltrialsregister.eu Unique Identifier: 2010-023467-18.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041546; html:https://europepmc.org/articles/PMC6749971; pdf:https://europepmc.org/articles/PMC6749971?pdf=render"
+  },
+  {
     "id": "33062309",
     "doi": "https://doi.org/10.1177/2059513120952336",
     "title": "Epidemiology of burn injury in older adults: An Australian and New Zealand perspective.",
@@ -6190,22 +6206,6 @@
     "abstract": "AIMS:To compare ST-segment elevation myocardial infarction (STEMI) and non-STEMI (NSTEMI) mortality between Sweden and the UK, adjusting for background population rates of expected death, case mix, and treatments. METHODS AND RESULTS:National data were collected from hospitals in Sweden [n\u2009=\u200973 hospitals, 180\u00a0368 patients, Swedish Web-system for Enhancement and Development of Evidence-based care in Heart disease Evaluated According to Recommended Therapies (SWEDEHEART)] and the UK [n\u2009=\u2009247,\u00a0662\u00a0529 patients, Myocardial Ischaemia National Audit Project (MINAP)] between 2003 and 2013. There were lower rates of revascularization [STEMI (43.8% vs. 74.9%); NSTEMI (27.5% vs. 43.6%)] and pharmacotherapies at time of hospital discharge including [aspirin (82.9% vs. 90.2%) and (79.9% vs. 88.0%), \u03b2-blockers (73.4% vs. 86.4%) and (65.3% vs. 85.1%)] in the UK compared with Sweden, respectively. Standardized net probability of death (NPD) between admission and 1\u2009month was higher in the UK for STEMI [8.0 (95% confidence interval 7.4-8.5) vs. 6.7 (6.5-6.9)] and NSTEMI [6.8 (6.4-7.2) vs. 4.9 (4.7-5.0)]. Between 6\u2009months and 1\u2009year and more than 1\u2009year, NPD remained higher in the UK for NSTEMI [2.9 (2.5-3.3) vs. 2.3 (2.2-2.5)] and [21.4 (20.0-22.8) vs. 18.3 (17.6-19.0)], but was similar for STEMI [0.7 (0.4-1.0) vs. 0.9 (0.7-1.0)] and [8.4 (6.7-10.1) vs. 8.3 (7.5-9.1)]. CONCLUSION:Short-term mortality following STEMI and NSTEMI was higher in the UK compared with Sweden. Mid- and longer-term mortality remained higher in the UK for NSTEMI but was similar for STEMI. Differences in mortality may be due to differential use of guideline-indicated treatments.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/cvr/cvz197"
-  },
-  {
-    "id": "31331193",
-    "doi": "https://doi.org/10.1161/circulationaha.119.041546",
-    "title": "Impact of ADCY9 Genotype on Response to Anacetrapib.",
-    "authorString": "Hopewell JC, Ibrahim M, Hill M, Shaw PM, Braunwald E, Blaustein RO, Bowman L, Landray MJ, Sabatine MS, Collins R, HPS3/TIMI55 - REVEAL Collaborative Group.",
-    "authorAffiliations": "",
-    "journalTitle": "Circulation",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Anacetrapib; Major Vascular Events; Cetp-inhibition",
-    "nationalPriorities": "Better, Faster and More Efficient Clinical Trials",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Exploratory analyses of previous randomized trials generated a hypothesis that the clinical response to CETP inhibitor therapy differs by ADCY9 genotype, prompting the ongoing dal-GenE trial in individuals with a particular genetic profile. The randomized placebo-controlled REVEAL trial demonstrated the clinical efficacy of the CETP inhibitor anacetrapib among patients with pre-existing atherosclerotic vascular disease. In the present study, we have examined the impact of ADCY9 genotype on response to anacetrapib within the REVEAL trial. METHODS:Individuals with stable atherosclerotic vascular disease, who were treated with intensive atorvastatin therapy, received either anacetrapib 100 mg daily or matching placebo. Cox proportional hazards models, adjusted for the first 5 principal components of ancestry, were used to estimate the effects of allocation to anacetrapib on major vascular events (a composite of coronary death, myocardial infarction, coronary revascularization or presumed ischaemic stroke) and the interaction with ADCY9 rs1967309 genotype. RESULTS:Among 19,210 genotyped individuals of European ancestry, 2,504 (13.0%) had a first major vascular event during 4 years median follow-up: 1,216 (12.6%) among anacetrapib-allocated participants and 1,288 (13.4%) among placebo-allocated participants. Proportional reductions in the risk of major vascular events with anacetrapib did not differ significantly by ADCY9 genotype: HR = 0.92 (95% CI, 0.81-1.05) for GG; HR = 0.94 (95% CI, 0.84-1.06) for AG; and HR = 0.93 (95% CI, 0.76-1.13) for AA genotype carriers respectively; genotypic p for interaction = 0.96. Furthermore, there were no associations between ADCY9 genotype and the proportional reductions in the separate components of major vascular events, or meaningful differences in lipid response to anacetrapib. CONCLUSIONS:The REVEAL trial is the single largest study to date evaluating the ADCY9 pharmacogenetic interaction. It provides no support for the hypothesis that ADCY9 genotype is materially relevant to the clinical effects of the CETP inhibitor anacetrapib. The ongoing dal-GenE study will provide direct evidence as to whether there is any specific pharmacogenetic interaction with dalcetrapib. CLINICAL TRIAL REGISTRATION:URL: https://www.clinicaltrials.gov Unique Identifier: NCT01252953; URL: http://www.isrctn.com Unique Identifier: ISRCTN48678192; URL: https://www.clinicaltrialsregister.eu Unique Identifier: 2010-023467-18.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041546; html:https://europepmc.org/articles/PMC6749971; pdf:https://europepmc.org/articles/PMC6749971?pdf=render"
   },
   {
     "id": "31862893",
@@ -6304,6 +6304,22 @@
     "urls": "doi:https://doi.org/10.1016/j.injury.2019.11.034"
   },
   {
+    "id": "31171806",
+    "doi": "https://doi.org/10.1038/s41598-019-44907-8",
+    "title": "On neighbourhood degree sequences of complex networks.",
+    "authorString": "Smith KM.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Applied Analytics",
+    "healthCategories": "",
+    "abstract": "Network topology is a fundamental aspect of network science that allows us to gather insights into the complicated relational architectures of the world we inhabit. We provide a first specific study of neighbourhood degree sequences in complex networks. We consider how to explicitly characterise important physical concepts such as similarity, heterogeneity and organization in these sequences, as well as updating the notion of hierarchical complexity to reflect previously unnoticed organizational principles. We also point out that neighbourhood degree sequences are related to a powerful subtree kernel for unlabeled graph classification. We study these newly defined sequence properties in a comprehensive array of graph models and over 200 real-world networks. We find that these indices are neither highly correlated with each other nor with classical network indices. Importantly, the sequences of a wide variety of real world networks are found to have greater similarity and organisation than is expected for networks of their given degree distributions. Notably, while biological, social and technological networks all showed consistently large neighbourhood similarity and organisation, hierarchical complexity was not a consistent feature of real world networks. Neighbourhood degree sequences are an interesting tool for describing unique and important characteristics of complex networks.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-019-44907-8; html:https://europepmc.org/articles/PMC6554413; pdf:https://europepmc.org/articles/PMC6554413?pdf=render"
+  },
+  {
     "id": "31792462",
     "doi": "https://doi.org/10.1038/s41591-019-0665-2",
     "title": "Plasma protein patterns as comprehensive indicators of health.",
@@ -6350,22 +6366,6 @@
     "abstract": "AIMS:Low-grade inflammation, measured by elevated plasma concentrations of high-sensitive C-reactive protein (CRP), is a risk factor for cardiovascular disease (CVD). There is evidence that low-grade inflammation is also related to a higher risk of cancer. The present prospective cohort study evaluates the relation between low-grade systemic inflammation and risk of cancer in patients with stable CVD. METHODS AND RESULTS:In total, 7178 patients with stable CVD and plasma CRP levels \u226410\u2009mg/L were included. Data were linked to the Dutch national cancer registry. Cox regression models were fitted to study the relation between CRP and incident CVD and cancer. After a median follow-up time of 8.3\u2009years (interquartile range 4.6-12.3) 1072 incident cancer diagnoses were observed. C-reactive protein concentration was related to total cancer [hazard ratio (HR) 1.35; 95% confidence interval (CI) 1.10-1.65] comparing last quintile to first quintile of CRP. Especially lung cancer, independent of histopathological subtype, was related to CRP (HR 3.39; 95% CI 2.02-5.69 comparing last to first quintile of CRP). Incidence of epithelial neoplasms and especially squamous cell neoplasms were related to CRP concentration, irrespective of anatomical location. Sensitivity analyses after excluding patients with a cancer diagnosis within 1, 2, and 5 years of follow-up showed similar results. No effect modification was observed by smoking status or time since smoking cessation (P-values for interaction > 0.05). CONCLUSION:Chronic systemic low-grade inflammation, measured by CRP levels \u226410\u2009mg/L, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD. The relation between inflammation and incident cancer is seen in former and current smokers and is uncertain in never smokers.",
     "laySummary": "Inflammation is a risk factor for cardiovascular disease (CVD) and is linked with a higher risk of cancer. This study investigates the relationship between inflammation and risk of cancer in patients with stable CVD. The study reports that low-grade inflammation, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD.",
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz587; html:https://europepmc.org/articles/PMC6925382; pdf:https://europepmc.org/articles/PMC6925382?pdf=render"
-  },
-  {
-    "id": "31171806",
-    "doi": "https://doi.org/10.1038/s41598-019-44907-8",
-    "title": "On neighbourhood degree sequences of complex networks.",
-    "authorString": "Smith KM.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Applied Analytics",
-    "healthCategories": "",
-    "abstract": "Network topology is a fundamental aspect of network science that allows us to gather insights into the complicated relational architectures of the world we inhabit. We provide a first specific study of neighbourhood degree sequences in complex networks. We consider how to explicitly characterise important physical concepts such as similarity, heterogeneity and organization in these sequences, as well as updating the notion of hierarchical complexity to reflect previously unnoticed organizational principles. We also point out that neighbourhood degree sequences are related to a powerful subtree kernel for unlabeled graph classification. We study these newly defined sequence properties in a comprehensive array of graph models and over 200 real-world networks. We find that these indices are neither highly correlated with each other nor with classical network indices. Importantly, the sequences of a wide variety of real world networks are found to have greater similarity and organisation than is expected for networks of their given degree distributions. Notably, while biological, social and technological networks all showed consistently large neighbourhood similarity and organisation, hierarchical complexity was not a consistent feature of real world networks. Neighbourhood degree sequences are an interesting tool for describing unique and important characteristics of complex networks.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-019-44907-8; html:https://europepmc.org/articles/PMC6554413; pdf:https://europepmc.org/articles/PMC6554413?pdf=render"
   },
   {
     "id": "30551632",
@@ -6656,22 +6656,6 @@
     "urls": "doi:https://doi.org/10.1186/s12933-020-01130-4; html:https://europepmc.org/articles/PMC7520021; pdf:https://europepmc.org/articles/PMC7520021?pdf=render"
   },
   {
-    "id": "31372838",
-    "doi": "https://doi.org/10.1007/s12471-019-01308-w",
-    "title": "A\u00a0computerised decision support system for cardiovascular risk management 'live' in the electronic health record environment: development, validation and implementation-the Utrecht Cardiovascular Cohort Initiative.",
-    "authorString": "Groenhof TKJ, Rittersma ZH, Bots ML, Brandjes M, Jacobs JJL, Grobbee DE, van Solinge WW, Visseren FLJ, Haitjema S, Asselbergs FW, Members of the UCC-CVRM Study Group.",
-    "authorAffiliations": "",
-    "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "Adherence; Health Information Technology; Big Data; Real-world Data; Cardiovascular Risk Management; Computerised Decision Support System",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "PURPOSE:We set out to develop a\u00a0real-time computerised decision support system (CDSS) embedded in the electronic health record (EHR) with information on risk factors, estimated risk, and guideline-based advice on treatment strategy in order to improve adherence to cardiovascular risk management (CVRM) guidelines with the ultimate aim of improving patient healthcare. METHODS:We defined a\u00a0project plan including the scope and requirements, infrastructure and interface, data quality and study population, validation and evaluation of the CDSS. RESULTS:In collaboration with clinicians, data scientists, epidemiologists, ICT architects, and user experience and interface designers we developed a\u00a0CDSS that provides 'live' information on CVRM within the environment of the EHR. The CDSS provides information on cardiovascular risk factors (age, sex, medical and family history, smoking, blood pressure, lipids, kidney function, and glucose intolerance measurements), estimated 10-year cardiovascular risk, guideline-compliant suggestions for both pharmacological and non-pharmacological treatment to optimise risk factors, and an estimate on the change in 10-year risk of cardiovascular disease if treatment goals are adhered to. Our pilot study identified a\u00a0number of issues that needed to be addressed, such as missing data, rules and regulations, privacy, and patient participation. CONCLUSION:Development of a\u00a0CDSS is complex and requires a\u00a0multidisciplinary approach. We identified opportunities and challenges in our project developing a\u00a0CDSS aimed at improving adherence to CVRM guidelines. The regulatory environment, including guidance on scientific evaluation, legislation, and privacy issues needs to evolve within this emerging field of eHealth.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s12471-019-01308-w; html:https://europepmc.org/articles/PMC6712110; pdf:https://europepmc.org/articles/PMC6712110?pdf=render"
-  },
-  {
     "id": "31801372",
     "doi": "https://doi.org/10.1161/atvbaha.119.313226",
     "title": "Carotid Intima-Media Thickness: Novel Loci, Sex-Specific Effects, and Genetic Correlations With Obesity and Glucometabolic Traits in UK Biobank.",
@@ -6686,6 +6670,22 @@
     "abstract": "OBJECTIVE:Atherosclerosis is the underlying cause of most cardiovascular disease, but mechanisms underlying atherosclerosis are incompletely understood. Ultrasound measurement of the carotid intima-media thickness (cIMT) can be used to measure vascular remodeling, which is indicative of atherosclerosis. Genome-wide association studies have identified many genetic loci associated with cIMT, but heterogeneity of measurements collected by many small cohorts have been a major limitation in these efforts. Here, we conducted genome-wide association analyses in UKB (UK Biobank; N=22\u2009179), the largest single study with consistent cIMT measurements. Approach and Results: We used BOLT-LMM software to run linear regression of cIMT in UKB, adjusted for age, sex, and genotyping chip. In white British participants, we identified 5 novel loci associated with cIMT and replicated most previously reported loci. In the first sex-specific analyses of cIMT, we identified a locus on chromosome 5, associated with cIMT in women only and highlight VCAN as a good candidate gene at this locus. Genetic correlations with body mass index and glucometabolic traits were also observed. Two loci influenced risk of ischemic heart disease. CONCLUSIONS:These findings replicate previously reported associations, highlight novel biology, and provide new directions for investigating the sex differences observed in cardiovascular disease presentation and progression.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1161/ATVBAHA.119.313226; html:https://europepmc.org/articles/PMC6975521; pdf:https://europepmc.org/articles/PMC6975521?pdf=render"
+  },
+  {
+    "id": "31372838",
+    "doi": "https://doi.org/10.1007/s12471-019-01308-w",
+    "title": "A\u00a0computerised decision support system for cardiovascular risk management 'live' in the electronic health record environment: development, validation and implementation-the Utrecht Cardiovascular Cohort Initiative.",
+    "authorString": "Groenhof TKJ, Rittersma ZH, Bots ML, Brandjes M, Jacobs JJL, Grobbee DE, van Solinge WW, Visseren FLJ, Haitjema S, Asselbergs FW, Members of the UCC-CVRM Study Group.",
+    "authorAffiliations": "",
+    "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "Adherence; Health Information Technology; Big Data; Real-world Data; Cardiovascular Risk Management; Computerised Decision Support System",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "PURPOSE:We set out to develop a\u00a0real-time computerised decision support system (CDSS) embedded in the electronic health record (EHR) with information on risk factors, estimated risk, and guideline-based advice on treatment strategy in order to improve adherence to cardiovascular risk management (CVRM) guidelines with the ultimate aim of improving patient healthcare. METHODS:We defined a\u00a0project plan including the scope and requirements, infrastructure and interface, data quality and study population, validation and evaluation of the CDSS. RESULTS:In collaboration with clinicians, data scientists, epidemiologists, ICT architects, and user experience and interface designers we developed a\u00a0CDSS that provides 'live' information on CVRM within the environment of the EHR. The CDSS provides information on cardiovascular risk factors (age, sex, medical and family history, smoking, blood pressure, lipids, kidney function, and glucose intolerance measurements), estimated 10-year cardiovascular risk, guideline-compliant suggestions for both pharmacological and non-pharmacological treatment to optimise risk factors, and an estimate on the change in 10-year risk of cardiovascular disease if treatment goals are adhered to. Our pilot study identified a\u00a0number of issues that needed to be addressed, such as missing data, rules and regulations, privacy, and patient participation. CONCLUSION:Development of a\u00a0CDSS is complex and requires a\u00a0multidisciplinary approach. We identified opportunities and challenges in our project developing a\u00a0CDSS aimed at improving adherence to CVRM guidelines. The regulatory environment, including guidance on scientific evaluation, legislation, and privacy issues needs to evolve within this emerging field of eHealth.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s12471-019-01308-w; html:https://europepmc.org/articles/PMC6712110; pdf:https://europepmc.org/articles/PMC6712110?pdf=render"
   },
   {
     "id": "32877352",
@@ -6768,22 +6768,6 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31674-5; html:https://europepmc.org/articles/PMC6857444; pdf:https://europepmc.org/articles/PMC6857444?pdf=render"
   },
   {
-    "id": "32894757",
-    "doi": "https://doi.org/10.1093/ageing/afaa138",
-    "title": "Short physical performance battery as a practical tool to assess mortality risk in chronic obstructive pulmonary disease.",
-    "authorString": "Fermont JM, Mohan D, Fisk M, Bolton CE, Macnee W, Cockcroft JR, McEniery C, Fuld J, Cheriyan J, Tal-Singer R, M\u00fcllerova H, Wood AM, Wilkinson IB, Polkey MI, ERICA consortium.",
-    "authorAffiliations": "",
-    "journalTitle": "Age and ageing",
-    "pubYear": "2020",
-    "isOpenAccess": "N",
-    "keywords": "Mortality; Skeletal muscle; Biomarkers; Older People; chronic obstructive pulmonary disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "RATIONALE:chronic obstructive pulmonary disease (COPD) is a leading cause of mortality and common in older adults. The BODE Index is the most recognised mortality risk score in COPD but includes a 6-minute walk test (6MWT) that is seldom available in practise; the BODE Index may be better adopted if the 6MWT was replaced. OBJECTIVES:we investigated whether a modified BODE Index in which 6MWT was replaced by an alternative measure of physical capacity, specifically the short physical performance battery (SPPB) or components, retained its predictive ability for mortality in individuals with COPD. METHODS:we analysed 630 COPD patients from the ERICA cohort study for whom UK Office for National Statistics verified mortality data were available. Variables tested at baseline included spirometry, 6MWT, SPPB and its components (4-m gait speed test [4MGS], chair stand and balance). Predictive models were developed using stratified multivariable Cox regression, and assessed by C-indices and calibration plots with 10-fold cross-validation and replication. RESULTS:during median 2\u00a0years of follow-up, 60 (10%) individuals died. There was no significant difference between the discriminative ability of BODE6MWT (C-index 0.709, 95% confidence interval [CI], 0.680-0.737), BODESPPB (C-index 0.683, 95% CI, 0.647-0.712), BODE4MGS (C-index 0.676, 95% CI, 0.643-0.700) and BODEBALANCE (C-index 0.686, 95% CI, 0.651-0.713) for predicting mortality. CONCLUSIONS:the SPPB, and its 4MGS and balance components, can potentially be used as an alternative to the 6MWT in the BODE Index without significant loss of predictive ability in all-cause mortality.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/ageing/afaa138"
-  },
-  {
     "id": "31647808",
     "doi": "https://doi.org/10.1371/journal.pgen.1008405",
     "title": "Causal relationships between obesity and the leading causes of death in women and men.",
@@ -6798,6 +6782,22 @@
     "abstract": "Obesity traits are causally implicated with risk of cardiometabolic diseases. It remains unclear whether there are similar causal effects of obesity traits on other non-communicable diseases. Also, it is largely unexplored whether there are any sex-specific differences in the causal effects of obesity traits on cardiometabolic diseases and other leading causes of death. We constructed sex-specific genetic risk scores (GRS) for three obesity traits; body mass index (BMI), waist-hip ratio (WHR), and WHR adjusted for BMI, including 565, 324, and 337 genetic variants, respectively. These GRSs were then used as instrumental variables to assess associations between the obesity traits and leading causes of mortality in the UK Biobank using Mendelian randomization. We also investigated associations with potential mediators, including smoking, glycemic and blood pressure traits. Sex-differences were subsequently assessed by Cochran's Q-test (Phet). A Mendelian randomization analysis of 228,466 women and 195,041 men showed that obesity causes coronary artery disease, stroke (particularly ischemic), chronic obstructive pulmonary disease, lung cancer, type 2 and 1 diabetes mellitus, non-alcoholic fatty liver disease, chronic liver disease, and acute and chronic renal failure. Higher BMI led to higher risk of type 2 diabetes in women than in men (Phet = 1.4\u00d710-5). Waist-hip-ratio led to a higher risk of chronic obstructive pulmonary disease (Phet = 3.7\u00d710-6) and higher risk of chronic renal failure (Phet = 1.0\u00d710-4) in men than women. Obesity traits have an etiological role in the majority of the leading global causes of death. Sex differences exist in the effects of obesity traits on risk of type 2 diabetes, chronic obstructive pulmonary disease, and renal failure, which may have downstream implications for public health.",
     "laySummary": "This study aimed to quantify (as genetic risk scores) the causal effects of obesity on leading causes of death, separately, in men and women. Analysis of genetic data for 228,466 women and 195,041 men showed that obesity causes coronary artery disease, stroke, chronic obstructive pulmonary disease, lung cancer, type 2 and 1 diabetes mellitus, non-alcoholic fatty liver disease, chronic liver disease, and acute and chronic renal failure. The authors identified some important differences in these causal effects for men and women.",
     "urls": "doi:https://doi.org/10.1371/journal.pgen.1008405; html:https://europepmc.org/articles/PMC6812754; pdf:https://europepmc.org/articles/PMC6812754?pdf=render"
+  },
+  {
+    "id": "32894757",
+    "doi": "https://doi.org/10.1093/ageing/afaa138",
+    "title": "Short physical performance battery as a practical tool to assess mortality risk in chronic obstructive pulmonary disease.",
+    "authorString": "Fermont JM, Mohan D, Fisk M, Bolton CE, Macnee W, Cockcroft JR, McEniery C, Fuld J, Cheriyan J, Tal-Singer R, M\u00fcllerova H, Wood AM, Wilkinson IB, Polkey MI, ERICA consortium.",
+    "authorAffiliations": "",
+    "journalTitle": "Age and ageing",
+    "pubYear": "2020",
+    "isOpenAccess": "N",
+    "keywords": "Mortality; Skeletal muscle; Biomarkers; Older People; chronic obstructive pulmonary disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "RATIONALE:chronic obstructive pulmonary disease (COPD) is a leading cause of mortality and common in older adults. The BODE Index is the most recognised mortality risk score in COPD but includes a 6-minute walk test (6MWT) that is seldom available in practise; the BODE Index may be better adopted if the 6MWT was replaced. OBJECTIVES:we investigated whether a modified BODE Index in which 6MWT was replaced by an alternative measure of physical capacity, specifically the short physical performance battery (SPPB) or components, retained its predictive ability for mortality in individuals with COPD. METHODS:we analysed 630 COPD patients from the ERICA cohort study for whom UK Office for National Statistics verified mortality data were available. Variables tested at baseline included spirometry, 6MWT, SPPB and its components (4-m gait speed test [4MGS], chair stand and balance). Predictive models were developed using stratified multivariable Cox regression, and assessed by C-indices and calibration plots with 10-fold cross-validation and replication. RESULTS:during median 2\u00a0years of follow-up, 60 (10%) individuals died. There was no significant difference between the discriminative ability of BODE6MWT (C-index 0.709, 95% confidence interval [CI], 0.680-0.737), BODESPPB (C-index 0.683, 95% CI, 0.647-0.712), BODE4MGS (C-index 0.676, 95% CI, 0.643-0.700) and BODEBALANCE (C-index 0.686, 95% CI, 0.651-0.713) for predicting mortality. CONCLUSIONS:the SPPB, and its 4MGS and balance components, can potentially be used as an alternative to the 6MWT in the BODE Index without significant loss of predictive ability in all-cause mortality.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/ageing/afaa138"
   },
   {
     "id": "31134468",
@@ -6976,22 +6976,6 @@
     "urls": "doi:https://doi.org/10.1016/j.injury.2019.06.012"
   },
   {
-    "id": "31113941",
-    "doi": "https://doi.org/10.1038/s41467-019-10417-4",
-    "title": "Author Correction: Towards a data-integrated cell.",
-    "authorString": "Malod-Dognin N, Petschnigg J, Windels SFL, Povh J, Hemingway H, Ketteler R, Pr\u017eulj N.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The original version of this Article contained an error in the spelling of the author Harry Hemingway, which was incorrectly given as Harry Hemmingway. This has been corrected in both the PDF and HTML versions of the Article.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-019-10417-4; html:https://europepmc.org/articles/PMC6529418; pdf:https://europepmc.org/articles/PMC6529418?pdf=render"
-  },
-  {
     "id": "31182084",
     "doi": "https://doi.org/10.1186/s12911-019-0824-x",
     "title": "The effect of computerized decision support systems on cardiovascular risk factors: a systematic review and meta-analysis.",
@@ -7022,6 +7006,22 @@
     "abstract": "Mobile technologies offer the potential to reduce the costs of conducting clinical trials by collecting high-quality information on health outcomes in real-world settings that are relevant to patients and clinicians. However, widespread use of mobile technologies in clinical trials has been impeded by their perceived challenges. To advance solutions to these challenges, the Clinical Trials Transformation Initiative (CTTI) has issued best practices and realistic approaches that clinical trial sponsors can now use. These include CTTI recommendations on technology selection; data collection, analysis, and interpretation; data management; protocol design and execution; and US Food and Drug Administration submission and inspection. The scientific principles underpinning the clinical trials enterprise continue to apply to studies using mobile technologies. These recommendations provide a framework for including mobile technologies in clinical trials that can lead to more efficient assessment of new therapies for patients.",
     "laySummary": "The authors of this publication have developed a set of guidelines for planning, running and writing up research that uses mobile technologies in clinical trials. The guidelines they have put together should make it easer for patient experience to be recorded in clinical trials.",
     "urls": "doi:https://doi.org/10.1159/000503957; html:https://europepmc.org/articles/PMC7011727; pdf:https://europepmc.org/articles/PMC7011727?pdf=render; doi:https://doi.org/10.1159/000503957"
+  },
+  {
+    "id": "31113941",
+    "doi": "https://doi.org/10.1038/s41467-019-10417-4",
+    "title": "Author Correction: Towards a data-integrated cell.",
+    "authorString": "Malod-Dognin N, Petschnigg J, Windels SFL, Povh J, Hemingway H, Ketteler R, Pr\u017eulj N.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The original version of this Article contained an error in the spelling of the author Harry Hemingway, which was incorrectly given as Harry Hemmingway. This has been corrected in both the PDF and HTML versions of the Article.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-019-10417-4; html:https://europepmc.org/articles/PMC6529418; pdf:https://europepmc.org/articles/PMC6529418?pdf=render"
   },
   {
     "id": "32678530",
@@ -7232,22 +7232,6 @@
     "urls": "doi:https://doi.org/10.1136/bmj.m1203; html:https://europepmc.org/articles/PMC7201936"
   },
   {
-    "id": "30778056",
-    "doi": "https://doi.org/10.1038/s41467-019-08797-8",
-    "title": "Towards a data-integrated cell.",
-    "authorString": "Malod-Dognin N, Petschnigg J, Windels SFL, Povh J, Hemingway H, Ketteler R, Pr\u017eulj N.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2019",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Applied Analytics",
-    "healthCategories": "",
-    "abstract": "We are increasingly accumulating molecular data about a cell. The challenge is how to integrate them within a unified conceptual and computational framework enabling new discoveries. Hence, we propose a novel, data-driven concept of an integrated cell, iCell. Also, we introduce a computational prototype of an iCell, which integrates three omics, tissue-specific molecular interaction network types. We construct iCells of four cancers and the corresponding tissue controls and identify the most rewired genes in cancer. Many of them are of unknown function and cannot be identified as different in cancer in any specific molecular network. We biologically validate that they have a role in cancer by knockdown experiments followed by cell viability assays. We find additional support through Kaplan-Meier survival curves of thousands of patients. Finally, we extend this analysis to uncover pan-cancer genes. Our methodology is universal and enables integrative comparisons of diverse omics data over cells and tissues.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-019-08797-8; html:https://europepmc.org/articles/PMC6379402; pdf:https://europepmc.org/articles/PMC6379402?pdf=render"
-  },
-  {
     "id": "31115347",
     "doi": "https://doi.org/10.2196/12412",
     "title": "Health Data Processes: A Framework for Analyzing and Discussing Efficient Use and Reuse of Health Data With a Focus on Patient-Reported Outcome Measures.",
@@ -7262,6 +7246,22 @@
     "abstract": "The collection and use of patient health data are central to any kind of activity in the health care system. These data may be produced during routine clinical processes or obtained directly from the patient using patient-reported outcome (PRO) measures. Although efficiency and other reasons justify data availability for a range of potentially relevant uses, these data are nearly always collected for a single specific purpose. The health care literature reflects this narrow scope, and there is limited literature on the joint use of health data for daily clinical use, clinical research, surveillance, and administrative purposes. The aim of this paper is to provide a framework for discussing the efficient use of health data with a specific focus on the role of PRO measures. PRO data may be used at an individual patient level to inform patient care or shared decision making and to tailor care to individual needs or group-level needs as a complement to health record data, such as that on mortality and readmission, in order to inform service delivery and measure the real-world effectiveness of treatment. PRO measures may be used either for their own sake, to provide valuable information from the patient perspective, or as a proxy for clinical data that would otherwise not be feasible to collect. We introduce a framework to analyze any health care activity that involves health data. The framework consists of four data processes (patient identification, data collection, data aggregation and data use), further structured into two dichotomous dimensions in each data process (level: group vs patient; timeframe: ad hoc vs systematic). This framework is used to analyze various health activities with respect to joint use of data, considering the technical, legal, organizational, and logistical challenges that characterize each data process. Finally, we propose a model for joint use of health data with data collected during follow-up as a base. Demands for health data will continue to increase, which will further add to the need for the concerted use and reuse of PRO data for parallel purposes. Repeated and uncoordinated PRO data collection for the same patient for different purposes results in misuse of resources for the patient and the health care system as well as reduced response rates owing to questionnaire fatigue. PRO data can be routinely collected both at the hospital (from inpatients as well as outpatients) and outside of hospital settings; in primary or social care settings; or in the patient's home, provided the health informatics infrastructure is in place. In the future, clinical settings are likely to be a prominent source of PRO data; however, we are also likely to see increased remote collection of PRO data by patients in their own home (telePRO). Data collection for research and quality surveillance will have to adapt to this circumstance and adopt complementary data capture methods that take advantage of the utility of PRO data collected during daily clinical practice. The European Union's regulation with respect to the protection of personal data-General Data Protection Regulation-imposes severe restrictions on the use of health data for parallel purposes, and steps should be taken to alleviate the consequences while still protecting personal data against misuse.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.2196/12412; html:https://europepmc.org/articles/PMC6547770"
+  },
+  {
+    "id": "30778056",
+    "doi": "https://doi.org/10.1038/s41467-019-08797-8",
+    "title": "Towards a data-integrated cell.",
+    "authorString": "Malod-Dognin N, Petschnigg J, Windels SFL, Povh J, Hemingway H, Ketteler R, Pr\u017eulj N.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2019",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Applied Analytics",
+    "healthCategories": "",
+    "abstract": "We are increasingly accumulating molecular data about a cell. The challenge is how to integrate them within a unified conceptual and computational framework enabling new discoveries. Hence, we propose a novel, data-driven concept of an integrated cell, iCell. Also, we introduce a computational prototype of an iCell, which integrates three omics, tissue-specific molecular interaction network types. We construct iCells of four cancers and the corresponding tissue controls and identify the most rewired genes in cancer. Many of them are of unknown function and cannot be identified as different in cancer in any specific molecular network. We biologically validate that they have a role in cancer by knockdown experiments followed by cell viability assays. We find additional support through Kaplan-Meier survival curves of thousands of patients. Finally, we extend this analysis to uncover pan-cancer genes. Our methodology is universal and enables integrative comparisons of diverse omics data over cells and tissues.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-019-08797-8; html:https://europepmc.org/articles/PMC6379402; pdf:https://europepmc.org/articles/PMC6379402?pdf=render"
   },
   {
     "id": "30765456",
@@ -7408,22 +7408,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2019-035121; html:https://europepmc.org/articles/PMC7059496; pdf:https://europepmc.org/articles/PMC7059496?pdf=render"
   },
   {
-    "id": "32936291",
-    "doi": "https://doi.org/10.1001/jamadermatol.2020.3275",
-    "title": "Association of Clinical and Demographic Factors With the Severity of Palmoplantar Pustulosis.",
-    "authorString": "Benzian-Olsson N, Dand N, Chaloner C, Bata-Csorgo Z, Borroni R, Burden AD, Cooper HL, Cornelius V, Cro S, Dasandi T, Griffiths CEM, Kingo K, Koks S, Lachmann H, McAteer H, Meynell F, Mrowietz U, Parslew R, Patel P, Pink AE, Reynolds NJ, Tanew A, Torz K, Trattner H, Wahie S, Warren RB, Wright A, Barker JN, Navarini AA, Smith CH, Capon F, ERASPEN consortium and the APRICOT and PLUM study team.",
-    "authorAffiliations": "",
-    "journalTitle": "JAMA dermatology",
-    "pubYear": "2020",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Importance:Although palmoplantar pustulosis (PPP) can significantly impact quality of life, the factors underlying disease severity have not been studied. Objective:To examine the factors associated with PPP severity. Design, Setting, and Participants:An observational, cross-sectional study of 2 cohorts was conducted. A UK data set including 203 patients was obtained through the Anakinra in Pustular Psoriasis, Response in a Controlled Trial (2016-2019) and its sister research study Pustular Psoriasis, Elucidating Underlying Mechanisms (2016-2020). A Northern European cohort including 193 patients was independently ascertained by the European Rare and Severe Psoriasis Expert Network (2014-2017). Patients had been recruited in secondary or tertiary dermatology referral centers. All patients were of European descent. The PPP diagnosis was established by dermatologists, based on clinical examination and/or published consensus criteria. The present study was conducted from October 1, 2014, to March 15, 2020. Main Outcomes and Measures:Demographic characteristics, comorbidities, smoking status, Palmoplantar Pustulosis Psoriasis Area Severity Index (PPPASI), measuring severity from 0 (no sign of disease) to 72 (very severe disease), or Physician Global Assessment (PGA), measuring severity as 0 (clear), 1 (almost clear), 2 (mild), 3 (moderate), and 4 (severe). Results:Among the 203 UK patients (43 men [21%], 160 women [79%]; median age at onset, 48 [interquartile range (IQR), 38-59] years), the PPPASI was inversely correlated with age of onset (r\u2009=\u2009-0.18, P\u2009=\u2009.01). Similarly, in the 159 Northern European patients who were eligible for inclusion in this analysis (25 men [16%], 134 women [84%]; median age at onset, 45 [IQR, 34-53.3] years), the median age at onset was lower in individuals with a moderate to severe PGA score (41 years [IQR, 30.5-52 years]) compared with those with a clear to mild PGA score (46.5 years [IQR, 35-55 years]) (P\u2009=\u2009.04). In the UK sample, the median PPPASI score was higher in women (9.6 [IQR, 3.0-16.2]) vs men (4.0 [IQR, 1.0-11.7]) (P\u2009=\u2009.01). Likewise, moderate to severe PPP was more prevalent among Northern European women (57 of 134 [43%]) compared with men (5 of 25 [20%]) (P\u2009=\u2009.03). In the UK cohort, the median PPPASI score was increased in current smokers (10.7 [IQR, 4.2-17.5]) compared with former smokers (7 [IQR, 2.0-14.4]) and nonsmokers (2.2 [IQR, 1-6]) (P\u2009=\u2009.003). Comparable differences were observed in the Northern European data set, as the prevalence of moderate to severe PPP was higher in former and current smokers (51 of 130 [39%]) compared with nonsmokers (6 of 24 [25%]) (P\u2009=\u2009.14). Conclusions and Relevance:The findings of this study suggest that PPP severity is associated with early-onset disease, female sex, and smoking status. Thus, smoking cessation intervention might be beneficial.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1001/jamadermatol.2020.3275; html:https://europepmc.org/articles/PMC7495329"
-  },
-  {
     "id": "32384159",
     "doi": "https://doi.org/10.1093/jtm/taaa068",
     "title": "Effectiveness of interventions targeting air travellers for delaying local outbreaks of SARS-CoV-2.",
@@ -7438,6 +7422,22 @@
     "abstract": "BACKGROUND:We evaluated if interventions aimed at air travellers can delay local severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) community transmission in a previously unaffected country. METHODS:We simulated infected air travellers arriving into countries with no sustained SARS-CoV-2 transmission or other introduction routes from affected regions. We assessed the effectiveness of syndromic screening at departure and/or arrival and traveller sensitisation to the COVID-2019-like symptoms with the aim to trigger rapid self-isolation and reporting on symptom onset to enable contact tracing. We assumed that syndromic screening would reduce the number of infected arrivals and that traveller sensitisation reduces the average number of secondary cases. We use stochastic simulations to account for uncertainty in both arrival and secondary infections rates, and present sensitivity analyses on arrival rates of infected travellers and the effectiveness of traveller sensitisation. We report the median expected delay achievable in each scenario and an inner 50% interval. RESULTS:Under baseline assumptions, introducing exit and entry screening in combination with traveller sensitisation can delay a local SARS-CoV-2 outbreak by 8\u00a0days (50% interval: 3-14\u00a0days) when the rate of importation is 1 infected traveller per week at time of introduction. The additional benefit of entry screening is small if exit screening is effective: the combination of only exit screening and traveller sensitisation can delay an outbreak by 7\u00a0days (50% interval: 2-13\u00a0days). In the absence of screening, with less effective sensitisation, or a higher rate of importation, these delays shrink rapidly to <4\u00a0days. CONCLUSION:Syndromic screening and traveller sensitisation in combination may have marginally delayed SARS-CoV-2 outbreaks in unaffected countries.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/jtm/taaa068; html:https://europepmc.org/articles/PMC7239177; pdf:https://europepmc.org/articles/PMC7239177?pdf=render"
+  },
+  {
+    "id": "32936291",
+    "doi": "https://doi.org/10.1001/jamadermatol.2020.3275",
+    "title": "Association of Clinical and Demographic Factors With the Severity of Palmoplantar Pustulosis.",
+    "authorString": "Benzian-Olsson N, Dand N, Chaloner C, Bata-Csorgo Z, Borroni R, Burden AD, Cooper HL, Cornelius V, Cro S, Dasandi T, Griffiths CEM, Kingo K, Koks S, Lachmann H, McAteer H, Meynell F, Mrowietz U, Parslew R, Patel P, Pink AE, Reynolds NJ, Tanew A, Torz K, Trattner H, Wahie S, Warren RB, Wright A, Barker JN, Navarini AA, Smith CH, Capon F, ERASPEN consortium and the APRICOT and PLUM study team.",
+    "authorAffiliations": "",
+    "journalTitle": "JAMA dermatology",
+    "pubYear": "2020",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Importance:Although palmoplantar pustulosis (PPP) can significantly impact quality of life, the factors underlying disease severity have not been studied. Objective:To examine the factors associated with PPP severity. Design, Setting, and Participants:An observational, cross-sectional study of 2 cohorts was conducted. A UK data set including 203 patients was obtained through the Anakinra in Pustular Psoriasis, Response in a Controlled Trial (2016-2019) and its sister research study Pustular Psoriasis, Elucidating Underlying Mechanisms (2016-2020). A Northern European cohort including 193 patients was independently ascertained by the European Rare and Severe Psoriasis Expert Network (2014-2017). Patients had been recruited in secondary or tertiary dermatology referral centers. All patients were of European descent. The PPP diagnosis was established by dermatologists, based on clinical examination and/or published consensus criteria. The present study was conducted from October 1, 2014, to March 15, 2020. Main Outcomes and Measures:Demographic characteristics, comorbidities, smoking status, Palmoplantar Pustulosis Psoriasis Area Severity Index (PPPASI), measuring severity from 0 (no sign of disease) to 72 (very severe disease), or Physician Global Assessment (PGA), measuring severity as 0 (clear), 1 (almost clear), 2 (mild), 3 (moderate), and 4 (severe). Results:Among the 203 UK patients (43 men [21%], 160 women [79%]; median age at onset, 48 [interquartile range (IQR), 38-59] years), the PPPASI was inversely correlated with age of onset (r\u2009=\u2009-0.18, P\u2009=\u2009.01). Similarly, in the 159 Northern European patients who were eligible for inclusion in this analysis (25 men [16%], 134 women [84%]; median age at onset, 45 [IQR, 34-53.3] years), the median age at onset was lower in individuals with a moderate to severe PGA score (41 years [IQR, 30.5-52 years]) compared with those with a clear to mild PGA score (46.5 years [IQR, 35-55 years]) (P\u2009=\u2009.04). In the UK sample, the median PPPASI score was higher in women (9.6 [IQR, 3.0-16.2]) vs men (4.0 [IQR, 1.0-11.7]) (P\u2009=\u2009.01). Likewise, moderate to severe PPP was more prevalent among Northern European women (57 of 134 [43%]) compared with men (5 of 25 [20%]) (P\u2009=\u2009.03). In the UK cohort, the median PPPASI score was increased in current smokers (10.7 [IQR, 4.2-17.5]) compared with former smokers (7 [IQR, 2.0-14.4]) and nonsmokers (2.2 [IQR, 1-6]) (P\u2009=\u2009.003). Comparable differences were observed in the Northern European data set, as the prevalence of moderate to severe PPP was higher in former and current smokers (51 of 130 [39%]) compared with nonsmokers (6 of 24 [25%]) (P\u2009=\u2009.14). Conclusions and Relevance:The findings of this study suggest that PPP severity is associated with early-onset disease, female sex, and smoking status. Thus, smoking cessation intervention might be beneficial.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1001/jamadermatol.2020.3275; html:https://europepmc.org/articles/PMC7495329"
   },
   {
     "id": "32907855",
