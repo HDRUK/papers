@@ -2,8 +2,8 @@ name: extract-papers
 
 on:
   schedule:
-  # Run at 00:30 every day
-    - cron:  '30 0 * * *'
+  # Run at 01:30 every day
+    - cron:  '30 1 * * *'
   push:
     branches: [ master ]
   pull_request:
@@ -25,12 +25,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install flake8 pytest
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: Extract HDR UK Papers
-        run: python3 paper-extractor.py
+      - name: Extract COVID-19 Preprints
+        env:
+          PASSPHRASE: ${{ secrets.PASSPHRASE }}
+        run: |
+          mkdir $HOME/secrets
+          gpg --quiet --batch --yes --decrypt --passphrase="$PASSPHRASE" --output $HOME/secrets/contacts.csv data/contacts.csv.gpg
+          python3 preprint-extractor.py
       - name: Commit extracts to master branch
         uses: stefanzweifel/git-auto-commit-action@v4.1.6
         with:
-          commit_message: Commit new papers
+          commit_message: Commit new papers and preprints
           branch: ${{ github.head_ref }}
           commit_user_name: Susheel Varma
           commit_user_email: susheel.varma@hdruk.ac.uk
@@ -38,7 +43,7 @@ jobs:
       - name: Commit extracts to gh-pages branch
         uses: stefanzweifel/git-auto-commit-action@v4.1.6
         with:
-          commit_message: Commit new papers
+          commit_message: Commit new papers and preprints
           branch: gh-pages
           commit_user_name: Susheel Varma
           commit_user_email: susheel.varma@hdruk.ac.uk
