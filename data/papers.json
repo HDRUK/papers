@@ -221,23 +221,6 @@
     "urls": "doi:https://doi.org/10.1002/gps.5446"
   },
   {
-    "id": "32723851",
-    "doi": "https://doi.org/10.1136/bmjhci-2019-100122",
-    "title": "HDR UK supporting mobilising computable biomedical knowledge in the UK.",
-    "authorString": "Sebire NJ, Cake C, Morris AD.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ health & care informatics",
-    "pubYear": "2020",
-    "date": "2020-07-01",
-    "isOpenAccess": "Y",
-    "keywords": "Health care; Medical Informatics; Information Systems",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Computable biomedical knowledge (CBK) represents an evolving area of health informatics, with potential for rapid translational patient benefit. Health Data Research UK (HDR UK) is the national Institute for Health Data Science, whose aim is to unite the UK's health data to enable discoveries that improve people's lives. The three main components include the UK HDR Alliance of data custodians, committed to making health data available for research and innovation purposes for public benefit while ensuring safe use of data and building public trust, the HDR Hubs, as centres of expertise for curating data and providing expert domain-specific services, and the HDR Innovation Gateway ('Gateway'), providing discovery, accessibility, security and interoperability services. To support CBK developments, HDR UK is encouraging use of open data standards for research purposes, with guidance around areas in which standards are emerging, aims to work closely with the international CBK community to support initiatives and aid with evaluation and collaboration, and has established a phenomics workstream to create a national platform for dissemination of machine readable and computable phenotypical algorithms to reduce duplication of effort and improve reproducibility in clinical studies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100122; html:https://europepmc.org/articles/PMC7388881; pdf:https://europepmc.org/articles/PMC7388881?pdf=render"
-  },
-  {
     "id": "32935051",
     "doi": "https://doi.org/10.23889/ijpds.v5i1.1128",
     "title": "A national initiative in data science for health: an evaluation of the UK Farr Institute.",
@@ -270,6 +253,23 @@
     "abstract": "BACKGROUND:frailty has major implications for health and social care services internationally. The development, validation and national implementation of the electronic Frailty Index (eFI) using routine primary care data has enabled change in the care of older people living with frailty in England. AIMS:to externally validate the eFI in Wales and assess new frailty-related outcomes. STUDY DESIGN AND SETTING:retrospective cohort study using the Secure Anonymised Information Linkage (SAIL) Databank, comprising 469,000 people aged 65-95, registered with a SAIL contributing general practice on 1 January 2010. METHODS:four categories (fit; mild; moderate and severe) of frailty were constructed using recognised cut points from the eFI. We calculated adjusted hazard ratios (HRs) from Cox regression models for validation of existing outcomes: 1-, 3- and 5-year mortality, hospitalisation, and care home admission for validation. We also analysed, as novel outcomes, 1-year mortality following hospitalisation and frailty transition times. RESULTS:HR trends for the validation outcomes in SAIL followed the original results from ResearchOne and THIN databases. Relative to the fit category, adjusted HRs in SAIL (95% CI) for 1-year mortality following hospitalisation were 1.05 (95% CI 1.03-1.08) for mild frailty, 1.24 (95% CI 1.21-1.28) for moderate frailty and 1.51 (95% CI 1.45-1.57) for severe frailty. The median time (lower and upper quartile) between frailty categories was 2,165\u00a0days (lower and upper quartiles: 1,510 and 2,831) from fit to mild, 1,155\u00a0days (lower and upper quartiles: 756 and 1,610) from mild to moderate and 898\u00a0days (lower and upper quartiles: 584 and 1,275) from moderate to severe. CONCLUSIONS:further validation of the eFI showed robust predictive validity and utility for new outcomes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/ageing/afz110; html:https://europepmc.org/articles/PMC6814149; pdf:https://europepmc.org/articles/PMC6814149?pdf=render"
+  },
+  {
+    "id": "32723851",
+    "doi": "https://doi.org/10.1136/bmjhci-2019-100122",
+    "title": "HDR UK supporting mobilising computable biomedical knowledge in the UK.",
+    "authorString": "Sebire NJ, Cake C, Morris AD.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ health & care informatics",
+    "pubYear": "2020",
+    "date": "2020-07-01",
+    "isOpenAccess": "Y",
+    "keywords": "Health care; Medical Informatics; Information Systems",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Computable biomedical knowledge (CBK) represents an evolving area of health informatics, with potential for rapid translational patient benefit. Health Data Research UK (HDR UK) is the national Institute for Health Data Science, whose aim is to unite the UK's health data to enable discoveries that improve people's lives. The three main components include the UK HDR Alliance of data custodians, committed to making health data available for research and innovation purposes for public benefit while ensuring safe use of data and building public trust, the HDR Hubs, as centres of expertise for curating data and providing expert domain-specific services, and the HDR Innovation Gateway ('Gateway'), providing discovery, accessibility, security and interoperability services. To support CBK developments, HDR UK is encouraging use of open data standards for research purposes, with guidance around areas in which standards are emerging, aims to work closely with the international CBK community to support initiatives and aid with evaluation and collaboration, and has established a phenomics workstream to create a national platform for dissemination of machine readable and computable phenotypical algorithms to reduce duplication of effort and improve reproducibility in clinical studies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100122; html:https://europepmc.org/articles/PMC7388881; pdf:https://europepmc.org/articles/PMC7388881?pdf=render"
   },
   {
     "id": "32016358",
@@ -833,23 +833,6 @@
     "urls": "doi:https://doi.org/10.1093/jamiaopen/ooz009; html:https://europepmc.org/articles/PMC6951876; pdf:https://europepmc.org/articles/PMC6951876?pdf=render"
   },
   {
-    "id": "31532828",
-    "doi": "https://doi.org/10.1210/clinem/dgz006",
-    "title": "Increased Infection Risk in Addison's Disease and Congenital Adrenal Hyperplasia.",
-    "authorString": "Tresoldi AS, Sumilo D, Perrins M, Toulis KA, Prete A, Reddy N, Wass JAH, Arlt W, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "The Journal of clinical endocrinology and metabolism",
-    "pubYear": "2020",
-    "date": "2020-02-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "CONTEXT:Mortality and infection-related hospital admissions are increased in patients with primary adrenal insufficiency (PAI). However, the risk of primary care-managed infections in patients with PAI is unknown. OBJECTIVE:To estimate infection risk in PAI due to Addison's disease (AD) and congenital adrenal hyperplasia (CAH) in a primary care setting. DESIGN:Retrospective cohort study using UK data collected from 1995 to 2018. MAIN OUTCOME MEASURES:Incidence of lower respiratory tract infections (LRTIs), urinary tract infections (UTIs), gastrointestinal infections (GIIs), and prescription counts of antimicrobials in adult PAI patients compared to unexposed controls. RESULTS:A diagnosis of PAI was established in 1580 AD patients (mean age 51.7 years) and 602 CAH patients (mean age 35.4 years). All AD patients and 42% of CAH patients were prescribed glucocorticoids, most frequently hydrocortisone in AD (82%) and prednisolone in CAH (50%). AD and CAH patients exposed to glucocorticoids, but not CAH patients without glucocorticoid treatment, had a significantly increased risk of LRTIs (adjusted incidence rate ratio AD 2.11 [95% confidence interval (CI) 1.64-2.69], CAH 3.23 [95% CI 1.21-8.61]), UTIs (AD 1.51 [95% CI 1.29-1.77], CAH 2.20 [95% CI 1.43-3.34]), and GIIs (AD 3.80 [95% CI 2.99-4.84], CAH 1.93 [95% CI 1.06-3.52]). This was mirrored by increased prescription of antibiotics (AD 1.73 [95% CI 1.69-1.77], CAH 1.77 [95% CI 1.66-1.89]) and antifungals (AD 1.89 [95% CI 1.74-2.05], CAH 1.91 [95% CI 1.50-2.43]). CONCLUSIONS:There is an increased risk of infections and antimicrobial use in PAI in the primary care setting at least partially linked to glucocorticoid treatment. Future studies will need to address whether more physiological glucocorticoid replacement modes could reduce this risk.",
-    "laySummary": "People who suffer with primary adrenal insufficiency are more likely to be admitted to hospital. But the risk to patients catching infections whilst being treated in hospital is unknown. This study found that people with PAI being treated in hospital have a higher risk of catching an infection. Some of this risk is linked with how PAI is treated.",
-    "urls": "doi:https://doi.org/10.1210/clinem/dgz006; html:https://europepmc.org/articles/PMC7046014"
-  },
-  {
     "id": "31612961",
     "doi": "https://doi.org/10.1093/nar/gkz895",
     "title": "GWAS Central: a comprehensive resource for the discovery and comparison of genotype and phenotype data from genome-wide association studies.",
@@ -865,6 +848,23 @@
     "abstract": "The GWAS Central resource provides a toolkit for integrative access and visualization of a uniquely extensive collection of genome-wide association study data, while ensuring safe open access to prevent research participant identification. GWAS Central is the world's most comprehensive openly accessible repository of summary-level GWAS association information, providing over 70 million P-values for over 3800 studies investigating over 1400 unique phenotypes. The database content comprises direct submissions received from GWAS authors and consortia, in addition to actively gathered data sets from various public sources. GWAS data are discoverable from the perspective of genetic markers, genes, genome regions or phenotypes, via graphical visualizations and detailed downloadable data reports. Tested genetic markers and relevant genomic features can be visually interrogated across up to sixteen multiple association data sets in a single view using the integrated genome browser. The semantic standardization of phenotype descriptions with Medical Subject Headings and the Human Phenotype Ontology allows the precise identification of genetic variants associated with diseases, phenotypes and traits of interest. Harmonization of the phenotype descriptions used across several GWAS-related resources has extended the phenotype search capabilities to enable cross-database study discovery using a range of ontologies. GWAS Central is updated regularly and available at https://www.gwascentral.org.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/nar/gkz895; html:https://europepmc.org/articles/PMC7145571; pdf:https://europepmc.org/articles/PMC7145571?pdf=render"
+  },
+  {
+    "id": "31532828",
+    "doi": "https://doi.org/10.1210/clinem/dgz006",
+    "title": "Increased Infection Risk in Addison's Disease and Congenital Adrenal Hyperplasia.",
+    "authorString": "Tresoldi AS, Sumilo D, Perrins M, Toulis KA, Prete A, Reddy N, Wass JAH, Arlt W, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "The Journal of clinical endocrinology and metabolism",
+    "pubYear": "2020",
+    "date": "2020-02-01",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "CONTEXT:Mortality and infection-related hospital admissions are increased in patients with primary adrenal insufficiency (PAI). However, the risk of primary care-managed infections in patients with PAI is unknown. OBJECTIVE:To estimate infection risk in PAI due to Addison's disease (AD) and congenital adrenal hyperplasia (CAH) in a primary care setting. DESIGN:Retrospective cohort study using UK data collected from 1995 to 2018. MAIN OUTCOME MEASURES:Incidence of lower respiratory tract infections (LRTIs), urinary tract infections (UTIs), gastrointestinal infections (GIIs), and prescription counts of antimicrobials in adult PAI patients compared to unexposed controls. RESULTS:A diagnosis of PAI was established in 1580 AD patients (mean age 51.7 years) and 602 CAH patients (mean age 35.4 years). All AD patients and 42% of CAH patients were prescribed glucocorticoids, most frequently hydrocortisone in AD (82%) and prednisolone in CAH (50%). AD and CAH patients exposed to glucocorticoids, but not CAH patients without glucocorticoid treatment, had a significantly increased risk of LRTIs (adjusted incidence rate ratio AD 2.11 [95% confidence interval (CI) 1.64-2.69], CAH 3.23 [95% CI 1.21-8.61]), UTIs (AD 1.51 [95% CI 1.29-1.77], CAH 2.20 [95% CI 1.43-3.34]), and GIIs (AD 3.80 [95% CI 2.99-4.84], CAH 1.93 [95% CI 1.06-3.52]). This was mirrored by increased prescription of antibiotics (AD 1.73 [95% CI 1.69-1.77], CAH 1.77 [95% CI 1.66-1.89]) and antifungals (AD 1.89 [95% CI 1.74-2.05], CAH 1.91 [95% CI 1.50-2.43]). CONCLUSIONS:There is an increased risk of infections and antimicrobial use in PAI in the primary care setting at least partially linked to glucocorticoid treatment. Future studies will need to address whether more physiological glucocorticoid replacement modes could reduce this risk.",
+    "laySummary": "People who suffer with primary adrenal insufficiency are more likely to be admitted to hospital. But the risk to patients catching infections whilst being treated in hospital is unknown. This study found that people with PAI being treated in hospital have a higher risk of catching an infection. Some of this risk is linked with how PAI is treated.",
+    "urls": "doi:https://doi.org/10.1210/clinem/dgz006; html:https://europepmc.org/articles/PMC7046014"
   },
   {
     "id": "33123364",
@@ -1071,23 +1071,6 @@
     "urls": "doi:https://doi.org/10.1212/WNL.0000000000009924; html:https://europepmc.org/articles/PMC7455356; pdf:https://europepmc.org/articles/PMC7455356?pdf=render"
   },
   {
-    "id": "PMC7473295",
-    "doi": "https://doi.org/",
-    "title": "How effective are population health surveys for estimating prevalence of chronic conditions compared to anonymised clinical data?",
-    "authorString": "Whiffen T, Akbari A, Paget T, Lowe S, Lyons R.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of population data science",
-    "pubYear": null,
-    "date": "2020-09-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Abstract Introduction Population health surveys are used to record person-reported outcome measures for chronic health conditions and provide a useful source of data when evaluating potential disease burdens. The reliability of survey-based prevalence estimates for chronic diseases is unclear nonetheless. This study applied methodological triangulation via a data linkage method to validate prevalence of selected chronic conditions (angina, myocardial infarction, heart failure, and asthma). Methods Linked healthcare records were used for a combined cohort of 11,323 adults from the 2013 and 2014 sweeps of the Welsh Health Survey (WHS). The approach utilised consented survey data linked to primary and secondary care electronic health record (EHR) data back to 2002 within the Secure Anonymised Information Linkage (SAIL) Databank. Results This descriptive study demonstrates validation of survey and clinical data using data linkage for selected chronic cardiovascular conditions and asthma with varied success. The results indicate that identifying cases for separate cardiovascular conditions was limited without specific medication codes for each condition, but more straightforward for asthma, where there was an extensive list of medications available. For asthma there was better agreement between prevalence estimates based on survey and clinical data as a result. Conclusion Whilst the results provide external validity for the WHS as an instrument for estimating the burden of chronic disease, they also indicate that a data linkage appproach can be used to produce comparable prevalence estimates using clinical data if a defined condition-specific set of clinical codes are available.",
-    "laySummary": "",
-    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473295/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473295/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7473295; pdf:https://europepmc.org/articles/PMC7473295?pdf=render"
-  },
-  {
     "id": "33147524",
     "doi": "https://doi.org/10.1016/j.puhe.2020.08.027",
     "title": "Adverse childhood experiences during childhood and academic attainment at age 7 and 11 years: an electronic birth cohort study.",
@@ -1103,6 +1086,23 @@
     "abstract": "OBJECTIVES:Adverse childhood experiences (ACEs) have a negative impact on childhood health, but their impact on education outcomes is less well known. We investigated whether or not ACEs were associated with reduced educational attainment at age 7 and 11 years. STUDY DESIGN:The study design used in the study is a population-based electronic cohort study. METHODS:We analysed data from a total population electronic child cohort in Wales, UK. ACEs (exposures) were living with an adult household member with any of (i) serious mental illness, (ii) common mental disorder (CMD), (iii) an alcohol problem; (iv) child victimisation, (v) death of a household member and (vi) low family income. We used multilevel logistic regression to model exposure to these ACEs and not attaining the expected level at statutory education assessments, Key Stage (KS) 1 and KS2 separately, adjusted for known confounders including perinatal, socio-economic and school factors. RESULTS:There were 107,479 and 43,648 children included in the analysis, with follow-up to 6-7 years (KS1) and 10-11 years (KS2), respectively. An increased risk of not attaining the expected level at KS1 was associated with living with adult household members with CMD (adjusted odds ratio [aOR]: 1.13 [95% confidence interval [CI]: 1.09-1.17]) or an alcohol problem (adjusted odds ratio [aOR]: 1.16 [95% confidence interval [CI]: 1.10-1.22]), childhood victimisation (adjusted odds ratio [aOR]: 1.58 [95% confidence interval [CI]: 1.37-1.82]), death of a household member (adjusted odds ratio [aOR]: 1.14 [95% confidence interval [CI]: 1.04-1.25]) and low family income (adjusted odds ratio [aOR]: 1.92 [95% confidence interval [CI]: 1.84-2.01]). Similar results were observed for KS2. Children with multiple adversities had substantially increased odds of not attaining the expected level at each educational assessment. CONCLUSION:The educational potential of many children may not be achieved due to exposure to adversity in childhood. Affected children who come in to contact with services should have relevant information shared between health and care services, and schools to initiate and facilitate a coordinated approach towards providing additional support and help for them to fulfil their educational potential, and subsequent economic and social participation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.puhe.2020.08.027"
+  },
+  {
+    "id": "PMC7473295",
+    "doi": "https://doi.org/",
+    "title": "How effective are population health surveys for estimating prevalence of chronic conditions compared to anonymised clinical data?",
+    "authorString": "Whiffen T, Akbari A, Paget T, Lowe S, Lyons R.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of population data science",
+    "pubYear": null,
+    "date": "2020-09-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Abstract Introduction Population health surveys are used to record person-reported outcome measures for chronic health conditions and provide a useful source of data when evaluating potential disease burdens. The reliability of survey-based prevalence estimates for chronic diseases is unclear nonetheless. This study applied methodological triangulation via a data linkage method to validate prevalence of selected chronic conditions (angina, myocardial infarction, heart failure, and asthma). Methods Linked healthcare records were used for a combined cohort of 11,323 adults from the 2013 and 2014 sweeps of the Welsh Health Survey (WHS). The approach utilised consented survey data linked to primary and secondary care electronic health record (EHR) data back to 2002 within the Secure Anonymised Information Linkage (SAIL) Databank. Results This descriptive study demonstrates validation of survey and clinical data using data linkage for selected chronic cardiovascular conditions and asthma with varied success. The results indicate that identifying cases for separate cardiovascular conditions was limited without specific medication codes for each condition, but more straightforward for asthma, where there was an extensive list of medications available. For asthma there was better agreement between prevalence estimates based on survey and clinical data as a result. Conclusion Whilst the results provide external validity for the WHS as an instrument for estimating the burden of chronic disease, they also indicate that a data linkage appproach can be used to produce comparable prevalence estimates using clinical data if a defined condition-specific set of clinical codes are available.",
+    "laySummary": "",
+    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473295/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473295/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7473295; pdf:https://europepmc.org/articles/PMC7473295?pdf=render"
   },
   {
     "id": "32926504",
@@ -2329,23 +2329,6 @@
     "urls": "doi:https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000080; html:https://europepmc.org/articles/PMC7014668; pdf:https://europepmc.org/articles/PMC7014668?pdf=render"
   },
   {
-    "id": "32831176",
-    "doi": "https://doi.org/10.7554/elife.58699",
-    "title": "The contribution of asymptomatic SARS-CoV-2 infections to transmission on the Diamond Princess cruise ship.",
-    "authorString": "Emery JC, Russell TW, Liu Y, Hellewell J, Pearson CA, CMMID COVID-19 Working Group, Atkins KE, Klepac P, Endo A, Jarvis CI, Davies NG, Rees EM, Meakin SR, Rosello A, van Zandvoort K, Munday JD, Edmunds WJ, Jombart T, Auzenbergs M, Nightingale ES, Jit M, Abbott S, Simons D, Bosse NI, Leclerc QJ, Procter SR, Villabona-Arenas CJ, Tully DC, Deol AK, Sun FY, Hu\u00e9 S, Foss AM, Prem K, Medley G, Gimma A, Lowe R, Clifford S, Quaife M, Diamond C, Gibbs HP, Quilty BJ, OReilly K, Knight GM, Eggo RM, Kucharski AJ, Funk S, Flasche S, Houben RM.",
-    "authorAffiliations": "",
-    "journalTitle": "eLife",
-    "pubYear": "2020",
-    "date": "2020-08-24",
-    "isOpenAccess": "Y",
-    "keywords": "Human; Microbiology; Transmission; Infectious disease; epidemiology; Global Health; Asymptomatic Infections; Subclinical Infections; Covid-19; Sars-cov-2",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "A key unknown for SARS-CoV-2 is how asymptomatic infections contribute to transmission. We used a transmission model with asymptomatic and presymptomatic states, calibrated to data on disease onset and test frequency from the Diamond Princess cruise ship outbreak, to quantify the contribution of asymptomatic infections to transmission. The model estimated that 74% (70-78%, 95% posterior interval) of infections proceeded asymptomatically. Despite intense testing, 53% (51-56%) of infections remained undetected, most of them asymptomatic. Asymptomatic individuals were the source for 69% (20-85%) of all infections. The data did not allow identification of the infectiousness of asymptomatic infections, however low ranges (0-25%) required a net reproduction number for individuals progressing through presymptomatic and symptomatic stages of at least 15. Asymptomatic SARS-CoV-2 infections may contribute substantially to transmission. Control measures, and models projecting their potential impact, need to look beyond the symptomatic cases if they are to understand and address ongoing transmission.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.7554/eLife.58699; html:https://europepmc.org/articles/PMC7527238; pdf:https://europepmc.org/articles/PMC7527238?pdf=render"
-  },
-  {
     "id": "32856398",
     "doi": "https://doi.org/10.1111/1742-6723.13604",
     "title": "To intubate or not to intubate? Predictors of inhalation injury in burn-injured patients before arrival at the burn centre.",
@@ -2361,6 +2344,23 @@
     "abstract": "OBJECTIVE:Inhalation injury occurs in approximately 10-20% of burn patients and is associated with increased mortality. There is no clear method of identifying patients at risk of inhalation injury or requiring intubation in the pre-hospital setting. Our objective was to identify pre-burn centre factors associated with inhalation injury confirmed on bronchoscopy, and to develop a prognostic model for inhalation injury. METHODS:We analysed acute admissions from the Victorian Adult Burns Service and Ambulance Victoria electronic patient care records for 1 July 2009 to 30 June 2016. We defined inhalation injury as an Abbreviated Injury Scale of >1 on bronchoscopy. A multivariable logistic regression prediction model was developed based on pre-burn centre factors. RESULTS:Emergency medical services transported 1148 patients who were admitted to the burn centre. The median age of patients was 39\u2009years and most patients had <10% total body surface area (%TBSA) burned. The prevalence of confirmed inhalation injury was 11%. Increasing %TBSA burned, flame, enclosed space, face burns, hoarse voice, soot in mouth and shortness of breath were predictive of inhalation injury. The model provided excellent discrimination (area under curve 0.87, 95% confidence interval 0.84-0.91). A lower proportion of patients intubated at a non-burn centre had an inhalation injury (33%) compared to patients intubated by emergency medical services (54%) and in the burn centre (58%). CONCLUSIONS:A model to predict inhalation injury in burn-injured patients was developed with excellent discrimination. This model requires prospective testing but could form an integral part of clinician decision-making.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/1742-6723.13604"
+  },
+  {
+    "id": "32831176",
+    "doi": "https://doi.org/10.7554/elife.58699",
+    "title": "The contribution of asymptomatic SARS-CoV-2 infections to transmission on the Diamond Princess cruise ship.",
+    "authorString": "Emery JC, Russell TW, Liu Y, Hellewell J, Pearson CA, CMMID COVID-19 Working Group, Atkins KE, Klepac P, Endo A, Jarvis CI, Davies NG, Rees EM, Meakin SR, Rosello A, van Zandvoort K, Munday JD, Edmunds WJ, Jombart T, Auzenbergs M, Nightingale ES, Jit M, Abbott S, Simons D, Bosse NI, Leclerc QJ, Procter SR, Villabona-Arenas CJ, Tully DC, Deol AK, Sun FY, Hu\u00e9 S, Foss AM, Prem K, Medley G, Gimma A, Lowe R, Clifford S, Quaife M, Diamond C, Gibbs HP, Quilty BJ, OReilly K, Knight GM, Eggo RM, Kucharski AJ, Funk S, Flasche S, Houben RM.",
+    "authorAffiliations": "",
+    "journalTitle": "eLife",
+    "pubYear": "2020",
+    "date": "2020-08-24",
+    "isOpenAccess": "Y",
+    "keywords": "Human; Microbiology; Transmission; Infectious disease; epidemiology; Global Health; Asymptomatic Infections; Subclinical Infections; Covid-19; Sars-cov-2",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "A key unknown for SARS-CoV-2 is how asymptomatic infections contribute to transmission. We used a transmission model with asymptomatic and presymptomatic states, calibrated to data on disease onset and test frequency from the Diamond Princess cruise ship outbreak, to quantify the contribution of asymptomatic infections to transmission. The model estimated that 74% (70-78%, 95% posterior interval) of infections proceeded asymptomatically. Despite intense testing, 53% (51-56%) of infections remained undetected, most of them asymptomatic. Asymptomatic individuals were the source for 69% (20-85%) of all infections. The data did not allow identification of the infectiousness of asymptomatic infections, however low ranges (0-25%) required a net reproduction number for individuals progressing through presymptomatic and symptomatic stages of at least 15. Asymptomatic SARS-CoV-2 infections may contribute substantially to transmission. Control measures, and models projecting their potential impact, need to look beyond the symptomatic cases if they are to understand and address ongoing transmission.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.7554/eLife.58699; html:https://europepmc.org/articles/PMC7527238; pdf:https://europepmc.org/articles/PMC7527238?pdf=render"
   },
   {
     "id": "32234121",
@@ -3128,23 +3128,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jor.2020.02.001"
   },
   {
-    "id": "31529100",
-    "doi": "https://doi.org/10.1093/pm/pnz209",
-    "title": "Pain, Anxiety, and Depression in the First Two Years Following Transport-Related Major Trauma: A Population-Based, Prospective Registry Cohort Study.",
-    "authorString": "Giummarra MJ, Simpson P, Gabbe BJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Pain medicine (Malden, Mass.)",
-    "pubYear": "2020",
-    "date": "2020-02-01",
-    "isOpenAccess": "N",
-    "keywords": "Trauma; Injury; Prognostic; Recovery; Motor Vehicle",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVES:This study aimed to characterize the population prevalence of pain and mental health problems postinjury and to identify risk factors that could improve service delivery to optimize recovery of at-risk patients. METHODS:This population-based registry cohort study included 5,350 adult survivors of transport-related major trauma injuries from the Victorian State Trauma Registry. Outcome profiles were generated separately for pain and mental health outcomes using the \"pain or discomfort\" and \"anxiety or depression\" items of the EuroQol Five Dimensions Three-Level questionnaire at six, 12, and 24\u2009months postinjury. Profiles were \"resilient\" (no problems at every follow-up), \"recovered\" (problems at six- and/or 12-month follow-up that later resolved), \"worsening\" (problems at 12 and/or 24 months after no problems at six and/or 12\u2009months), and \"persistent\" (problems at every follow-up). RESULTS:Most participants had persistent (pain/discomfort, N\u2009=\u20092,171, 39.7%; anxiety/depression, N\u2009=\u20091,428, 26.2%) and resilient profiles (pain/discomfort, N\u2009=\u20091,220, 22.3%; anxiety/depression, N\u2009=\u20092,055, 37.7%), followed by recovered (pain/discomfort, N\u2009=\u20091,116, 20.4%; anxiety/depression, N\u2009=\u20091,025, 18.8%) and worsening profiles (pain/discomfort, N\u2009=\u2009956, 17.5%; anxiety/depression, N\u2009=\u2009948, 17.4%). Adjusted multinomial logistic regressions showed increased risk of problems (persistent, worsening, or resolved) vs no problems (resilient) in relation to female sex, middle age, neighborhood disadvantage, pre-injury unemployment, pre-injury disability, and spinal cord injury. People living in rural areas, motorcyclists, pedal cyclists, and people with head, chest, and abdominal injuries had lower risk of problems. DISCUSSION:Targeted interventions delivered to people with the risk factors identified may help to attenuate the severity and impact of pain and mental health problems after transport injury.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/pm/pnz209"
-  },
-  {
     "id": "30972781",
     "doi": "https://doi.org/10.1111/apt.15232",
     "title": "Early and late mortality following unscheduled admissions for severe liver disease across England and Wales.",
@@ -3160,6 +3143,23 @@
     "abstract": "BACKGROUND:There is a known shortfall in hepatology service resources across England and Wales. AIM:To investigate early and late mortality following unscheduled admissions for severe liver disease, overall and by cause of death, and to determine how mortality is related to admissions to transplant centres, transplant surgery, hospital size, consultant specialty, patient socio-demographics, seasonal and geographical factors. METHODS:Cohorts of people with a first unscheduled admission for severe liver disease across England and Wales from 2004, based on record linkage of national inpatient and mortality data. FINDINGS:Mortality for alcoholic liver disease and hepatic failure was 23.4% and 35.4% respectively at 60\u00a0days and 61.8% and 57.1% at 5\u00a0years. Standardised mortality ratios (SMRs) were extremely high at 60\u00a0days (184 and 117 respectively) and remained highly increased at 5\u00a0years (16.7 and 6.3). Mortality at 5\u00a0years was most elevated from liver disease, viral hepatitis and varices. The 60-day mortality was significantly lower for patients seen by consultant hepatologists and gastroenterologists. Both early and late mortality were significantly reduced for patients admitted to transplant centres or larger hospitals, who received a liver transplant, or were resident in London. Early mortality was significantly higher for patients admitted in winter and autumn, while elevated mortality among the most vs least deprived quintile increased with longer follow-up. CONCLUSIONS:The study shows a very poor prognosis for people with unscheduled hospitalisation for severe liver disease. The findings suggest that access to specialist expertise and services improves survival, both in the short and long term.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/apt.15232; html:https://europepmc.org/articles/PMC6519290; pdf:https://europepmc.org/articles/PMC6519290?pdf=render"
+  },
+  {
+    "id": "31529100",
+    "doi": "https://doi.org/10.1093/pm/pnz209",
+    "title": "Pain, Anxiety, and Depression in the First Two Years Following Transport-Related Major Trauma: A Population-Based, Prospective Registry Cohort Study.",
+    "authorString": "Giummarra MJ, Simpson P, Gabbe BJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Pain medicine (Malden, Mass.)",
+    "pubYear": "2020",
+    "date": "2020-02-01",
+    "isOpenAccess": "N",
+    "keywords": "Trauma; Injury; Prognostic; Recovery; Motor Vehicle",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVES:This study aimed to characterize the population prevalence of pain and mental health problems postinjury and to identify risk factors that could improve service delivery to optimize recovery of at-risk patients. METHODS:This population-based registry cohort study included 5,350 adult survivors of transport-related major trauma injuries from the Victorian State Trauma Registry. Outcome profiles were generated separately for pain and mental health outcomes using the \"pain or discomfort\" and \"anxiety or depression\" items of the EuroQol Five Dimensions Three-Level questionnaire at six, 12, and 24\u2009months postinjury. Profiles were \"resilient\" (no problems at every follow-up), \"recovered\" (problems at six- and/or 12-month follow-up that later resolved), \"worsening\" (problems at 12 and/or 24 months after no problems at six and/or 12\u2009months), and \"persistent\" (problems at every follow-up). RESULTS:Most participants had persistent (pain/discomfort, N\u2009=\u20092,171, 39.7%; anxiety/depression, N\u2009=\u20091,428, 26.2%) and resilient profiles (pain/discomfort, N\u2009=\u20091,220, 22.3%; anxiety/depression, N\u2009=\u20092,055, 37.7%), followed by recovered (pain/discomfort, N\u2009=\u20091,116, 20.4%; anxiety/depression, N\u2009=\u20091,025, 18.8%) and worsening profiles (pain/discomfort, N\u2009=\u2009956, 17.5%; anxiety/depression, N\u2009=\u2009948, 17.4%). Adjusted multinomial logistic regressions showed increased risk of problems (persistent, worsening, or resolved) vs no problems (resilient) in relation to female sex, middle age, neighborhood disadvantage, pre-injury unemployment, pre-injury disability, and spinal cord injury. People living in rural areas, motorcyclists, pedal cyclists, and people with head, chest, and abdominal injuries had lower risk of problems. DISCUSSION:Targeted interventions delivered to people with the risk factors identified may help to attenuate the severity and impact of pain and mental health problems after transport injury.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/pm/pnz209"
   },
   {
     "id": "31994239",
@@ -3417,23 +3417,6 @@
     "urls": "doi:https://doi.org/10.1002/art.41593"
   },
   {
-    "id": "32781946",
-    "doi": "https://doi.org/10.1098/rspb.2020.1405",
-    "title": "Key questions for modelling COVID-19 exit strategies.",
-    "authorString": "Thompson RN, Hollingsworth TD, Isham V, Arribas-Bel D, Ashby B, Britton T, Challenor P, Chappell LHK, Clapham H, Cunniffe NJ, Dawid AP, Donnelly CA, Eggo RM, Funk S, Gilbert N, Glendinning P, Gog JR, Hart WS, Heesterbeek H, House T, Keeling M, Kiss IZ, Kretzschmar ME, Lloyd AL, McBryde ES, McCaw JM, McKinley TJ, Miller JC, Morris M, O'Neill PD, Parag KV, Pearson CAB, Pellis L, Pulliam JRC, Ross JV, Tomba GS, Silverman BW, Struchiner CJ, Tildesley MJ, Trapman P, Webb CR, Mollison D, Restif O.",
-    "authorAffiliations": "",
-    "journalTitle": "Proceedings. Biological sciences",
-    "pubYear": "2020",
-    "date": "2020-08-12",
-    "isOpenAccess": "Y",
-    "keywords": "Uncertainty; Mathematical Modelling; Epidemic Control; Exit Strategy; Covid-19; Sars-cov-2",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Combinations of intense non-pharmaceutical interventions (lockdowns) were introduced worldwide to reduce SARS-CoV-2 transmission. Many governments have begun to implement exit strategies that relax restrictions while attempting to control the risk of a surge in cases. Mathematical modelling has played a central role in guiding interventions, but the challenge of designing optimal exit strategies in the face of ongoing transmission is unprecedented. Here, we report discussions from the Isaac Newton Institute 'Models for an exit strategy' workshop (11-15 May 2020). A diverse community of modellers who are providing evidence to governments worldwide were asked to identify the main questions that, if answered, would allow for more accurate predictions of the effects of different exit strategies. Based on these questions, we propose a roadmap to facilitate the development of reliable models to guide exit strategies. This roadmap requires a global collaborative effort from the scientific community and policymakers, and has three parts: (i) improve estimation of key epidemiological parameters; (ii) understand sources of heterogeneity in populations; and (iii) focus on requirements for data collection, particularly in low-to-middle-income countries. This will provide important information for planning exit strategies that balance socio-economic benefits with public health.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1098/rspb.2020.1405; html:https://europepmc.org/articles/PMC7575516; pdf:https://europepmc.org/articles/PMC7575516?pdf=render"
-  },
-  {
     "id": "33184391",
     "doi": "https://doi.org/10.1038/s41598-020-76816-6",
     "title": "Prediction of vascular aging based on smartphone acquired PPG signals.",
@@ -3449,6 +3432,23 @@
     "abstract": "Photoplethysmography (PPG) measured by smartphone has the potential for a large scale, non-invasive, and easy-to-use screening tool. Vascular aging is linked to increased arterial stiffness, which can be measured by PPG. We investigate the feasibility of using PPG to predict healthy vascular aging (HVA) based on two approaches: machine learning (ML) and deep learning (DL). We performed data preprocessing, including detrending, demodulating, and denoising on the raw PPG signals. For ML, ridge penalized regression has been applied to 38 features extracted from PPG, whereas for DL several convolutional neural networks (CNNs) have been applied to the whole PPG signals as input. The analysis has been conducted using the crowd-sourced Heart for Heart data. The prediction performance of ML using two features (AUC of 94.7%) - the a wave of the second derivative PPG and tpr, including four covariates, sex, height, weight, and smoking - was similar to that of the best performing CNN, 12-layer ResNet (AUC of 95.3%). Without having the heavy computational cost of DL, ML might be advantageous in finding potential biomarkers for HVA prediction. The whole workflow of the procedure is clearly described, and open software has been made available to facilitate replication of the results.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41598-020-76816-6; html:https://europepmc.org/articles/PMC7661535; pdf:https://europepmc.org/articles/PMC7661535?pdf=render"
+  },
+  {
+    "id": "32781946",
+    "doi": "https://doi.org/10.1098/rspb.2020.1405",
+    "title": "Key questions for modelling COVID-19 exit strategies.",
+    "authorString": "Thompson RN, Hollingsworth TD, Isham V, Arribas-Bel D, Ashby B, Britton T, Challenor P, Chappell LHK, Clapham H, Cunniffe NJ, Dawid AP, Donnelly CA, Eggo RM, Funk S, Gilbert N, Glendinning P, Gog JR, Hart WS, Heesterbeek H, House T, Keeling M, Kiss IZ, Kretzschmar ME, Lloyd AL, McBryde ES, McCaw JM, McKinley TJ, Miller JC, Morris M, O'Neill PD, Parag KV, Pearson CAB, Pellis L, Pulliam JRC, Ross JV, Tomba GS, Silverman BW, Struchiner CJ, Tildesley MJ, Trapman P, Webb CR, Mollison D, Restif O.",
+    "authorAffiliations": "",
+    "journalTitle": "Proceedings. Biological sciences",
+    "pubYear": "2020",
+    "date": "2020-08-12",
+    "isOpenAccess": "Y",
+    "keywords": "Uncertainty; Mathematical Modelling; Epidemic Control; Exit Strategy; Covid-19; Sars-cov-2",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Combinations of intense non-pharmaceutical interventions (lockdowns) were introduced worldwide to reduce SARS-CoV-2 transmission. Many governments have begun to implement exit strategies that relax restrictions while attempting to control the risk of a surge in cases. Mathematical modelling has played a central role in guiding interventions, but the challenge of designing optimal exit strategies in the face of ongoing transmission is unprecedented. Here, we report discussions from the Isaac Newton Institute 'Models for an exit strategy' workshop (11-15 May 2020). A diverse community of modellers who are providing evidence to governments worldwide were asked to identify the main questions that, if answered, would allow for more accurate predictions of the effects of different exit strategies. Based on these questions, we propose a roadmap to facilitate the development of reliable models to guide exit strategies. This roadmap requires a global collaborative effort from the scientific community and policymakers, and has three parts: (i) improve estimation of key epidemiological parameters; (ii) understand sources of heterogeneity in populations; and (iii) focus on requirements for data collection, particularly in low-to-middle-income countries. This will provide important information for planning exit strategies that balance socio-economic benefits with public health.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1098/rspb.2020.1405; html:https://europepmc.org/articles/PMC7575516; pdf:https://europepmc.org/articles/PMC7575516?pdf=render"
   },
   {
     "id": "31413164",
@@ -3859,23 +3859,6 @@
     "urls": "doi:https://doi.org/10.1016/j.dsx.2020.04.050; html:https://europepmc.org/articles/PMC7204679; doi:https://doi.org/10.1016/j.dsx.2020.04.050"
   },
   {
-    "id": "32808938",
-    "doi": "https://doi.org/10.2196/17022",
-    "title": "Technological Capabilities to Assess Digital Excellence in Hospitals in High Performing Health Care Systems: International eDelphi Exercise.",
-    "authorString": "Krasuska M, Williams R, Sheikh A, Franklin BD, Heeney C, Lane W, Mozaffar H, Mason K, Eason S, Hinder S, Dunscombe R, Potts HWW, Cresswell K.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of medical Internet research",
-    "pubYear": "2020",
-    "date": "2020-08-18",
-    "isOpenAccess": "Y",
-    "keywords": "Delphi Technique; Digital Maturity; Digital Excellence; Hospitals, Ehealth",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Hospitals worldwide are developing ambitious digital transformation programs as part of broader efforts to create digitally advanced health care systems. However, there is as yet no consensus on how best to characterize and assess digital excellence in hospitals. OBJECTIVE:Our aim was to develop an international agreement on a defined set of technological capabilities to assess digital excellence in hospitals. METHODS:We conducted a two-stage international modified electronic Delphi (eDelphi) consensus-building exercise, which included a qualitative analysis of free-text responses. In total, 31 international health informatics experts participated, representing clinical, academic, public, and vendor organizations. RESULTS:We identified 35 technological capabilities that indicate digital excellence in hospitals. These are divided into two categories: (a) capabilities within a hospital (n=20) and (b) capabilities enabling communication with other parts of the health and social care system, and with patients and carers (n=15). The analysis of free-text responses pointed to the importance of nontechnological aspects of digitally enabled change, including social and organizational factors. Examples included an institutional culture characterized by a willingness to transform established ways of working and openness to risk-taking. The availability of a range of skills within digitization teams, including technological, project management and business expertise, and availability of resources to support hospital staff, were also highlighted. CONCLUSIONS:We have identified a set of criteria for assessing digital excellence in hospitals. Our findings highlight the need to broaden the focus from technical functionalities to wider digital transformation capabilities.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/17022; html:https://europepmc.org/articles/PMC7463397"
-  },
-  {
     "id": "31361079",
     "doi": "https://doi.org/10.1111/1742-6723.13361",
     "title": "Animal-vehicle collisions in Victoria, Australia: An under-recognised cause of road traffic crashes.",
@@ -3891,6 +3874,23 @@
     "abstract": "OBJECTIVE:Non-fatal injuries sustained from animal-vehicle collisions are a globally under-recognised road safety issue, with limited data on these crash types. The present study aimed to quantify the number and causes of major trauma events resulting from animal-vehicle collisions. METHODS:The study was a retrospective analysis of major trauma cases occurring in Victoria, Australia, between 2007 and 2016, using data from the population-based Victorian State Trauma Registry. To identify animal-vehicle collisions, Victorian State Trauma Registry injury codes were combined with text-mining of the text description of the injury event. RESULTS:Over the 10 year period, there were 152 major trauma patients who were admitted to Victorian trauma-receiving hospitals due to vehicle collisions with animals. The crude population-based incidence rate for animal-vehicle collisions increased by 6.7% per year (incidence rate ratio 1.07; 95% confidence interval 1.01-1.13; P = 0.02). CONCLUSION:Development of systematic recording methods of animal-vehicle collisions will improve reporting of these crash types to assist future studies in implementing effective countermeasures.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/1742-6723.13361"
+  },
+  {
+    "id": "32808938",
+    "doi": "https://doi.org/10.2196/17022",
+    "title": "Technological Capabilities to Assess Digital Excellence in Hospitals in High Performing Health Care Systems: International eDelphi Exercise.",
+    "authorString": "Krasuska M, Williams R, Sheikh A, Franklin BD, Heeney C, Lane W, Mozaffar H, Mason K, Eason S, Hinder S, Dunscombe R, Potts HWW, Cresswell K.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of medical Internet research",
+    "pubYear": "2020",
+    "date": "2020-08-18",
+    "isOpenAccess": "Y",
+    "keywords": "Delphi Technique; Digital Maturity; Digital Excellence; Hospitals, Ehealth",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Hospitals worldwide are developing ambitious digital transformation programs as part of broader efforts to create digitally advanced health care systems. However, there is as yet no consensus on how best to characterize and assess digital excellence in hospitals. OBJECTIVE:Our aim was to develop an international agreement on a defined set of technological capabilities to assess digital excellence in hospitals. METHODS:We conducted a two-stage international modified electronic Delphi (eDelphi) consensus-building exercise, which included a qualitative analysis of free-text responses. In total, 31 international health informatics experts participated, representing clinical, academic, public, and vendor organizations. RESULTS:We identified 35 technological capabilities that indicate digital excellence in hospitals. These are divided into two categories: (a) capabilities within a hospital (n=20) and (b) capabilities enabling communication with other parts of the health and social care system, and with patients and carers (n=15). The analysis of free-text responses pointed to the importance of nontechnological aspects of digitally enabled change, including social and organizational factors. Examples included an institutional culture characterized by a willingness to transform established ways of working and openness to risk-taking. The availability of a range of skills within digitization teams, including technological, project management and business expertise, and availability of resources to support hospital staff, were also highlighted. CONCLUSIONS:We have identified a set of criteria for assessing digital excellence in hospitals. Our findings highlight the need to broaden the focus from technical functionalities to wider digital transformation capabilities.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/17022; html:https://europepmc.org/articles/PMC7463397"
   },
   {
     "id": "31827124",
@@ -4505,23 +4505,6 @@
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100392; html:https://europepmc.org/articles/PMC7329705; pdf:https://europepmc.org/articles/PMC7329705?pdf=render"
   },
   {
-    "id": "32073627",
-    "doi": "https://doi.org/10.1093/ije/dyaa002",
-    "title": "Educational and health outcomes of children and adolescents receiving antidepressant medication: Scotland-wide retrospective record linkage cohort study of 766\u00a0237 schoolchildren.",
-    "authorString": "Fleming M, Fitton CA, Steiner MFC, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of epidemiology",
-    "pubYear": "2020",
-    "date": "2020-08-01",
-    "isOpenAccess": "Y",
-    "keywords": "Depression; Health; Prescribing; Educational Outcomes; Record Linkage; Population Cohort",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Childhood depression is relatively common, under-researched and can impact social and cognitive function and self-esteem. METHODS:Record linkage of routinely collected Scotland-wide administrative databases covering prescriptions [prescribing information system (PIS)], hospitalizations (Scottish Morbidity Records 01 and 04), maternity records (Scottish Morbidity Records 02), deaths (National Records of Scotland), annual pupil census, school absences/exclusions, special educational needs (Scottish Exchange of Educational Data; ScotXed), examinations (Scottish Qualifications Authority) and (un)employment (ScotXed) provided data on 766\u00a0237 children attending Scottish schools between 2009 and 2013 inclusively. We compared educational and health outcomes of children receiving antidepressant medication with their peers, adjusting for confounders (socio-demographic, maternity and comorbidity) and explored effect modifiers and mediators. RESULTS:Compared with peers, children receiving antidepressants were more likely to be absent [adjusted incidence rate ratio (IRR) 1.90, 95% confidence interval (CI) 1.85-1.95] or excluded (adjusted IRR 1.48, 95% CI 1.29-1.69) from school, have special educational needs [adjusted odds ratio (OR) 1.77, 95% CI 1.65-1.90], have the lowest level of academic attainment (adjusted OR 3.00, 95% CI 2.51-3.58) and be unemployed after leaving school (adjusted OR 1.88, 95% CI 1.71-2.08). They had increased hospitalization [adjusted hazard ratio (HR) 2.07, 95% CI 1.98-2.18] and mortality (adjusted HR 2.73, 95% CI 1.73-4.29) over 5\u2009years' follow-up. Higher absenteeism partially explained poorer attainment and unemployment. Treatment with antidepressants was less common among boys than girls (0.5% vs 1.0%) but the associations with special educational need and unemployment were stronger in boys. CONCLUSIONS:Children receiving antidepressants fare worse than their peers across a wide range of education and health outcomes. Interventions to reduce absenteeism or mitigate its effects should be investigated.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/ije/dyaa002; html:https://europepmc.org/articles/PMC7660154; pdf:https://europepmc.org/articles/PMC7660154?pdf=render"
-  },
-  {
     "id": "32485082",
     "doi": "https://doi.org/10.1002/ejhf.1924",
     "title": "Angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers are not associated with severe COVID-19 infection in a multi-site UK acute hospital trust.",
@@ -4537,6 +4520,23 @@
     "abstract": "AIMS:The SARS-CoV-2 virus binds to the angiotensin-converting enzyme 2 (ACE2) receptor for cell entry. It has been suggested that angiotensin-converting enzyme inhibitors (ACEi) and angiotensin II receptor blockers (ARB), which are commonly used in patients with hypertension or diabetes and may raise tissue ACE2 levels, could increase the risk of severe COVID-19 infection. METHODS AND RESULTS:We evaluated this hypothesis in a consecutive cohort of 1200 acute inpatients with COVID-19 at two hospitals with a multi-ethnic catchment population in London (UK). The mean age was 68\u2009\u00b1\u200917\u2009years (57% male) and 74% of patients had at least one comorbidity. Overall, 415 patients (34.6%) reached the primary endpoint of death or transfer to a critical care unit for organ support within 21\u2009days of symptom onset. A total of 399 patients (33.3%) were taking ACEi or ARB. Patients on ACEi/ARB were significantly older and had more comorbidities. The odds ratio for the primary endpoint in patients on ACEi and ARB, after adjustment for age, sex and co-morbidities, was 0.63 (95% confidence interval 0.47-0.84, P\u2009<\u20090.01). CONCLUSIONS:There was no evidence for increased severity of COVID-19 in hospitalised patients on chronic treatment with ACEi or ARB. A trend towards a beneficial effect of ACEi/ARB requires further evaluation in larger meta-analyses and randomised clinical trials.",
     "laySummary": "This study aimed to determine whether or not two specific types of medication (ACE inhibitors and angiotensin-2 blockers - ACEi/ARB) used for hypertension or diabetes are associated with increased risk of severe COVID-19 infection in a sample of 1,200 inpatients (one third of whom were taking the medications under investigation) in two London hospitals. The researchers used data from electonic medical notes and electronic health records. The patients who were taking the medication were, on average, older and had more underlying health conditions than patients who were not. After accounting for these differences in patient health the researchers found that the risk of severe COVID infection was not higher for patients taking ACEi/ARB. This finding is important for patients because it suggests that they should continue to take ACEi/ARB that have been presecribed to them.",
     "urls": "doi:https://doi.org/10.1002/ejhf.1924; html:https://europepmc.org/articles/PMC7301045; pdf:https://europepmc.org/articles/PMC7301045?pdf=render"
+  },
+  {
+    "id": "32073627",
+    "doi": "https://doi.org/10.1093/ije/dyaa002",
+    "title": "Educational and health outcomes of children and adolescents receiving antidepressant medication: Scotland-wide retrospective record linkage cohort study of 766\u00a0237 schoolchildren.",
+    "authorString": "Fleming M, Fitton CA, Steiner MFC, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of epidemiology",
+    "pubYear": "2020",
+    "date": "2020-08-01",
+    "isOpenAccess": "Y",
+    "keywords": "Depression; Health; Prescribing; Educational Outcomes; Record Linkage; Population Cohort",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Childhood depression is relatively common, under-researched and can impact social and cognitive function and self-esteem. METHODS:Record linkage of routinely collected Scotland-wide administrative databases covering prescriptions [prescribing information system (PIS)], hospitalizations (Scottish Morbidity Records 01 and 04), maternity records (Scottish Morbidity Records 02), deaths (National Records of Scotland), annual pupil census, school absences/exclusions, special educational needs (Scottish Exchange of Educational Data; ScotXed), examinations (Scottish Qualifications Authority) and (un)employment (ScotXed) provided data on 766\u00a0237 children attending Scottish schools between 2009 and 2013 inclusively. We compared educational and health outcomes of children receiving antidepressant medication with their peers, adjusting for confounders (socio-demographic, maternity and comorbidity) and explored effect modifiers and mediators. RESULTS:Compared with peers, children receiving antidepressants were more likely to be absent [adjusted incidence rate ratio (IRR) 1.90, 95% confidence interval (CI) 1.85-1.95] or excluded (adjusted IRR 1.48, 95% CI 1.29-1.69) from school, have special educational needs [adjusted odds ratio (OR) 1.77, 95% CI 1.65-1.90], have the lowest level of academic attainment (adjusted OR 3.00, 95% CI 2.51-3.58) and be unemployed after leaving school (adjusted OR 1.88, 95% CI 1.71-2.08). They had increased hospitalization [adjusted hazard ratio (HR) 2.07, 95% CI 1.98-2.18] and mortality (adjusted HR 2.73, 95% CI 1.73-4.29) over 5\u2009years' follow-up. Higher absenteeism partially explained poorer attainment and unemployment. Treatment with antidepressants was less common among boys than girls (0.5% vs 1.0%) but the associations with special educational need and unemployment were stronger in boys. CONCLUSIONS:Children receiving antidepressants fare worse than their peers across a wide range of education and health outcomes. Interventions to reduce absenteeism or mitigate its effects should be investigated.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/ije/dyaa002; html:https://europepmc.org/articles/PMC7660154; pdf:https://europepmc.org/articles/PMC7660154?pdf=render"
   },
   {
     "id": "32460529",
@@ -4775,6 +4775,23 @@
     "abstract": "OBJECTIVES:Despite the publication of hundreds of trials on gout and hyperuricemia, management of these conditions remains suboptimal. We aimed to assess the quality and consistency of guidance documents for gout and hyperuricemia. DESIGN:Systematic review and quality assessment using the appraisal of guidelines for research and evaluation (AGREE) II methodology. DATA SOURCES:PubMed and EMBASE (27 October 2016), two Chinese academic databases, eight guideline databases, and Google and Google scholar (July 2017). ELIGIBILITY CRITERIA:We included the latest version of international and national/regional clinical practice guidelines and consensus statements for diagnosis and/or treatment of hyperuricemia and gout, published in English or Chinese. DATA EXTRACTION AND SYNTHESIS:Two reviewers independently screened searched items and extracted data. Four reviewers independently scored documents using AGREE II. Recommendations from all documents were tabulated and visualised in a coloured grid. RESULTS:Twenty-four guidance documents (16 clinical practice guidelines and 8 consensus statements) published between 2003 and 2017 were included. Included documents performed well in the domains of scope and purpose (median 85.4%, range 66.7%-100.0%) and clarity of presentation (median 79.2%, range 48.6%-98.6%), but unsatisfactory in applicability (median 10.9%, range 0.0%-66.7%) and editorial independence (median 28.1%, range 0.0%-83.3%). The 2017 British Society of Rheumatology guideline received the highest scores. Recommendations were concordant on the target serum uric acid level for long-term control, on some indications for urate-lowering therapy (ULT), and on the first-line drugs for ULT and for acute attack. Substantially inconsistent recommendations were provided for many items, especially for the timing of initiation of ULT and for treatment for asymptomatic hyperuricemia. CONCLUSIONS:Methodological quality needs improvement in guidance documents on gout and hyperuricemia. Evidence for certain clinical questions is lacking, despite numerous trials in this field. Promoting standard guidance development methods and synthesising high-quality clinical evidence are potential approaches to reduce recommendation inconsistencies. PROSPERO REGISTRATION NUMBER:CRD42016046104.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2018-026677; html:https://europepmc.org/articles/PMC6720466; pdf:https://europepmc.org/articles/PMC6720466?pdf=render"
+  },
+  {
+    "id": "33222494",
+    "doi": "https://doi.org/10.1177/2048872620974605",
+    "title": "Cardiac complications in patients hospitalised with COVID-19.",
+    "authorString": "Linschoten M, Peters S, van Smeden M, Jewbali LS, Schaap J, Siebelink HM, Smits PC, Tieleman RG, van der Harst P, van Gilst WH, Asselbergs FW, CAPACITY-COVID collaborative consortium.",
+    "authorAffiliations": "",
+    "journalTitle": "European heart journal. Acute cardiovascular care",
+    "pubYear": "2020",
+    "date": "2020-11-21",
+    "isOpenAccess": "N",
+    "keywords": "Pulmonary embolism; Cohorts; Cardiac Complications; Patient Registry; Covid-19/coronavirus",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "AIMS:To determine the frequency and pattern of cardiac complications in patients hospitalised with coronavirus disease (COVID-19). METHODS AND RESULTS:CAPACITY-COVID is an international patient registry established to determine the role of cardiovascular disease in the COVID-19 pandemic. In this registry, data generated during routine clinical practice are collected in a standardised manner for patients with a (highly suspected) severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection requiring hospitalisation. For the current analysis, consecutive patients with laboratory confirmed COVID-19 registered between 28 March and 3 July 2020 were included. Patients were followed for the occurrence of cardiac complications and pulmonary embolism from admission to discharge. In total, 3011 patients were included, of which 1890 (62.8%) were men. The median age was 67 years (interquartile range 56-76); 937 (31.0%) patients had a history of cardiac disease, with pre-existent coronary artery disease being most common (n=463, 15.4%). During hospitalisation, 595 (19.8%) patients died, including 16 patients (2.7%) with cardiac causes. Cardiac complications were diagnosed in 349 (11.6%) patients, with atrial fibrillation (n=142, 4.7%) being most common. The incidence of other cardiac complications was 1.8% for heart failure (n=55), 0.5% for acute coronary syndrome (n=15), 0.5% for ventricular arrhythmia (n=14), 0.1% for bacterial endocarditis (n=4) and myocarditis (n=3), respectively, and 0.03% for pericarditis (n=1). Pulmonary embolism was diagnosed in 198 (6.6%) patients. CONCLUSION:This large study among 3011 hospitalised patients with COVID-19 shows that the incidence of cardiac complications during hospital admission is low, despite a frequent history of cardiovascular disease. Long-term cardiac outcomes and the role of pre-existing cardiovascular disease in COVID-19 outcome warrants further investigation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1177/2048872620974605"
   },
   {
     "id": "33201485",
@@ -5372,23 +5389,6 @@
     "urls": "doi:https://doi.org/10.1002/ppul.24314; html:https://europepmc.org/articles/PMC6617805; pdf:https://europepmc.org/articles/PMC6617805?pdf=render"
   },
   {
-    "id": "31196949",
-    "doi": "https://doi.org/10.1183/13993003.02309-2018",
-    "title": "Educational and health outcomes of children treated for asthma: Scotland-wide record linkage study of 683\u200a716 children.",
-    "authorString": "Fleming M, Fitton CA, Steiner MFC, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
-    "authorAffiliations": "",
-    "journalTitle": "The European respiratory journal",
-    "pubYear": "2019",
-    "date": "2019-09-05",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:The global prevalence of childhood asthma is increasing. The condition impacts physical and psychosocial morbidity; therefore, wide-ranging effects on health and education outcomes are plausible. METHODS:Linkage of eight Scotland-wide databases, covering dispensed prescriptions, hospital admissions, maternity records, death certificates, annual pupil census, examinations, school absences/exclusions and unemployment, provided data on 683\u200a716 children attending Scottish schools between 2009 and 2013. We compared schoolchildren on medication for asthma with peers, adjusting for sociodemographic, maternity and comorbidity confounders, and explored effect modifiers and mediators. RESULTS:The 45\u200a900 (6.0%) children treated for asthma had an increased risk of hospitalisation, particularly within the first year of treatment (incidence rate ratio 1.98, 95% CI 1.93-2.04), and increased mortality (HR 1.77, 95% CI 1.30-2.40). They were more likely to have special educational need for mental (OR 1.76, 95% CI 1.49-2.08) and physical (OR 2.76, 95% CI 2.57-2.95) health reasons, and performed worse in school exams (OR 1.11, 95% CI 1.06-1.16). Higher absenteeism (incidence rate ratio 1.25, 95% CI 1.24-1.26) partially explained their poorer attainment. CONCLUSIONS:Children with treated asthma have poorer education and health outcomes than their peers. Educational interventions that mitigate the adverse effects of absenteeism should be considered.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1183/13993003.02309-2018; html:https://europepmc.org/articles/PMC6727030; pdf:https://europepmc.org/articles/PMC6727030?pdf=render"
-  },
-  {
     "id": "31816119",
     "doi": "https://doi.org/10.1002/sim.8443",
     "title": "Dynamic predictive probabilities to monitor rapid cystic fibrosis disease progression.",
@@ -5404,6 +5404,23 @@
     "abstract": "Cystic fibrosis (CF) is a progressive, genetic disease characterized by frequent, prolonged drops in lung function. Accurately predicting rapid underlying lung-function decline is essential for clinical decision support and timely intervention. Determining whether an individual is experiencing a period of rapid decline is complicated due to its heterogeneous timing and extent, and error component of the measured lung function. We construct individualized predictive probabilities for \"nowcasting\" rapid decline. We assume each patient's true longitudinal lung function, S(t), follows a nonlinear, nonstationary stochastic process, and accommodate between-patient heterogeneity through random effects. Corresponding lung-function decline at time t is defined as the rate of change, S'(t). We predict S'(t) conditional on observed covariate and measurement history by modeling a measured lung function as a noisy version of S(t). The method is applied to data on 30\u2009879 US CF Registry patients. Results are contrasted with a currently employed decision rule using single-center data on 212 individuals. Rapid decline is identified earlier using predictive probabilities than the center's currently employed decision rule (mean difference: 0.65\u2009years; 95% confidence interval (CI): 0.41, 0.89). We constructed a bootstrapping algorithm to obtain CIs for predictive probabilities. We illustrate real-time implementation with R Shiny. Predictive accuracy is investigated using empirical simulations, which suggest this approach more accurately detects peak decline, compared with a uniform threshold of rapid decline. Median area under the ROC curve estimates (Q1-Q3) were 0.817 (0.814-0.822) and 0.745 (0.741-0.747), respectively, implying reasonable accuracy for both. This article demonstrates how individualized rate of change estimates can be coupled with probabilistic predictive inference and implementation for a useful medical-monitoring approach.",
     "laySummary": "The objective of this paper was to construct individualised dynamic predictive probabilities to monitor rapid Cystic Fibrosis (CF) disease progression. The results demonstrated how individualised rate of change estimates can be coupled with probabilitic predictive inference and implementation for a useful medical-monitoring approach.",
     "urls": "doi:https://doi.org/10.1002/sim.8443; html:https://europepmc.org/articles/PMC7028099; pdf:https://europepmc.org/articles/PMC7028099?pdf=render"
+  },
+  {
+    "id": "31196949",
+    "doi": "https://doi.org/10.1183/13993003.02309-2018",
+    "title": "Educational and health outcomes of children treated for asthma: Scotland-wide record linkage study of 683\u200a716 children.",
+    "authorString": "Fleming M, Fitton CA, Steiner MFC, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
+    "authorAffiliations": "",
+    "journalTitle": "The European respiratory journal",
+    "pubYear": "2019",
+    "date": "2019-09-05",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:The global prevalence of childhood asthma is increasing. The condition impacts physical and psychosocial morbidity; therefore, wide-ranging effects on health and education outcomes are plausible. METHODS:Linkage of eight Scotland-wide databases, covering dispensed prescriptions, hospital admissions, maternity records, death certificates, annual pupil census, examinations, school absences/exclusions and unemployment, provided data on 683\u200a716 children attending Scottish schools between 2009 and 2013. We compared schoolchildren on medication for asthma with peers, adjusting for sociodemographic, maternity and comorbidity confounders, and explored effect modifiers and mediators. RESULTS:The 45\u200a900 (6.0%) children treated for asthma had an increased risk of hospitalisation, particularly within the first year of treatment (incidence rate ratio 1.98, 95% CI 1.93-2.04), and increased mortality (HR 1.77, 95% CI 1.30-2.40). They were more likely to have special educational need for mental (OR 1.76, 95% CI 1.49-2.08) and physical (OR 2.76, 95% CI 2.57-2.95) health reasons, and performed worse in school exams (OR 1.11, 95% CI 1.06-1.16). Higher absenteeism (incidence rate ratio 1.25, 95% CI 1.24-1.26) partially explained their poorer attainment. CONCLUSIONS:Children with treated asthma have poorer education and health outcomes than their peers. Educational interventions that mitigate the adverse effects of absenteeism should be considered.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1183/13993003.02309-2018; html:https://europepmc.org/articles/PMC6727030; pdf:https://europepmc.org/articles/PMC6727030?pdf=render"
   },
   {
     "id": "30862657",
@@ -5457,23 +5474,6 @@
     "urls": "doi:https://doi.org/10.1038/s41433-018-0229-6; html:https://europepmc.org/articles/PMC6367454; pdf:https://europepmc.org/articles/PMC6367454?pdf=render; doi:https://doi.org/10.1038/s41433-018-0229-6"
   },
   {
-    "id": "32430455",
-    "doi": "https://doi.org/10.1136/bmjopen-2020-038530",
-    "title": "Evaluating the real-world implementation of the Family Nurse Partnership in England: protocol for a data linkage study.",
-    "authorString": "Cavallaro FL, Gilbert R, Wijlaars L, Kennedy E, Swarbrick A, van der Meulen J, Harron K.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2020",
-    "date": "2020-05-18",
-    "isOpenAccess": "Y",
-    "keywords": "Public Health; Community Child Health; Child Protection; Health Informatics",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION:Almost 20 000 babies are born to teenage mothers each year in England, with poorer outcomes for mothers and babies than among older mothers. A nurse home visitation programme in the USA was found to improve a wide range of outcomes for young mothers and their children. However, a randomised controlled trial in England found no effect on short-term primary outcomes, although cognitive development up to age 2 showed improvement. Our study will use linked routinely collected health, education and social care data to evaluate the real-world effects of the Family Nurse Partnership (FNP) on child outcomes up to age 7, with a focus on identifying whether the FNP works better for particular groups of families, thereby informing programme targeting and resource allocation. METHODS AND ANALYSIS:We will construct a retrospective cohort of all women aged 13-24 years giving birth in English NHS hospitals between 2010 and 2017, linking information on mothers and children from FNP programme data, Hospital Episodes Statistics and the National Pupil Database. To assess the effectiveness of FNP, we will compare outcomes for eligible mothers ever and never enrolled in FNP, and their children, using two analysis strategies to adjust for measured confounding: propensity score matching and analyses adjusting for maternal characteristics up to enrolment/28 weeks gestation. Outcomes of interest include early childhood development, childhood unplanned hospital admissions for injury or maltreatment-related diagnoses and children in care. Subgroup analyses will determine whether the effect of FNP varied according to maternal characteristics (eg, age and education). ETHICS AND DISSEMINATION:The Nottingham Research Ethics Committee approved this study. Mothers participating in FNP were supportive of our planned research. Results will inform policy-makers for targeting home visiting programmes. Methodological findings on the accuracy and reliability of cross-sectoral data linkage will be of interest to researchers.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2020-038530; html:https://europepmc.org/articles/PMC7239518; pdf:https://europepmc.org/articles/PMC7239518?pdf=render"
-  },
-  {
     "id": "31780306",
     "doi": "https://doi.org/10.1016/s2215-0366(19)30298-6",
     "title": "Pharmacoepidemiology research: delivering evidence about drug safety and effectiveness in mental health.",
@@ -5489,6 +5489,23 @@
     "abstract": "Research that provides an evidence base for the pharmacotherapy of people with mental disorders is needed. The abundance of digital data has facilitated pharmacoepidemiology and, in particular, observational research on the effectiveness of real-world medication. Advantages of pharmacoepidemiological research are the availability of large patient samples, and coverage of under-researched subpopulations in their naturalistic conditions. Such research is also cheaper and quicker to do than randomised controlled trials, meaning that issues regarding generic medication, stopping medication (deprescribing), and long-term outcomes are more likely to be addressed. Pharmacoepidemiological methods can also be extended to pharmacovigilance and to aid the development of new purposes for existing drugs. Drawbacks of observational pharmacoepidemiological studies come from the non-randomised nature of treatment selection, leading to confounding by indication. Potential methods for managing this drawback include active comparison groups, within-individual designs, and propensity scoring. Many of the more rigorous pharmacoepidemiology studies have been strengthened through multiple analytical approaches triangulated to improve confidence in inferred causal relationships. With developments in data resources and analytical techniques, it is encouraging that guidelines are beginning to include evidence from robust observational pharmacoepidemiological studies alongside randomised controlled trials. Collaboration between guideline writers and researchers involved in pharmacoepidemiology could help researchers to answer the questions that are important to policy makers and ensure that results are integrated into the evidence base. Further development of statistical and data science techniques, alongside public engagement and capacity building (data resources and researcher base), will be necessary to take full advantage of future opportunities.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S2215-0366(19)30298-6"
+  },
+  {
+    "id": "32430455",
+    "doi": "https://doi.org/10.1136/bmjopen-2020-038530",
+    "title": "Evaluating the real-world implementation of the Family Nurse Partnership in England: protocol for a data linkage study.",
+    "authorString": "Cavallaro FL, Gilbert R, Wijlaars L, Kennedy E, Swarbrick A, van der Meulen J, Harron K.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2020",
+    "date": "2020-05-18",
+    "isOpenAccess": "Y",
+    "keywords": "Public Health; Community Child Health; Child Protection; Health Informatics",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "INTRODUCTION:Almost 20 000 babies are born to teenage mothers each year in England, with poorer outcomes for mothers and babies than among older mothers. A nurse home visitation programme in the USA was found to improve a wide range of outcomes for young mothers and their children. However, a randomised controlled trial in England found no effect on short-term primary outcomes, although cognitive development up to age 2 showed improvement. Our study will use linked routinely collected health, education and social care data to evaluate the real-world effects of the Family Nurse Partnership (FNP) on child outcomes up to age 7, with a focus on identifying whether the FNP works better for particular groups of families, thereby informing programme targeting and resource allocation. METHODS AND ANALYSIS:We will construct a retrospective cohort of all women aged 13-24 years giving birth in English NHS hospitals between 2010 and 2017, linking information on mothers and children from FNP programme data, Hospital Episodes Statistics and the National Pupil Database. To assess the effectiveness of FNP, we will compare outcomes for eligible mothers ever and never enrolled in FNP, and their children, using two analysis strategies to adjust for measured confounding: propensity score matching and analyses adjusting for maternal characteristics up to enrolment/28 weeks gestation. Outcomes of interest include early childhood development, childhood unplanned hospital admissions for injury or maltreatment-related diagnoses and children in care. Subgroup analyses will determine whether the effect of FNP varied according to maternal characteristics (eg, age and education). ETHICS AND DISSEMINATION:The Nottingham Research Ethics Committee approved this study. Mothers participating in FNP were supportive of our planned research. Results will inform policy-makers for targeting home visiting programmes. Methodological findings on the accuracy and reliability of cross-sectoral data linkage will be of interest to researchers.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2020-038530; html:https://europepmc.org/articles/PMC7239518; pdf:https://europepmc.org/articles/PMC7239518?pdf=render"
   },
   {
     "id": "32811694",
@@ -5576,23 +5593,6 @@
     "urls": "doi:https://doi.org/10.1016/j.echo.2019.08.015"
   },
   {
-    "id": "32546850",
-    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
-    "title": "Genetic aetiology of self-harm ideation and behaviour.",
-    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "date": "2020-06-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (hsnp2) estimates were ~10%, and both traits were highly genetically correlated (LDSC rg\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
-  },
-  {
     "id": "30585256",
     "doi": "https://doi.org/10.1038/s41416-018-0365-6",
     "title": "Personal radio use and cancer risks among 48,518 British police officers and staff from the Airwave Health Monitoring Study.",
@@ -5644,6 +5644,23 @@
     "urls": "doi:https://doi.org/10.1016/S2215-0366(19)30369-4"
   },
   {
+    "id": "32546850",
+    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
+    "title": "Genetic aetiology of self-harm ideation and behaviour.",
+    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "date": "2020-06-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (hsnp2) estimates were ~10%, and both traits were highly genetically correlated (LDSC rg\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
+  },
+  {
     "id": "32142356",
     "doi": "https://doi.org/10.1164/rccm.201902-0286oc",
     "title": "Prenatal, Early-Life, and Childhood Exposure to Air Pollution and Lung Function: The ALSPAC Cohort.",
@@ -5661,23 +5678,6 @@
     "urls": "doi:https://doi.org/10.1164/rccm.201902-0286OC"
   },
   {
-    "id": "30984759",
-    "doi": "https://doi.org/10.3389/fmed.2019.00048",
-    "title": "Direct-to-Consumer Genetic Testing's Red Herring: \"Genetic Ancestry\" and Personalized Medicine.",
-    "authorString": "Blell M, Hunter MA.",
-    "authorAffiliations": "",
-    "journalTitle": "Frontiers in medicine",
-    "pubYear": "2019",
-    "date": "2019-03-29",
-    "isOpenAccess": "Y",
-    "keywords": "RACE; Ethics; Ethnicity; Genetic Testing; Personalized Medicine",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "The growth in the direct-to-consumer genetic testing industry poses a number of challenges for healthcare practice, among a number of other areas of concern. Several companies providing this service send their customers reports including information variously referred to as genetic ethnicity, genetic heritage, biogeographic ancestry, and genetic ancestry. In this article, we argue that such information should not be used in healthcare consultations or to assess health risks. Far from representing a move toward personalized medicine, use of this information poses risks both to patients as individuals and to racialized ethnic groups because of the way it misrepresents human genetic diversity.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3389/fmed.2019.00048; html:https://europepmc.org/articles/PMC6449432; pdf:https://europepmc.org/articles/PMC6449432?pdf=render"
-  },
-  {
     "id": "30537243",
     "doi": "https://doi.org/10.1002/ejhf.1370",
     "title": "Can advanced analytics fix modern medicine's problem of uncertainty, imprecision, and inaccuracy?",
@@ -5693,6 +5693,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/ejhf.1370"
+  },
+  {
+    "id": "30984759",
+    "doi": "https://doi.org/10.3389/fmed.2019.00048",
+    "title": "Direct-to-Consumer Genetic Testing's Red Herring: \"Genetic Ancestry\" and Personalized Medicine.",
+    "authorString": "Blell M, Hunter MA.",
+    "authorAffiliations": "",
+    "journalTitle": "Frontiers in medicine",
+    "pubYear": "2019",
+    "date": "2019-03-29",
+    "isOpenAccess": "Y",
+    "keywords": "RACE; Ethics; Ethnicity; Genetic Testing; Personalized Medicine",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "The growth in the direct-to-consumer genetic testing industry poses a number of challenges for healthcare practice, among a number of other areas of concern. Several companies providing this service send their customers reports including information variously referred to as genetic ethnicity, genetic heritage, biogeographic ancestry, and genetic ancestry. In this article, we argue that such information should not be used in healthcare consultations or to assess health risks. Far from representing a move toward personalized medicine, use of this information poses risks both to patients as individuals and to racialized ethnic groups because of the way it misrepresents human genetic diversity.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3389/fmed.2019.00048; html:https://europepmc.org/articles/PMC6449432; pdf:https://europepmc.org/articles/PMC6449432?pdf=render"
   },
   {
     "id": "31062032",
@@ -6290,23 +6307,6 @@
     "urls": "doi:https://doi.org/10.1099/mgen.0.000391; html:https://europepmc.org/articles/PMC7478627; pdf:https://europepmc.org/articles/PMC7478627?pdf=render"
   },
   {
-    "id": "32558637",
-    "doi": "https://doi.org/10.1099/mgen.0.000393",
-    "title": "Evaluation of methods for detecting human reads in microbial sequencing datasets.",
-    "authorString": "Bush SJ, Connor TR, Peto TEA, Crook DW, Walker AS.",
-    "authorAffiliations": "",
-    "journalTitle": "Microbial genomics",
-    "pubYear": "2020",
-    "date": "2020-07-01",
-    "isOpenAccess": "Y",
-    "keywords": "Human; Contamination; Read Depletion; Read Removal",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Sequencing data from host-associated microbes can often be contaminated by the body of the investigator or research subject. Human DNA is typically removed from microbial reads either by subtractive alignment (dropping all reads that map to the human genome) or by using a read classification tool to predict those of human origin, and then discarding them. To inform best practice guidelines, we benchmarked eight alignment-based and two classification-based methods of human read detection using simulated data from 10 clinically prevalent bacteria and three viruses, into which contaminating human reads had been added. While the majority of methods successfully detected >99\u200a% of the human reads, they were distinguishable by variance. The most precise methods, with negligible variance, were Bowtie2 and SNAP, both of which misidentified few, if any, bacterial reads (and no viral reads) as human. While correctly detecting a similar number of human reads, methods based on taxonomic classification, such as Kraken2 and Centrifuge, could misclassify bacterial reads as human, although the extent of this was species-specific. Among the most sensitive methods of human read detection was BWA, although this also made the greatest number of false positive classifications. Across all methods, the set of human reads not identified as such, although often representing <0.1\u200a% of the total reads, were non-randomly distributed along the human genome with many originating from the repeat-rich sex chromosomes. For viral reads and longer (>300\u2009bp) bacterial reads, the highest performing approaches were classification-based, using Kraken2 or Centrifuge. For shorter (c. 150\u2009bp) bacterial reads, combining multiple methods of human read detection maximized the recovery of human reads from contaminated short read datasets without being compromised by false positives. A particularly high-performance approach with shorter bacterial reads was a two-stage classification using Bowtie2 followed by SNAP. Using this approach, we re-examined 11\u200a577 publicly archived bacterial read sets for hitherto undetected human contamination. We were able to extract a sufficient number of reads to call known human SNPs, including those with clinical significance, in 6\u200a% of the samples. These results show that phenotypically distinct human sequence is detectable in publicly archived microbial read datasets.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1099/mgen.0.000393; html:https://europepmc.org/articles/PMC7478626; pdf:https://europepmc.org/articles/PMC7478626?pdf=render"
-  },
-  {
     "id": "32402553",
     "doi": "https://doi.org/10.1016/j.ophtha.2020.03.029",
     "title": "Visual Field Outcomes from the Multicenter, Randomized Controlled Laser in Glaucoma and Ocular Hypertension Trial (LiGHT).",
@@ -6322,6 +6322,23 @@
     "abstract": "PURPOSE:To compare visual field outcomes of ocular hypertensive and glaucoma patients treated first with medical therapy with those treated first with selective laser trabeculoplasty (SLT). DESIGN:Secondary analysis of patients from the Laser in Glaucoma and Ocular Hypertension study, a multicenter randomized controlled trial. PARTICIPANTS:Three hundred forty-four patients (588 eyes) treated first with medical therapy and 344 patients (590 eyes) treated first with SLT. METHODS:Visual fields (VFs) were measured using standard automated perimetry and arranged in series (median length and duration, 9 VFs over 48 months). Hierarchical linear models were used to estimate pointwise VF progression rates, which were then averaged to produce a global progression estimate for each eye. Proportions of points and patients in each treatment group with fast (<-1 dB/year) or moderate (<-0.5 dB/year) progression were compared using log-binomial regression. MAIN OUTCOME MEASURES:Pointwise and global progression rates of total deviation (TD) and pattern deviation (PD). RESULTS:A greater proportion of eyes underwent moderate or fast TD progression in the medical therapy group compared with the SLT group (26.2% vs. 16.9%; risk ratio [RR], 1.55; 95% confidence interval [CI], 1.23-1.93; P < 0.001). A similar pattern was observed for pointwise rates (medical therapy, 26.1% vs. SLT, 19.0%; RR, 1.37; 95% CI, 1.33-1.42; P < 0.001). A greater proportion of pointwise PD rates were categorized as moderate or fast in the medical therapy group (medical therapy, 11.5% vs. SLT, 8.3%; RR, 1.39; 95% CI, 1.32-1.46; P < 0.001). No statistical difference was found in the proportion of eyes that underwent moderate or fast PD progression (medical therapy, 9.9% vs. SLT, 7.1%; RR, 1.39; 95% CI, 0.95, 2.03; P = 0.0928). CONCLUSIONS:A slightly larger proportion of ocular hypertensive and glaucoma patients treated first with medical therapy underwent rapid VF progression compared with those treated first with SLT.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.ophtha.2020.03.029"
+  },
+  {
+    "id": "32558637",
+    "doi": "https://doi.org/10.1099/mgen.0.000393",
+    "title": "Evaluation of methods for detecting human reads in microbial sequencing datasets.",
+    "authorString": "Bush SJ, Connor TR, Peto TEA, Crook DW, Walker AS.",
+    "authorAffiliations": "",
+    "journalTitle": "Microbial genomics",
+    "pubYear": "2020",
+    "date": "2020-07-01",
+    "isOpenAccess": "Y",
+    "keywords": "Human; Contamination; Read Depletion; Read Removal",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Sequencing data from host-associated microbes can often be contaminated by the body of the investigator or research subject. Human DNA is typically removed from microbial reads either by subtractive alignment (dropping all reads that map to the human genome) or by using a read classification tool to predict those of human origin, and then discarding them. To inform best practice guidelines, we benchmarked eight alignment-based and two classification-based methods of human read detection using simulated data from 10 clinically prevalent bacteria and three viruses, into which contaminating human reads had been added. While the majority of methods successfully detected >99\u200a% of the human reads, they were distinguishable by variance. The most precise methods, with negligible variance, were Bowtie2 and SNAP, both of which misidentified few, if any, bacterial reads (and no viral reads) as human. While correctly detecting a similar number of human reads, methods based on taxonomic classification, such as Kraken2 and Centrifuge, could misclassify bacterial reads as human, although the extent of this was species-specific. Among the most sensitive methods of human read detection was BWA, although this also made the greatest number of false positive classifications. Across all methods, the set of human reads not identified as such, although often representing <0.1\u200a% of the total reads, were non-randomly distributed along the human genome with many originating from the repeat-rich sex chromosomes. For viral reads and longer (>300\u2009bp) bacterial reads, the highest performing approaches were classification-based, using Kraken2 or Centrifuge. For shorter (c. 150\u2009bp) bacterial reads, combining multiple methods of human read detection maximized the recovery of human reads from contaminated short read datasets without being compromised by false positives. A particularly high-performance approach with shorter bacterial reads was a two-stage classification using Bowtie2 followed by SNAP. Using this approach, we re-examined 11\u200a577 publicly archived bacterial read sets for hitherto undetected human contamination. We were able to extract a sufficient number of reads to call known human SNPs, including those with clinical significance, in 6\u200a% of the samples. These results show that phenotypically distinct human sequence is detectable in publicly archived microbial read datasets.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1099/mgen.0.000393; html:https://europepmc.org/articles/PMC7478626; pdf:https://europepmc.org/articles/PMC7478626?pdf=render"
   },
   {
     "id": "32247823",
@@ -6681,23 +6698,6 @@
     "urls": "doi:https://doi.org/10.1128/AAC.00400-19; html:https://europepmc.org/articles/PMC6658746; pdf:https://europepmc.org/articles/PMC6658746?pdf=render; doi:https://doi.org/10.1128/aac.00400-19"
   },
   {
-    "id": "33203906",
-    "doi": "https://doi.org/10.1038/s41598-020-76518-z",
-    "title": "Accelerated MRI-predicted brain ageing and its associations with cardiometabolic and brain disorders.",
-    "authorString": "Kolbeinsson A, Filippi S, Panagakis Y, Matthews PM, Elliott P, Dehghan A, Tzoulaki I.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "date": "2020-11-17",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Brain structure in later life reflects both influences of intrinsic aging and those of lifestyle, environment and disease. We developed a deep neural network model trained on brain MRI scans of healthy people to predict \"healthy\" brain age. Brain regions most informative for the prediction included the cerebellum, hippocampus, amygdala and insular cortex. We then applied this model to data from an independent group of people not stratified for health. A phenome-wide association analysis of over 1,410 traits in the UK Biobank with differences between the predicted and chronological ages for the second group identified significant associations with over 40 traits including diseases (e.g., type I and type II diabetes), disease risk factors (e.g., increased diastolic blood pressure and body mass index), and poorer cognitive function. These observations highlight relationships between brain and systemic health and have implications for understanding contributions of the latter to late life dementia risk.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-76518-z; html:https://europepmc.org/articles/PMC7672070; pdf:https://europepmc.org/articles/PMC7672070?pdf=render"
-  },
-  {
     "id": "31331193",
     "doi": "https://doi.org/10.1161/circulationaha.119.041546",
     "title": "Impact of ADCY9 Genotype on Response to Anacetrapib.",
@@ -6715,10 +6715,27 @@
     "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041546; html:https://europepmc.org/articles/PMC6749971; pdf:https://europepmc.org/articles/PMC6749971?pdf=render"
   },
   {
+    "id": "33203906",
+    "doi": "https://doi.org/10.1038/s41598-020-76518-z",
+    "title": "Accelerated MRI-predicted brain ageing and its associations with cardiometabolic and brain disorders.",
+    "authorString": "Kolbeinsson A, Filippi S, Panagakis Y, Matthews PM, Elliott P, Dehghan A, Tzoulaki I.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "date": "2020-11-17",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Brain structure in later life reflects both influences of intrinsic aging and those of lifestyle, environment and disease. We developed a deep neural network model trained on brain MRI scans of healthy people to predict \"healthy\" brain age. Brain regions most informative for the prediction included the cerebellum, hippocampus, amygdala and insular cortex. We then applied this model to data from an independent group of people not stratified for health. A phenome-wide association analysis of over 1,410 traits in the UK Biobank with differences between the predicted and chronological ages for the second group identified significant associations with over 40 traits including diseases (e.g., type I and type II diabetes), disease risk factors (e.g., increased diastolic blood pressure and body mass index), and poorer cognitive function. These observations highlight relationships between brain and systemic health and have implications for understanding contributions of the latter to late life dementia risk.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-76518-z; html:https://europepmc.org/articles/PMC7672070; pdf:https://europepmc.org/articles/PMC7672070?pdf=render"
+  },
+  {
     "id": "33075408",
     "doi": "https://doi.org/10.1016/j.jaci.2020.10.007",
-    "title": "Factors associated with adverse COVID-19 outcomes in patients with psoriasis - insights from a global registry-based study.",
-    "authorString": "Mahil SK, Dand N, Mason KJ, Yiu ZZ, Tsakok T, Meynell F, Coker B, McAteer H, Moorhead L, Mackenzie T, Rossi MT, Rivera R, Mahe E, Carugno A, Magnano M, Rech G, Balogh EA, Feldman SR, De La Cruz C, Choon SE, Naldi L, Lambert J, Spuls P, Jullien D, Bachelez H, McMahon DE, Freeman EE, Gisondi P, Puig L, Warren RB, Di Meglio P, Langan SM, Capon F, Griffiths CE, Barker JN, Smith CH, PsoProtect study group.",
+    "title": "Factors associated with adverse COVID-19 outcomes in patients with psoriasis-insights from a global registry-based study.",
+    "authorString": "Mahil SK, Dand N, Mason KJ, Yiu ZZN, Tsakok T, Meynell F, Coker B, McAteer H, Moorhead L, Mackenzie T, Rossi MT, Rivera R, Mahe E, Carugno A, Magnano M, Rech G, Balogh EA, Feldman SR, De La Cruz C, Choon SE, Naldi L, Lambert J, Spuls P, Jullien D, Bachelez H, McMahon DE, Freeman EE, Gisondi P, Puig L, Warren RB, Di Meglio P, Langan SM, Capon F, Griffiths CEM, Barker JN, Smith CH, PsoProtect study group.",
     "authorAffiliations": "",
     "journalTitle": "The Journal of allergy and clinical immunology",
     "pubYear": "2020",
@@ -6727,7 +6744,7 @@
     "keywords": "Psoriasis; Immunosuppressants; risk factors; Hospitalization; Biologics; Covid-19",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "BACKGROUND:The multi-morbid burden and use of systemic immunosuppressants in people with psoriasis may confer greater risk of adverse COVID-19 outcomes but data are limited. OBJECTIVE:Characterize the course of COVID-19 in psoriasis and identify factors associated with hospitalization. METHODS:Clinicians reported psoriasis patients with confirmed/suspected COVID-19 via an international registry, PsoProtect. Multiple logistic regression assessed the association between clinical/demographic characteristics and hospitalization. A separate patient-facing registry characterized risk-mitigating behaviours. RESULTS:Of 374 clinician-reported patients from 25 countries, 71% were receiving a biologic, 18% a non-biologic and 10% no systemic treatment for psoriasis. 348 (93%) fully recovered from COVID-19, 77 (21%) were hospitalized and nine (2%) died. Increased hospitalization risk was associated with older age (multivariable-adjusted OR 1.59 per 10 years, 95% CI 1.19-2.13), male sex (OR 2.51, 95% CI 1.23-5.12), non-white ethnicity (OR 3.15, 95% CI 1.24-8.03) and comorbid chronic lung disease (OR 3.87, 95% CI 1.52-9.83). Hospitalization was more frequent in patients using non-biologic systemic therapy than biologics (OR 2.84, 95% CI 1.31-6.18). No significant differences were found between biologic classes. Independent patient-reported data (n=1,626 across 48 countries) suggested lower levels of social isolation in individuals receiving non-biologic systemic therapy compared to biologics (OR 0.68, 95% CI 0.50-0.94). CONCLUSION:In this international moderate-severe psoriasis case series, biologics use was associated with lower risk of COVID-19-related hospitalization than non-biologic systemic therapies, however further investigation is warranted due to potential selection bias and unmeasured confounding. Established risk factors (being older, male, non-white ethnicity, comorbidities) were associated with higher hospitalization rates. CLINICAL IMPLICATIONS:We identify risk factors for COVID-19-related hospitalization in psoriasis patients, including older age, male sex, non-white ethnicity and comorbidities. Use of biologics was associated with lower hospitalization risk than non-biologic systemic therapies.",
+    "abstract": "BACKGROUND:The multimorbid burden and use of systemic immunosuppressants in people with psoriasis may confer greater risk of adverse outcomes of coronavirus disease 2019 (COVID-19), but the data are limited. OBJECTIVE:Our aim was to characterize the course of COVID-19 in patients with psoriasis and identify factors associated with hospitalization. METHODS:Clinicians reported patients with psoriasis with confirmed/suspected COVID-19 via an international registry, Psoriasis Patient Registry for Outcomes, Therapy and Epidemiology of COVID-19 Infection. Multiple logistic regression was used to assess the association between clinical and/or demographic characteristics and hospitalization. A\u00a0separate patient-facing registry characterized risk-mitigating behaviors. RESULTS:Of 374 clinician-reported patients from 25 countries, 71% were receiving a biologic, 18% were receiving a nonbiologic, and 10% were not receiving any systemic treatment for psoriasis. In all, 348 patients (93%) were fully recovered from COVID-19, 77 (21%) were hospitalized, and 9 (2%) died. Increased hospitalization risk was associated with older age (multivariable-adjusted odds ratio [OR]\u00a0= 1.59 per 10 years; 95% CI\u00a0= 1.19-2.13), male sex (OR\u00a0= 2.51; 95% CI\u00a0= 1.23-5.12), nonwhite ethnicity (OR\u00a0= 3.15; 95% CI\u00a0= 1.24-8.03), and comorbid chronic lung disease (OR\u00a0= 3.87; 95% CI\u00a0= 1.52-9.83). Hospitalization was more frequent in patients using nonbiologic systemic therapy than in those using biologics (OR\u00a0= 2.84; 95% CI\u00a0= 1.31-6.18). No significant differences were found between classes of biologics. Independent patient-reported data (n\u00a0= 1626 across 48 countries) suggested lower levels of social isolation in individuals receiving nonbiologic systemic therapy than in those receiving biologics (OR\u00a0= 0.68; 95% CI\u00a0= 0.50-0.94). CONCLUSION:In this international case series of patients with moderate-to-severe psoriasis, biologic use was associated with lower risk of COVID-19-related hospitalization than with use of nonbiologic systemic therapies; however, further investigation is warranted on account of potential selection bias and unmeasured confounding. Established risk factors (being older, being male, being of nonwhite ethnicity, and having comorbidities) were associated with higher hospitalization rates.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jaci.2020.10.007; html:https://europepmc.org/articles/PMC7566694; pdf:https://europepmc.org/articles/PMC7566694?pdf=render"
   },
@@ -6834,23 +6851,6 @@
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz587; html:https://europepmc.org/articles/PMC6925382; pdf:https://europepmc.org/articles/PMC6925382?pdf=render"
   },
   {
-    "id": "33127858",
-    "doi": "https://doi.org/10.1681/asn.2020050679",
-    "title": "Conventional and Genetic Evidence on the Association between Adiposity and CKD.",
-    "authorString": "Zhu P, Herrington WG, Haynes R, Emberson J, Landray MJ, Sudlow CLM, Woodward M, Baigent C, Lewington S, Staplin N.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of the American Society of Nephrology : JASN",
-    "pubYear": "2020",
-    "date": "2020-10-30",
-    "isOpenAccess": "N",
-    "keywords": "Obesity; body mass index; Chronic Kidney Disease; Mendelian Randomization; Central Adiposity; Epidemiology And Outcomes",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:The size of any causal contribution of central and general adiposity to CKD risk and the underlying mechanism of mediation are unknown. METHODS:Data from 281,228 UK Biobank participants were used to estimate the relevance of waist-to-hip ratio and body mass index (BMI) to CKD prevalence. Conventional approaches used logistic regression. Genetic analyses used Mendelian randomization (MR) and data from 394 waist-to-hip ratio and 773 BMI-associated loci. Models assessed the role of known mediators (diabetes mellitus and BP) by adjusting for measured values (conventional analyses) or genetic associations of the selected loci (multivariable MR). RESULTS:Evidence of CKD was found in 18,034 (6.4%) participants. Each 0.06 higher measured waist-to-hip ratio and each 5-kg/m2 increase in BMI were associated with 69% (odds ratio, 1.69; 95% CI, 1.64 to 1.74) and 58% (1.58; 1.55 to 1.62) higher odds of CKD, respectively. In analogous MR analyses, each 0.06-genetically-predicted higher waist-to-hip ratio was associated with a 29% (1.29; 1.20 to 1.38) increased odds of CKD, and each 5-kg/m2 genetically-predicted higher BMI was associated with a 49% (1.49; 1.39 to 1.59) increased odds. After adjusting for diabetes and measured BP, chi-squared values for associations for waist-to-hip ratio and BMI fell by 56%. In contrast, mediator adjustment using multivariable MR found 83% and 69% reductions in chi-squared values for genetically-predicted waist-to-hip ratio and BMI models, respectively. CONCLUSIONS:Genetic analyses suggest that conventional associations between central and general adiposity with CKD are largely causal. However, conventional approaches underestimate mediating roles of diabetes, BP, and their correlates. Genetic approaches suggest these mediators explain most of adiposity-CKD-associated risk.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1681/ASN.2020050679"
-  },
-  {
     "id": "31787481",
     "doi": "https://doi.org/10.1016/j.schres.2019.10.061",
     "title": "Association of physical health multimorbidity with mortality in people with schizophrenia spectrum disorders: Using a novel semantic search system that captures physical diseases in electronic patient records.",
@@ -6866,6 +6866,23 @@
     "abstract": "OBJECTIVE:Single physical comorbidities have been associated with the premature mortality in people with schizophrenia-spectrum disorders (SSD). We investigated the association of physical multimorbidity (\u2265two physical health conditions) with mortality in people with SSD. METHODS:A retrospective cohort study between 2013 and 2017. All people with a diagnosis of SSD (ICD-10: F20-F29), who had contact with secondary mental healthcare within South London during 2011-2012 were included. A novel semantic search system captured conditions from electronic mental health records, and all-cause mortality were retrieved. Hazard ratios (HRs) and population attributable fractions (PAFs) were calculated for associations between physical multimorbidity and all-cause mortality. RESULTS:Among the 9775 people with SSD (mean (SD) age, 45.9 (15.4); males, 59.3%), 6262 (64%) had physical multimorbidity, and 880 (9%) died during the 5-year follow-up. The top three physical multimorbidity combinations with highest mortality were cardiovascular-respiratory (HR: 2.23; 95% CI, 1.49-3.32), respiratory-skin (HR: 2.06; 95% CI, 1.31-3.24), and respiratory-digestive (HR: 1.88; 95% CI, 1.14-3.11), when adjusted for age, gender, and all other physical disease systems. Combinations of physical diseases with highest PAFs were cardiovascular-respiratory (PAF: 35.7%), neurologic-respiratory (PAF: 32.7%), as well as respiratory-skin (PAF: 29.8%). CONCLUSIONS:Approximately 2/3 of patients with SSD had physical multimorbidity and the risk of mortality in these patients was further increased compared to those with none or single physical conditions. These findings suggest that in order to reduce the physical health burden and subsequent mortality in people with SSD, proactive coordinated prevention and management efforts are required and should extend beyond the current focus on single physical comorbidities.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.schres.2019.10.061"
+  },
+  {
+    "id": "33127858",
+    "doi": "https://doi.org/10.1681/asn.2020050679",
+    "title": "Conventional and Genetic Evidence on the Association between Adiposity and CKD.",
+    "authorString": "Zhu P, Herrington WG, Haynes R, Emberson J, Landray MJ, Sudlow CLM, Woodward M, Baigent C, Lewington S, Staplin N.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of the American Society of Nephrology : JASN",
+    "pubYear": "2020",
+    "date": "2020-10-30",
+    "isOpenAccess": "N",
+    "keywords": "Obesity; body mass index; Chronic Kidney Disease; Mendelian Randomization; Central Adiposity; Epidemiology And Outcomes",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:The size of any causal contribution of central and general adiposity to CKD risk and the underlying mechanism of mediation are unknown. METHODS:Data from 281,228 UK Biobank participants were used to estimate the relevance of waist-to-hip ratio and body mass index (BMI) to CKD prevalence. Conventional approaches used logistic regression. Genetic analyses used Mendelian randomization (MR) and data from 394 waist-to-hip ratio and 773 BMI-associated loci. Models assessed the role of known mediators (diabetes mellitus and BP) by adjusting for measured values (conventional analyses) or genetic associations of the selected loci (multivariable MR). RESULTS:Evidence of CKD was found in 18,034 (6.4%) participants. Each 0.06 higher measured waist-to-hip ratio and each 5-kg/m2 increase in BMI were associated with 69% (odds ratio, 1.69; 95% CI, 1.64 to 1.74) and 58% (1.58; 1.55 to 1.62) higher odds of CKD, respectively. In analogous MR analyses, each 0.06-genetically-predicted higher waist-to-hip ratio was associated with a 29% (1.29; 1.20 to 1.38) increased odds of CKD, and each 5-kg/m2 genetically-predicted higher BMI was associated with a 49% (1.49; 1.39 to 1.59) increased odds. After adjusting for diabetes and measured BP, chi-squared values for associations for waist-to-hip ratio and BMI fell by 56%. In contrast, mediator adjustment using multivariable MR found 83% and 69% reductions in chi-squared values for genetically-predicted waist-to-hip ratio and BMI models, respectively. CONCLUSIONS:Genetic analyses suggest that conventional associations between central and general adiposity with CKD are largely causal. However, conventional approaches underestimate mediating roles of diabetes, BP, and their correlates. Genetic approaches suggest these mediators explain most of adiposity-CKD-associated risk.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1681/ASN.2020050679"
   },
   {
     "id": "31810636",
@@ -7055,23 +7072,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ijcard.2020.09.053"
   },
   {
-    "id": "31992634",
-    "doi": "https://doi.org/10.1136/bmjhci-2019-100117",
-    "title": "Optimising electronic prescribing in hospitals: a scoping review protocol.",
-    "authorString": "Williams J, Bates DW, Sheikh A.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ health & care informatics",
-    "pubYear": "2020",
-    "date": "2020-01-01",
-    "isOpenAccess": "Y",
-    "keywords": "Health care; Patient Care; Medical Informatics; Information Systems; Record Systems",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION:Electronic prescribing (ePrescribing) systems can improve the quality of prescribing decisions and substantially reduce the risk of serious medication errors in hospitals. However, realising these benefits depends on ensuring that relevant sociotechnical considerations are addressed. Optimising ePrescribing systems is essential to maximise the associated benefits and minimise the accompanying risks of these large-scale and expensive health informatics infrastructures. METHODS:We will undertake a systematic scoping review of the literature to identify strategies to achieve optimisation of ePrescribing systems. We will search Medline, Embase and CINAHL for the period 1 January 2010 to 1 June 2019 and the grey literature by using Google Scholar. Independent reviewers will screen the results using predefined inclusion and exclusion criteria and will extract data for narrative and thematic synthesis. DISCUSSION:This work will be published in a peer-reviewed journal and we will ensure that the findings are both accessible and interpretable to the public, academics, policymakers and National Health Service leaders.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100117; html:https://europepmc.org/articles/PMC7062357; pdf:https://europepmc.org/articles/PMC7062357?pdf=render"
-  },
-  {
     "id": "32934998",
     "doi": "https://doi.org/10.23889/ijpds.v3i1.412",
     "title": "Creating individual level air pollution exposures in an anonymised data safe haven: a platform for evaluating impact on educational attainment.",
@@ -7087,6 +7087,23 @@
     "abstract": "Introduction:There is a lack of evidence on the adverse effects of air pollution on cognition for people with air quality-related health conditions. We propose that educational attainment, as a proxy for cognition, may increase with improved air quality. This study will explore whether asthma and seasonal allergic rhinitis, when exacerbated by acute exposure to air pollution, is associated with educational attainment. Objective:To describe the preparation of individual and household-level linked environmental and health data for analysis within an anonymised safe haven. Also to introduce our statistical analysis plan for our study: COgnition, Respiratory Tract illness and Effects of eXposure (CORTEX). Methods:We imported daily air pollution and aeroallergen data, and individual level education data into the SAIL databank, an anonymised safe haven for person-based records. We linked individual-level education, socioeconomic and health data to air quality data for home and school locations, creating tailored exposures for individuals across a city. We developed daily exposure data for all pupils in repeated cross sectional exam cohorts (2009-2015). Conclusion:We have used the SAIL databank, an innovative, data safe haven to create individual-level exposures to air pollution and pollen for multiple daily home and school locations. The analysis platform will allow us to evaluate retrospectively the impact of air quality on attainment for multiple cross-sectional cohorts of pupils. Our methods will allow us to distinguish between the pollution impacts on educational attainment for pupils with and without respiratory health conditions. The results from this study will further our understanding of the effects of air quality and respiratory-related health conditions on cognition. Highlights:This city-wide study includes longitudinal routinely-recorded educational attainment data for all pupils taking exams over seven years;High spatial resolution air pollution data were linked within a privacy protected databank to obtain individual exposure at multiple daily locations;This study will use health data linked at the individual level to explore associations between air pollution, related morbidity, and educational attainment.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.23889/ijpds.v3i1.412; html:https://europepmc.org/articles/PMC7299475; pdf:https://europepmc.org/articles/PMC7299475?pdf=render"
+  },
+  {
+    "id": "31992634",
+    "doi": "https://doi.org/10.1136/bmjhci-2019-100117",
+    "title": "Optimising electronic prescribing in hospitals: a scoping review protocol.",
+    "authorString": "Williams J, Bates DW, Sheikh A.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ health & care informatics",
+    "pubYear": "2020",
+    "date": "2020-01-01",
+    "isOpenAccess": "Y",
+    "keywords": "Health care; Patient Care; Medical Informatics; Information Systems; Record Systems",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "INTRODUCTION:Electronic prescribing (ePrescribing) systems can improve the quality of prescribing decisions and substantially reduce the risk of serious medication errors in hospitals. However, realising these benefits depends on ensuring that relevant sociotechnical considerations are addressed. Optimising ePrescribing systems is essential to maximise the associated benefits and minimise the accompanying risks of these large-scale and expensive health informatics infrastructures. METHODS:We will undertake a systematic scoping review of the literature to identify strategies to achieve optimisation of ePrescribing systems. We will search Medline, Embase and CINAHL for the period 1 January 2010 to 1 June 2019 and the grey literature by using Google Scholar. Independent reviewers will screen the results using predefined inclusion and exclusion criteria and will extract data for narrative and thematic synthesis. DISCUSSION:This work will be published in a peer-reviewed journal and we will ensure that the findings are both accessible and interpretable to the public, academics, policymakers and National Health Service leaders.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100117; html:https://europepmc.org/articles/PMC7062357; pdf:https://europepmc.org/articles/PMC7062357?pdf=render"
   },
   {
     "id": "30082368",
@@ -7191,23 +7208,6 @@
     "urls": "doi:https://doi.org/10.1007/s12471-019-01308-w; html:https://europepmc.org/articles/PMC6712110; pdf:https://europepmc.org/articles/PMC6712110?pdf=render"
   },
   {
-    "id": "33031764",
-    "doi": "https://doi.org/10.1016/s0140-6736(20)32013-4",
-    "title": "Lopinavir-ritonavir in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.",
-    "authorString": "RECOVERY Collaborative Group.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2020",
-    "date": "2020-10-05",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Lopinavir-ritonavir has been proposed as a treatment for COVID-19 on the basis of in vitro activity, preclinical studies, and observational studies. Here, we report the results of a randomised trial to assess whether lopinavir-ritonavir improves outcomes in patients admitted to hospital with COVID-19. METHODS:In this randomised, controlled, open-label, platform trial, a range of possible treatments was compared with usual care in patients admitted to hospital with COVID-19. The trial is underway at 176 hospitals in the UK. Eligible and consenting patients were randomly allocated to either usual standard of care alone or usual standard of care plus lopinavir-ritonavir (400 mg and 100 mg, respectively) by mouth for 10 days or until discharge (or one of the other RECOVERY treatment groups: hydroxychloroquine, dexamethasone, or azithromycin) using web-based simple (unstratified) randomisation with allocation concealment. Randomisation to usual care was twice that of any of the active treatment groups (eg, 2:1 in favour of usual care if the patient was eligible for only one active group, 2:1:1 if the patient was eligible for two active groups). The primary outcome was 28-day all-cause mortality. Analyses were done on an intention-to-treat basis in all randomly assigned participants. The trial is registered with ISRCTN, 50189673, and ClinicalTrials.gov, NCT04381936. FINDINGS:Between March 19, 2020, and June 29, 2020, 1616 patients were randomly allocated to receive lopinavir-ritonavir and 3424 patients to receive usual care. Overall, 374 (23%) patients allocated to lopinavir-ritonavir and 767 (22%) patients allocated to usual care died within 28 days (rate ratio 1\u00b703, 95% CI 0\u00b791-1\u00b717; p=0\u00b760). Results were consistent across all prespecified subgroups of patients. We observed no significant difference in time until discharge alive from hospital (median 11 days [IQR 5 to >28] in both groups) or the proportion of patients discharged from hospital alive within 28 days (rate ratio 0\u00b798, 95% CI 0\u00b791-1\u00b705; p=0\u00b753). Among patients not on invasive mechanical ventilation at baseline, there was no significant difference in the proportion who met the composite endpoint of invasive mechanical ventilation or death (risk ratio 1\u00b709, 95% CI 0\u00b799-1\u00b720; p=0\u00b7092). INTERPRETATION:In patients admitted to hospital with COVID-19, lopinavir-ritonavir was not associated with reductions in 28-day mortality, duration of hospital stay, or risk of progressing to invasive mechanical ventilation or death. These findings do not support the use of lopinavir-ritonavir for treatment of patients admitted to hospital with COVID-19. FUNDING:Medical Research Council and National Institute for Health Research.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)32013-4; html:https://europepmc.org/articles/PMC7535623"
-  },
-  {
     "id": "31134468",
     "doi": "https://doi.org/10.1007/s12471-019-1288-4",
     "title": "UNRAVEL: big data analytics research data platform to improve care of patients with cardiomyopathies using routine electronic health records and standardised biobanking.",
@@ -7223,6 +7223,23 @@
     "abstract": "INTRODUCTION:Despite major advances in our understanding of genetic cardiomyopathies, they remain the leading cause of premature sudden cardiac death and end-stage heart failure in persons under the age of 60\u00a0years. Integrated research databases based on a\u00a0large number of patients may provide a\u00a0scaffold for future research. Using routine electronic health records and standardised biobanking, big data analysis on a\u00a0larger number of patients and investigations are possible. In this article, we describe the UNRAVEL research data platform embedded in routine practice to facilitate research in genetic cardiomyopathies. DESIGN:Eligible participants with proven or suspected cardiac disease and their relatives are asked for permission to use their data and to draw blood for biobanking. Routinely collected clinical data are included in a\u00a0research database by weekly extraction. A\u00a0text-mining tool has been developed to enrich UNRAVEL with unstructured data in clinical notes. PRELIMINARY RESULTS:Thus far, 828 individuals with a\u00a0median age of 57\u00a0years have been included, 58% of whom are male. All data are captured in a\u00a0temporal sequence amounting to a\u00a0total of 18,565 electrocardiograms, 3619\u00a0echocardiograms, data from over 20,000 radiological examinations and 650,000 individual laboratory measurements. CONCLUSION:Integration of routine electronic health care in a\u00a0research data platform allows efficient data collection, including all investigations in chronological sequence. Trials embedded in the electronic health record are now possible, providing cost-effective ways to answer clinical questions. We explicitly welcome national and international collaboration and have provided our protocols and other materials on www.unravelrdp.nl .",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1007/s12471-019-1288-4; html:https://europepmc.org/articles/PMC6712144; pdf:https://europepmc.org/articles/PMC6712144?pdf=render"
+  },
+  {
+    "id": "33031764",
+    "doi": "https://doi.org/10.1016/s0140-6736(20)32013-4",
+    "title": "Lopinavir-ritonavir in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.",
+    "authorString": "RECOVERY Collaborative Group.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2020",
+    "date": "2020-10-05",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Lopinavir-ritonavir has been proposed as a treatment for COVID-19 on the basis of in vitro activity, preclinical studies, and observational studies. Here, we report the results of a randomised trial to assess whether lopinavir-ritonavir improves outcomes in patients admitted to hospital with COVID-19. METHODS:In this randomised, controlled, open-label, platform trial, a range of possible treatments was compared with usual care in patients admitted to hospital with COVID-19. The trial is underway at 176 hospitals in the UK. Eligible and consenting patients were randomly allocated to either usual standard of care alone or usual standard of care plus lopinavir-ritonavir (400 mg and 100 mg, respectively) by mouth for 10 days or until discharge (or one of the other RECOVERY treatment groups: hydroxychloroquine, dexamethasone, or azithromycin) using web-based simple (unstratified) randomisation with allocation concealment. Randomisation to usual care was twice that of any of the active treatment groups (eg, 2:1 in favour of usual care if the patient was eligible for only one active group, 2:1:1 if the patient was eligible for two active groups). The primary outcome was 28-day all-cause mortality. Analyses were done on an intention-to-treat basis in all randomly assigned participants. The trial is registered with ISRCTN, 50189673, and ClinicalTrials.gov, NCT04381936. FINDINGS:Between March 19, 2020, and June 29, 2020, 1616 patients were randomly allocated to receive lopinavir-ritonavir and 3424 patients to receive usual care. Overall, 374 (23%) patients allocated to lopinavir-ritonavir and 767 (22%) patients allocated to usual care died within 28 days (rate ratio 1\u00b703, 95% CI 0\u00b791-1\u00b717; p=0\u00b760). Results were consistent across all prespecified subgroups of patients. We observed no significant difference in time until discharge alive from hospital (median 11 days [IQR 5 to >28] in both groups) or the proportion of patients discharged from hospital alive within 28 days (rate ratio 0\u00b798, 95% CI 0\u00b791-1\u00b705; p=0\u00b753). Among patients not on invasive mechanical ventilation at baseline, there was no significant difference in the proportion who met the composite endpoint of invasive mechanical ventilation or death (risk ratio 1\u00b709, 95% CI 0\u00b799-1\u00b720; p=0\u00b7092). INTERPRETATION:In patients admitted to hospital with COVID-19, lopinavir-ritonavir was not associated with reductions in 28-day mortality, duration of hospital stay, or risk of progressing to invasive mechanical ventilation or death. These findings do not support the use of lopinavir-ritonavir for treatment of patients admitted to hospital with COVID-19. FUNDING:Medical Research Council and National Institute for Health Research.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)32013-4; html:https://europepmc.org/articles/PMC7535623"
   },
   {
     "id": "31822727",
@@ -7956,23 +7973,6 @@
     "urls": "doi:https://doi.org/10.1038/s41588-020-0603-8; html:https://europepmc.org/articles/PMC7127986; pdf:https://europepmc.org/articles/PMC7127986?pdf=render"
   },
   {
-    "id": "32220655",
-    "doi": "https://doi.org/10.1016/s2468-2667(20)30073-6",
-    "title": "The effect of control strategies to reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan, China: a modelling study.",
-    "authorString": "Prem K, Liu Y, Russell TW, Kucharski AJ, Eggo RM, Davies N, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Jit M, Klepac P.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Public health",
-    "pubYear": "2020",
-    "date": "2020-03-25",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:In December, 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus, emerged in Wuhan, China. Since then, the city of Wuhan has taken unprecedented measures in response to the outbreak, including extended school and workplace closures. We aimed to estimate the effects of physical distancing measures on the progression of the COVID-19 epidemic, hoping to provide some insights for the rest of the world. METHODS:To examine how changes in population mixing have affected outbreak progression in Wuhan, we used synthetic location-specific contact patterns in Wuhan and adapted these in the presence of school closures, extended workplace closures, and a reduction in mixing in the general community. Using these matrices and the latest estimates of the epidemiological parameters of the Wuhan outbreak, we simulated the ongoing trajectory of an outbreak in Wuhan using an age-structured susceptible-exposed-infected-removed (SEIR) model for several physical distancing measures. We fitted the latest estimates of epidemic parameters from a transmission model to data on local and internationally exported cases from Wuhan in an age-structured epidemic framework and investigated the age distribution of cases. We also simulated lifting of the control measures by allowing people to return to work in a phased-in way and looked at the effects of returning to work at different stages of the underlying outbreak (at the beginning of March or April). FINDINGS:Our projections show that physical distancing measures were most effective if the staggered return to work was at the beginning of April; this reduced the median number of infections by more than 92% (IQR 66-97) and 24% (13-90) in mid-2020 and end-2020, respectively. There are benefits to sustaining these measures until April in terms of delaying and reducing the height of the peak, median epidemic size at end-2020, and affording health-care systems more time to expand and respond. However, the modelled effects of physical distancing measures vary by the duration of infectiousness and the role school children have in the epidemic. INTERPRETATION:Restrictions on activities in Wuhan, if maintained until April, would probably help to delay the epidemic peak. Our projections suggest that premature and sudden lifting of interventions could lead to an earlier secondary peak, which could be flattened by relaxing the interventions gradually. However, there are limitations to our analysis, including large uncertainties around estimates of R0 and the duration of infectiousness. FUNDING:Bill & Melinda Gates Foundation, National Institute for Health Research, Wellcome Trust, and Health Data Research UK.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S2468-2667(20)30073-6; html:https://europepmc.org/articles/PMC7158905"
-  },
-  {
     "id": "32936291",
     "doi": "https://doi.org/10.1001/jamadermatol.2020.3275",
     "title": "Association of Clinical and Demographic Factors With the Severity of Palmoplantar Pustulosis.",
@@ -8005,6 +8005,23 @@
     "abstract": "BACKGROUND:Epidemiological studies indicate that gene-environment interactions play a role in atopic dermatitis (AD). OBJECTIVES:To review the evidence for gene-environment interactions in AD aetiology, focusing on filaggrin (FLG) loss-of-function mutations. METHODS:A systematic search from inception to September 2018 in Embase, MEDLINE and BIOSIS was performed. Search terms included all synonyms for AD and filaggrin/FLG; any genetic or epidemiological study design using any statistical methods were included. Quality assessment using criteria modified from guidance (ROBINS-I and Human Genome Epidemiology Network) for nonrandomized and genetic studies was completed, including consideration of power. Heterogeneity of study design and analyses precluded the use of meta-analysis. RESULTS:Of 1817 papers identified, 12 studies fulfilled the inclusion criteria required and performed formal interaction testing. There was some evidence for FLG-environment interactions in six of the studies (P-value for interaction \u2264 0\u00b705), including early-life cat ownership, older siblings, water hardness, phthalate exposure, higher urinary phthalate metabolite levels (which all increased AD risk additional to FLG null genotype) and prolonged breastfeeding (which decreased AD risk in the context of FLG null genotype). Major limitations of published studies were the low numbers of individuals (ranging from five to 94) with AD and FLG loss-of-function mutations and exposure to specific environmental factors, and variation in exposure definitions. CONCLUSIONS:Evidence on FLG-environment interactions in AD aetiology is limited. However, many of the studies lacked large enough sample sizes to assess these interactions fully. Further research is needed with larger sample sizes and clearly defined exposure assessment. Linked Comment:\u00a0Park and Seo. Br J Dermatol 2020; 183:411.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/bjd.18778; html:https://europepmc.org/articles/PMC7496176; pdf:https://europepmc.org/articles/PMC7496176?pdf=render"
+  },
+  {
+    "id": "32220655",
+    "doi": "https://doi.org/10.1016/s2468-2667(20)30073-6",
+    "title": "The effect of control strategies to reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan, China: a modelling study.",
+    "authorString": "Prem K, Liu Y, Russell TW, Kucharski AJ, Eggo RM, Davies N, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Jit M, Klepac P.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Public health",
+    "pubYear": "2020",
+    "date": "2020-03-25",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:In December, 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus, emerged in Wuhan, China. Since then, the city of Wuhan has taken unprecedented measures in response to the outbreak, including extended school and workplace closures. We aimed to estimate the effects of physical distancing measures on the progression of the COVID-19 epidemic, hoping to provide some insights for the rest of the world. METHODS:To examine how changes in population mixing have affected outbreak progression in Wuhan, we used synthetic location-specific contact patterns in Wuhan and adapted these in the presence of school closures, extended workplace closures, and a reduction in mixing in the general community. Using these matrices and the latest estimates of the epidemiological parameters of the Wuhan outbreak, we simulated the ongoing trajectory of an outbreak in Wuhan using an age-structured susceptible-exposed-infected-removed (SEIR) model for several physical distancing measures. We fitted the latest estimates of epidemic parameters from a transmission model to data on local and internationally exported cases from Wuhan in an age-structured epidemic framework and investigated the age distribution of cases. We also simulated lifting of the control measures by allowing people to return to work in a phased-in way and looked at the effects of returning to work at different stages of the underlying outbreak (at the beginning of March or April). FINDINGS:Our projections show that physical distancing measures were most effective if the staggered return to work was at the beginning of April; this reduced the median number of infections by more than 92% (IQR 66-97) and 24% (13-90) in mid-2020 and end-2020, respectively. There are benefits to sustaining these measures until April in terms of delaying and reducing the height of the peak, median epidemic size at end-2020, and affording health-care systems more time to expand and respond. However, the modelled effects of physical distancing measures vary by the duration of infectiousness and the role school children have in the epidemic. INTERPRETATION:Restrictions on activities in Wuhan, if maintained until April, would probably help to delay the epidemic peak. Our projections suggest that premature and sudden lifting of interventions could lead to an earlier secondary peak, which could be flattened by relaxing the interventions gradually. However, there are limitations to our analysis, including large uncertainties around estimates of R0 and the duration of infectiousness. FUNDING:Bill & Melinda Gates Foundation, National Institute for Health Research, Wellcome Trust, and Health Data Research UK.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S2468-2667(20)30073-6; html:https://europepmc.org/articles/PMC7158905"
   },
   {
     "id": "32895551",
@@ -8498,6 +8515,23 @@
     "abstract": "Influenza\u00a0A viruses are responsible for seasonal epidemics, and pandemics can arise from the transmission of novel zoonotic influenza\u00a0A viruses to humans1,2. Influenza\u00a0A viruses contain a segmented negative-sense RNA genome, which is transcribed and replicated by the viral-RNA-dependent RNA polymerase (FluPolA) composed of PB1, PB2 and PA subunits3-5. Although the high-resolution crystal structure of FluPolA of bat influenza\u00a0A virus has previously been reported6, there are no complete structures available for human and avian FluPolA. Furthermore, the molecular mechanisms of genomic viral RNA (vRNA) replication-which proceeds through a complementary RNA (cRNA) replicative intermediate, and requires oligomerization of the polymerase7-10-remain largely unknown. Here, using crystallography and cryo-electron microscopy, we determine the structures of FluPolA from human influenza\u00a0A/NT/60/1968 (H3N2) and avian influenza\u00a0A/duck/Fujian/01/2002 (H5N1) viruses at a resolution of 3.0-4.3\u00a0\u00c5, in the presence or absence of a\u00a0cRNA or vRNA template. In solution, FluPolA forms dimers of heterotrimers through the C-terminal domain of the PA subunit, the thumb subdomain of PB1 and the N1 subdomain of PB2. The cryo-electron microscopy structure of monomeric FluPolA bound to the\u00a0cRNA template reveals a binding site for the 3' cRNA at the dimer interface. We use a combination of cell-based and in vitro assays to show that the interface of the FluPolA dimer is required for vRNA synthesis during replication of the viral genome. We also show that a nanobody (a single-domain antibody) that interferes with FluPolA dimerization inhibits the synthesis of vRNA and, consequently, inhibits virus replication in infected cells. Our study provides high-resolution structures of medically relevant FluPolA, as well as insights into the replication mechanisms of the viral RNA genome. In addition, our work identifies sites in FluPolA that could be targeted in the development of antiviral drugs.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41586-019-1530-7; html:https://europepmc.org/articles/PMC6795553; pdf:https://europepmc.org/articles/PMC6795553?pdf=render"
+  },
+  {
+    "id": "33221853",
+    "doi": "https://doi.org/10.1093/ije/dyaa188",
+    "title": "Metabolic profiles of socio-economic position: a multi-cohort analysis.",
+    "authorString": "Robinson O, Carter AR, Ala-Korpela M, Casas JP, Chaturvedi N, Engmann J, Howe LD, Hughes AD, J\u00e4rvelin MR, K\u00e4h\u00f6nen M, Karhunen V, Kuh D, Shah T, Ben-Shlomo Y, Sofat R, Lau CE, Lehtim\u00e4ki T, Menon U, Raitakari O, Ryan A, Providencia R, Smith S, Taylor J, Tillin T, Viikari J, Wong A, Hingorani AD, Kivim\u00e4ki M, Vineis P.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of epidemiology",
+    "pubYear": "2020",
+    "date": "2020-11-21",
+    "isOpenAccess": "N",
+    "keywords": "Lipoproteins; Metabolomics; Education; Occupation; Life Course; Socio-economic Status; Metabonomic",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Low socio-economic position (SEP) is a risk factor for multiple health outcomes, but its molecular imprints in the body remain unclear. METHODS:We examined SEP as a determinant of serum nuclear magnetic resonance metabolic profiles in \u223c30\u00a0000 adults and 4000 children across 10 UK and Finnish cohort studies. RESULTS:In risk-factor-adjusted analysis of 233 metabolic measures, low educational attainment was associated with 37 measures including higher levels of triglycerides in small high-density lipoproteins (HDL) and lower levels of docosahexaenoic acid (DHA), omega-3 fatty acids, apolipoprotein A1, large and very large HDL particles (including levels of their respective lipid constituents) and cholesterol measures across different density lipoproteins. Among adults whose father worked in manual occupations, associations with apolipoprotein A1, large and very large HDL particles and HDL-2 cholesterol remained after adjustment for SEP in later life. Among manual workers, levels of glutamine were higher compared with non-manual workers. All three indicators of low SEP were associated with lower DHA, omega-3 fatty acids and HDL diameter. At all ages, children of manual workers had lower levels of DHA as a proportion of total fatty acids. CONCLUSIONS:Our work indicates that social and economic factors have a measurable impact on human physiology. Lower SEP was independently associated with a generally unfavourable metabolic profile, consistent across ages and cohorts. The metabolites we found to be associated with SEP, including DHA, are known to predict cardiovascular disease and cognitive decline in later life and may contribute to health inequalities.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/ije/dyaa188"
   },
   {
     "id": "32207686",
@@ -9044,6 +9078,23 @@
     "urls": "doi:https://doi.org/10.1136/bmj.m4262; html:https://europepmc.org/articles/PMC7656121; pdf:https://europepmc.org/articles/PMC7656121?pdf=render"
   },
   {
+    "id": "33223526",
+    "doi": "https://doi.org/10.1038/s41398-020-01074-z",
+    "title": "Genome-wide association study of Alzheimer's disease CSF biomarkers in the EMIF-AD Multimodal Biomarker Discovery dataset.",
+    "authorString": "Hong S, Prokopenko D, Dobricic V, Kilpert F, Bos I, Vos SJB, Tijms BM, Andreasson U, Blennow K, Vandenberghe R, Cleynen I, Gabel S, Schaeverbeke J, Scheltens P, Teunissen CE, Niemantsverdriet E, Engelborghs S, Frisoni G, Blin O, Richardson JC, Bordet R, Molinuevo JL, Rami L, Alzheimer\u2019s Disease Neuroimaging Initiative (ADNI), Kettunen P, Wallin A, Lle\u00f3 A, Sala I, Popp J, Peyratout G, Martinez-Lage P, Tainta M, Dobson RJB, Legido-Quigley C, Sleegers K, Van Broeckhoven C, Ten Kate M, Barkhof F, Zetterberg H, Lovestone S, Streffer J, Wittig M, Franke A, Tanzi RE, Visser PJ, Bertram L.",
+    "authorAffiliations": "",
+    "journalTitle": "Translational psychiatry",
+    "pubYear": "2020",
+    "date": "2020-11-22",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Alzheimer's disease (AD) is the most prevalent neurodegenerative disorder and the most common form of dementia in the elderly. Susceptibility to AD is considerably determined by genetic factors which hitherto were primarily identified using case-control designs. Elucidating the genetic architecture of additional AD-related phenotypic traits, ideally those linked to the underlying disease process, holds great promise in gaining deeper insights into the genetic basis of AD and in developing better clinical prediction models. To this end, we generated genome-wide single-nucleotide polymorphism (SNP) genotyping data in 931 participants of the European Medical Information Framework Alzheimer's Disease Multimodal Biomarker Discovery (EMIF-AD MBD) sample to search for novel genetic determinants of AD biomarker variability. Specifically, we performed genome-wide association study (GWAS) analyses on 16 traits, including 14 measures derived from quantifications of five separate amyloid-beta (A\u03b2) and tau-protein species in the cerebrospinal fluid (CSF). In addition to confirming the well-established effects of apolipoprotein E (APOE) on diagnostic outcome and phenotypes related to A\u03b242, we detected novel potential signals in the zinc finger homeobox 3 (ZFHX3) for CSF-A\u03b238 and CSF-A\u03b240 levels, and confirmed the previously described sex-specific association between SNPs in geminin coiled-coil domain containing (GMNC) and CSF-tau. Utilizing the results from independent case-control AD GWAS to construct polygenic risk scores (PRS) revealed that AD risk variants only explain a small fraction of CSF biomarker variability. In conclusion, our study represents a detailed first account of GWAS analyses on CSF-A\u03b2 and -tau-related traits in the EMIF-AD MBD dataset. In subsequent work, we will utilize the genomics data generated here in GWAS of other AD-relevant clinical outcomes ascertained in this unique dataset.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41398-020-01074-z"
+  },
+  {
     "id": "33203707",
     "doi": "https://doi.org/10.2337/dc20-1328",
     "title": "Plasma Vitamin C and Type 2 Diabetes: Genome-Wide Association Study and Mendelian Randomization Analysis in European Populations.",
@@ -9367,23 +9418,6 @@
     "urls": "doi:https://doi.org/10.1177/2047487319877078; html:https://europepmc.org/articles/PMC7008553; pdf:https://europepmc.org/articles/PMC7008553?pdf=render"
   },
   {
-    "id": "32861314",
-    "doi": "https://doi.org/10.1016/s0140-6736(20)30750-9",
-    "title": "Measuring universal health coverage based on an index of effective coverage of health services in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019.",
-    "authorString": "GBD 2019 Universal Health Coverage Collaborators.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2020",
-    "date": "2020-08-27",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Achieving universal health coverage (UHC) involves all people receiving the health services they need, of high quality, without experiencing financial hardship. Making progress towards UHC is a policy priority for both countries and global institutions, as highlighted by the agenda of the UN Sustainable Development Goals (SDGs) and WHO's Thirteenth General Programme of Work (GPW13). Measuring effective coverage at the health-system level is important for understanding whether health services are aligned with countries' health profiles and are of sufficient quality to produce health gains for populations of all ages. METHODS:Based on the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2019, we assessed UHC effective coverage for 204 countries and territories from 1990 to 2019. Drawing from a measurement framework developed through WHO's GPW13 consultation, we mapped 23 effective coverage indicators to a matrix representing health service types (eg, promotion, prevention, and treatment) and five population-age groups spanning from reproductive and newborn to older adults (\u226565 years). Effective coverage indicators were based on intervention coverage or outcome-based measures such as mortality-to-incidence ratios to approximate access to quality care; outcome-based measures were transformed to values on a scale of 0-100 based on the 2\u00b75th and 97\u00b75th percentile of location-year values. We constructed the UHC effective coverage index by weighting each effective coverage indicator relative to its associated potential health gains, as measured by disability-adjusted life-years for each location-year and population-age group. For three tests of validity (content, known-groups, and convergent), UHC effective coverage index performance was generally better than that of other UHC service coverage indices from WHO (ie, the current metric for SDG indicator 3.8.1 on UHC service coverage), the World Bank, and GBD 2017. We quantified frontiers of UHC effective coverage performance on the basis of pooled health spending per capita, representing UHC effective coverage index levels achieved in 2019 relative to country-level government health spending, prepaid private expenditures, and development assistance for health. To assess current trajectories towards the GPW13 UHC billion target-1 billion more people benefiting from UHC by 2023-we estimated additional population equivalents with UHC effective coverage from 2018 to 2023. FINDINGS:Globally, performance on the UHC effective coverage index improved from 45\u00b78 (95% uncertainty interval 44\u00b72-47\u00b75) in 1990 to 60\u00b73 (58\u00b77-61\u00b79) in 2019, yet country-level UHC effective coverage in 2019 still spanned from 95 or higher in Japan and Iceland to lower than 25 in Somalia and the Central African Republic. Since 2010, sub-Saharan Africa showed accelerated gains on the UHC effective coverage index (at an average increase of 2\u00b76% [1\u00b79-3\u00b73] per year up to 2019); by contrast, most other GBD super-regions had slowed rates of progress in 2010-2019 relative to 1990-2010. Many countries showed lagging performance on effective coverage indicators for non-communicable diseases relative to those for communicable diseases and maternal and child health, despite non-communicable diseases accounting for a greater proportion of potential health gains in 2019, suggesting that many health systems are not keeping pace with the rising non-communicable disease burden and associated population health needs. In 2019, the UHC effective coverage index was associated with pooled health spending per capita (r=0\u00b779), although countries across the development spectrum had much lower UHC effective coverage than is potentially achievable relative to their health spending. Under maximum efficiency of translating health spending into UHC effective coverage performance, countries would need to reach $1398 pooled health spending per capita (US$ adjusted for purchasing power parity) in order to achieve 80 on the UHC effective coverage index. From 2018 to 2023, an estimated 388\u00b79 million (358\u00b76-421\u00b73) more population equivalents would have UHC effective coverage, falling well short of the GPW13 target of 1 billion more people benefiting from UHC during this time. Current projections point to an estimated 3\u00b71 billion (3\u00b70-3\u00b72) population equivalents still lacking UHC effective coverage in 2023, with nearly a third (968\u00b71 million [903\u00b75-1040\u00b73]) residing in south Asia. INTERPRETATION:The present study demonstrates the utility of measuring effective coverage and its role in supporting improved health outcomes for all people-the ultimate goal of UHC and its achievement. Global ambitions to accelerate progress on UHC service coverage are increasingly unlikely unless concerted action on non-communicable diseases occurs and countries can better translate health spending into improved performance. Focusing on effective coverage and accounting for the world's evolving health needs lays the groundwork for better understanding how close-or how far-all populations are in benefiting from UHC. FUNDING:Bill & Melinda Gates Foundation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)30750-9; html:https://europepmc.org/articles/PMC7562819"
-  },
-  {
     "id": "33067605",
     "doi": "https://doi.org/10.1038/s42255-020-00287-2",
     "title": "Genomic and drug target evaluation of 90 cardiovascular proteins in 30,931 individuals.",
@@ -9399,6 +9433,23 @@
     "abstract": "Circulating proteins are vital in human health and disease and are frequently used as biomarkers for clinical decision-making or as targets for pharmacological intervention. Here, we map and replicate protein quantitative trait loci (pQTL) for 90 cardiovascular proteins in over 30,000 individuals, resulting in 451 pQTLs for 85 proteins. For each protein, we further perform pathway mapping to obtain trans-pQTL gene and regulatory designations. We substantiate these regulatory findings with orthogonal evidence for trans-pQTLs using mouse knockdown experiments (ABCA1 and TRIB1) and clinical trial results (chemokine receptors CCR2 and CCR5), with consistent regulation. Finally, we evaluate known drug targets, and suggest new target candidates or repositioning opportunities using Mendelian randomization. This identifies 11 proteins with causal evidence of involvement in human disease that have not previously been targeted, including EGF, IL-16, PAPPA, SPON1, F3, ADM, CASP-8, CHI3L1, CXCL16, GDF15 and MMP-12. Taken together, these findings demonstrate the utility of large-scale mapping of the genetics of the proteome and provide a resource for future precision studies of circulating proteins in human health.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s42255-020-00287-2"
+  },
+  {
+    "id": "32861314",
+    "doi": "https://doi.org/10.1016/s0140-6736(20)30750-9",
+    "title": "Measuring universal health coverage based on an index of effective coverage of health services in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019.",
+    "authorString": "GBD 2019 Universal Health Coverage Collaborators.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2020",
+    "date": "2020-08-27",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Achieving universal health coverage (UHC) involves all people receiving the health services they need, of high quality, without experiencing financial hardship. Making progress towards UHC is a policy priority for both countries and global institutions, as highlighted by the agenda of the UN Sustainable Development Goals (SDGs) and WHO's Thirteenth General Programme of Work (GPW13). Measuring effective coverage at the health-system level is important for understanding whether health services are aligned with countries' health profiles and are of sufficient quality to produce health gains for populations of all ages. METHODS:Based on the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2019, we assessed UHC effective coverage for 204 countries and territories from 1990 to 2019. Drawing from a measurement framework developed through WHO's GPW13 consultation, we mapped 23 effective coverage indicators to a matrix representing health service types (eg, promotion, prevention, and treatment) and five population-age groups spanning from reproductive and newborn to older adults (\u226565 years). Effective coverage indicators were based on intervention coverage or outcome-based measures such as mortality-to-incidence ratios to approximate access to quality care; outcome-based measures were transformed to values on a scale of 0-100 based on the 2\u00b75th and 97\u00b75th percentile of location-year values. We constructed the UHC effective coverage index by weighting each effective coverage indicator relative to its associated potential health gains, as measured by disability-adjusted life-years for each location-year and population-age group. For three tests of validity (content, known-groups, and convergent), UHC effective coverage index performance was generally better than that of other UHC service coverage indices from WHO (ie, the current metric for SDG indicator 3.8.1 on UHC service coverage), the World Bank, and GBD 2017. We quantified frontiers of UHC effective coverage performance on the basis of pooled health spending per capita, representing UHC effective coverage index levels achieved in 2019 relative to country-level government health spending, prepaid private expenditures, and development assistance for health. To assess current trajectories towards the GPW13 UHC billion target-1 billion more people benefiting from UHC by 2023-we estimated additional population equivalents with UHC effective coverage from 2018 to 2023. FINDINGS:Globally, performance on the UHC effective coverage index improved from 45\u00b78 (95% uncertainty interval 44\u00b72-47\u00b75) in 1990 to 60\u00b73 (58\u00b77-61\u00b79) in 2019, yet country-level UHC effective coverage in 2019 still spanned from 95 or higher in Japan and Iceland to lower than 25 in Somalia and the Central African Republic. Since 2010, sub-Saharan Africa showed accelerated gains on the UHC effective coverage index (at an average increase of 2\u00b76% [1\u00b79-3\u00b73] per year up to 2019); by contrast, most other GBD super-regions had slowed rates of progress in 2010-2019 relative to 1990-2010. Many countries showed lagging performance on effective coverage indicators for non-communicable diseases relative to those for communicable diseases and maternal and child health, despite non-communicable diseases accounting for a greater proportion of potential health gains in 2019, suggesting that many health systems are not keeping pace with the rising non-communicable disease burden and associated population health needs. In 2019, the UHC effective coverage index was associated with pooled health spending per capita (r=0\u00b779), although countries across the development spectrum had much lower UHC effective coverage than is potentially achievable relative to their health spending. Under maximum efficiency of translating health spending into UHC effective coverage performance, countries would need to reach $1398 pooled health spending per capita (US$ adjusted for purchasing power parity) in order to achieve 80 on the UHC effective coverage index. From 2018 to 2023, an estimated 388\u00b79 million (358\u00b76-421\u00b73) more population equivalents would have UHC effective coverage, falling well short of the GPW13 target of 1 billion more people benefiting from UHC during this time. Current projections point to an estimated 3\u00b71 billion (3\u00b70-3\u00b72) population equivalents still lacking UHC effective coverage in 2023, with nearly a third (968\u00b71 million [903\u00b75-1040\u00b73]) residing in south Asia. INTERPRETATION:The present study demonstrates the utility of measuring effective coverage and its role in supporting improved health outcomes for all people-the ultimate goal of UHC and its achievement. Global ambitions to accelerate progress on UHC service coverage are increasingly unlikely unless concerted action on non-communicable diseases occurs and countries can better translate health spending into improved performance. Focusing on effective coverage and accounting for the world's evolving health needs lays the groundwork for better understanding how close-or how far-all populations are in benefiting from UHC. FUNDING:Bill & Melinda Gates Foundation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)30750-9; html:https://europepmc.org/articles/PMC7562819"
   },
   {
     "id": "32332142",
