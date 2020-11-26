@@ -1,4 +1,4 @@
-name: extract-papers
+name: extract-preprints
 
 on:
   schedule:
