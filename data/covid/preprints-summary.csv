@@ -1,12 +1,12 @@
-emergency medicine,rheumatology,hematology,cell biology,infectious diseases,health policy,obstetrics and gynecology,biophysics,respiratory medicine,physiology,bioengineering,scientific communication and education,systems biology,genetic and genomic medicine,radiology and imaging,addiction medicine,health informatics,surgery,dentistry and oral medicine,allergy and immunology,nephrology,psychiatry and clinical psychology,pharmacology and toxicology,pediatrics,gastroenterology,neurology,epidemiology,anesthesia,intensive care and critical care medicine,bioinformatics,orthopedics,primary care research,pathology,biochemistry,health systems and quality improvement,oncology,nutrition,month,geriatric medicine,public and global health,transplantation,genomics,Total,rehabilitation medicine and physical therapy,evolutionary biology,occupational and environmental health,genetics,hiv aids,molecular biology,microbiology,ophthalmology,medical education,health economics,pharmacology and therapeutics,cardiovascular medicine,plant biology,immunology,neuroscience
-,,,,3,,,,,1,,1,,,,,1,1,,,,3,1,,,,6,,,1,,,,,1,,,Dec-20,1,3,,,28,,,,,,,2,,,,,3,,,
-1,,1,,56,3,,,1,,,,1,1,,,1,,,2,,3,,1,,,33,,,1,,,2,1,,,,Nov-20,2,19,,,144,1,,2,,2,1,6,,,,,,,3,
-,,,,40,3,,1,1,,1,,1,,1,,2,,,,,4,,,,,19,,2,1,,1,1,2,1,1,,Oct-20,1,9,,1,107,,1,,,1,,4,,,,,1,1,5,1
-4,,1,,35,4,,,,,1,,,,1,,4,,,,,3,,,1,1,37,,2,,,1,,,1,,,Sep-20,,13,,,117,,,2,,1,,2,,1,1,,,,1,
-2,,1,1,26,,1,2,,,,,,1,,,1,1,1,,,1,,,,,21,,4,1,1,,1,1,1,,,Aug-20,,12,,3,95,,,2,,,2,5,,,1,1,,,1,
-,1,,,23,1,1,2,1,,,,,2,1,,1,1,,1,,3,1,1,1,1,25,,1,2,,,1,4,,,,Jul-20,,14,1,1,109,,,1,1,1,3,1,,,,,3,,8,
-1,,,,42,2,,1,4,,,,1,1,,1,5,,,2,,4,,,,,30,,5,3,,,1,3,1,1,1,Jun-20,1,11,,1,145,,1,1,1,,1,11,1,1,,,3,,3,
-1,,,1,35,5,1,,4,,,,1,1,3,,6,,,,,3,,1,,,50,,1,8,,,,1,5,2,,May-20,1,14,,2,167,,1,1,,1,2,5,1,,1,2,4,,3,
-2,,,,26,2,1,1,1,,,1,,3,4,,,,,,1,2,1,,,,62,1,5,4,,,2,1,2,1,,Apr-20,,9,,3,152,,2,2,1,,1,6,,,1,2,1,,1,
-,,,,4,,,,,,,,,,,,,,,,,,1,,,,5,,,,,,,,,,,Mar-20,,3,,,15,,,1,,,,,,,1,,,,,
-,,,,1,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,Feb-20,,1,,,6,,,,,,,,,,,,,,,
+month,geriatric medicine,addiction medicine,rehabilitation medicine and physical therapy,public and global health,oncology,cell biology,health policy,neurology,pharmacology and therapeutics,Total,health systems and quality improvement,gastroenterology,biophysics,respiratory medicine,psychiatry and clinical psychology,rheumatology,nutrition,immunology,bioengineering,biochemistry,evolutionary biology,allergy and immunology,scientific communication and education,microbiology,cardiovascular medicine,epidemiology,occupational and environmental health,pathology,health economics,medical education,emergency medicine,pediatrics,genomics,health informatics,plant biology,radiology and imaging,surgery,pharmacology and toxicology,hematology,neuroscience,molecular biology,obstetrics and gynecology,nephrology,ophthalmology,orthopedics,physiology,bioinformatics,transplantation,genetic and genomic medicine,genetics,anesthesia,hiv aids,primary care research,systems biology,intensive care and critical care medicine,infectious diseases
+Dec-20,1,,,3,,,,,,26,1,,,,3,,,,,,,,1,2,2,6,,,,,,,,1,,,1,1,,,,,,,,1,,,,,,,,,,3
+Nov-20,2,,1,20,,,4,,,159,,,,1,3,,,3,,1,,2,,6,1,39,1,2,,,1,2,,2,,,,,1,,,,,,,,1,,1,,,2,,1,2,60
+Oct-20,1,,,9,1,,3,,,107,1,,,1,4,,,4,1,2,1,,,4,1,22,,1,,,,,1,2,1,1,,,,1,,,,,,,1,,,,,,1,1,2,40
+Sep-20,,,,11,,,4,1,,111,,1,,,3,,,1,1,,,,,2,,37,2,,1,1,4,,,4,,1,,,1,,,,,,,,,,,,,1,1,,2,32
+Aug-20,,,,12,,1,,,1,92,1,,2,,1,,,1,,1,,,,5,,21,2,1,1,,2,,3,1,,,1,,1,,2,1,,,1,,1,,1,,,,,,4,24
+Jul-20,,,,14,,,1,1,,103,,1,1,1,3,1,,7,,4,,1,,1,3,25,1,1,,,,1,,,,1,1,1,,,3,1,,,,,2,1,1,1,,1,,,1,22
+Jun-20,1,1,,12,1,,3,,,147,,,1,4,5,,1,3,,3,1,2,,11,3,28,1,1,,,1,,1,5,,,,,,,1,,,1,,,1,,1,1,,,,1,5,47
+May-20,1,,,14,2,1,5,,2,167,5,,,4,3,,,3,,1,1,,,5,4,50,1,,1,,1,1,2,6,,3,,,,,2,1,,1,,,8,,1,,,1,,1,1,35
+Apr-20,,,,9,1,,2,,2,152,2,,1,1,2,,,1,,1,2,,1,6,1,62,2,2,1,,2,,3,,,4,,1,,,1,1,1,,,,4,,3,1,1,,,,5,26
+Mar-20,,,,3,,,,,,15,,,,,,,,,,,,,,,,5,1,,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,4
+Feb-20,,,,1,,,,,,6,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
