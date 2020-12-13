@@ -12,6 +12,7 @@ import requests
 from pprint import pprint
 
 EPMC_BASE_URL = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?resultType=core&pageSize=1000&format=json&"
+PMCID_LOOKUP_URL = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?ids={}&format=json&tool=my_tool&email=my_email@example.com"
 
 HDRUK_PAPERS_QUERY = "((ACK_FUND:\"HDRUK\" OR ACK_FUND:\"HDR UK\" OR ACK_FUND:\"HDR-UK\" OR ACK_FUND:\"Health Data Research UK\") OR (AFF:\"HDRUK\" OR AFF:\"HDR UK\" OR AFF:\"HDR-UK\" OR AFF:\"Health Data Research UK\")) AND NOT (SRC:PPR)"
 COVID_PAPERS_QUERY = "(\"2019-nCoV\" OR \"2019nCoV\" OR \"COVID-19\" OR \"SARS-CoV-2\" OR \"COVID19\" OR \"COVID\" OR \"SARS-nCoV\" OR (\"wuhan\" AND \"coronavirus\") OR \"Coronavirus\" OR \"Corona virus\" OR \"corona-virus\" OR \"corona viruses\" OR \"coronaviruses\" OR \"SARS-CoV\" OR \"Orthocoronavirinae\" OR \"MERS-CoV\" OR \"Severe Acute Respiratory Syndrome\" OR \"Middle East Respiratory Syndrome\" OR (\"SARS\" AND \"virus\") OR \"soluble ACE2\" OR (\"ACE2\" AND \"virus\") OR (\"ARDS\" AND \"virus\") or (\"angiotensin-converting enzyme 2\" AND \"virus\")) AND ((ACK_FUND:\"HDRUK\" OR ACK_FUND:\"HDR UK\" OR ACK_FUND:\"HDR-UK\" OR ACK_FUND:\"Health Data Research UK\") OR (AFF:\"HDRUK\" OR AFF:\"HDR UK\" OR AFF:\"HDR-UK\" OR AFF:\"Health Data Research UK\")) AND NOT (SRC:PPR)"
@@ -43,6 +44,15 @@ def retrieve_papers(query="", data=None, cursorMark="*"):
   if numResults > 1000:
     retrieve_papers(query, DATA, cursorMark=d['nextCursorMark'])
   return DATA
+
+def get_dois_from_pmcids(data):
+  pmcids = ",".join([ p['id'] for p in data if p['doi'] == 'https://doi.org/' and p['id'].startswith('PMC')])
+  ret = request_url(PMCID_LOOKUP_URL.format(pmcids))
+  for r in ret['records']:
+    for d in data:
+      if d['id'] == r['pmcid']:
+        d['doi'] = "https://doi.org/" + r['doi']
+  return data
 
 def export_json(data, filename, indent=2):
   with open(filename, 'w') as jsonfile:
@@ -156,6 +166,7 @@ def main():
   # retrieve papers with author affiliation or funding acknowledgement to HDR-UK
   papers = retrieve_papers(query=HDRUK_PAPERS_QUERY, data=[])
   data, header = format_data(papers)
+  data = get_dois_from_pmcids(data)
   export_csv(data, header, 'data/papers.csv')
   export_json(data, 'data/papers.json')
   
