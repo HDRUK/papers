@@ -697,23 +697,6 @@
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100630; html:https://europepmc.org/articles/PMC7658622; pdf:https://europepmc.org/articles/PMC7658622?pdf=render"
   },
   {
-    "id": "33199838",
-    "doi": "https://doi.org/10.1038/s41598-020-76860-2",
-    "title": "Path-based extensions of local link prediction methods for complex networks.",
-    "authorString": "Aziz F, Gul H, Uddin I, Gkoutos GV.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "date": "2020-11-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Link prediction in a complex network is a problem of fundamental interest in network science and has attracted increasing attention in recent years. It aims to predict missing (or future) links between two entities in a complex system that are not already connected. Among existing methods, local similarity indices are most popular that take into account the information of common neighbours to estimate the likelihood of existence of a connection between two nodes. In this paper, we propose global and quasi-local extensions of some commonly used local similarity indices. We have performed extensive numerical simulations on publicly available datasets from diverse domains demonstrating that the proposed extensions not only give superior performance, when compared to their respective local indices, but also outperform some of the current, state-of-the-art, local and global link-prediction methods.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-76860-2; html:https://europepmc.org/articles/PMC7670409; pdf:https://europepmc.org/articles/PMC7670409?pdf=render"
-  },
-  {
     "id": "32614817",
     "doi": "https://doi.org/10.1371/journal.pcbi.1008031",
     "title": "Estimation of country-level basic reproductive ratios for novel Coronavirus (SARS-CoV-2/COVID-19) using synthetic contact matrices.",
@@ -729,6 +712,23 @@
     "abstract": "The 2019-2020 pandemic of atypical pneumonia (COVID-19) caused by the virus SARS-CoV-2 has spread globally and has the potential to infect large numbers of people in every country. Estimating the country-specific basic reproductive ratio is a vital first step in public-health planning. The basic reproductive ratio (R0) is determined by both the nature of pathogen and the network of human contacts through which the disease can spread, which is itself dependent on population age structure and household composition. Here we introduce a transmission model combining age-stratified contact frequencies with age-dependent susceptibility, probability of clinical symptoms, and transmission from asymptomatic (or mild) cases, which we use to estimate the country-specific basic reproductive ratio of COVID-19 for 152 countries. Using early outbreak data from China and a synthetic contact matrix, we estimate an age-stratified transmission structure which can then be extrapolated to 151 other countries for which synthetic contact matrices also exist. This defines a set of country-specific transmission structures from which we can calculate the basic reproductive ratio for each country. Our predicted R0 is critically sensitive to the intensity of transmission from asymptomatic cases; with low asymptomatic transmission the highest values are predicted across Eastern Europe and Japan and the lowest across Africa, Central America and South-Western Asia. This pattern is largely driven by the ratio of children to older adults in each country and the observed propensity of clinical cases in the elderly. If asymptomatic cases have comparable transmission to detected cases, the pattern is reversed. Our results demonstrate the importance of age-specific heterogeneities going beyond contact structure to the spread of COVID-19. These heterogeneities give COVID-19 the capacity to spread particularly quickly in countries with older populations, and that intensive control measures are likely to be necessary to impede its progress in these countries.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pcbi.1008031; html:https://europepmc.org/articles/PMC7363110; pdf:https://europepmc.org/articles/PMC7363110?pdf=render"
+  },
+  {
+    "id": "33199838",
+    "doi": "https://doi.org/10.1038/s41598-020-76860-2",
+    "title": "Path-based extensions of local link prediction methods for complex networks.",
+    "authorString": "Aziz F, Gul H, Uddin I, Gkoutos GV.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "date": "2020-11-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Link prediction in a complex network is a problem of fundamental interest in network science and has attracted increasing attention in recent years. It aims to predict missing (or future) links between two entities in a complex system that are not already connected. Among existing methods, local similarity indices are most popular that take into account the information of common neighbours to estimate the likelihood of existence of a connection between two nodes. In this paper, we propose global and quasi-local extensions of some commonly used local similarity indices. We have performed extensive numerical simulations on publicly available datasets from diverse domains demonstrating that the proposed extensions not only give superior performance, when compared to their respective local indices, but also outperform some of the current, state-of-the-art, local and global link-prediction methods.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-76860-2; html:https://europepmc.org/articles/PMC7670409; pdf:https://europepmc.org/articles/PMC7670409?pdf=render"
   },
   {
     "id": "32424068",
@@ -1921,23 +1921,6 @@
     "urls": "doi:https://doi.org/10.1136/jech-2017-210370; html:https://europepmc.org/articles/PMC6161658; pdf:https://europepmc.org/articles/PMC6161658?pdf=render"
   },
   {
-    "id": "33306026",
-    "doi": "https://doi.org/10.2196/23369",
-    "title": "Engagement With a Behavior Change App for Alcohol Reduction: Data Visualization for Longitudinal Observational Study.",
-    "authorString": "Bell L, Garnett C, Qian T, Perski O, Williamson E, Potts HW.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of medical Internet research",
-    "pubYear": "2020",
-    "date": "2020-12-11",
-    "isOpenAccess": "N",
-    "keywords": "Engagement; Behavior Change; Apps; Mobile Health; Digital Health; Just-in-time Adaptive Interventions; Push Notifications; Micro-randomized Trial; Data Visualizations",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Background: </b>Behavior change apps can develop iteratively, where the app evolves into a complex, dynamic, or personalized intervention through cycles of research, development, and implementation. Understanding how existing users engage with an app (eg, frequency, amount, depth, and duration of use) can help guide further incremental improvements. We aim to explore how simple visualizations can provide a good understanding of temporal patterns of engagement, as usage data are often longitudinal and rich.<br><br><b>Objective: </b>This study aims to visualize behavioral engagement with Drink Less, a behavior change app to help reduce hazardous and harmful alcohol consumption in the general adult population of the United Kingdom.<br><br><b>Methods: </b>We explored behavioral engagement among 19,233 existing users of Drink Less. Users were included in the sample if they were from the United Kingdom; were 18 years or older; were interested in reducing their alcohol consumption; had a baseline Alcohol Use Disorders Identification Test score of 8 or above, indicative of excessive drinking; and had downloaded the app between May 17, 2017, and January 22, 2019 (615 days). Measures of when sessions begin, length of sessions, time to disengagement, and patterns of use were visualized with heat maps, timeline plots, k-modes clustering analyses, and Kaplan-Meier plots.<br><br><b>Results: </b>The daily 11 AM notification is strongly associated with a change in engagement in the following hour; reduction in behavioral engagement over time, with 50.00% (9617/19,233) of users disengaging (defined as no use for 7 or more consecutive days) 22 days after download; identification of 3 distinct trajectories of use, namely engagers (4651/19,233, 24.18% of users), slow disengagers (3679/19,233, 19.13% of users), and fast disengagers (10,903/19,233, 56.68% of users); and limited depth of engagement with 85.076% (7,095,348/8,340,005) of screen views occurring within the Self-monitoring and Feedback module. In addition, a peak of both frequency and amount of time spent per session was observed in the evenings.<br><br><b>Conclusions: </b>Visualizations play an important role in understanding engagement with behavior change apps. Here, we discuss how simple visualizations helped identify important patterns of engagement with Drink Less. Our visualizations of behavioral engagement suggest that the daily notification substantially impacts engagement. Furthermore, the visualizations suggest that a fixed notification policy can be effective for maintaining engagement for some users but ineffective for others. We conclude that optimizing the notification policy to target both effectiveness and engagement is a worthwhile investment. Our future goal is to both understand the causal effect of the notification on engagement and further optimize the notification policy within Drink Less by tailoring to contextual circumstances of individuals over time. Such tailoring will be informed from the findings of our micro-randomized trial (MRT), and these visualizations were useful in both gaining a better understanding of engagement and designing the MRT.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/23369"
-  },
-  {
     "id": "32565483",
     "doi": "https://doi.org/10.1136/bmjopen-2020-039097",
     "title": "Early Pandemic Evaluation and Enhanced Surveillance of COVID-19 (EAVE II): protocol for an observational study using linked Scottish national data.",
@@ -1953,6 +1936,23 @@
     "abstract": "INTRODUCTION:Following the emergence of the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in December 2019 and the ensuing COVID-19 pandemic, population-level surveillance and rapid assessment of the effectiveness of existing or new therapeutic or preventive interventions are required to ensure that interventions are targeted to those at highest risk of serious illness or death from COVID-19. We aim to repurpose and expand an existing pandemic reporting platform to determine the attack rate of SARS-CoV-2, the uptake and effectiveness of any new pandemic vaccine (once available) and any protective effect conferred by existing or new antimicrobial drugs and other therapies. METHODS AND ANALYSIS:A prospective observational cohort will be used to monitor daily/weekly the progress of the COVID-19 epidemic and to evaluate the effectiveness of therapeutic interventions in approximately 5.4\u2009million individuals registered in general practices across Scotland. A national linked dataset of patient-level primary care data, out-of-hours, hospitalisation, mortality and laboratory data will be assembled. The primary outcomes will measure association between: (A) laboratory confirmed SARS-CoV-2 infection, morbidity and mortality, and demographic, socioeconomic and clinical population characteristics; and (B) healthcare burden of COVID-19 and demographic, socioeconomic and clinical population characteristics. The secondary outcomes will estimate: (A) the uptake (for vaccines only); (B) effectiveness; and (C) safety of new or existing therapies, vaccines and antimicrobials against SARS-CoV-2 infection. The association between population characteristics and primary outcomes will be assessed via multivariate logistic regression models. The effectiveness of therapies, vaccines and antimicrobials will be assessed from time-dependent Cox models or Poisson regression models. Self-controlled study designs will be explored to estimate the risk of therapeutic and prophylactic-related adverse events. ETHICS AND DISSEMINATION:We obtained approval from the National Research Ethics Service Committee, Southeast Scotland 02. The study findings will be presented at international conferences and published in peer-reviewed journals.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2020-039097; html:https://europepmc.org/articles/PMC7311023; pdf:https://europepmc.org/articles/PMC7311023?pdf=render"
+  },
+  {
+    "id": "33306026",
+    "doi": "https://doi.org/10.2196/23369",
+    "title": "Engagement With a Behavior Change App for Alcohol Reduction: Data Visualization for Longitudinal Observational Study.",
+    "authorString": "Bell L, Garnett C, Qian T, Perski O, Williamson E, Potts HW.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of medical Internet research",
+    "pubYear": "2020",
+    "date": "2020-12-11",
+    "isOpenAccess": "N",
+    "keywords": "Engagement; Behavior Change; Apps; Mobile Health; Digital Health; Just-in-time Adaptive Interventions; Push Notifications; Micro-randomized Trial; Data Visualizations",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Background: </b>Behavior change apps can develop iteratively, where the app evolves into a complex, dynamic, or personalized intervention through cycles of research, development, and implementation. Understanding how existing users engage with an app (eg, frequency, amount, depth, and duration of use) can help guide further incremental improvements. We aim to explore how simple visualizations can provide a good understanding of temporal patterns of engagement, as usage data are often longitudinal and rich.<br><br><b>Objective: </b>This study aims to visualize behavioral engagement with Drink Less, a behavior change app to help reduce hazardous and harmful alcohol consumption in the general adult population of the United Kingdom.<br><br><b>Methods: </b>We explored behavioral engagement among 19,233 existing users of Drink Less. Users were included in the sample if they were from the United Kingdom; were 18 years or older; were interested in reducing their alcohol consumption; had a baseline Alcohol Use Disorders Identification Test score of 8 or above, indicative of excessive drinking; and had downloaded the app between May 17, 2017, and January 22, 2019 (615 days). Measures of when sessions begin, length of sessions, time to disengagement, and patterns of use were visualized with heat maps, timeline plots, k-modes clustering analyses, and Kaplan-Meier plots.<br><br><b>Results: </b>The daily 11 AM notification is strongly associated with a change in engagement in the following hour; reduction in behavioral engagement over time, with 50.00% (9617/19,233) of users disengaging (defined as no use for 7 or more consecutive days) 22 days after download; identification of 3 distinct trajectories of use, namely engagers (4651/19,233, 24.18% of users), slow disengagers (3679/19,233, 19.13% of users), and fast disengagers (10,903/19,233, 56.68% of users); and limited depth of engagement with 85.076% (7,095,348/8,340,005) of screen views occurring within the Self-monitoring and Feedback module. In addition, a peak of both frequency and amount of time spent per session was observed in the evenings.<br><br><b>Conclusions: </b>Visualizations play an important role in understanding engagement with behavior change apps. Here, we discuss how simple visualizations helped identify important patterns of engagement with Drink Less. Our visualizations of behavioral engagement suggest that the daily notification substantially impacts engagement. Furthermore, the visualizations suggest that a fixed notification policy can be effective for maintaining engagement for some users but ineffective for others. We conclude that optimizing the notification policy to target both effectiveness and engagement is a worthwhile investment. Our future goal is to both understand the causal effect of the notification on engagement and further optimize the notification policy within Drink Less by tailoring to contextual circumstances of individuals over time. Such tailoring will be informed from the findings of our micro-randomized trial (MRT), and these visualizations were useful in both gaining a better understanding of engagement and designing the MRT.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/23369"
   },
   {
     "id": "31329239",
@@ -2176,23 +2176,6 @@
     "urls": "doi:https://doi.org/10.1192/bjo.2020.42"
   },
   {
-    "id": "32355555",
-    "doi": "https://doi.org/10.7189/jogh.10.010104",
-    "title": "COVID-19 must catalyse key global natural experiments.",
-    "authorString": "Been JV, Sheikh A.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of global health",
-    "pubYear": "2020",
-    "date": "2020-06-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "\"Been and Sheikh\u2019s editorial about COVID-19, outlines the importance of two natural experiments: a- how different countries responded to the pandemic and its effects and b- impact of improvements in air quality on human and planetary health.\"",
-    "urls": "doi:https://doi.org/10.7189/jogh.10.010104; html:https://europepmc.org/articles/PMC7179980; pdf:https://europepmc.org/articles/PMC7179980?pdf=render"
-  },
-  {
     "id": "31416346",
     "doi": "https://doi.org/10.1161/circulationaha.119.041980",
     "title": "Machine Learning to Predict the Likelihood of Acute Myocardial Infarction.",
@@ -2208,6 +2191,23 @@
     "abstract": "BACKGROUND:Variations in cardiac troponin concentrations by age, sex and time between samples in patients with suspected myocardial infarction are not currently accounted for in diagnostic approaches. We aimed to combine these variables through machine learning to improve the assessment of risk for individual patients. METHODS:A machine learning algorithm (myocardial-ischemic-injury-index [MI3]) incorporating age, sex, and paired high-sensitivity cardiac troponin I concentrations, was trained on 3,013 patients and tested on 7,998 patients with suspected myocardial infarction. MI3 uses gradient boosting to compute a value (0-100) reflecting an individual's likelihood of a diagnosis of type 1 myocardial infarction and estimates the sensitivity, negative predictive value (NPV), specificity and positive predictive value (PPV) for that individual. Assessment was by calibration and area under the receiver-operating-characteristic curve (AUC). Secondary analysis evaluated example MI3 thresholds from the training set that identified patients as low-risk (99% sensitivity) and high-risk (75% PPV), and performance at these thresholds was compared in the test set to the 99th percentile and European Society of Cardiology (ESC) rule-out pathways. RESULTS:Myocardial infarction occurred in 404 (13.4%) patients in the training set and 849 (10.6%) patients in the test set. MI3 was well calibrated with a very high AUC of 0.963 [0.956-0.971] in the test set and similar performance in early and late presenters. Example MI3 thresholds identifying low-risk and high-risk patients in the training set were 1.6 and 49.7 respectively. In the test set, MI3 values were <1.6 in 69.5% with a NPV of 99.7% (99.5%-99.8%) and sensitivity of 97.8% (96.7-98.7%), and were \u226549.7 in 10.6% with a PPV of 71.8% (68.9-75.0%) and specificity of 96.7% (96.3-97.1%). Using these thresholds, MI3 performed better than the ESC 0/3-hour pathway (sensitivity 82.5% [74.5-88.8%], specificity 92.2% [90.7-93.5%]) and the 99th percentile at any time-point (sensitivity 89.6% [87.4-91.6%]), specificity 89.3% [88.6-90.0%]). CONCLUSIONS:Using machine learning, MI3 provides an individualized and objective assessment of the likelihood of myocardial infarction, which can be used to identify low-risk and high-risk patients who may benefit from earlier clinical decisions. CLINICAL TRIAL REGISTRATION:Unique Identifier: Australian New Zealand Clinical Trials Registry: ACTRN12616001441404. URL: https://www.anzctr.org.au.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041980; html:https://europepmc.org/articles/PMC6749969; pdf:https://europepmc.org/articles/PMC6749969?pdf=render"
+  },
+  {
+    "id": "32355555",
+    "doi": "https://doi.org/10.7189/jogh.10.010104",
+    "title": "COVID-19 must catalyse key global natural experiments.",
+    "authorString": "Been JV, Sheikh A.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of global health",
+    "pubYear": "2020",
+    "date": "2020-06-01",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "\"Been and Sheikh\u2019s editorial about COVID-19, outlines the importance of two natural experiments: a- how different countries responded to the pandemic and its effects and b- impact of improvements in air quality on human and planetary health.\"",
+    "urls": "doi:https://doi.org/10.7189/jogh.10.010104; html:https://europepmc.org/articles/PMC7179980; pdf:https://europepmc.org/articles/PMC7179980?pdf=render"
   },
   {
     "id": "31477110",
@@ -2771,23 +2771,6 @@
     "urls": "doi:https://doi.org/10.3390/genes11111326; html:https://europepmc.org/articles/PMC7697406; pdf:https://europepmc.org/articles/PMC7697406?pdf=render"
   },
   {
-    "id": "33240510",
-    "doi": "https://doi.org/10.15420/aer.2020.26",
-    "title": "Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology.",
-    "authorString": "van de Leur RR, Boonstra MJ, Bagheri A, Roudijk RW, Sammani A, Taha K, Doevendans PA, van der Harst P, van Dam PM, Hassink RJ, van Es R, Asselbergs FW.",
-    "authorAffiliations": "",
-    "journalTitle": "Arrhythmia & electrophysiology review",
-    "pubYear": "2020",
-    "date": "2020-11-01",
-    "isOpenAccess": "Y",
-    "keywords": "Artificial intelligence; Electrophysiology; Neural networks; ECG; Cardiology; Big Data; Deep Learning",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The combination of big data and artificial intelligence (AI) is having an increasing impact on the field of electrophysiology. Algorithms are created to improve the automated diagnosis of clinical ECGs or ambulatory rhythm devices. Furthermore, the use of AI during invasive electrophysiological studies or combining several diagnostic modalities into AI algorithms to aid diagnostics are being investigated. However, the clinical performance and applicability of created algorithms are yet unknown. In this narrative review, opportunities and threats of AI in the field of electrophysiology are described, mainly focusing on ECGs. Current opportunities are discussed with their potential clinical benefits as well as the challenges. Challenges in data acquisition, model performance, (external) validity, clinical implementation, algorithm interpretation as well as the ethical aspects of AI research are discussed. This article aims to guide clinicians in the evaluation of new AI applications for electrophysiology before their clinical implementation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.15420/aer.2020.26; html:https://europepmc.org/articles/PMC7675143; pdf:https://europepmc.org/articles/PMC7675143?pdf=render"
-  },
-  {
     "id": "30999919",
     "doi": "https://doi.org/10.1186/s12911-019-0805-0",
     "title": "Identifying clinically important COPD sub-types using data-driven approaches in primary care population based electronic health records.",
@@ -2803,6 +2786,23 @@
     "abstract": "BACKGROUND:COPD is a highly heterogeneous disease composed of different phenotypes with different aetiological and prognostic profiles and current classification systems do not fully capture this heterogeneity. In this study we sought to discover, describe and validate COPD subtypes using cluster analysis on data derived from electronic health records. METHODS:We applied two unsupervised learning algorithms (k-means and hierarchical clustering) in 30,961 current and former smokers diagnosed with COPD, using linked national structured electronic health records in England available through the CALIBER resource. We used 15 clinical features, including risk factors and comorbidities and performed dimensionality reduction using multiple correspondence analysis. We compared the association between cluster membership and COPD exacerbations and respiratory and cardiovascular death with 10,736 deaths recorded over 146,466 person-years of follow-up. We also implemented and tested a process to assign unseen patients into clusters using a decision tree classifier. RESULTS:We identified and characterized five COPD patient clusters with distinct patient characteristics with respect to demographics, comorbidities, risk of death and exacerbations. The four subgroups were associated with 1) anxiety/depression; 2) severe airflow obstruction and frailty; 3) cardiovascular disease and diabetes and 4) obesity/atopy. A fifth cluster was associated with low prevalence of most comorbid conditions. CONCLUSIONS:COPD patients can be sub-classified into groups with differing risk factors, comorbidities, and prognosis, based on data included in their primary care records. The identified clusters confirm findings of previous clustering studies and draw attention to anxiety and depression as important drivers of the disease in young, female patients.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1186/s12911-019-0805-0; html:https://europepmc.org/articles/PMC6472089; pdf:https://europepmc.org/articles/PMC6472089?pdf=render"
+  },
+  {
+    "id": "33240510",
+    "doi": "https://doi.org/10.15420/aer.2020.26",
+    "title": "Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology.",
+    "authorString": "van de Leur RR, Boonstra MJ, Bagheri A, Roudijk RW, Sammani A, Taha K, Doevendans PA, van der Harst P, van Dam PM, Hassink RJ, van Es R, Asselbergs FW.",
+    "authorAffiliations": "",
+    "journalTitle": "Arrhythmia & electrophysiology review",
+    "pubYear": "2020",
+    "date": "2020-11-01",
+    "isOpenAccess": "Y",
+    "keywords": "Artificial intelligence; Electrophysiology; Neural networks; ECG; Cardiology; Big Data; Deep Learning",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The combination of big data and artificial intelligence (AI) is having an increasing impact on the field of electrophysiology. Algorithms are created to improve the automated diagnosis of clinical ECGs or ambulatory rhythm devices. Furthermore, the use of AI during invasive electrophysiological studies or combining several diagnostic modalities into AI algorithms to aid diagnostics are being investigated. However, the clinical performance and applicability of created algorithms are yet unknown. In this narrative review, opportunities and threats of AI in the field of electrophysiology are described, mainly focusing on ECGs. Current opportunities are discussed with their potential clinical benefits as well as the challenges. Challenges in data acquisition, model performance, (external) validity, clinical implementation, algorithm interpretation as well as the ethical aspects of AI research are discussed. This article aims to guide clinicians in the evaluation of new AI applications for electrophysiology before their clinical implementation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.15420/aer.2020.26; html:https://europepmc.org/articles/PMC7675143; pdf:https://europepmc.org/articles/PMC7675143?pdf=render"
   },
   {
     "id": "32182948",
@@ -2856,23 +2856,6 @@
     "urls": "doi:https://doi.org/10.1136/archdischild-2019-317271; html:https://europepmc.org/articles/PMC7041499; pdf:https://europepmc.org/articles/PMC7041499?pdf=render"
   },
   {
-    "id": "32282926",
-    "doi": "https://doi.org/10.1111/bjd.19122",
-    "title": "Partner bereavement and risk of chronic urticaria, alopecia areata and vitiligo: cohort studies in the UK and Denmark.",
-    "authorString": "Wong AYS, Kjaersgaard A, Fr\u00f8slev T, Forbes HJ, Mansfield KE, Silverwood RJ, S\u00f8rensen HT, Smeeth L, Schmidt SAJ, Langan SM.",
-    "authorAffiliations": "",
-    "journalTitle": "The British journal of dermatology",
-    "pubYear": "2020",
-    "date": "2020-06-10",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/bjd.19122"
-  },
-  {
     "id": "30969971",
     "doi": "https://doi.org/10.1371/journal.pone.0213435",
     "title": "Are active children and young people at increased risk of injuries resulting in hospital admission or accident and emergency department attendance? Analysis of linked cohort and electronic hospital records in Wales and Scotland.",
@@ -2888,6 +2871,23 @@
     "abstract": "INTRODUCTION:Children and young people (CYP) are encouraged to increase time spent being physically active, especially in moderate and vigorous intensity pursuits. However, there is limited evidence on the prospective association of activity levels with injuries resulting in use of hospital services. We examined the relationship between objectively-measured physical activity (PA) and subsequent injuries resulting in hospital admissions or accident and emergency department (A&E) attendances, using linked electronic hospital records (EHR) from a nationally representative prospective cohort of CYP in Wales and Scotland. METHODS:We analysed accelerometer-based estimates of moderate to vigorous (MVPA) and vigorous PA (VPA) from 1,585 (777 [46%] boys) seven-year-old Millennium Cohort Study members, living in Wales or Scotland, whose parents consented to linkage of cohort records to EHRs up until their 14th birthday. Negative binomial regression models adjusted by potential individual, household and area-level confounders, were fitted to estimate associations between average daily minutes of MVPA, and VPA (in 10-minute increments), and number of injury-related hospital admissions and/or A&E attendances from age nine to 14 years. RESULTS:CYP spent a median of 59.5 and 18.1 minutes in MVPA and VPA/day respectively, with boys significantly more active than girls; 47.3% of children experienced at least one injury-related admission or A&E attendance during the study period. Rates of injury-related hospital admission and/or A&E attendance were positively associated with MVPA and VPA in boys but not in girls: respective adjusted incidence rate ratios (95% CI) for boys: 1.09 (1.01, 1.17) and 1.16 (1.00, 1.34), and for girls: 0.94 (0.86, 1.03) and 0.85 (0.69, 1.04). CONCLUSION:Boys but not girls who engage in more intense PA at age seven years are at higher risk of injury-related hospital admission or A&E attendance when aged nine to 14 years than their less active peers. This may reflect gender differences in the type and associated risks of activities undertaken. EHRs can make a useful contribution to injury surveillance and prevention if routinely augmented with information on context and setting of the injuries sustained. Injury prevention initiatives should not discourage engagement in PA and outdoor play given their over-riding health and social benefits.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0213435; html:https://europepmc.org/articles/PMC6457613; pdf:https://europepmc.org/articles/PMC6457613?pdf=render"
+  },
+  {
+    "id": "32282926",
+    "doi": "https://doi.org/10.1111/bjd.19122",
+    "title": "Partner bereavement and risk of chronic urticaria, alopecia areata and vitiligo: cohort studies in the UK and Denmark.",
+    "authorString": "Wong AYS, Kjaersgaard A, Fr\u00f8slev T, Forbes HJ, Mansfield KE, Silverwood RJ, S\u00f8rensen HT, Smeeth L, Schmidt SAJ, Langan SM.",
+    "authorAffiliations": "",
+    "journalTitle": "The British journal of dermatology",
+    "pubYear": "2020",
+    "date": "2020-06-10",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/bjd.19122"
   },
   {
     "id": "31822919",
@@ -4403,23 +4403,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0236193; html:https://europepmc.org/articles/PMC7373274; pdf:https://europepmc.org/articles/PMC7373274?pdf=render"
   },
   {
-    "id": "32678323",
-    "doi": "https://doi.org/10.1038/s41366-020-0642-3",
-    "title": "Cross-sectional associations between central and general adiposity with albuminuria: observations from 400,000 people in UK Biobank.",
-    "authorString": "Zhu P, Lewington S, Haynes R, Emberson J, Landray MJ, Cherney D, Woodward M, Baigent C, Herrington WG, Staplin N.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of obesity (2005)",
-    "pubYear": "2020",
-    "date": "2020-07-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Whether measures of central adiposity are more or less strongly associated with risk of albuminuria than body mass index (BMI), and by how much diabetes/levels of glycosylated haemoglobin (HbA1c) explain or modify these associations, is uncertain. METHODS:Ordinal logistic regression was used to estimate associations between values of central adiposity (waist-to-hip ratio) and, separately, general adiposity (BMI) with categories of urinary albumin-to-creatinine ratio (uACR) in 408,527 UK Biobank participants. Separate central and general adiposity-based models were initially adjusted for potential confounders and measurement error, then sequentially, models were mutually adjusted (e.g. waist-to-hip ratio adjusted for BMI, and vice versa), and finally they were adjusted for potential mediators. RESULTS:Levels of albuminuria were generally low: 20,425 (5%) had a uACR \u22653\u2009mg/mmol. After adjustment for confounders and measurement error, each 0.06 higher waist-to-hip ratio was associated with a 55% (95%CI 53-57%) increase in the odds of being in a higher uACR category. After adjustment for baseline BMI, this association was reduced to 32% (30-34%). Each 5\u2009kg/m2 higher BMI was associated with a 47% (46-49%) increase in the odds of being in a higher uACR category. Adjustment for baseline waist-to-hip ratio reduced this association to 35% (33-37%). Those with higher HbA1c were at progressively higher odds of albuminuria, but positive associations between both waist-to-hip ratio and BMI were apparent irrespective of HbA1c. Altogether, about 40% of central adiposity associations appeared to be mediated by diabetes, vascular disease and blood pressure. CONCLUSIONS:Conventional epidemiological approaches suggest that higher waist-to-hip ratio and BMI are independently positively associated with albuminuria. Adiposity-albuminuria associations appear strong among people with normal HbA1c, as well as people with pre-diabetes or diabetes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41366-020-0642-3; html:https://europepmc.org/articles/PMC7577847; pdf:https://europepmc.org/articles/PMC7577847?pdf=render"
-  },
-  {
     "id": "30120083",
     "doi": "https://doi.org/10.1016/j.ebiom.2018.08.004",
     "title": "Genome-Wide Association Study of Circadian Rhythmicity in 71,500 UK Biobank Participants and Polygenic Association with Mood Instability.",
@@ -4435,6 +4418,23 @@
     "abstract": "<b>Background: </b>Circadian rhythms are fundamental to health and are particularly important for mental wellbeing. Disrupted rhythms of rest and activity are recognised as risk factors for major depressive disorder and bipolar disorder.<br><br><b>Methods: </b>We conducted a genome-wide association study (GWAS) of low relative amplitude (RA), an objective measure of rest-activity cycles derived from the accelerometer data of 71,500 UK Biobank participants. Polygenic risk scores (PRS) for low RA were used to investigate potential associations with psychiatric phenotypes.<br><br><b>Outcomes: </b>Two independent genetic loci were associated with low RA, within genomic regions for Neurofascin (NFASC) and Solute Carrier Family 25 Member 17 (SLC25A17). A secondary GWAS of RA as a continuous measure identified a locus within Meis Homeobox 1 (MEIS1). There were no significant genetic correlations between low RA and any of the psychiatric phenotypes assessed. However, PRS for low RA was significantly associated with mood instability across multiple PRS thresholds (at PRS threshold 0\u00b705: OR\u202f=\u202f1\u00b702, 95% CI\u202f=\u202f1\u00b701-1\u00b702, p\u202f=\u202f9\u00b76\u202f\u00d7\u202f10<sup>-5</sup>), and with major depressive disorder (at PRS threshold 0\u00b71: OR\u202f=\u202f1\u00b703, 95% CI\u202f=\u202f1\u00b701-1\u00b705, p\u202f=\u202f0\u00b7025) and neuroticism (at PRS threshold 0\u00b75: Beta\u202f=\u202f0\u00b702, 95% CI\u202f=\u202f0\u00b7007-0\u00b704, p\u202f=\u202f0\u00b7021).<br><br><b>Interpretation: </b>Overall, our findings contribute new knowledge on the complex genetic architecture of circadian rhythmicity and suggest a putative biological link between disrupted circadian function and mood disorder phenotypes, particularly mood instability, but also major depressive disorder and neuroticism.<br><br><b>Funding: </b>Medical Research Council (MR/K501335/1).",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.ebiom.2018.08.004; html:https://europepmc.org/articles/PMC6154782; pdf:https://europepmc.org/articles/PMC6154782?pdf=render"
+  },
+  {
+    "id": "32678323",
+    "doi": "https://doi.org/10.1038/s41366-020-0642-3",
+    "title": "Cross-sectional associations between central and general adiposity with albuminuria: observations from 400,000 people in UK Biobank.",
+    "authorString": "Zhu P, Lewington S, Haynes R, Emberson J, Landray MJ, Cherney D, Woodward M, Baigent C, Herrington WG, Staplin N.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of obesity (2005)",
+    "pubYear": "2020",
+    "date": "2020-07-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Whether measures of central adiposity are more or less strongly associated with risk of albuminuria than body mass index (BMI), and by how much diabetes/levels of glycosylated haemoglobin (HbA1c) explain or modify these associations, is uncertain. METHODS:Ordinal logistic regression was used to estimate associations between values of central adiposity (waist-to-hip ratio) and, separately, general adiposity (BMI) with categories of urinary albumin-to-creatinine ratio (uACR) in 408,527 UK Biobank participants. Separate central and general adiposity-based models were initially adjusted for potential confounders and measurement error, then sequentially, models were mutually adjusted (e.g. waist-to-hip ratio adjusted for BMI, and vice versa), and finally they were adjusted for potential mediators. RESULTS:Levels of albuminuria were generally low: 20,425 (5%) had a uACR \u22653\u2009mg/mmol. After adjustment for confounders and measurement error, each 0.06 higher waist-to-hip ratio was associated with a 55% (95%CI 53-57%) increase in the odds of being in a higher uACR category. After adjustment for baseline BMI, this association was reduced to 32% (30-34%). Each 5\u2009kg/m2 higher BMI was associated with a 47% (46-49%) increase in the odds of being in a higher uACR category. Adjustment for baseline waist-to-hip ratio reduced this association to 35% (33-37%). Those with higher HbA1c were at progressively higher odds of albuminuria, but positive associations between both waist-to-hip ratio and BMI were apparent irrespective of HbA1c. Altogether, about 40% of central adiposity associations appeared to be mediated by diabetes, vascular disease and blood pressure. CONCLUSIONS:Conventional epidemiological approaches suggest that higher waist-to-hip ratio and BMI are independently positively associated with albuminuria. Adiposity-albuminuria associations appear strong among people with normal HbA1c, as well as people with pre-diabetes or diabetes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41366-020-0642-3; html:https://europepmc.org/articles/PMC7577847; pdf:https://europepmc.org/articles/PMC7577847?pdf=render"
   },
   {
     "id": "31089183",
@@ -5151,23 +5151,6 @@
     "urls": "doi:https://doi.org/10.1111/acer.14481"
   },
   {
-    "id": "32108548",
-    "doi": "https://doi.org/10.1177/0269881120907973",
-    "title": "Synthetic cannabinoid use in psychiatric patients and relationship to hospitalisation: A retrospective electronic case register study.",
-    "authorString": "Hobbs M, Patel R, Morrison PD, Kalk N, Stone JM.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of psychopharmacology (Oxford, England)",
-    "pubYear": "2020",
-    "date": "2020-02-28",
-    "isOpenAccess": "Y",
-    "keywords": "Cannabis; Psychosis; Hospitalisation; Synthetic Cannabinoids",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION AND OBJECTIVES:Cannabis use has been associated with psychosis and with poor outcome in patients with mental illness. Synthetic cannabinoids (SCs) have been suggested to pose an even greater risk to mental health, but the effect on clinical outcome has not been directly measured. In this study, we aimed to investigate the demographics and hospitalisation of psychiatric patients who were SC users. METHODS:We searched the Biomedical Research Centre Clinical Record Interactive Search register for SC users and age- and sex-matched SC non-users who had been psychiatric patients under the South London and Maudsley NHS Trust. We recorded diagnosis, homelessness, cannabis use and the total number of days admitted as an inpatient to secondary and tertiary mental-health services. RESULTS:We identified 635 SC users and 635 age- and sex-matched SC non-users. SC users were significantly more likely to be homeless (\u03c72=138.0; p<0.0001) and to use cannabis (\u03c72=257.3; p<0.0001) than SC non-users. SC users had significantly more inpatient days after their first recorded use of SCs than controls (M (SD)=85.5 (199.7) vs. 25.4 (92.32); p<0.0001). Post hoc tests revealed that SC non-users who used cannabis had fewer inpatient days than SC users (p<0.0001), and that non-users of both SC and cannabis had fewer inpatient days than SC non-using cannabis users (p=0.02). CONCLUSIONS:SC use may lead to an increase in the number of days spent in hospital in patients with psychiatric illness. This highlights the need for clinicians to ask specifically about SC use.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1177/0269881120907973; html:https://europepmc.org/articles/PMC7249610; pdf:https://europepmc.org/articles/PMC7249610?pdf=render"
-  },
-  {
     "id": "31675503",
     "doi": "https://doi.org/10.1016/j.cell.2019.10.004",
     "title": "Uganda Genome Resource Enables Insights into Population History and Genomic Discovery in Africa.",
@@ -5183,6 +5166,23 @@
     "abstract": "Genomic studies in African populations provide unique opportunities to understand disease etiology, human diversity, and population history. In the largest study of its kind, comprising genome-wide data from 6,400 individuals and whole-genome sequences from 1,978 individuals from rural Uganda, we find evidence of geographically correlated fine-scale population substructure. Historically, the ancestry of modern Ugandans was best represented by a mixture of ancient East African pastoralists. We demonstrate the value of the largest sequence panel from Africa to date as an imputation resource. Examining 34 cardiometabolic traits, we show systematic differences in trait heritability between European and African populations, probably reflecting the differential impact of genes and environment. In a multi-trait pan-African GWAS of up to 14,126 individuals, we identify novel loci associated with anthropometric, hematological, lipid, and glycemic traits. We find that several functionally important signals are driven by Africa-specific variants, highlighting the value of studying diverse populations across the region.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.cell.2019.10.004; html:https://europepmc.org/articles/PMC7202134; pdf:https://europepmc.org/articles/PMC7202134?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.10.004"
+  },
+  {
+    "id": "32108548",
+    "doi": "https://doi.org/10.1177/0269881120907973",
+    "title": "Synthetic cannabinoid use in psychiatric patients and relationship to hospitalisation: A retrospective electronic case register study.",
+    "authorString": "Hobbs M, Patel R, Morrison PD, Kalk N, Stone JM.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of psychopharmacology (Oxford, England)",
+    "pubYear": "2020",
+    "date": "2020-02-28",
+    "isOpenAccess": "Y",
+    "keywords": "Cannabis; Psychosis; Hospitalisation; Synthetic Cannabinoids",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "INTRODUCTION AND OBJECTIVES:Cannabis use has been associated with psychosis and with poor outcome in patients with mental illness. Synthetic cannabinoids (SCs) have been suggested to pose an even greater risk to mental health, but the effect on clinical outcome has not been directly measured. In this study, we aimed to investigate the demographics and hospitalisation of psychiatric patients who were SC users. METHODS:We searched the Biomedical Research Centre Clinical Record Interactive Search register for SC users and age- and sex-matched SC non-users who had been psychiatric patients under the South London and Maudsley NHS Trust. We recorded diagnosis, homelessness, cannabis use and the total number of days admitted as an inpatient to secondary and tertiary mental-health services. RESULTS:We identified 635 SC users and 635 age- and sex-matched SC non-users. SC users were significantly more likely to be homeless (\u03c72=138.0; p<0.0001) and to use cannabis (\u03c72=257.3; p<0.0001) than SC non-users. SC users had significantly more inpatient days after their first recorded use of SCs than controls (M (SD)=85.5 (199.7) vs. 25.4 (92.32); p<0.0001). Post hoc tests revealed that SC non-users who used cannabis had fewer inpatient days than SC users (p<0.0001), and that non-users of both SC and cannabis had fewer inpatient days than SC non-using cannabis users (p=0.02). CONCLUSIONS:SC use may lead to an increase in the number of days spent in hospital in patients with psychiatric illness. This highlights the need for clinicians to ask specifically about SC use.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1177/0269881120907973; html:https://europepmc.org/articles/PMC7249610; pdf:https://europepmc.org/articles/PMC7249610?pdf=render"
   },
   {
     "id": "32346541",
@@ -5236,23 +5236,6 @@
     "urls": "doi:https://doi.org/10.1093/bioinformatics/btz796; html:https://europepmc.org/articles/PMC7703753; pdf:https://europepmc.org/articles/PMC7703753?pdf=render"
   },
   {
-    "id": "33130851",
-    "doi": "https://doi.org/10.1093/ije/dyaa216",
-    "title": "High-throughput multivariable Mendelian randomization analysis prioritizes apolipoprotein B as key lipid risk factor for coronary artery disease.",
-    "authorString": "Zuber V, Gill D, Ala-Korpela M, Langenberg C, Butterworth A, Bottolo L, Burgess S.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of epidemiology",
-    "pubYear": "2020",
-    "date": "2020-11-01",
-    "isOpenAccess": "N",
-    "keywords": "Lipoproteins; Apolipoprotein B; Metabolomics; blood lipids; coronary artery disease; Mendelian Randomization; Risk Factor Selection",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Genetic variants can be used to prioritize risk factors as potential therapeutic targets via Mendelian randomization (MR). An agnostic statistical framework using Bayesian model averaging (MR-BMA) can disentangle the causal role of correlated risk factors with shared genetic predictors. Here, our objective is to identify lipoprotein measures as mediators between lipid-associated genetic variants and coronary artery disease (CAD) for the purpose of detecting therapeutic targets for CAD. METHODS:As risk factors we consider 30 lipoprotein measures and metabolites derived from a high-throughput metabolomics study including 24\u00a0925 participants. We fit multivariable MR models of genetic associations with CAD estimated in 453\u00a0595 participants (including 113\u00a0937 cases) regressed on genetic associations with the risk factors. MR-BMA assigns to each combination of risk factors a model score quantifying how well the genetic associations with CAD are explained. Risk factors are ranked by their marginal score and selected using false-discovery rate (FDR) criteria. We perform supplementary and sensitivity analyses varying the dataset for genetic associations with CAD. RESULTS:In the main analysis, the top combination of risk factors ranked by the model score contains apolipoprotein B (ApoB) only. ApoB is also the highest ranked risk factor with respect to the marginal score (FDR <0.005). Additionally, ApoB is selected in all sensitivity analyses. No other measure of cholesterol or triglyceride is consistently selected otherwise. CONCLUSIONS:Our agnostic genetic investigation prioritizes ApoB across all datasets considered, suggesting that ApoB, representing the total number of hepatic-derived lipoprotein particles, is the primary lipid determinant of CAD.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/ije/dyaa216"
-  },
-  {
     "id": "32079223",
     "doi": "https://doi.org/10.3390/jcm9020545",
     "title": "Quantitative Approach to Fragmented QRS in Arrhythmogenic Cardiomyopathy: From Disease towards Asymptomatic Carriers of Pathogenic Variants.",
@@ -5268,6 +5251,23 @@
     "abstract": "Fragmented QRS complexes (fQRS) are common in patients with arrhythmogenic cardiomyopathy (ACM). A new method of fQRS quantification may aid early disease detection in pathogenic variant carriers and assessment of prognosis in patients with early stage ACM. Patients with definite ACM (n = 221, 66%), carriers of a pathogenic ACM-associated variant without a definite ACM diagnosis (n = 57, 17%) and control subjects (n = 58, 17%) were included. Quantitative fQRS (Q-fQRS) was defined as the total amount of deflections in the QRS complex in all 12 electrocardiography (ECG) leads. Q-fQRS was scored by a single observer and reproducibility was determined by three independent observers. Q-fQRS count was feasible with acceptable intra- and inter-observer agreement. Q-fQRS count is significantly higher in patients with definite ACM (54 \u00b1 15) and pathogenic variant carriers (55 \u00b1 10) compared to controls (35 \u00b1 5) (p < 0.001). In patients with ACM, Q-fQRS was not associated with sustained ventricular arrhythmia (p = 0.701) at baseline or during follow-up (p = 0.335). Both definite ACM patients and pathogenic variant carriers not fulfilling ACM diagnosis have a higher Q-fQRS than controls. This may indicate that increased Q-fQRS is an early sign of disease penetrance. In concealed and early stages of ACM the role of Q-fQRS for risk stratification is limited.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/jcm9020545; html:https://europepmc.org/articles/PMC7073517; pdf:https://europepmc.org/articles/PMC7073517?pdf=render"
+  },
+  {
+    "id": "33130851",
+    "doi": "https://doi.org/10.1093/ije/dyaa216",
+    "title": "High-throughput multivariable Mendelian randomization analysis prioritizes apolipoprotein B as key lipid risk factor for coronary artery disease.",
+    "authorString": "Zuber V, Gill D, Ala-Korpela M, Langenberg C, Butterworth A, Bottolo L, Burgess S.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of epidemiology",
+    "pubYear": "2020",
+    "date": "2020-11-01",
+    "isOpenAccess": "N",
+    "keywords": "Lipoproteins; Apolipoprotein B; Metabolomics; blood lipids; coronary artery disease; Mendelian Randomization; Risk Factor Selection",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Genetic variants can be used to prioritize risk factors as potential therapeutic targets via Mendelian randomization (MR). An agnostic statistical framework using Bayesian model averaging (MR-BMA) can disentangle the causal role of correlated risk factors with shared genetic predictors. Here, our objective is to identify lipoprotein measures as mediators between lipid-associated genetic variants and coronary artery disease (CAD) for the purpose of detecting therapeutic targets for CAD. METHODS:As risk factors we consider 30 lipoprotein measures and metabolites derived from a high-throughput metabolomics study including 24\u00a0925 participants. We fit multivariable MR models of genetic associations with CAD estimated in 453\u00a0595 participants (including 113\u00a0937 cases) regressed on genetic associations with the risk factors. MR-BMA assigns to each combination of risk factors a model score quantifying how well the genetic associations with CAD are explained. Risk factors are ranked by their marginal score and selected using false-discovery rate (FDR) criteria. We perform supplementary and sensitivity analyses varying the dataset for genetic associations with CAD. RESULTS:In the main analysis, the top combination of risk factors ranked by the model score contains apolipoprotein B (ApoB) only. ApoB is also the highest ranked risk factor with respect to the marginal score (FDR <0.005). Additionally, ApoB is selected in all sensitivity analyses. No other measure of cholesterol or triglyceride is consistently selected otherwise. CONCLUSIONS:Our agnostic genetic investigation prioritizes ApoB across all datasets considered, suggesting that ApoB, representing the total number of hepatic-derived lipoprotein particles, is the primary lipid determinant of CAD.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/ije/dyaa216"
   },
   {
     "id": "32704413",
@@ -5355,23 +5355,6 @@
     "urls": "doi:https://doi.org/10.1177/0141076820961776"
   },
   {
-    "id": "33017023",
-    "doi": "https://doi.org/10.1001/jamaneurol.2020.3502",
-    "title": "Trends in Optic Neuritis Incidence and Prevalence in the UK and Association With Systemic and Neurologic Disease.",
-    "authorString": "Braithwaite T, Subramanian A, Petzold A, Galloway J, Adderley NJ, Mollan SP, Plant GT, Nirantharakumar K, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "JAMA neurology",
-    "pubYear": "2020",
-    "date": "2020-10-05",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Importance:Epidemiologic data on optic neuritis (ON) incidence and associations with immune-mediated inflammatory diseases (IMIDs) are sparse. Objective:To estimate 22-year trends in ON prevalence and incidence and association with IMIDs in the United Kingdom. Design, Setting, and Participants:This cohort study analyzed data from The Health Improvement Network from January 1, 1995, to September 1, 2019. The study included 10\u202f937\u202f511 patients 1 year or older with 75.2 million person-years' follow-up. Annual ON incidence rates were estimated yearly (January 1, 1997, to December 31, 2018), and annual ON prevalence was estimated by performing sequential cross-sectional studies on data collected on January 1 each year for the same period. Data for 1995, 1996, and 2019 were excluded as incomplete. Risk factors for ON were explored in a cohort analysis from January 1, 1997, to December 31, 2018. Matched case-control and retrospective cohort studies were performed using data from January 1, 1995, to September 1, 2019, to explore the odds of antecedent diagnosis and hazard of incident diagnosis of 66 IMIDs in patients compared with controls. Exposures:Optic neuritis. Main Outcomes and Measures:Annual point prevalence and incidence rates of ON, adjusted incident rate ratios (IRRs) for risk factors, and adjusted odds ratios (ORs) and adjusted hazard ratios (HRs) for 66 IMIDs. Results:A total of 10\u202f937\u202f511 patients (median [IQR] age at cohort entry, 32.6 [18.0-50.4] years; 5 571 282 [50.9%] female) were studied. A total of 1962 of 2826 patients (69.4%) with incident ON were female and 1192 of 1290 92.4%) were White, with a mean (SD) age of 35.6 (15.6) years. Overall incidence across 22 years was stable at 3.7 (95% CI, 3.6-3.9) per 100\u202f000 person-years. Annual point prevalence (per 100\u202f000 population) increased with database maturity, from 69.3 (95% CI, 57.2-81.3) in 1997 to 114.8 (95% CI, 111.0-118.6) in 2018. The highest risk of incident ON was associated with female sex, obesity, reproductive age, smoking, and residence at higher latitude, with significantly lower risk in South Asian or mixed race/ethnicity compared with White people. Patients with ON had significantly higher odds of prior multiple sclerosis (MS) (OR,\u200998.22; 95% CI, 65.40-147.52), syphilis (OR,\u20095.76; 95% CI, 1.39-23.96), Mycoplasma (OR,\u20093.90; 95% CI, 1.09-13.93), vasculitis (OR,\u20093.70; 95% CI, 1.68-8.15), sarcoidosis (OR,\u20092.50; 95% CI, 1.21-5.18), Epstein-Barr virus (OR,\u20092.29; 95% CI, 1.80-2.92), Crohn disease (OR,\u20091.97; 95% CI, 1.13-3.43), and psoriasis (OR,\u20091.28; 95% CI, 1.03-1.58). Patients with ON had a significantly higher hazard of incident MS (HR,\u2009284.97; 95% CI, 167.85-483.81), Beh\u00e7et disease (HR,\u200917.39; 95% CI, 1.55-195.53), sarcoidosis (HR,\u200914.80; 95% CI, 4.86-45.08), vasculitis (HR,\u20094.89; 95% CI, 1.82-13.10), Sj\u00f6gren syndrome (HR,\u20093.48; 95% CI, 1.38-8.76), and herpetic infection (HR,\u20091.68; 95% CI, 1.24-2.28). Conclusions and Relevance:The UK incidence of ON is stable. Even though predominantly associated with MS, ON has numerous other associations with IMIDs. Although individually rare, together these associations outnumber MS-associated ON and typically require urgent management to preserve sight.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1001/jamaneurol.2020.3502"
-  },
-  {
     "id": "31233103",
     "doi": "https://doi.org/10.1093/bioinformatics/btz469",
     "title": "PhenoScanner V2: an expanded tool for searching human genotype-phenotype associations.",
@@ -5387,6 +5370,23 @@
     "abstract": "SUMMARY:PhenoScanner is a curated database of publicly available results from large-scale genetic association studies in humans. This online tool facilitates 'phenome scans', where genetic variants are cross-referenced for association with many phenotypes of different types. Here we present a major update of PhenoScanner ('PhenoScanner V2'), including over 150 million genetic variants and more than 65 billion associations (compared to 350 million associations in PhenoScanner V1) with diseases and traits, gene expression, metabolite and protein levels, and epigenetic markers. The query options have been extended to include searches by genes, genomic regions and phenotypes, as well as for genetic variants. All variants are positionally annotated using the Variant Effect Predictor and the phenotypes are mapped to Experimental Factor Ontology terms. Linkage disequilibrium statistics from the 1000 Genomes project can be used to search for phenotype associations with proxy variants. AVAILABILITY AND IMPLEMENTATION:PhenoScanner V2 is available at www.phenoscanner.medschl.cam.ac.uk.",
     "laySummary": "Kamat et al. developed an improved version of phenoscanner which is a publicly available large-scale genetic dataset for evaluation of genetic associations.",
     "urls": "doi:https://doi.org/10.1093/bioinformatics/btz469; html:https://europepmc.org/articles/PMC6853652; pdf:https://europepmc.org/articles/PMC6853652?pdf=render"
+  },
+  {
+    "id": "33017023",
+    "doi": "https://doi.org/10.1001/jamaneurol.2020.3502",
+    "title": "Trends in Optic Neuritis Incidence and Prevalence in the UK and Association With Systemic and Neurologic Disease.",
+    "authorString": "Braithwaite T, Subramanian A, Petzold A, Galloway J, Adderley NJ, Mollan SP, Plant GT, Nirantharakumar K, Denniston AK.",
+    "authorAffiliations": "",
+    "journalTitle": "JAMA neurology",
+    "pubYear": "2020",
+    "date": "2020-10-05",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Importance:Epidemiologic data on optic neuritis (ON) incidence and associations with immune-mediated inflammatory diseases (IMIDs) are sparse. Objective:To estimate 22-year trends in ON prevalence and incidence and association with IMIDs in the United Kingdom. Design, Setting, and Participants:This cohort study analyzed data from The Health Improvement Network from January 1, 1995, to September 1, 2019. The study included 10\u202f937\u202f511 patients 1 year or older with 75.2 million person-years' follow-up. Annual ON incidence rates were estimated yearly (January 1, 1997, to December 31, 2018), and annual ON prevalence was estimated by performing sequential cross-sectional studies on data collected on January 1 each year for the same period. Data for 1995, 1996, and 2019 were excluded as incomplete. Risk factors for ON were explored in a cohort analysis from January 1, 1997, to December 31, 2018. Matched case-control and retrospective cohort studies were performed using data from January 1, 1995, to September 1, 2019, to explore the odds of antecedent diagnosis and hazard of incident diagnosis of 66 IMIDs in patients compared with controls. Exposures:Optic neuritis. Main Outcomes and Measures:Annual point prevalence and incidence rates of ON, adjusted incident rate ratios (IRRs) for risk factors, and adjusted odds ratios (ORs) and adjusted hazard ratios (HRs) for 66 IMIDs. Results:A total of 10\u202f937\u202f511 patients (median [IQR] age at cohort entry, 32.6 [18.0-50.4] years; 5 571 282 [50.9%] female) were studied. A total of 1962 of 2826 patients (69.4%) with incident ON were female and 1192 of 1290 92.4%) were White, with a mean (SD) age of 35.6 (15.6) years. Overall incidence across 22 years was stable at 3.7 (95% CI, 3.6-3.9) per 100\u202f000 person-years. Annual point prevalence (per 100\u202f000 population) increased with database maturity, from 69.3 (95% CI, 57.2-81.3) in 1997 to 114.8 (95% CI, 111.0-118.6) in 2018. The highest risk of incident ON was associated with female sex, obesity, reproductive age, smoking, and residence at higher latitude, with significantly lower risk in South Asian or mixed race/ethnicity compared with White people. Patients with ON had significantly higher odds of prior multiple sclerosis (MS) (OR,\u200998.22; 95% CI, 65.40-147.52), syphilis (OR,\u20095.76; 95% CI, 1.39-23.96), Mycoplasma (OR,\u20093.90; 95% CI, 1.09-13.93), vasculitis (OR,\u20093.70; 95% CI, 1.68-8.15), sarcoidosis (OR,\u20092.50; 95% CI, 1.21-5.18), Epstein-Barr virus (OR,\u20092.29; 95% CI, 1.80-2.92), Crohn disease (OR,\u20091.97; 95% CI, 1.13-3.43), and psoriasis (OR,\u20091.28; 95% CI, 1.03-1.58). Patients with ON had a significantly higher hazard of incident MS (HR,\u2009284.97; 95% CI, 167.85-483.81), Beh\u00e7et disease (HR,\u200917.39; 95% CI, 1.55-195.53), sarcoidosis (HR,\u200914.80; 95% CI, 4.86-45.08), vasculitis (HR,\u20094.89; 95% CI, 1.82-13.10), Sj\u00f6gren syndrome (HR,\u20093.48; 95% CI, 1.38-8.76), and herpetic infection (HR,\u20091.68; 95% CI, 1.24-2.28). Conclusions and Relevance:The UK incidence of ON is stable. Even though predominantly associated with MS, ON has numerous other associations with IMIDs. Although individually rare, together these associations outnumber MS-associated ON and typically require urgent management to preserve sight.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1001/jamaneurol.2020.3502"
   },
   {
     "id": "31053412",
@@ -5576,23 +5576,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ebiom.2020.102818; html:https://europepmc.org/articles/PMC7276509; pdf:https://europepmc.org/articles/PMC7276509?pdf=render"
   },
   {
-    "id": "32576090",
-    "doi": "https://doi.org/10.1161/strokeaha.120.029042",
-    "title": "Telemedicine Cognitive Behavioral Therapy for Anxiety After Stroke: Proof-of-Concept Randomized Controlled Trial.",
-    "authorString": "Chun HY, Carson AJ, Tsanas A, Dennis MS, Mead GE, Calabria C, Whiteley WN.",
-    "authorAffiliations": "",
-    "journalTitle": "Stroke",
-    "pubYear": "2020",
-    "date": "2020-06-24",
-    "isOpenAccess": "Y",
-    "keywords": "Stroke; Anxiety; Workflow; Telemedicine; psychotherapy",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND AND PURPOSE:Disabling anxiety affects a quarter of stroke survivors but access to treatment is poor. We developed a telemedicine model for delivering guided self-help cognitive behavioral therapy (CBT) for anxiety after stroke (TASK-CBT). We aimed to evaluate the feasibility of TASK-CBT in a randomized controlled trial workflow that enabled all trial procedures to be carried out remotely. In addition, we explored the feasibility of wrist-worn actigraphy sensor as a way of measuring objective outcomes in this clinical trial. METHODS:We recruited adult community-based stroke patients (n=27) and randomly allocated them to TASK-CBT (n=14) or relaxation therapy (TASK-Relax), an active comparator (n=13). RESULTS:In our sample (mean age 65 [\u00b110]; 56% men; 63% stroke, 37% transient ischemic attacks), remote self-enrolment, electronic signature, intervention delivery, and automated follow-up were feasible. All participants completed all TASK-CBT sessions (14/14). Lower levels of anxiety were observed in TASK-CBT when compared with TASK-Relax at both weeks 6 and 20. Mean actigraphy sensor wearing-time was 33 days (\u00b115). CONCLUSIONS:Our preliminary feasibility data from the current study support a larger definitive clinical trial and the use of wrist-worn actigraphy sensor in anxious stroke survivors. Registration: URL: https://www.clinicaltrials.gov. Unique identifier: NCT03439813.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/STROKEAHA.120.029042; html:https://europepmc.org/articles/PMC7382539; pdf:https://europepmc.org/articles/PMC7382539?pdf=render"
-  },
-  {
     "id": "31863937",
     "doi": "https://doi.org/10.1016/j.aap.2019.105333",
     "title": "A systematic review of the association between fault or blame-related attributions and procedures after transport injury and health and work-related outcomes.",
@@ -5608,6 +5591,23 @@
     "abstract": "Attributions of fault are often associated with worse injury outcomes; however, the consistency and magnitude of these impacts is not known. This review examined the prognostic role of fault on health, mental health, pain and work outcomes after transport injury. A systematic search of five electronic databases (Medline, Embase, CINAHL, PsycINFO, Cochrane Library) yielded 16,324 records published between 2000 and January 2018. Eligibility criteria were: adult transport injury survivors; prospective design; multivariable analysis; fault-related factor analysed; pain, mental health, general health or work-related outcome. Citations (n\u202f=\u202f10,558, excluding duplicates) and full text articles (n\u202f=\u202f555) were screened manually (Reviewer 1), and using concurrent machine learning and text mining (Reviewer 2; using Abstrackr, WordStat and QDA miner). Data from 55 papers that met all inclusion criteria were extracted, papers were evaluated for risk of bias using the QUIPS tool, and overall level of evidence was assessed using the GRADE tool. There were six main fault-related factors classified as: fault or responsibility, fault-based compensation, lawyer involvement or litigation, blame or guilt, road user or position in vehicle, and impact direction. Overall there were inconsistent associations between fault and transport injury outcomes, and 60% of papers had high risk of bias. There was moderate evidence that fault-based compensation claims were associated with poorer health-related outcomes, and that lawyer involvement was associated with poorer work outcomes beyond 12 months post-injury. However, the evidence of negative associations between fault-based compensation claims and work-related outcomes was limited. Lawyer involvement and fault-based compensation claims were associated with adverse mental health outcomes six months post-injury, but not beyond 12 months. The most consistent associations between fault and negative outcomes were not for fault attributions, per se, but were related to fault-related procedures (e.g., lawyer engagement, fault-based compensation claims).",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.aap.2019.105333"
+  },
+  {
+    "id": "32576090",
+    "doi": "https://doi.org/10.1161/strokeaha.120.029042",
+    "title": "Telemedicine Cognitive Behavioral Therapy for Anxiety After Stroke: Proof-of-Concept Randomized Controlled Trial.",
+    "authorString": "Chun HY, Carson AJ, Tsanas A, Dennis MS, Mead GE, Calabria C, Whiteley WN.",
+    "authorAffiliations": "",
+    "journalTitle": "Stroke",
+    "pubYear": "2020",
+    "date": "2020-06-24",
+    "isOpenAccess": "Y",
+    "keywords": "Stroke; Anxiety; Workflow; Telemedicine; psychotherapy",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND AND PURPOSE:Disabling anxiety affects a quarter of stroke survivors but access to treatment is poor. We developed a telemedicine model for delivering guided self-help cognitive behavioral therapy (CBT) for anxiety after stroke (TASK-CBT). We aimed to evaluate the feasibility of TASK-CBT in a randomized controlled trial workflow that enabled all trial procedures to be carried out remotely. In addition, we explored the feasibility of wrist-worn actigraphy sensor as a way of measuring objective outcomes in this clinical trial. METHODS:We recruited adult community-based stroke patients (n=27) and randomly allocated them to TASK-CBT (n=14) or relaxation therapy (TASK-Relax), an active comparator (n=13). RESULTS:In our sample (mean age 65 [\u00b110]; 56% men; 63% stroke, 37% transient ischemic attacks), remote self-enrolment, electronic signature, intervention delivery, and automated follow-up were feasible. All participants completed all TASK-CBT sessions (14/14). Lower levels of anxiety were observed in TASK-CBT when compared with TASK-Relax at both weeks 6 and 20. Mean actigraphy sensor wearing-time was 33 days (\u00b115). CONCLUSIONS:Our preliminary feasibility data from the current study support a larger definitive clinical trial and the use of wrist-worn actigraphy sensor in anxious stroke survivors. Registration: URL: https://www.clinicaltrials.gov. Unique identifier: NCT03439813.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/STROKEAHA.120.029042; html:https://europepmc.org/articles/PMC7382539; pdf:https://europepmc.org/articles/PMC7382539?pdf=render"
   },
   {
     "id": "32929109",
@@ -6001,23 +6001,6 @@
     "urls": "doi:https://doi.org/10.3389/fmed.2019.00048; html:https://europepmc.org/articles/PMC6449432; pdf:https://europepmc.org/articles/PMC6449432?pdf=render"
   },
   {
-    "id": "32591531",
-    "doi": "https://doi.org/10.1038/s41467-020-16969-0",
-    "title": "Genetic drug target validation using Mendelian randomisation.",
-    "authorString": "Schmidt AF, Finan C, Gordillo-Mara\u00f1\u00f3n M, Asselbergs FW, Freitag DF, Patel RS, Tyl B, Chopade S, Faraway R, Zwierzyna M, Hingorani AD.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2020",
-    "date": "2020-06-26",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Mendelian randomisation (MR) analysis is an important tool to elucidate the causal relevance of environmental and biological risk factors for disease. However, causal inference is undermined if genetic variants used to instrument a risk factor also influence alternative disease-pathways (horizontal pleiotropy). Here we report how the 'no horizontal pleiotropy assumption' is strengthened when proteins are the risk factors of interest. Proteins are typically the proximal effectors of biological processes encoded in the genome. Moreover, proteins are the targets of most medicines, so MR studies of drug targets are becoming a fundamental tool in drug development. To enable such studies, we introduce a mathematical framework that contrasts MR analysis of proteins with that of risk factors located more distally in the causal chain from gene to disease. We illustrate key model decisions and introduce an analytical framework for maximising power and evaluating the robustness of analyses.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-020-16969-0; html:https://europepmc.org/articles/PMC7320010; pdf:https://europepmc.org/articles/PMC7320010?pdf=render"
-  },
-  {
     "id": "30351417",
     "doi": "https://doi.org/10.1093/bioinformatics/bty837",
     "title": "pJRES Binning Algorithm (JBA): a new method to facilitate the recovery of metabolic information from pJRES 1H NMR spectra.",
@@ -6033,6 +6016,23 @@
     "abstract": "MOTIVATION:Data processing is a key bottleneck for 1H NMR-based metabolic profiling of complex biological mixtures, such as biofluids. These spectra typically contain several thousands of signals, corresponding to possibly few hundreds of metabolites. A number of binning-based methods have been proposed to reduce the dimensionality of 1\u2009D 1H NMR datasets, including statistical recoupling of variables (SRV). Here, we introduce a new binning method, named JBA (\"pJRES Binning Algorithm\"), which aims to extend the applicability of SRV to pJRES spectra. RESULTS:The performance of JBA is comprehensively evaluated using 617 plasma 1H NMR spectra from the FGENTCARD cohort. The results presented here show that JBA exhibits higher sensitivity than SRV to detect peaks from low-abundance metabolites. In addition, JBA allows a more efficient removal of spectral variables corresponding to pure electronic noise, and this has a positive impact on multivariate model building. AVAILABILITY AND IMPLEMENTATION:The algorithm is implemented using the MWASTools R/Bioconductor package. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/bioinformatics/bty837; html:https://europepmc.org/articles/PMC6546129; pdf:https://europepmc.org/articles/PMC6546129?pdf=render"
+  },
+  {
+    "id": "32591531",
+    "doi": "https://doi.org/10.1038/s41467-020-16969-0",
+    "title": "Genetic drug target validation using Mendelian randomisation.",
+    "authorString": "Schmidt AF, Finan C, Gordillo-Mara\u00f1\u00f3n M, Asselbergs FW, Freitag DF, Patel RS, Tyl B, Chopade S, Faraway R, Zwierzyna M, Hingorani AD.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2020",
+    "date": "2020-06-26",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Mendelian randomisation (MR) analysis is an important tool to elucidate the causal relevance of environmental and biological risk factors for disease. However, causal inference is undermined if genetic variants used to instrument a risk factor also influence alternative disease-pathways (horizontal pleiotropy). Here we report how the 'no horizontal pleiotropy assumption' is strengthened when proteins are the risk factors of interest. Proteins are typically the proximal effectors of biological processes encoded in the genome. Moreover, proteins are the targets of most medicines, so MR studies of drug targets are becoming a fundamental tool in drug development. To enable such studies, we introduce a mathematical framework that contrasts MR analysis of proteins with that of risk factors located more distally in the causal chain from gene to disease. We illustrate key model decisions and introduce an analytical framework for maximising power and evaluating the robustness of analyses.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-020-16969-0; html:https://europepmc.org/articles/PMC7320010; pdf:https://europepmc.org/articles/PMC7320010?pdf=render"
   },
   {
     "id": "31062032",
@@ -6426,23 +6426,6 @@
     "urls": "doi:https://doi.org/10.1038/s42003-020-0921-5; html:https://europepmc.org/articles/PMC7181819; pdf:https://europepmc.org/articles/PMC7181819?pdf=render"
   },
   {
-    "id": "32294163",
-    "doi": "https://doi.org/10.1093/europace/euaa039",
-    "title": "Diagnosing arrhythmogenic right ventricular cardiomyopathy by 2010 Task Force Criteria: clinical performance and simplified practical implementation.",
-    "authorString": "Bosman LP, Cadrin-Tourigny J, Bourfiss M, Aliyari Ghasabeh M, Sharma A, Tichnell C, Roudijk RW, Murray B, Tandri H, Khairy P, Kamel IR, Zimmerman SL, Reitsma JB, Asselbergs FW, van Tintelen JP, van der Heijden JF, Hauer RNW, Calkins H, James CA, Te Riele ASJM.",
-    "authorAffiliations": "",
-    "journalTitle": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
-    "pubYear": "2020",
-    "date": "2020-05-01",
-    "isOpenAccess": "Y",
-    "keywords": "Diagnosis; Cardiomyopathy; ventricular arrhythmia; Arrhythmogenic Right Ventricular Cardiomyopathy",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "AIMS:Arrhythmogenic right ventricular cardiomyopathy (ARVC) is diagnosed by a complex set of clinical tests as per 2010 Task Force Criteria (TFC). Avoiding misdiagnosis is crucial to prevent sudden cardiac death as well as unnecessary implantable cardioverter-defibrillator implantations. This study aims to validate the overall performance of the TFC in a real-world cohort of patients referred for ARVC evaluation. METHODS AND RESULTS:We included patients consecutively referred to our centres for ARVC evaluation. Patients were diagnosed by consensus of three independent clinical experts. Using this as a reference standard, diagnostic performance was measured for each individual criterion as well as the overall TFC classification. Of 407 evaluated patients (age 38\u2009\u00b1\u200917 years, 51% male), the expert panel diagnosed 66 (16%) with ARVC. The clinically observed TFC was false negative in 7/66 (11%) patients and false positive in 10/69 (14%) patients. Idiopathic outflow tract ventricular tachycardia was the most common alternative diagnosis. While the TFC performed well overall (sensitivity and specificity 92%), signal-averaged electrocardiogram (SAECG, P\u2009=\u20090.43), and several family history criteria (P\u2009\u2265\u20090.17) failed to discriminate. Eliminating these criteria reduced false positives without increasing false negatives (net reclassification improvement 4.3%, P\u2009=\u20090.019). Furthermore, all ARVC patients met at least one electrocardiogram (ECG) or arrhythmia criterion (sensitivity 100%). CONCLUSION:The TFC perform well but are complex and can lead to misdiagnosis. Simplification by eliminating SAECG and several family history criteria improves diagnostic accuracy. Arrhythmogenic right ventricular cardiomyopathy can be ruled out using ECG and arrhythmia criteria alone, hence these tests may serve as a first-line screening strategy among at-risk individuals.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/europace/euaa039; html:https://europepmc.org/articles/PMC7203633; pdf:https://europepmc.org/articles/PMC7203633?pdf=render"
-  },
-  {
     "id": "31666364",
     "doi": "https://doi.org/10.1128/jcm.00963-19",
     "title": "Metagenomic Nanopore Sequencing of Influenza Virus Direct from Clinical Respiratory Samples.",
@@ -6458,6 +6441,23 @@
     "abstract": "Influenza is a major global public health threat as a result of its highly pathogenic variants, large zoonotic reservoir, and pandemic potential. Metagenomic viral sequencing offers the potential for a diagnostic test for influenza virus which also provides insights on transmission, evolution, and drug resistance and simultaneously detects other viruses. We therefore set out to apply the Oxford Nanopore Technologies sequencing method to metagenomic sequencing of respiratory samples. We generated influenza virus reads down to a limit of detection of 102 to 103 genome copies/ml in pooled samples, observing a strong relationship between the viral titer and the proportion of influenza virus reads (P\u2009=\u20094.7\u2009\u00d7\u200910-5). Applying our methods to clinical throat swabs, we generated influenza virus reads for 27/27 samples with mid-to-high viral titers (cycle threshold [CT ] values, <30) and 6/13 samples with low viral titers (CT values, 30 to 40). No false-positive reads were generated from 10 influenza virus-negative samples. Thus, Nanopore sequencing operated with 83% sensitivity (95% confidence interval [CI], 67 to 93%) and 100% specificity (95% CI, 69 to 100%) compared to the current diagnostic standard. Coverage of full-length virus was dependent on sample composition, being negatively influenced by increased host and bacterial reads. However, at high influenza virus titers, we were able to reconstruct >99% complete sequences for all eight gene segments. We also detected a human coronavirus coinfection in one clinical sample. While further optimization is required to improve sensitivity, this approach shows promise for the Nanopore platform to be used in the diagnosis and genetic analysis of influenza virus and other respiratory viruses.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1128/JCM.00963-19; html:https://europepmc.org/articles/PMC6935926; pdf:https://europepmc.org/articles/PMC6935926?pdf=render"
+  },
+  {
+    "id": "32294163",
+    "doi": "https://doi.org/10.1093/europace/euaa039",
+    "title": "Diagnosing arrhythmogenic right ventricular cardiomyopathy by 2010 Task Force Criteria: clinical performance and simplified practical implementation.",
+    "authorString": "Bosman LP, Cadrin-Tourigny J, Bourfiss M, Aliyari Ghasabeh M, Sharma A, Tichnell C, Roudijk RW, Murray B, Tandri H, Khairy P, Kamel IR, Zimmerman SL, Reitsma JB, Asselbergs FW, van Tintelen JP, van der Heijden JF, Hauer RNW, Calkins H, James CA, Te Riele ASJM.",
+    "authorAffiliations": "",
+    "journalTitle": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
+    "pubYear": "2020",
+    "date": "2020-05-01",
+    "isOpenAccess": "Y",
+    "keywords": "Diagnosis; Cardiomyopathy; ventricular arrhythmia; Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "AIMS:Arrhythmogenic right ventricular cardiomyopathy (ARVC) is diagnosed by a complex set of clinical tests as per 2010 Task Force Criteria (TFC). Avoiding misdiagnosis is crucial to prevent sudden cardiac death as well as unnecessary implantable cardioverter-defibrillator implantations. This study aims to validate the overall performance of the TFC in a real-world cohort of patients referred for ARVC evaluation. METHODS AND RESULTS:We included patients consecutively referred to our centres for ARVC evaluation. Patients were diagnosed by consensus of three independent clinical experts. Using this as a reference standard, diagnostic performance was measured for each individual criterion as well as the overall TFC classification. Of 407 evaluated patients (age 38\u2009\u00b1\u200917 years, 51% male), the expert panel diagnosed 66 (16%) with ARVC. The clinically observed TFC was false negative in 7/66 (11%) patients and false positive in 10/69 (14%) patients. Idiopathic outflow tract ventricular tachycardia was the most common alternative diagnosis. While the TFC performed well overall (sensitivity and specificity 92%), signal-averaged electrocardiogram (SAECG, P\u2009=\u20090.43), and several family history criteria (P\u2009\u2265\u20090.17) failed to discriminate. Eliminating these criteria reduced false positives without increasing false negatives (net reclassification improvement 4.3%, P\u2009=\u20090.019). Furthermore, all ARVC patients met at least one electrocardiogram (ECG) or arrhythmia criterion (sensitivity 100%). CONCLUSION:The TFC perform well but are complex and can lead to misdiagnosis. Simplification by eliminating SAECG and several family history criteria improves diagnostic accuracy. Arrhythmogenic right ventricular cardiomyopathy can be ruled out using ECG and arrhythmia criteria alone, hence these tests may serve as a first-line screening strategy among at-risk individuals.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/europace/euaa039; html:https://europepmc.org/articles/PMC7203633; pdf:https://europepmc.org/articles/PMC7203633?pdf=render"
   },
   {
     "id": "31358974",
@@ -6919,23 +6919,6 @@
     "urls": "doi:https://doi.org/10.1038/s41467-019-13848-1; html:https://europepmc.org/articles/PMC6925280; pdf:https://europepmc.org/articles/PMC6925280?pdf=render"
   },
   {
-    "id": "33248277",
-    "doi": "https://doi.org/10.1016/j.jclinepi.2020.11.014",
-    "title": "Text-mining in electronic healthcare records can be used as efficient tool for screening and data-collection in cardiovascular trials: a multicenter validation study.",
-    "authorString": "van Dijk WB, Fiolet ATL, Schuit E, Sammani A, Groenhof TKJ, van der Graaf R, de Vries MC, Alings M, Schaap J, Asselbergs FW, Grobbee DE, Groenwold RHH, Mosterd A.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of clinical epidemiology",
-    "pubYear": "2020",
-    "date": "2020-11-25",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVE:This study aimed to validate trial patient eligibility screening and baseline data-collection using text-mining in electronic healthcare records (EHRs), comparing the results to those of an international trial. STUDY DESIGN AND SETTING:In three medical centers with different EHR vendors, EHR-based text-mining was used to automatically screen patients for trial eligibility and extract baseline data on nineteen characteristics. First. the yield of screening with automated EHR text-mining search was compared with manual screening by research personnel. Second, accuracy of extracted baseline data by EHR text mining was compared to manual data entry by research personnel RESULTS: 568 (0.6%) of 92,466 patients visiting the out-patient cardiology departments were enrolled in the trial during its recruitment period using manual screening methods. Automated EHR data screening of all patients showed that the number of patients needed to screen could be reduced by 73,863 (79.9%). The remaining 18,603 (20.1%) contained 458 of the actual participants (82.4% of participants). In trial participants, automated EHR text-mining missed a median of 2.8% (Interquartile range [IQR] across all variables 0.4-8.5%) of all data points compared to manually collected data. Overall accuracy of automatically extracted data was 88.0% (IQR 84.7-92.8%). CONCLUSION:Automatically extracting data from EHRs using text-mining can be used to identify trial participants and to collect baseline information.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jclinepi.2020.11.014"
-  },
-  {
     "id": "33062309",
     "doi": "https://doi.org/10.1177/2059513120952336",
     "title": "Epidemiology of burn injury in older adults: An Australian and New Zealand perspective.",
@@ -6968,6 +6951,23 @@
     "abstract": "AIMS:To compare ST-segment elevation myocardial infarction (STEMI) and non-STEMI (NSTEMI) mortality between Sweden and the UK, adjusting for background population rates of expected death, case mix, and treatments. METHODS AND RESULTS:National data were collected from hospitals in Sweden [n\u2009=\u200973 hospitals, 180\u00a0368 patients, Swedish Web-system for Enhancement and Development of Evidence-based care in Heart disease Evaluated According to Recommended Therapies (SWEDEHEART)] and the UK [n\u2009=\u2009247,\u00a0662\u00a0529 patients, Myocardial Ischaemia National Audit Project (MINAP)] between 2003 and 2013. There were lower rates of revascularization [STEMI (43.8% vs. 74.9%); NSTEMI (27.5% vs. 43.6%)] and pharmacotherapies at time of hospital discharge including [aspirin (82.9% vs. 90.2%) and (79.9% vs. 88.0%), \u03b2-blockers (73.4% vs. 86.4%) and (65.3% vs. 85.1%)] in the UK compared with Sweden, respectively. Standardized net probability of death (NPD) between admission and 1\u2009month was higher in the UK for STEMI [8.0 (95% confidence interval 7.4-8.5) vs. 6.7 (6.5-6.9)] and NSTEMI [6.8 (6.4-7.2) vs. 4.9 (4.7-5.0)]. Between 6\u2009months and 1\u2009year and more than 1\u2009year, NPD remained higher in the UK for NSTEMI [2.9 (2.5-3.3) vs. 2.3 (2.2-2.5)] and [21.4 (20.0-22.8) vs. 18.3 (17.6-19.0)], but was similar for STEMI [0.7 (0.4-1.0) vs. 0.9 (0.7-1.0)] and [8.4 (6.7-10.1) vs. 8.3 (7.5-9.1)]. CONCLUSION:Short-term mortality following STEMI and NSTEMI was higher in the UK compared with Sweden. Mid- and longer-term mortality remained higher in the UK for NSTEMI but was similar for STEMI. Differences in mortality may be due to differential use of guideline-indicated treatments.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/cvr/cvz197"
+  },
+  {
+    "id": "33248277",
+    "doi": "https://doi.org/10.1016/j.jclinepi.2020.11.014",
+    "title": "Text-mining in electronic healthcare records can be used as efficient tool for screening and data-collection in cardiovascular trials: a multicenter validation study.",
+    "authorString": "van Dijk WB, Fiolet ATL, Schuit E, Sammani A, Groenhof TKJ, van der Graaf R, de Vries MC, Alings M, Schaap J, Asselbergs FW, Grobbee DE, Groenwold RHH, Mosterd A.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of clinical epidemiology",
+    "pubYear": "2020",
+    "date": "2020-11-25",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVE:This study aimed to validate trial patient eligibility screening and baseline data-collection using text-mining in electronic healthcare records (EHRs), comparing the results to those of an international trial. STUDY DESIGN AND SETTING:In three medical centers with different EHR vendors, EHR-based text-mining was used to automatically screen patients for trial eligibility and extract baseline data on nineteen characteristics. First. the yield of screening with automated EHR text-mining search was compared with manual screening by research personnel. Second, accuracy of extracted baseline data by EHR text mining was compared to manual data entry by research personnel RESULTS: 568 (0.6%) of 92,466 patients visiting the out-patient cardiology departments were enrolled in the trial during its recruitment period using manual screening methods. Automated EHR data screening of all patients showed that the number of patients needed to screen could be reduced by 73,863 (79.9%). The remaining 18,603 (20.1%) contained 458 of the actual participants (82.4% of participants). In trial participants, automated EHR text-mining missed a median of 2.8% (Interquartile range [IQR] across all variables 0.4-8.5%) of all data points compared to manually collected data. Overall accuracy of automatically extracted data was 88.0% (IQR 84.7-92.8%). CONCLUSION:Automatically extracting data from EHRs using text-mining can be used to identify trial participants and to collect baseline information.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jclinepi.2020.11.014"
   },
   {
     "id": "32880390",
@@ -7021,23 +7021,6 @@
     "urls": "doi:https://doi.org/10.1186/s12933-019-0972-4; html:https://europepmc.org/articles/PMC6900858; pdf:https://europepmc.org/articles/PMC6900858?pdf=render"
   },
   {
-    "id": "31331193",
-    "doi": "https://doi.org/10.1161/circulationaha.119.041546",
-    "title": "Impact of ADCY9 Genotype on Response to Anacetrapib.",
-    "authorString": "Hopewell JC, Ibrahim M, Hill M, Shaw PM, Braunwald E, Blaustein RO, Bowman L, Landray MJ, Sabatine MS, Collins R, HPS3/TIMI55 - REVEAL Collaborative Group.",
-    "authorAffiliations": "",
-    "journalTitle": "Circulation",
-    "pubYear": "2019",
-    "date": "2019-07-23",
-    "isOpenAccess": "Y",
-    "keywords": "Anacetrapib; Major Vascular Events; Cetp-inhibition",
-    "nationalPriorities": "Better, Faster and More Efficient Clinical Trials",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Exploratory analyses of previous randomized trials generated a hypothesis that the clinical response to CETP inhibitor therapy differs by ADCY9 genotype, prompting the ongoing dal-GenE trial in individuals with a particular genetic profile. The randomized placebo-controlled REVEAL trial demonstrated the clinical efficacy of the CETP inhibitor anacetrapib among patients with pre-existing atherosclerotic vascular disease. In the present study, we have examined the impact of ADCY9 genotype on response to anacetrapib within the REVEAL trial. METHODS:Individuals with stable atherosclerotic vascular disease, who were treated with intensive atorvastatin therapy, received either anacetrapib 100 mg daily or matching placebo. Cox proportional hazards models, adjusted for the first 5 principal components of ancestry, were used to estimate the effects of allocation to anacetrapib on major vascular events (a composite of coronary death, myocardial infarction, coronary revascularization or presumed ischaemic stroke) and the interaction with ADCY9 rs1967309 genotype. RESULTS:Among 19,210 genotyped individuals of European ancestry, 2,504 (13.0%) had a first major vascular event during 4 years median follow-up: 1,216 (12.6%) among anacetrapib-allocated participants and 1,288 (13.4%) among placebo-allocated participants. Proportional reductions in the risk of major vascular events with anacetrapib did not differ significantly by ADCY9 genotype: HR = 0.92 (95% CI, 0.81-1.05) for GG; HR = 0.94 (95% CI, 0.84-1.06) for AG; and HR = 0.93 (95% CI, 0.76-1.13) for AA genotype carriers respectively; genotypic p for interaction = 0.96. Furthermore, there were no associations between ADCY9 genotype and the proportional reductions in the separate components of major vascular events, or meaningful differences in lipid response to anacetrapib. CONCLUSIONS:The REVEAL trial is the single largest study to date evaluating the ADCY9 pharmacogenetic interaction. It provides no support for the hypothesis that ADCY9 genotype is materially relevant to the clinical effects of the CETP inhibitor anacetrapib. The ongoing dal-GenE study will provide direct evidence as to whether there is any specific pharmacogenetic interaction with dalcetrapib. CLINICAL TRIAL REGISTRATION:URL: https://www.clinicaltrials.gov Unique Identifier: NCT01252953; URL: http://www.isrctn.com Unique Identifier: ISRCTN48678192; URL: https://www.clinicaltrialsregister.eu Unique Identifier: 2010-023467-18.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041546; html:https://europepmc.org/articles/PMC6749971; pdf:https://europepmc.org/articles/PMC6749971?pdf=render"
-  },
-  {
     "id": "30551632",
     "doi": "https://doi.org/10.3390/ijerph15122845",
     "title": "Incidence, Costs and Predictors of Non-Union, Delayed Union and Mal-Union Following Long Bone Fracture.",
@@ -7053,6 +7036,23 @@
     "abstract": "Fracture healing complications are common and result in significant healthcare burden. The aim of this study was to determine the rate, costs and predictors of two-year readmission for surgical management of healing complications (delayed, mal, non-union) following fracture of the humerus, tibia or femur. Humeral, tibial and femoral (excluding proximal) fractures registered by the Victorian Orthopaedic Trauma Outcomes Registry over five years (n = 3962) were linked with population-level hospital admissions data to identify two-year readmissions for delayed, mal or non-union. Study outcomes included hospital length-of-stay (LOS) and inpatient costs. Multivariable logistic regression was used to determine demographic and injury-related factors associated with admission for fracture healing complications. Of the 3886 patients linked, 8.1% were readmitted for healing complications within two years post-fracture, with non-union the most common complication and higher rates for femoral and tibial shaft fractures. Admissions for fracture healing complications incurred total costs of $4.9 million AUD, with a median LOS of two days. After adjusting for confounders, patients had higher odds of developing complications if they were older, receiving compensation or had tibial or femoral shaft fractures. Patients who are older, with tibial and femoral shaft fractures should be targeted for future research aimed at preventing complications.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/ijerph15122845; html:https://europepmc.org/articles/PMC6313538; pdf:https://europepmc.org/articles/PMC6313538?pdf=render"
+  },
+  {
+    "id": "31331193",
+    "doi": "https://doi.org/10.1161/circulationaha.119.041546",
+    "title": "Impact of ADCY9 Genotype on Response to Anacetrapib.",
+    "authorString": "Hopewell JC, Ibrahim M, Hill M, Shaw PM, Braunwald E, Blaustein RO, Bowman L, Landray MJ, Sabatine MS, Collins R, HPS3/TIMI55 - REVEAL Collaborative Group.",
+    "authorAffiliations": "",
+    "journalTitle": "Circulation",
+    "pubYear": "2019",
+    "date": "2019-07-23",
+    "isOpenAccess": "Y",
+    "keywords": "Anacetrapib; Major Vascular Events; Cetp-inhibition",
+    "nationalPriorities": "Better, Faster and More Efficient Clinical Trials",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Exploratory analyses of previous randomized trials generated a hypothesis that the clinical response to CETP inhibitor therapy differs by ADCY9 genotype, prompting the ongoing dal-GenE trial in individuals with a particular genetic profile. The randomized placebo-controlled REVEAL trial demonstrated the clinical efficacy of the CETP inhibitor anacetrapib among patients with pre-existing atherosclerotic vascular disease. In the present study, we have examined the impact of ADCY9 genotype on response to anacetrapib within the REVEAL trial. METHODS:Individuals with stable atherosclerotic vascular disease, who were treated with intensive atorvastatin therapy, received either anacetrapib 100 mg daily or matching placebo. Cox proportional hazards models, adjusted for the first 5 principal components of ancestry, were used to estimate the effects of allocation to anacetrapib on major vascular events (a composite of coronary death, myocardial infarction, coronary revascularization or presumed ischaemic stroke) and the interaction with ADCY9 rs1967309 genotype. RESULTS:Among 19,210 genotyped individuals of European ancestry, 2,504 (13.0%) had a first major vascular event during 4 years median follow-up: 1,216 (12.6%) among anacetrapib-allocated participants and 1,288 (13.4%) among placebo-allocated participants. Proportional reductions in the risk of major vascular events with anacetrapib did not differ significantly by ADCY9 genotype: HR = 0.92 (95% CI, 0.81-1.05) for GG; HR = 0.94 (95% CI, 0.84-1.06) for AG; and HR = 0.93 (95% CI, 0.76-1.13) for AA genotype carriers respectively; genotypic p for interaction = 0.96. Furthermore, there were no associations between ADCY9 genotype and the proportional reductions in the separate components of major vascular events, or meaningful differences in lipid response to anacetrapib. CONCLUSIONS:The REVEAL trial is the single largest study to date evaluating the ADCY9 pharmacogenetic interaction. It provides no support for the hypothesis that ADCY9 genotype is materially relevant to the clinical effects of the CETP inhibitor anacetrapib. The ongoing dal-GenE study will provide direct evidence as to whether there is any specific pharmacogenetic interaction with dalcetrapib. CLINICAL TRIAL REGISTRATION:URL: https://www.clinicaltrials.gov Unique Identifier: NCT01252953; URL: http://www.isrctn.com Unique Identifier: ISRCTN48678192; URL: https://www.clinicaltrialsregister.eu Unique Identifier: 2010-023467-18.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041546; html:https://europepmc.org/articles/PMC6749971; pdf:https://europepmc.org/articles/PMC6749971?pdf=render"
   },
   {
     "id": "33185739",
@@ -7123,23 +7123,6 @@
     "urls": "doi:https://doi.org/10.1038/s41591-019-0665-2; html:https://europepmc.org/articles/PMC6922049; pdf:https://europepmc.org/articles/PMC6922049?pdf=render; doi:https://doi.org/10.1038/s41591-019-0665-2"
   },
   {
-    "id": "33075408",
-    "doi": "https://doi.org/10.1016/j.jaci.2020.10.007",
-    "title": "Factors associated with adverse COVID-19 outcomes in patients with psoriasis-insights from a global registry-based study.",
-    "authorString": "Mahil SK, Dand N, Mason KJ, Yiu ZZN, Tsakok T, Meynell F, Coker B, McAteer H, Moorhead L, Mackenzie T, Rossi MT, Rivera R, Mahe E, Carugno A, Magnano M, Rech G, Balogh EA, Feldman SR, De La Cruz C, Choon SE, Naldi L, Lambert J, Spuls P, Jullien D, Bachelez H, McMahon DE, Freeman EE, Gisondi P, Puig L, Warren RB, Di Meglio P, Langan SM, Capon F, Griffiths CEM, Barker JN, Smith CH, PsoProtect study group.",
-    "authorAffiliations": "",
-    "journalTitle": "The Journal of allergy and clinical immunology",
-    "pubYear": "2020",
-    "date": "2020-10-16",
-    "isOpenAccess": "Y",
-    "keywords": "Psoriasis; Immunosuppressants; risk factors; Hospitalization; Biologics; Covid-19",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:The multimorbid burden and use of systemic immunosuppressants in people with psoriasis may confer greater risk of adverse outcomes of coronavirus disease 2019 (COVID-19), but the data are limited. OBJECTIVE:Our aim was to characterize the course of COVID-19 in patients with psoriasis and identify factors associated with hospitalization. METHODS:Clinicians reported patients with psoriasis with confirmed/suspected COVID-19 via an international registry, Psoriasis Patient Registry for Outcomes, Therapy and Epidemiology of COVID-19 Infection. Multiple logistic regression was used to assess the association between clinical and/or demographic characteristics and hospitalization. A\u00a0separate patient-facing registry characterized risk-mitigating behaviors. RESULTS:Of 374 clinician-reported patients from 25 countries, 71% were receiving a biologic, 18% were receiving a nonbiologic, and 10% were not receiving any systemic treatment for psoriasis. In all, 348 patients (93%) were fully recovered from COVID-19, 77 (21%) were hospitalized, and 9 (2%) died. Increased hospitalization risk was associated with older age (multivariable-adjusted odds ratio [OR]\u00a0= 1.59 per 10 years; 95% CI\u00a0= 1.19-2.13), male sex (OR\u00a0= 2.51; 95% CI\u00a0= 1.23-5.12), nonwhite ethnicity (OR\u00a0= 3.15; 95% CI\u00a0= 1.24-8.03), and comorbid chronic lung disease (OR\u00a0= 3.87; 95% CI\u00a0= 1.52-9.83). Hospitalization was more frequent in patients using nonbiologic systemic therapy than in those using biologics (OR\u00a0= 2.84; 95% CI\u00a0= 1.31-6.18). No significant differences were found between classes of biologics. Independent patient-reported data (n\u00a0= 1626 across 48 countries) suggested lower levels of social isolation in individuals receiving nonbiologic systemic therapy than in those receiving biologics (OR\u00a0= 0.68; 95% CI\u00a0= 0.50-0.94). CONCLUSION:In this international case series of patients with moderate-to-severe psoriasis, biologic use was associated with lower risk of COVID-19-related hospitalization than with use of nonbiologic systemic therapies; however, further investigation is warranted on account of potential selection bias and unmeasured confounding. Established risk factors (being older, being male, being of nonwhite ethnicity, and having comorbidities) were associated with higher hospitalization rates.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jaci.2020.10.007; html:https://europepmc.org/articles/PMC7566694; pdf:https://europepmc.org/articles/PMC7566694?pdf=render"
-  },
-  {
     "id": "31504409",
     "doi": "https://doi.org/10.1093/eurheartj/ehz587",
     "title": "The relation between systemic inflammation and incident cancer in patients with stable cardiovascular disease: a cohort study.",
@@ -7155,6 +7138,23 @@
     "abstract": "AIMS:Low-grade inflammation, measured by elevated plasma concentrations of high-sensitive C-reactive protein (CRP), is a risk factor for cardiovascular disease (CVD). There is evidence that low-grade inflammation is also related to a higher risk of cancer. The present prospective cohort study evaluates the relation between low-grade systemic inflammation and risk of cancer in patients with stable CVD. METHODS AND RESULTS:In total, 7178 patients with stable CVD and plasma CRP levels \u226410\u2009mg/L were included. Data were linked to the Dutch national cancer registry. Cox regression models were fitted to study the relation between CRP and incident CVD and cancer. After a median follow-up time of 8.3\u2009years (interquartile range 4.6-12.3) 1072 incident cancer diagnoses were observed. C-reactive protein concentration was related to total cancer [hazard ratio (HR) 1.35; 95% confidence interval (CI) 1.10-1.65] comparing last quintile to first quintile of CRP. Especially lung cancer, independent of histopathological subtype, was related to CRP (HR 3.39; 95% CI 2.02-5.69 comparing last to first quintile of CRP). Incidence of epithelial neoplasms and especially squamous cell neoplasms were related to CRP concentration, irrespective of anatomical location. Sensitivity analyses after excluding patients with a cancer diagnosis within 1, 2, and 5 years of follow-up showed similar results. No effect modification was observed by smoking status or time since smoking cessation (P-values for interaction > 0.05). CONCLUSION:Chronic systemic low-grade inflammation, measured by CRP levels \u226410\u2009mg/L, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD. The relation between inflammation and incident cancer is seen in former and current smokers and is uncertain in never smokers.",
     "laySummary": "Inflammation is a risk factor for cardiovascular disease (CVD) and is linked with a higher risk of cancer. This study investigates the relationship between inflammation and risk of cancer in patients with stable CVD. The study reports that low-grade inflammation, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD.",
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz587; html:https://europepmc.org/articles/PMC6925382; pdf:https://europepmc.org/articles/PMC6925382?pdf=render"
+  },
+  {
+    "id": "33075408",
+    "doi": "https://doi.org/10.1016/j.jaci.2020.10.007",
+    "title": "Factors associated with adverse COVID-19 outcomes in patients with psoriasis-insights from a global registry-based study.",
+    "authorString": "Mahil SK, Dand N, Mason KJ, Yiu ZZN, Tsakok T, Meynell F, Coker B, McAteer H, Moorhead L, Mackenzie T, Rossi MT, Rivera R, Mahe E, Carugno A, Magnano M, Rech G, Balogh EA, Feldman SR, De La Cruz C, Choon SE, Naldi L, Lambert J, Spuls P, Jullien D, Bachelez H, McMahon DE, Freeman EE, Gisondi P, Puig L, Warren RB, Di Meglio P, Langan SM, Capon F, Griffiths CEM, Barker JN, Smith CH, PsoProtect study group.",
+    "authorAffiliations": "",
+    "journalTitle": "The Journal of allergy and clinical immunology",
+    "pubYear": "2020",
+    "date": "2020-10-16",
+    "isOpenAccess": "Y",
+    "keywords": "Psoriasis; Immunosuppressants; risk factors; Hospitalization; Biologics; Covid-19",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:The multimorbid burden and use of systemic immunosuppressants in people with psoriasis may confer greater risk of adverse outcomes of coronavirus disease 2019 (COVID-19), but the data are limited. OBJECTIVE:Our aim was to characterize the course of COVID-19 in patients with psoriasis and identify factors associated with hospitalization. METHODS:Clinicians reported patients with psoriasis with confirmed/suspected COVID-19 via an international registry, Psoriasis Patient Registry for Outcomes, Therapy and Epidemiology of COVID-19 Infection. Multiple logistic regression was used to assess the association between clinical and/or demographic characteristics and hospitalization. A\u00a0separate patient-facing registry characterized risk-mitigating behaviors. RESULTS:Of 374 clinician-reported patients from 25 countries, 71% were receiving a biologic, 18% were receiving a nonbiologic, and 10% were not receiving any systemic treatment for psoriasis. In all, 348 patients (93%) were fully recovered from COVID-19, 77 (21%) were hospitalized, and 9 (2%) died. Increased hospitalization risk was associated with older age (multivariable-adjusted odds ratio [OR]\u00a0= 1.59 per 10 years; 95% CI\u00a0= 1.19-2.13), male sex (OR\u00a0= 2.51; 95% CI\u00a0= 1.23-5.12), nonwhite ethnicity (OR\u00a0= 3.15; 95% CI\u00a0= 1.24-8.03), and comorbid chronic lung disease (OR\u00a0= 3.87; 95% CI\u00a0= 1.52-9.83). Hospitalization was more frequent in patients using nonbiologic systemic therapy than in those using biologics (OR\u00a0= 2.84; 95% CI\u00a0= 1.31-6.18). No significant differences were found between classes of biologics. Independent patient-reported data (n\u00a0= 1626 across 48 countries) suggested lower levels of social isolation in individuals receiving nonbiologic systemic therapy than in those receiving biologics (OR\u00a0= 0.68; 95% CI\u00a0= 0.50-0.94). CONCLUSION:In this international case series of patients with moderate-to-severe psoriasis, biologic use was associated with lower risk of COVID-19-related hospitalization than with use of nonbiologic systemic therapies; however, further investigation is warranted on account of potential selection bias and unmeasured confounding. Established risk factors (being older, being male, being of nonwhite ethnicity, and having comorbidities) were associated with higher hospitalization rates.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jaci.2020.10.007; html:https://europepmc.org/articles/PMC7566694; pdf:https://europepmc.org/articles/PMC7566694?pdf=render"
   },
   {
     "id": "31787481",
@@ -7565,23 +7565,6 @@
     "urls": "doi:https://doi.org/10.1016/j.envres.2018.07.015"
   },
   {
-    "id": "33031764",
-    "doi": "https://doi.org/10.1016/s0140-6736(20)32013-4",
-    "title": "Lopinavir-ritonavir in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.",
-    "authorString": "RECOVERY Collaborative Group.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2020",
-    "date": "2020-10-05",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Lopinavir-ritonavir has been proposed as a treatment for COVID-19 on the basis of in vitro activity, preclinical studies, and observational studies. Here, we report the results of a randomised trial to assess whether lopinavir-ritonavir improves outcomes in patients admitted to hospital with COVID-19. METHODS:In this randomised, controlled, open-label, platform trial, a range of possible treatments was compared with usual care in patients admitted to hospital with COVID-19. The trial is underway at 176 hospitals in the UK. Eligible and consenting patients were randomly allocated to either usual standard of care alone or usual standard of care plus lopinavir-ritonavir (400 mg and 100 mg, respectively) by mouth for 10 days or until discharge (or one of the other RECOVERY treatment groups: hydroxychloroquine, dexamethasone, or azithromycin) using web-based simple (unstratified) randomisation with allocation concealment. Randomisation to usual care was twice that of any of the active treatment groups (eg, 2:1 in favour of usual care if the patient was eligible for only one active group, 2:1:1 if the patient was eligible for two active groups). The primary outcome was 28-day all-cause mortality. Analyses were done on an intention-to-treat basis in all randomly assigned participants. The trial is registered with ISRCTN, 50189673, and ClinicalTrials.gov, NCT04381936. FINDINGS:Between March 19, 2020, and June 29, 2020, 1616 patients were randomly allocated to receive lopinavir-ritonavir and 3424 patients to receive usual care. Overall, 374 (23%) patients allocated to lopinavir-ritonavir and 767 (22%) patients allocated to usual care died within 28 days (rate ratio 1\u00b703, 95% CI 0\u00b791-1\u00b717; p=0\u00b760). Results were consistent across all prespecified subgroups of patients. We observed no significant difference in time until discharge alive from hospital (median 11 days [IQR 5 to >28] in both groups) or the proportion of patients discharged from hospital alive within 28 days (rate ratio 0\u00b798, 95% CI 0\u00b791-1\u00b705; p=0\u00b753). Among patients not on invasive mechanical ventilation at baseline, there was no significant difference in the proportion who met the composite endpoint of invasive mechanical ventilation or death (risk ratio 1\u00b709, 95% CI 0\u00b799-1\u00b720; p=0\u00b7092). INTERPRETATION:In patients admitted to hospital with COVID-19, lopinavir-ritonavir was not associated with reductions in 28-day mortality, duration of hospital stay, or risk of progressing to invasive mechanical ventilation or death. These findings do not support the use of lopinavir-ritonavir for treatment of patients admitted to hospital with COVID-19. FUNDING:Medical Research Council and National Institute for Health Research.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)32013-4; html:https://europepmc.org/articles/PMC7535623"
-  },
-  {
     "id": "31443926",
     "doi": "https://doi.org/10.1016/s0140-6736(19)31674-5",
     "title": "Medium and long-term risks of specific cardiovascular diseases in survivors of 20 adult cancers: a population-based cohort study using multiple linked UK electronic health records databases.",
@@ -7597,6 +7580,23 @@
     "abstract": "BACKGROUND:The past few decades have seen substantial improvements in cancer survival, but concerns exist about long-term cardiovascular disease risk in survivors. Evidence is scarce on the risks of specific cardiovascular diseases in survivors of a wide range of cancers to inform prevention and management. In this study, we used large-scale electronic health records data from multiple linked UK databases to address these evidence gaps. METHODS:For this population-based cohort study, we used linked primary care, hospital, and cancer registry data from the UK Clinical Practice Research Datalink to identify cohorts of survivors of the 20 most common cancers who were 18 years or older and alive 12 months after diagnosis and controls without history of cancer, matched for age, sex, and general practice. We compared risks for a range of cardiovascular disease outcomes using crude and adjusted Cox models. We fitted interactions to investigate effect modification, and flexible parametric survival models to estimate absolute excess risks over time. FINDINGS:Between Jan 1, 1990, and Dec 31, 2015, 126\u2008120 individuals with a diagnosis of a cancer of interest still being followed up at least 1 year later were identified and matched to 630\u2008144 controls. After exclusions, 108\u2008215 cancer survivors and 523\u2008541 controls were included in the main analyses. Venous thromboembolism risk was elevated in survivors of 18 of 20 site-specific cancers compared with that of controls; adjusted hazard ratios (HRs) ranged from 1\u00b772 (95% CI 1\u00b757-1\u00b789) in patients after prostate cancer to 9\u00b772 (5\u00b750-17\u00b718) after pancreatic cancer. HRs decreased over time, but remained elevated more than 5 years after diagnosis. We observed increased risks of heart failure or cardiomyopathy in patients after ten of 20 cancers, including haematological (adjusted HR 1\u00b794, 1\u00b766-2\u00b725, with non-Hodgkin lymphoma; 1\u00b777, 1\u00b750-2\u00b709, with leukaemia; and 3\u00b729, 2\u00b759-4\u00b718, with multiple myeloma), oesophageal (1\u00b796, 1\u00b746-2\u00b764), lung (1\u00b782, 1\u00b752-2\u00b717) kidney (1\u00b773, 1\u00b738-2\u00b717) and ovarian (1\u00b759, 1\u00b719-2\u00b712). Elevated risks of arrhythmia, pericarditis, coronary artery disease, stroke, and valvular heart disease were also observed for multiple cancers, including haematological malignancies. HRs for heart failure or cardiomyopathy and venous thromboembolism were greater in patients without previous cardiovascular disease and in younger patients. However, absolute excess risks were generally greater with increasing age. Increased risks of these outcomes seemed most pronounced in patients who had received chemotherapy. INTERPRETATION:Survivors of most site-specific cancers had increased medium-term to long-term risk for one or more cardiovascular diseases compared with that for the general population, with substantial variations between cancer sites. FUNDING:Wellcome Trust and Royal Society.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31674-5; html:https://europepmc.org/articles/PMC6857444; pdf:https://europepmc.org/articles/PMC6857444?pdf=render"
+  },
+  {
+    "id": "33031764",
+    "doi": "https://doi.org/10.1016/s0140-6736(20)32013-4",
+    "title": "Lopinavir-ritonavir in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.",
+    "authorString": "RECOVERY Collaborative Group.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2020",
+    "date": "2020-10-05",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Lopinavir-ritonavir has been proposed as a treatment for COVID-19 on the basis of in vitro activity, preclinical studies, and observational studies. Here, we report the results of a randomised trial to assess whether lopinavir-ritonavir improves outcomes in patients admitted to hospital with COVID-19. METHODS:In this randomised, controlled, open-label, platform trial, a range of possible treatments was compared with usual care in patients admitted to hospital with COVID-19. The trial is underway at 176 hospitals in the UK. Eligible and consenting patients were randomly allocated to either usual standard of care alone or usual standard of care plus lopinavir-ritonavir (400 mg and 100 mg, respectively) by mouth for 10 days or until discharge (or one of the other RECOVERY treatment groups: hydroxychloroquine, dexamethasone, or azithromycin) using web-based simple (unstratified) randomisation with allocation concealment. Randomisation to usual care was twice that of any of the active treatment groups (eg, 2:1 in favour of usual care if the patient was eligible for only one active group, 2:1:1 if the patient was eligible for two active groups). The primary outcome was 28-day all-cause mortality. Analyses were done on an intention-to-treat basis in all randomly assigned participants. The trial is registered with ISRCTN, 50189673, and ClinicalTrials.gov, NCT04381936. FINDINGS:Between March 19, 2020, and June 29, 2020, 1616 patients were randomly allocated to receive lopinavir-ritonavir and 3424 patients to receive usual care. Overall, 374 (23%) patients allocated to lopinavir-ritonavir and 767 (22%) patients allocated to usual care died within 28 days (rate ratio 1\u00b703, 95% CI 0\u00b791-1\u00b717; p=0\u00b760). Results were consistent across all prespecified subgroups of patients. We observed no significant difference in time until discharge alive from hospital (median 11 days [IQR 5 to >28] in both groups) or the proportion of patients discharged from hospital alive within 28 days (rate ratio 0\u00b798, 95% CI 0\u00b791-1\u00b705; p=0\u00b753). Among patients not on invasive mechanical ventilation at baseline, there was no significant difference in the proportion who met the composite endpoint of invasive mechanical ventilation or death (risk ratio 1\u00b709, 95% CI 0\u00b799-1\u00b720; p=0\u00b7092). INTERPRETATION:In patients admitted to hospital with COVID-19, lopinavir-ritonavir was not associated with reductions in 28-day mortality, duration of hospital stay, or risk of progressing to invasive mechanical ventilation or death. These findings do not support the use of lopinavir-ritonavir for treatment of patients admitted to hospital with COVID-19. FUNDING:Medical Research Council and National Institute for Health Research.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)32013-4; html:https://europepmc.org/articles/PMC7535623"
   },
   {
     "id": "31822727",
@@ -7837,23 +7837,6 @@
     "urls": "doi:https://doi.org/10.1186/s12911-019-0824-x; html:https://europepmc.org/articles/PMC6558725; pdf:https://europepmc.org/articles/PMC6558725?pdf=render"
   },
   {
-    "id": "32681152",
-    "doi": "https://doi.org/10.1038/s41596-020-0343-3",
-    "title": "Identifying unknown metabolites using NMR-based metabolic profiling techniques.",
-    "authorString": "Garcia-Perez I, Posma JM, Serrano-Contreras JI, Boulang\u00e9 CL, Chan Q, Frost G, Stamler J, Elliott P, Lindon JC, Holmes E, Nicholson JK.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature protocols",
-    "pubYear": "2020",
-    "date": "2020-07-17",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Metabolic profiling of biological samples provides important insights into multiple physiological and pathological processes but is hindered by a lack of automated annotation and standardized methods for structure elucidation of candidate disease biomarkers. Here we describe a system for identifying molecular species derived from nuclear magnetic resonance (NMR) spectroscopy-based metabolic phenotyping studies, with detailed information on sample preparation, data acquisition and data modeling. We provide eight different modular workflows to be followed in a recommended sequential order according to their level of difficulty. This multi-platform system involves the use of statistical spectroscopic tools such as Statistical Total Correlation Spectroscopy (STOCSY), Subset Optimization by Reference Matching (STORM) and Resolution-Enhanced (RED)-STORM to identify other signals in the NMR spectra relating to the same molecule. It also uses two-dimensional NMR spectroscopic analysis, separation and pre-concentration techniques, multiple hyphenated analytical platforms and data extraction from existing databases. The complete system, using all eight workflows, would take up to a month, as it includes multi-dimensional NMR experiments that require prolonged experiment times. However, easier identification cases using fewer steps would take 2 or 3 days. This approach to biomarker discovery is efficient and cost-effective and offers increased chemical space coverage of the metabolome, resulting in faster and more accurate assignment of NMR-generated biomarkers arising from metabolic phenotyping studies. It requires a basic understanding of MATLAB to use the statistical spectroscopic tools and analytical skills to perform solid phase extraction (SPE), liquid chromatography (LC) fraction collection, LC-NMR-mass spectroscopy and one-dimensional and two-dimensional NMR experiments.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41596-020-0343-3"
-  },
-  {
     "id": "31204027",
     "doi": "https://doi.org/10.1016/j.injury.2019.06.012",
     "title": "Comparing the outcomes of isolated, serious traumatic brain injury in older adults managed at major trauma centres and neurosurgical services: A registry-based cohort study.",
@@ -7869,6 +7852,23 @@
     "abstract": "BACKGROUND:The incidence of older adult traumatic brain injury (TBI) is increasing in both high and middle to low-income countries. It is unknown whether older adults with isolated, serious TBI can be safely managed outside of major trauma centres. This registry based cohort study aimed to compare mortality and functional outcomes of older adults with isolated, serious TBI who were managed at specialised Major Trauma Services (MTS) and Metropolitan Neurosurgical Services (MNS). METHOD:Older adults (65 years and over) who sustained an isolated, serious TBI following a low fall (from standing or \u2264 1\u2009m) were extracted from the Victorian State Trauma Registry from 2007 to 2016. Multivariable models were fitted to assess the association between hospital designation (MTS vs. MNS) and the two outcomes of interest: in-hospital mortality and functional outcome, adjusting for potential confounders. Functional outcomes were measured using the Glasgow Outcome Scale Extended at six months post-injury. RESULTS:From 2007-2016, there were 1904 older adults who sustained an isolated, serious TBI from a low fall who received definitive care at an MTS (n\u2009=\u20091124) or an MNS (n\u2009=\u2009780). After adjusting for confounders, there was no mortality benefit for patients managed at an MTS over an MNS (OR\u2009=\u20090.84; 95% CI: 0.65, 1.08; P\u2009=\u20090.17) or improvement in functional outcome six months post-injury (OR\u2009=\u20091.13; 95% CI: 0.94, 1.36; P\u2009=\u20090.21). CONCLUSION:For older adults with isolated, serious TBI following a low fall, there was no difference in mortality or functional outcome based on definitive management at an MTS or an MNS. This confirms that MNS without the added designation of a major trauma centre are a suitable destination for the management of isolated, serious TBI in older adults.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.injury.2019.06.012"
+  },
+  {
+    "id": "32681152",
+    "doi": "https://doi.org/10.1038/s41596-020-0343-3",
+    "title": "Identifying unknown metabolites using NMR-based metabolic profiling techniques.",
+    "authorString": "Garcia-Perez I, Posma JM, Serrano-Contreras JI, Boulang\u00e9 CL, Chan Q, Frost G, Stamler J, Elliott P, Lindon JC, Holmes E, Nicholson JK.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature protocols",
+    "pubYear": "2020",
+    "date": "2020-07-17",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Metabolic profiling of biological samples provides important insights into multiple physiological and pathological processes but is hindered by a lack of automated annotation and standardized methods for structure elucidation of candidate disease biomarkers. Here we describe a system for identifying molecular species derived from nuclear magnetic resonance (NMR) spectroscopy-based metabolic phenotyping studies, with detailed information on sample preparation, data acquisition and data modeling. We provide eight different modular workflows to be followed in a recommended sequential order according to their level of difficulty. This multi-platform system involves the use of statistical spectroscopic tools such as Statistical Total Correlation Spectroscopy (STOCSY), Subset Optimization by Reference Matching (STORM) and Resolution-Enhanced (RED)-STORM to identify other signals in the NMR spectra relating to the same molecule. It also uses two-dimensional NMR spectroscopic analysis, separation and pre-concentration techniques, multiple hyphenated analytical platforms and data extraction from existing databases. The complete system, using all eight workflows, would take up to a month, as it includes multi-dimensional NMR experiments that require prolonged experiment times. However, easier identification cases using fewer steps would take 2 or 3 days. This approach to biomarker discovery is efficient and cost-effective and offers increased chemical space coverage of the metabolome, resulting in faster and more accurate assignment of NMR-generated biomarkers arising from metabolic phenotyping studies. It requires a basic understanding of MATLAB to use the statistical spectroscopic tools and analytical skills to perform solid phase extraction (SPE), liquid chromatography (LC) fraction collection, LC-NMR-mass spectroscopy and one-dimensional and two-dimensional NMR experiments.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41596-020-0343-3"
   },
   {
     "id": "32680598",
