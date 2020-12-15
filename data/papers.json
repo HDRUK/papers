@@ -1479,23 +1479,6 @@
     "urls": "doi:https://doi.org/10.1038/s43016-020-0093-y; html:https://europepmc.org/articles/PMC7497842; pdf:https://europepmc.org/articles/PMC7497842?pdf=render; doi:https://doi.org/10.1038/s43016-020-0093-y"
   },
   {
-    "id": "32790708",
-    "doi": "https://doi.org/10.1371/journal.pone.0237298",
-    "title": "Clinical academic research in the time of Corona: A simulation study in England and a call for action.",
-    "authorString": "Banerjee A, Katsoulis M, Lai AG, Pasea L, Treibel TA, Manisty C, Denaxas S, Quarta G, Hemingway H, Cavalcante JL, Noursadeghi M, Moon JC.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2020",
-    "date": "2020-08-13",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVES:We aimed to model the impact of coronavirus (COVID-19) on the clinical academic response in England, and to provide recommendations for COVID-related research. DESIGN:A stochastic model to determine clinical academic capacity in England, incorporating the following key factors which affect the ability to conduct research in the COVID-19 climate: (i) infection growth rate and population infection rate (from UK COVID-19 statistics and WHO); (ii) strain on the healthcare system (from published model); and (iii) availability of clinical academic staff with appropriate skillsets affected by frontline clinical activity and sickness (from UK statistics). SETTING:Clinical academics in primary and secondary care in England. PARTICIPANTS:Equivalent of 3200 full-time clinical academics in England. INTERVENTIONS:Four policy approaches to COVID-19 with differing population infection rates: \"Italy model\" (6%), \"mitigation\" (10%), \"relaxed mitigation\" (40%) and \"do-nothing\" (80%) scenarios. Low and high strain on the health system (no clinical academics able to do research at 10% and 5% infection rate, respectively. MAIN OUTCOME MEASURES:Number of full-time clinical academics available to conduct clinical research during the pandemic in England. RESULTS:In the \"Italy model\", \"mitigation\", \"relaxed mitigation\" and \"do-nothing\" scenarios, from 5 March 2020 the duration (days) and peak infection rates (%) are 95(2.4%), 115(2.5%), 240(5.3%) and 240(16.7%) respectively. Near complete attrition of academia (87% reduction, <400 clinical academics) occurs 35 days after pandemic start for 11, 34, 62, 76 days respectively-with no clinical academics at all for 37 days in the \"do-nothing\" scenario. Restoration of normal academic workforce (80% of normal capacity) takes 11, 12, 30 and 26 weeks respectively. CONCLUSIONS:Pandemic COVID-19 crushes the science needed at system level. National policies mitigate, but the academic community needs to adapt. We highlight six key strategies: radical prioritisation (eg 3-4 research ideas per institution), deep resourcing, non-standard leadership (repurposing of key non-frontline teams), rationalisation (profoundly simple approaches), careful site selection (eg protected sites with large academic backup) and complete suspension of academic competition with collaborative approaches.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0237298; html:https://europepmc.org/articles/PMC7425844; pdf:https://europepmc.org/articles/PMC7425844?pdf=render"
-  },
-  {
     "id": "31774502",
     "doi": "https://doi.org/10.1093/ehjcvp/pvz071",
     "title": "An observational study of INR control according to NICE criteria in patients with non-valvular atrial fibrillation-The SAIL Warfarin Out of Range Descriptors Study (SWORDS).",
@@ -1511,6 +1494,23 @@
     "abstract": "AIMS:In patients with non-valvular atrial fibrillation (NVAF) prescribed warfarin, the UK National Institute of Health and Care Excellence (NICE) defines poor anticoagulation as a TTR of\u2009<\u200965%, any 2 INRs within a 6 month period of\u2009\u2264\u20091.5 (\"low\"), 2 INRs \u22655 within 6months, or any INR \u2265 8 (\"high\").Our objectives were to (i) quantify the number of patients with poor INR control and (ii) describe the demographic and clinical characteristics associated with poor INR control. METHOD AND RESULTS:Linked anonymised health record data for Wales (2006-2017) was used to evaluate patients prescribed warfarin who had at least 6 months of INR data.32,380 patients were included. In total, 13,913 (43.0%) patients had at least one of the NICE markers of poor INR control. Importantly, in the 24,123 (74.6%) of the cohort with an acceptable TTR (\u226565%), 5,676 (23.5%) had either low or high INR readings at some point in their history. In a multivariable regression female gender, age (\u226575), excess alcohol, diabetes heart failure, ischaemic heart disease and respiratory disease were independently associated with all markers of poor INR control. CONCLUSION:Acceptable INR control according to NICE standards is poor. Of those with an acceptable TTR (>65%) one quarter still had unacceptably low or high INR levels according to NICE criteria. Thus, only using TTR to assess effectiveness with warfarin has the potential to miss a large number of patients with non-therapeutic INRs who are likely to be at increased risk.",
     "laySummary": "This retrospective observational cohort study aimed to quanitfy the number of patients with non-valvular atrial fibrillation (NVAF) prescribed warfarin who exhibit NICE-defined poor international normalised ratio (INR) control. Another objective was to describe the relationship between demographic and clinical characteristics of these patients and poor INR control. The results from statistical analyses in this study suggest a considerable opportunity to improve both embloc and bleeding risk, eben though the relationship between poor INR control and these clinical outcomes remains to be determined.",
     "urls": "doi:https://doi.org/10.1093/ehjcvp/pvz071"
+  },
+  {
+    "id": "32790708",
+    "doi": "https://doi.org/10.1371/journal.pone.0237298",
+    "title": "Clinical academic research in the time of Corona: A simulation study in England and a call for action.",
+    "authorString": "Banerjee A, Katsoulis M, Lai AG, Pasea L, Treibel TA, Manisty C, Denaxas S, Quarta G, Hemingway H, Cavalcante JL, Noursadeghi M, Moon JC.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2020",
+    "date": "2020-08-13",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVES:We aimed to model the impact of coronavirus (COVID-19) on the clinical academic response in England, and to provide recommendations for COVID-related research. DESIGN:A stochastic model to determine clinical academic capacity in England, incorporating the following key factors which affect the ability to conduct research in the COVID-19 climate: (i) infection growth rate and population infection rate (from UK COVID-19 statistics and WHO); (ii) strain on the healthcare system (from published model); and (iii) availability of clinical academic staff with appropriate skillsets affected by frontline clinical activity and sickness (from UK statistics). SETTING:Clinical academics in primary and secondary care in England. PARTICIPANTS:Equivalent of 3200 full-time clinical academics in England. INTERVENTIONS:Four policy approaches to COVID-19 with differing population infection rates: \"Italy model\" (6%), \"mitigation\" (10%), \"relaxed mitigation\" (40%) and \"do-nothing\" (80%) scenarios. Low and high strain on the health system (no clinical academics able to do research at 10% and 5% infection rate, respectively. MAIN OUTCOME MEASURES:Number of full-time clinical academics available to conduct clinical research during the pandemic in England. RESULTS:In the \"Italy model\", \"mitigation\", \"relaxed mitigation\" and \"do-nothing\" scenarios, from 5 March 2020 the duration (days) and peak infection rates (%) are 95(2.4%), 115(2.5%), 240(5.3%) and 240(16.7%) respectively. Near complete attrition of academia (87% reduction, <400 clinical academics) occurs 35 days after pandemic start for 11, 34, 62, 76 days respectively-with no clinical academics at all for 37 days in the \"do-nothing\" scenario. Restoration of normal academic workforce (80% of normal capacity) takes 11, 12, 30 and 26 weeks respectively. CONCLUSIONS:Pandemic COVID-19 crushes the science needed at system level. National policies mitigate, but the academic community needs to adapt. We highlight six key strategies: radical prioritisation (eg 3-4 research ideas per institution), deep resourcing, non-standard leadership (repurposing of key non-frontline teams), rationalisation (profoundly simple approaches), careful site selection (eg protected sites with large academic backup) and complete suspension of academic competition with collaborative approaches.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0237298; html:https://europepmc.org/articles/PMC7425844; pdf:https://europepmc.org/articles/PMC7425844?pdf=render"
   },
   {
     "id": "30423068",
@@ -2329,23 +2329,6 @@
     "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537530/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537530/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7537530; pdf:https://europepmc.org/articles/PMC7537530?pdf=render"
   },
   {
-    "id": "33053479",
-    "doi": "https://doi.org/10.1016/j.chiabu.2020.104760",
-    "title": "Characterizing newborn and older infant entries into care in England between 2006 and 2014.",
-    "authorString": "Pearson RJ, Jay MA, O'Donnell M, Wijlaars L, Gilbert R.",
-    "authorAffiliations": "",
-    "journalTitle": "Child abuse & neglect",
-    "pubYear": "2020",
-    "date": "2020-10-11",
-    "isOpenAccess": "Y",
-    "keywords": "Longitudinal data; Infancy; Latent Class Analysis; Entry Into Care; Out-of-court Arrangements",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Background: </b>The risk of entry to state care during infancy is increasing, both here in England and abroad, with most entering within a week of birth ('newborns'). However, little is known about these infants or of their pathways through care over early childhood.<br><br><b>Objective: </b>To characterize infant entries to care in England.<br><br><b>Participants and setting: </b>All children in England who first entered care during infancy, between April 2006 and March 2014 (n = 42,000).<br><br><b>Methods: </b>We compared sociodemographic and care characteristics for infants entering care over the study period by age at first entry (newborn: <1wks, older infant 1-51wks). Among those who entered before April 2010, we further characterized care over follow-up (i.e. 4 years from first entry) and employed latent class analysis to uncover any common pathways through care.<br><br><b>Results: </b>Almost 40 % of infants first entered care as a newborn. Most infants first entered care under s 20 arrangements (i.e. out-of-court, 60 % of newborns vs 47 % of older infants). Among infants entering before April 2010, most were adopted over follow-up (60 % vs 37 %), though many were restored to parental care (20 % vs 32 %) or exited care to live with extended family (13 % vs 19 %). One in six infants (17.7 %) had particularly unstable care trajectories over early childhood, typified by three or more placements or failed reunification.<br><br><b>Conclusions: </b>Evidence-based strengthening of pre-birth social work support is needed to improve preventive interventions before birth, to more effectively target infant placement into care. Linkages between child protection records and information on parents are needed to inform preventive strategies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.chiabu.2020.104760; html:https://europepmc.org/articles/PMC7718112"
-  },
-  {
     "id": "32060159",
     "doi": "https://doi.org/10.1136/bmjopen-2019-034396",
     "title": "Data-driven discovery of changes in clinical code usage over time: a case-study on changes in cardiovascular disease recording in two English electronic health records databases (2001-2015).",
@@ -2361,6 +2344,23 @@
     "abstract": "OBJECTIVES:To demonstrate how data-driven variability methods can be used to identify changes in disease recording in two English electronic health records databases between 2001 and 2015. DESIGN:Repeated cross-sectional analysis that applied data-driven temporal variability methods to assess month-by-month changes in routinely collected medical data. A measure of difference between months was calculated based on joint distributions of age, gender, socioeconomic status and recorded cardiovascular diseases. Distances between months were used to identify temporal trends in data recording. SETTING:400 English primary care practices from the Clinical Practice Research Datalink (CPRD GOLD) and 451 hospital providers from the Hospital Episode Statistics (HES). MAIN OUTCOMES:The proportion of patients (CPRD GOLD) and hospital admissions (HES) with a recorded cardiovascular disease (CPRD GOLD: coronary heart disease, heart failure, peripheral arterial disease, stroke; HES: International Classification of Disease codes I20-I69/G45). RESULTS:Both databases showed gradual changes in cardiovascular disease recording between 2001 and 2008. The recorded prevalence of included cardiovascular diseases in CPRD GOLD increased by 47%-62%, which partially reversed after 2008. For hospital records in HES, there was a relative decrease in angina pectoris (-34.4%) and unspecified stroke (-42.3%) over the same time period, with a concomitant increase in chronic coronary heart disease (+14.3%). Multiple abrupt changes in the use of myocardial infarction codes in hospital were found in March/April 2010, 2012 and 2014, possibly linked to updates of clinical coding guidelines. CONCLUSIONS:Identified temporal variability could be related to potentially non-medical causes such as updated coding guidelines. These artificial changes may introduce temporal correlation among diagnoses inferred from routine data, violating the assumptions of frequently used statistical methods. Temporal variability measures provide an objective and robust technique to identify, and subsequently account for, those changes in electronic health records studies without any prior knowledge of the data collection process.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2019-034396; html:https://europepmc.org/articles/PMC7045100; pdf:https://europepmc.org/articles/PMC7045100?pdf=render"
+  },
+  {
+    "id": "33053479",
+    "doi": "https://doi.org/10.1016/j.chiabu.2020.104760",
+    "title": "Characterizing newborn and older infant entries into care in England between 2006 and 2014.",
+    "authorString": "Pearson RJ, Jay MA, O'Donnell M, Wijlaars L, Gilbert R.",
+    "authorAffiliations": "",
+    "journalTitle": "Child abuse & neglect",
+    "pubYear": "2020",
+    "date": "2020-10-11",
+    "isOpenAccess": "Y",
+    "keywords": "Longitudinal data; Infancy; Latent Class Analysis; Entry Into Care; Out-of-court Arrangements",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Background: </b>The risk of entry to state care during infancy is increasing, both here in England and abroad, with most entering within a week of birth ('newborns'). However, little is known about these infants or of their pathways through care over early childhood.<br><br><b>Objective: </b>To characterize infant entries to care in England.<br><br><b>Participants and setting: </b>All children in England who first entered care during infancy, between April 2006 and March 2014 (n = 42,000).<br><br><b>Methods: </b>We compared sociodemographic and care characteristics for infants entering care over the study period by age at first entry (newborn: <1wks, older infant 1-51wks). Among those who entered before April 2010, we further characterized care over follow-up (i.e. 4 years from first entry) and employed latent class analysis to uncover any common pathways through care.<br><br><b>Results: </b>Almost 40 % of infants first entered care as a newborn. Most infants first entered care under s 20 arrangements (i.e. out-of-court, 60 % of newborns vs 47 % of older infants). Among infants entering before April 2010, most were adopted over follow-up (60 % vs 37 %), though many were restored to parental care (20 % vs 32 %) or exited care to live with extended family (13 % vs 19 %). One in six infants (17.7 %) had particularly unstable care trajectories over early childhood, typified by three or more placements or failed reunification.<br><br><b>Conclusions: </b>Evidence-based strengthening of pre-birth social work support is needed to improve preventive interventions before birth, to more effectively target infant placement into care. Linkages between child protection records and information on parents are needed to inform preventive strategies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.chiabu.2020.104760; html:https://europepmc.org/articles/PMC7718112"
   },
   {
     "id": "32946613",
@@ -2788,23 +2788,6 @@
     "urls": "doi:https://doi.org/10.1186/s12911-019-0805-0; html:https://europepmc.org/articles/PMC6472089; pdf:https://europepmc.org/articles/PMC6472089?pdf=render"
   },
   {
-    "id": "33240510",
-    "doi": "https://doi.org/10.15420/aer.2020.26",
-    "title": "Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology.",
-    "authorString": "van de Leur RR, Boonstra MJ, Bagheri A, Roudijk RW, Sammani A, Taha K, Doevendans PA, van der Harst P, van Dam PM, Hassink RJ, van Es R, Asselbergs FW.",
-    "authorAffiliations": "",
-    "journalTitle": "Arrhythmia & electrophysiology review",
-    "pubYear": "2020",
-    "date": "2020-11-01",
-    "isOpenAccess": "Y",
-    "keywords": "Artificial intelligence; Electrophysiology; Neural networks; ECG; Cardiology; Big Data; Deep Learning",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The combination of big data and artificial intelligence (AI) is having an increasing impact on the field of electrophysiology. Algorithms are created to improve the automated diagnosis of clinical ECGs or ambulatory rhythm devices. Furthermore, the use of AI during invasive electrophysiological studies or combining several diagnostic modalities into AI algorithms to aid diagnostics are being investigated. However, the clinical performance and applicability of created algorithms are yet unknown. In this narrative review, opportunities and threats of AI in the field of electrophysiology are described, mainly focusing on ECGs. Current opportunities are discussed with their potential clinical benefits as well as the challenges. Challenges in data acquisition, model performance, (external) validity, clinical implementation, algorithm interpretation as well as the ethical aspects of AI research are discussed. This article aims to guide clinicians in the evaluation of new AI applications for electrophysiology before their clinical implementation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.15420/aer.2020.26; html:https://europepmc.org/articles/PMC7675143; pdf:https://europepmc.org/articles/PMC7675143?pdf=render"
-  },
-  {
     "id": "32182948",
     "doi": "https://doi.org/10.3390/cells9030665",
     "title": "Dysregulated Antibody, Natural Killer Cell and Immune Mediator Profiles in Autoimmune Thyroid Diseases.",
@@ -2820,6 +2803,23 @@
     "abstract": "The pathogenesis of autoimmune thyroid diseases (AITD) is poorly understood and the association between different immune features and the germline variants involved in AITD are yet unclear. We previously observed systemic depletion of IgG core fucosylation and antennary \u03b11,2 fucosylation in peripheral blood mononuclear cells in AITD, correlated with anti-thyroid peroxidase antibody (TPOAb) levels. Fucose depletion is known to potentiate strong antibody-mediated NK cell activation and enhanced target antigen-expressing cell killing. In autoimmunity, this may translate to autoantibody-mediated immune cell recruitment and attack of self-antigen expressing normal tissues. Hence, we investigated the crosstalk between immune cell traits, secreted proteins, genetic variants and the glycosylation patterns of serum IgG, in a multi-omic and cross-sectional study of 622 individuals from the TwinsUK cohort, 172 of whom were diagnosed with AITD. We observed associations between two genetic variants (rs505922 and rs687621), AITD status, the secretion of Desmoglein-2 protein, and the profile of two IgG N-glycan traits in AITD, but further studies need to be performed to better understand their crosstalk in AITD. On the other side, enhanced afucosylated IgG was positively associated with activatory CD335- CD314+ CD158b+ NK cell subsets. Increased levels of the apoptosis and inflammation markers Caspase-2 and Interleukin-1\u03b1 positively associated with AITD. Two genetic variants associated with AITD, rs1521 and rs3094228, were also associated with altered expression of the thyrocyte-expressed ligands known to recognize the NK cell immunoreceptors CD314 and CD158b. Our analyses reveal a combination of heightened Fc-active IgG antibodies, effector cells, cytokines and apoptotic signals in AITD, and AITD genetic variants associated with altered expression of thyrocyte-expressed ligands to NK cell immunoreceptors. Together, TPOAb responses, dysregulated immune features, germline variants associated with immunoactivity profiles, are consistent with a positive autoreactive antibody-dependent NK cell-mediated immune response likely drawn to the thyroid gland in AITD.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/cells9030665; html:https://europepmc.org/articles/PMC7140647; pdf:https://europepmc.org/articles/PMC7140647?pdf=render"
+  },
+  {
+    "id": "33240510",
+    "doi": "https://doi.org/10.15420/aer.2020.26",
+    "title": "Big Data and Artificial Intelligence: Opportunities and Threats in Electrophysiology.",
+    "authorString": "van de Leur RR, Boonstra MJ, Bagheri A, Roudijk RW, Sammani A, Taha K, Doevendans PA, van der Harst P, van Dam PM, Hassink RJ, van Es R, Asselbergs FW.",
+    "authorAffiliations": "",
+    "journalTitle": "Arrhythmia & electrophysiology review",
+    "pubYear": "2020",
+    "date": "2020-11-01",
+    "isOpenAccess": "Y",
+    "keywords": "Artificial intelligence; Electrophysiology; Neural networks; ECG; Cardiology; Big Data; Deep Learning",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The combination of big data and artificial intelligence (AI) is having an increasing impact on the field of electrophysiology. Algorithms are created to improve the automated diagnosis of clinical ECGs or ambulatory rhythm devices. Furthermore, the use of AI during invasive electrophysiological studies or combining several diagnostic modalities into AI algorithms to aid diagnostics are being investigated. However, the clinical performance and applicability of created algorithms are yet unknown. In this narrative review, opportunities and threats of AI in the field of electrophysiology are described, mainly focusing on ECGs. Current opportunities are discussed with their potential clinical benefits as well as the challenges. Challenges in data acquisition, model performance, (external) validity, clinical implementation, algorithm interpretation as well as the ethical aspects of AI research are discussed. This article aims to guide clinicians in the evaluation of new AI applications for electrophysiology before their clinical implementation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.15420/aer.2020.26; html:https://europepmc.org/articles/PMC7675143; pdf:https://europepmc.org/articles/PMC7675143?pdf=render"
   },
   {
     "id": "33087383",
@@ -2890,23 +2890,6 @@
     "urls": "doi:https://doi.org/10.1111/bjd.19122"
   },
   {
-    "id": "31822919",
-    "doi": "https://doi.org/10.1093/pubmed/fdz172",
-    "title": "Unmet needs of women with GDM: a health needs assessment in Sandwell, West Midlands.",
-    "authorString": "Plant N, \u0160umilo D, Chapman R, Webber J, Saravanan P, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of public health (Oxford, England)",
-    "pubYear": "2020",
-    "date": "2020-11-01",
-    "isOpenAccess": "N",
-    "keywords": "United Kingdom; Needs Assessment; Gestational Diabetes",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Gestational diabetes mellitus (GDM) affects over 4% of pregnancies in England. We investigated GDM epidemiology within ethnically diverse population and the current offer of services to women with previous GDM to reduce their type 2 diabetes mellitus (T2DM) risk. METHODS:(i) Analysis of routinely collected maternity data examining GDM incidence and risk factors; (ii) local authority self-assessment questionnaire on public health interventions targeting women with previous GDM and (iii) service development discussions regarding the current pathway and areas for improvement. RESULTS:Of 9390 births between 2014 and 2018, 6.8% had a record of GDM. High body mass index (BMI), maternal age, and ethnicity (South Asian and some mixed ethnic backgrounds) were independent predictors of GDM. There were no public health commissioned services specifically targeting women with previous GDM. Weaknesses in transition from secondary to primary care and areas for improvement when screening for GDM were identified. CONCLUSIONS:GDM burden in this population was high. Awareness should be raised on the importance of regular glucose testing and lifestyle modification to delay or prevent progression to T2DM, particularly within high risk groups. The potential for health visitors to contribute to this should be explored. Commissioners should review evidence to develop a flexible lifestyle services model to meet the specific needs of these women.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/pubmed/fdz172"
-  },
-  {
     "id": "31353050",
     "doi": "https://doi.org/10.1016/s0140-6736(19)31359-5",
     "title": "Eligibility and subsequent burden of cardiovascular disease of four strategies for blood pressure-lowering treatment: a retrospective cohort study.",
@@ -2922,6 +2905,23 @@
     "abstract": "BACKGROUND:Worldwide treatment recommendations for lowering blood pressure continue to be guided predominantly by blood pressure thresholds, despite strong evidence that the benefits of blood pressure reduction are observed in patients across the blood pressure spectrum. In this study, we aimed to investigate the implications of alternative strategies for offering blood pressure treatment, using the UK as an illustrative example. METHODS:We did a retrospective cohort study in primary care patients aged 30-79 years without cardiovascular disease, using data from the UK's Clinical Practice Research Datalink linked to Hospital Episode Statistics and Office for National Statistics mortality. We assessed and compared four different strategies to determine eligibility for treatment: using 2011 UK National Institute for Health and Care Excellence (NICE) guideline, or proposed 2019 NICE guideline, or blood pressure alone (threshold \u2265140/90 mm Hg), or predicted 10-year cardiovascular risk alone (QRISK2 score \u226510%). Patients were followed up until the earliest occurrence of a cardiovascular disease diagnosis, death, or end of follow-up period (March 31, 2016). For each strategy, we estimated the proportion of patients eligible for treatment and number of cardiovascular events that could be prevented with treatment. We then estimated eligibility and number of events that would occur during 10 years in the UK general population. FINDINGS:Between Jan 1, 2011, and March 31, 2016, 1\u2008222\u2008670 patients in the cohort were followed up for a median of 4\u00b73 years (IQR 2\u00b75-5\u00b72). 271\u2008963 (22\u00b72%) patients were eligible for treatment under the 2011 NICE guideline, 327\u2008429 (26\u00b78%) under the proposed 2019 NICE guideline, 481\u2008859 (39\u00b74%) on the basis of a blood pressure threshold of 140/90 mm Hg or higher, and 357\u2008840 (29\u00b73%) on the basis of a QRISK2 threshold of 10% or higher. During follow-up, 32\u2008183 patients were diagnosed with cardiovascular disease (overall rate 7\u00b71 per 1000 person-years, 95% CI 7\u00b70-7\u00b72). Cardiovascular event rates in patients eligible for each strategy were 15\u00b72 per 1000 person-years (95% CI 15\u00b70-15\u00b75) under the 2011 NICE guideline, 14\u00b79 (14\u00b77-15\u00b71) under the proposed 2019 NICE guideline, 11\u00b74 (11\u00b73-11\u00b76) with blood pressure threshold alone, and 16\u00b79 (16\u00b77-17\u00b71) with QRISK2 threshold alone. Scaled to the UK population, we estimated that 233\u2008152 events would be avoided under the 2011 NICE guideline (28 patients needed to treat for 10 years to avoid one event), 270\u2008233 under the 2019 NICE guideline (29 patients), 301\u2008523 using a blood pressure threshold (38 patients), and 322\u2008921 using QRISK2 threshold (27 patients). INTERPRETATION:A cardiovascular risk-based strategy (QRISK2 \u226510%) could prevent over a third more cardiovascular disease events than the 2011 NICE guideline and a fifth more than the 2019 NICE guideline, with similar efficiency regarding number treated per event avoided. FUNDING:National Institute for Health Research.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31359-5; html:https://europepmc.org/articles/PMC6717081"
+  },
+  {
+    "id": "31822919",
+    "doi": "https://doi.org/10.1093/pubmed/fdz172",
+    "title": "Unmet needs of women with GDM: a health needs assessment in Sandwell, West Midlands.",
+    "authorString": "Plant N, \u0160umilo D, Chapman R, Webber J, Saravanan P, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of public health (Oxford, England)",
+    "pubYear": "2020",
+    "date": "2020-11-01",
+    "isOpenAccess": "N",
+    "keywords": "United Kingdom; Needs Assessment; Gestational Diabetes",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Gestational diabetes mellitus (GDM) affects over 4% of pregnancies in England. We investigated GDM epidemiology within ethnically diverse population and the current offer of services to women with previous GDM to reduce their type 2 diabetes mellitus (T2DM) risk. METHODS:(i) Analysis of routinely collected maternity data examining GDM incidence and risk factors; (ii) local authority self-assessment questionnaire on public health interventions targeting women with previous GDM and (iii) service development discussions regarding the current pathway and areas for improvement. RESULTS:Of 9390 births between 2014 and 2018, 6.8% had a record of GDM. High body mass index (BMI), maternal age, and ethnicity (South Asian and some mixed ethnic backgrounds) were independent predictors of GDM. There were no public health commissioned services specifically targeting women with previous GDM. Weaknesses in transition from secondary to primary care and areas for improvement when screening for GDM were identified. CONCLUSIONS:GDM burden in this population was high. Awareness should be raised on the importance of regular glucose testing and lifestyle modification to delay or prevent progression to T2DM, particularly within high risk groups. The potential for health visitors to contribute to this should be explored. Commissioners should review evidence to develop a flexible lifestyle services model to meet the specific needs of these women.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/pubmed/fdz172"
   },
   {
     "id": "30181555",
@@ -2992,23 +2992,6 @@
     "urls": "doi:https://doi.org/10.2807/1560-7917.ES.2020.25.18.2000632; html:https://europepmc.org/articles/PMC7219029; pdf:https://europepmc.org/articles/PMC7219029?pdf=render"
   },
   {
-    "id": "32379357",
-    "doi": "https://doi.org/10.1002/sim.8563",
-    "title": "A Bayesian hierarchical approach for multiple outcomes in routinely collected healthcare data.",
-    "authorString": "Carragher R, Mueller T, Bennie M, Robertson C.",
-    "authorAffiliations": "",
-    "journalTitle": "Statistics in medicine",
-    "pubYear": "2020",
-    "date": "2020-05-07",
-    "isOpenAccess": "N",
-    "keywords": "Observational Study; Multiple Outcomes; Direct Oral Anticoagulants; Safety Outcomes; Bayesian Hierarchy",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Clinical trials are the standard approach for evaluating new treatments, but may lack the power to assess rare outcomes. Trial results are also necessarily restricted to the population considered in the study. The availability of routinely collected healthcare data provides a source of information on the performance of treatments beyond that offered by clinical trials, but the analysis of this type of data presents a number of challenges. Hierarchical methods, which take advantage of known relationships between clinical outcomes, while accounting for bias, may be a suitable statistical approach for the analysis of this data. A study of direct oral anticoagulants in Scotland is discussed and used to motivate a modeling approach. A Bayesian hierarchical model, which allows a stratification of the population into clusters with similar characteristics, is proposed and applied to the direct oral anticoagulant study data. A simulation study is used to assess its performance in terms of outcome detection and error rates.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/sim.8563"
-  },
-  {
     "id": "31744503",
     "doi": "https://doi.org/10.1186/s12916-019-1438-y",
     "title": "Bleeding in cardiac patients prescribed antithrombotic drugs: electronic health record phenotyping algorithms, incidence, trends and prognosis.",
@@ -3024,6 +3007,23 @@
     "abstract": "BACKGROUND:Clinical guidelines and public health authorities lack recommendations on scalable approaches to defining and monitoring the occurrence and severity of bleeding in populations prescribed antithrombotic therapy. METHODS:We examined linked primary care, hospital admission and death registry electronic health records (CALIBER 1998-2010, England) of patients with newly diagnosed atrial fibrillation, acute myocardial infarction, unstable angina or stable angina with the aim to develop algorithms for bleeding events. Using the developed bleeding phenotypes, Kaplan-Meier plots were used to estimate the incidence of bleeding events and we used Cox regression models to assess the prognosis for all-cause mortality, atherothrombotic events and further bleeding. RESULTS:We present electronic health record phenotyping algorithms for bleeding based on bleeding diagnosis in primary or hospital care, symptoms, transfusion, surgical procedures and haemoglobin values. In validation of the phenotype, we estimated a positive predictive value of 0.88 (95% CI 0.64, 0.99) for hospitalised bleeding. Amongst 128,815 patients, 27,259 (21.2%) had at least 1 bleeding event, with 5-year risks of bleeding of 29.1%, 21.9%, 25.3% and 23.4% following diagnoses of atrial fibrillation, acute myocardial infarction, unstable angina and stable angina, respectively. Rates of hospitalised bleeding per 1000 patients more than doubled from 1.02 (95% CI 0.83, 1.22) in January 1998 to 2.68 (95% CI 2.49, 2.88) in December 2009 coinciding with the increased rates of antiplatelet and vitamin K antagonist prescribing. Patients with hospitalised bleeding and primary care bleeding, with or without markers of severity, were at increased risk of all-cause mortality and atherothrombotic events compared to those with no bleeding. For example, the hazard ratio for all-cause mortality was 1.98 (95% CI 1.86, 2.11) for primary care bleeding with markers of severity and 1.99 (95% CI 1.92, 2.05) for hospitalised bleeding without markers of severity, compared to patients with no bleeding. CONCLUSIONS:Electronic health record bleeding phenotyping algorithms offer a scalable approach to monitoring bleeding in the population. Incidence of bleeding has doubled in incidence since 1998, affects one in four cardiovascular disease patients, and is associated with poor prognosis. Efforts are required to tackle this iatrogenic epidemic.",
     "laySummary": "A phenotyping algorithm is presented to monitor bleeding in primary and hospital care. Model is well presented in the document and has potential to be scalable and applied to other conditions.",
     "urls": "doi:https://doi.org/10.1186/s12916-019-1438-y; html:https://europepmc.org/articles/PMC6864929; pdf:https://europepmc.org/articles/PMC6864929?pdf=render"
+  },
+  {
+    "id": "32379357",
+    "doi": "https://doi.org/10.1002/sim.8563",
+    "title": "A Bayesian hierarchical approach for multiple outcomes in routinely collected healthcare data.",
+    "authorString": "Carragher R, Mueller T, Bennie M, Robertson C.",
+    "authorAffiliations": "",
+    "journalTitle": "Statistics in medicine",
+    "pubYear": "2020",
+    "date": "2020-05-07",
+    "isOpenAccess": "N",
+    "keywords": "Observational Study; Multiple Outcomes; Direct Oral Anticoagulants; Safety Outcomes; Bayesian Hierarchy",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Clinical trials are the standard approach for evaluating new treatments, but may lack the power to assess rare outcomes. Trial results are also necessarily restricted to the population considered in the study. The availability of routinely collected healthcare data provides a source of information on the performance of treatments beyond that offered by clinical trials, but the analysis of this type of data presents a number of challenges. Hierarchical methods, which take advantage of known relationships between clinical outcomes, while accounting for bias, may be a suitable statistical approach for the analysis of this data. A study of direct oral anticoagulants in Scotland is discussed and used to motivate a modeling approach. A Bayesian hierarchical model, which allows a stratification of the population into clusters with similar characteristics, is proposed and applied to the direct oral anticoagulant study data. A simulation study is used to assess its performance in terms of outcome detection and error rates.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/sim.8563"
   },
   {
     "id": "33021418",
@@ -3961,23 +3961,6 @@
     "urls": "doi:https://doi.org/10.1080/09602011.2020.1744453"
   },
   {
-    "id": "33185672",
-    "doi": "https://doi.org/10.1093/jamia/ocaa295",
-    "title": "Ensemble learning for poor prognosis predictions: a case study on SARS-CoV2.",
-    "authorString": "Wu H, Zhang H, Karwath A, Ibrahim Z, Shi T, Zhang X, Wang K, Sun J, Dhaliwal K, Bean D, Cardoso VR, Li K, Teo JT, Banerjee A, Gao-Smith F, Whitehouse T, Veenith T, Gkoutos GV, Wu X, Dobson R, Guthrie B.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of the American Medical Informatics Association : JAMIA",
-    "pubYear": "2020",
-    "date": "2020-11-13",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Objective: </b>Risk prediction models are widely used to inform evidence-based clinical decision making. However, few models developed from single cohorts can perform consistently well at population level where diverse prognoses exist (such as the SARS-CoV2 pandemic). This study aims at tackling this challenge by synergising prediction models from the literature using ensemble learning.<br><br><b>Materials and methods: </b>In this study we selected and reimplemented seven prediction models for COVID-19, which were derived from diverse cohorts and used different implementation techniques. A novel ensemble learning framework was proposed to synergise them for realising personalised predictions for individual patients. Four diverse international cohorts (2 from the UK and 2 from China; total N=5,394) were used to validate all eight models on discrimination, calibration and clinical usefulness.<br><br><b>Results: </b>Results showed that individual prediction models could perform well on some cohorts while poorly on others. Conversely, the ensemble model achieved the best performances consistently on all metrics quantifying discrimination, calibration and clinical usefulness. Performance disparities were observed in cohorts from the two countries: all models achieved better performances on the China cohorts.<br><br><b>Discussion: </b>When individual models were learned from complementary cohorts, the synergised model will have the potential to achieve synergised performances. Results indicate that blood parameters and physiological measurements might have better predictive powers when collected early, which remains to be confirmed by further studies.<br><br><b>Conclusions: </b>Combining a diverse set of individual prediction models, ensemble method can synergise a robust and well-performing model by choosing the most competent ones for individual patients.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/jamia/ocaa295; html:https://europepmc.org/articles/PMC7717299; pdf:https://europepmc.org/articles/PMC7717299?pdf=render"
-  },
-  {
     "id": "32564639",
     "doi": "https://doi.org/10.1177/0300060520931298",
     "title": "Mortality statistics in England and Wales: the SARS-CoV-2 paradox.",
@@ -3993,6 +3976,23 @@
     "abstract": "OBJECTIVE:To analyse mortality statistics in the United Kingdom during the initial phases of the severe acute respiratory coronavirus 2 (SARS-CoV-2) pandemic and to understand the impact of the pandemic on national mortality. METHODS:Retrospective review of weekly national mortality statistics in the United Kingdom over the past 5 years, including subgroup analysis of respiratory mortality rates. RESULTS:During the early phases of the SARS-CoV-2 pandemic in the first months of 2020, there were consistently fewer deaths per week compared with the preceding 5 years. This pattern was not observed at any other time within the past 5 years. We have termed this phenomenon the \"SARS-CoV-2 paradox.\" We postulate potential explanations for this seeming paradox and explore the implications of these data. CONCLUSIONS:Paradoxically, but potentially importantly, lower rather than higher weekly mortality rates were observed during the early stages of the SARS-CoV-2 pandemic. This paradox may have implications for current and future healthcare utilisation. A rebound increase in non-SARS-CoV-2 mortality later this year might coincide with the peak of SARS-CoV-2 admissions and mortality.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1177/0300060520931298; html:https://europepmc.org/articles/PMC7307394; pdf:https://europepmc.org/articles/PMC7307394?pdf=render"
+  },
+  {
+    "id": "33185672",
+    "doi": "https://doi.org/10.1093/jamia/ocaa295",
+    "title": "Ensemble learning for poor prognosis predictions: a case study on SARS-CoV2.",
+    "authorString": "Wu H, Zhang H, Karwath A, Ibrahim Z, Shi T, Zhang X, Wang K, Sun J, Dhaliwal K, Bean D, Cardoso VR, Li K, Teo JT, Banerjee A, Gao-Smith F, Whitehouse T, Veenith T, Gkoutos GV, Wu X, Dobson R, Guthrie B.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of the American Medical Informatics Association : JAMIA",
+    "pubYear": "2020",
+    "date": "2020-11-13",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Objective: </b>Risk prediction models are widely used to inform evidence-based clinical decision making. However, few models developed from single cohorts can perform consistently well at population level where diverse prognoses exist (such as the SARS-CoV2 pandemic). This study aims at tackling this challenge by synergising prediction models from the literature using ensemble learning.<br><br><b>Materials and methods: </b>In this study we selected and reimplemented seven prediction models for COVID-19, which were derived from diverse cohorts and used different implementation techniques. A novel ensemble learning framework was proposed to synergise them for realising personalised predictions for individual patients. Four diverse international cohorts (2 from the UK and 2 from China; total N=5,394) were used to validate all eight models on discrimination, calibration and clinical usefulness.<br><br><b>Results: </b>Results showed that individual prediction models could perform well on some cohorts while poorly on others. Conversely, the ensemble model achieved the best performances consistently on all metrics quantifying discrimination, calibration and clinical usefulness. Performance disparities were observed in cohorts from the two countries: all models achieved better performances on the China cohorts.<br><br><b>Discussion: </b>When individual models were learned from complementary cohorts, the synergised model will have the potential to achieve synergised performances. Results indicate that blood parameters and physiological measurements might have better predictive powers when collected early, which remains to be confirmed by further studies.<br><br><b>Conclusions: </b>Combining a diverse set of individual prediction models, ensemble method can synergise a robust and well-performing model by choosing the most competent ones for individual patients.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/jamia/ocaa295; html:https://europepmc.org/articles/PMC7717299; pdf:https://europepmc.org/articles/PMC7717299?pdf=render"
   },
   {
     "id": "31446406",
@@ -4114,23 +4114,6 @@
     "urls": "doi:https://doi.org/10.1111/1742-6723.13361"
   },
   {
-    "id": "32763829",
-    "doi": "https://doi.org/10.1016/j.ebiom.2020.102932",
-    "title": "Dietary metabolite profiling brings new insight into the relationship between nutrition and metabolic risk: An IMI DIRECT study.",
-    "authorString": "Eriksen R, Perez IG, Posma JM, Haid M, Sharma S, Prehn C, Thomas LE, Koivula RW, Bizzotto R, Prehn C, Mari A, Giordano GN, Pavo I, Schwenk JM, De Masi F, Tsirigos KD, Brunak S, Vi\u00f1uela A, Mahajan A, McDonald TJ, Kokkola T, Rutter F, Teare H, Hansen TH, Fernandez J, Jones A, Jennison C, Walker M, McCarthy MI, Pedersen O, Ruetten H, Forgie I, Bell JD, Pearson ER, Franks PW, Adamski J, Holmes E, Frost G.",
-    "authorAffiliations": "",
-    "journalTitle": "EBioMedicine",
-    "pubYear": "2020",
-    "date": "2020-08-04",
-    "isOpenAccess": "Y",
-    "keywords": "Type 2 diabetes; metabolic profiling; Dietary Patterns; Cardiometabolic Health",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Dietary advice remains the cornerstone of prevention and management of type 2 diabetes (T2D). However, understanding the efficacy of dietary interventions is confounded by the challenges inherent in assessing free living diet. Here we profiled dietary metabolites to investigate glycaemic deterioration and cardiometabolic risk in people at risk of or living with T2D. METHODS:We analysed data from plasma collected at baseline and 18-month follow-up in individuals from the Innovative Medicines Initiative (IMI) Diabetes Research on Patient Stratification (DIRECT) cohort 1 n\u202f=\u202f403 individuals with normal or impaired glucose regulation (prediabetic) and cohort 2 n\u202f=\u202f458 individuals with new onset of T2D. A dietary metabolite profile model (Tpred) was constructed using multivariable regression of 113 plasma metabolites obtained from targeted metabolomics assays. The continuous Tpred score was used to explore the relationships between diet, glycaemic deterioration and cardio-metabolic risk via multiple linear regression models. FINDINGS:A higher Tpred score was associated with healthier diets high in wholegrain (\u03b2=3.36\u202fg, 95% CI 0.31, 6.40 and \u03b2=2.82\u202fg, 95% CI 0.06, 5.57) and lower energy intake (\u03b2=-75.53\u202fkcal, 95% CI -144.71, -2.35 and \u03b2=-122.51\u202fkcal, 95% CI -186.56, -38.46), and saturated fat (\u03b2=-0.92\u202fg, 95% CI -1.56, -0.28 and \u03b2=-0.98\u202fg, 95% CI -1.53, -0.42\u202fg), respectively for cohort 1 and 2. In both cohorts a higher Tpred score was also associated with lower total body adiposity and favourable lipid profiles HDL-cholesterol (\u03b2=0.07\u202fmmol/L, 95% CI 0.03, 0.1), (\u03b2=0.08\u202fmmol/L, 95% CI 0.04, 0.1), and triglycerides (\u03b2=-0.1\u202fmmol/L, 95% CI -0.2, -0.03), (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.09), respectively for cohort 1 and 2. In cohort 2, the Tpred score was negatively associated with liver fat (\u03b2=-0.74%, 95% CI -0.67, -0.81), and lower fasting concentrations of HbA1c (\u03b2=-0.9\u202fmmol/mol, 95% CI -1.5, -0.1), glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.4, -0.05) and insulin (\u03b2=-11.0\u202fpmol/mol, 95% CI -19.5, -2.6). Longitudinal analysis showed at 18-month follow up a higher Tpred score was also associated lower total body adiposity in both cohorts and lower fasting glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.01) and insulin (\u03b2=-9.2\u202fpmol/mol, 95% CI -17.9, -0.4) concentrations in cohort 2. INTERPRETATION:Plasma dietary metabolite profiling provides objective measures of diet intake, showing a relationship to glycaemic deterioration and cardiometabolic health. FUNDING:This work was supported by the Innovative Medicines Initiative Joint Undertaking under grant agreement no. 115,317 (DIRECT), resources of which are composed of financial contribution from the European Union's Seventh Framework Programme (FP7/2007-2013) and EFPIA companies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.ebiom.2020.102932; html:https://europepmc.org/articles/PMC7406914; pdf:https://europepmc.org/articles/PMC7406914?pdf=render"
-  },
-  {
     "id": "31827124",
     "doi": "https://doi.org/10.1371/journal.pgen.1006944",
     "title": "Improving the odds of drug development success through human genomics: modelling study.",
@@ -4146,6 +4129,23 @@
     "abstract": "Lack of efficacy in the intended disease indication is the major cause of clinical phase drug development failure. Explanations could include the poor external validity of pre-clinical (cell, tissue, and animal) models of human disease and the high false discovery rate (FDR) in preclinical science. FDR is related to the proportion of true relationships available for discovery (\u03b3), and the type 1 (false-positive) and type 2 (false negative) error rates of the experiments designed to uncover them. We estimated the FDR in preclinical science, its effect on drug development success rates, and improvements expected from use of human genomics rather than preclinical studies as the primary source of evidence for drug target identification. Calculations were based on a sample space defined by all human diseases - the 'disease-ome' - represented as columns; and all protein coding genes - 'the protein-coding genome'- represented as rows, producing a matrix of unique gene- (or protein-) disease pairings. We parameterised the space based on 10,000 diseases, 20,000 protein-coding genes, 100 causal genes per disease and 4000 genes encoding druggable targets, examining the effect of varying the parameters and a range of underlying assumptions, on the inferences drawn. We estimated \u03b3, defined mathematical relationships between preclinical FDR and drug development success rates, and estimated improvements in success rates based on human genomics (rather than orthodox preclinical studies). Around one in every 200 protein-disease pairings was estimated to be causal (\u03b3\u2009=\u20090.005) giving an FDR in preclinical research of 92.6%, which likely makes a major contribution to the reported drug development failure rate of 96%. Observed success rate was only slightly greater than expected for a random pick from the sample space. Values for \u03b3 back-calculated from reported preclinical and clinical drug development success rates were also close to the a priori estimates. Substituting genome wide (or druggable genome wide) association studies for preclinical studies as the major information source for drug target identification was estimated to reverse the probability of late stage failure because of the more stringent type 1 error rate employed and the ability to interrogate every potential druggable target in the same experiment. Genetic studies conducted at much larger scale, with greater resolution of disease end-points, e.g. by connecting genomics and electronic health record data within healthcare systems has the potential to produce radical improvement in drug development success rate.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pgen.1006944; html:https://europepmc.org/articles/PMC6906499; pdf:https://europepmc.org/articles/PMC6906499?pdf=render"
+  },
+  {
+    "id": "32763829",
+    "doi": "https://doi.org/10.1016/j.ebiom.2020.102932",
+    "title": "Dietary metabolite profiling brings new insight into the relationship between nutrition and metabolic risk: An IMI DIRECT study.",
+    "authorString": "Eriksen R, Perez IG, Posma JM, Haid M, Sharma S, Prehn C, Thomas LE, Koivula RW, Bizzotto R, Prehn C, Mari A, Giordano GN, Pavo I, Schwenk JM, De Masi F, Tsirigos KD, Brunak S, Vi\u00f1uela A, Mahajan A, McDonald TJ, Kokkola T, Rutter F, Teare H, Hansen TH, Fernandez J, Jones A, Jennison C, Walker M, McCarthy MI, Pedersen O, Ruetten H, Forgie I, Bell JD, Pearson ER, Franks PW, Adamski J, Holmes E, Frost G.",
+    "authorAffiliations": "",
+    "journalTitle": "EBioMedicine",
+    "pubYear": "2020",
+    "date": "2020-08-04",
+    "isOpenAccess": "Y",
+    "keywords": "Type 2 diabetes; metabolic profiling; Dietary Patterns; Cardiometabolic Health",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Dietary advice remains the cornerstone of prevention and management of type 2 diabetes (T2D). However, understanding the efficacy of dietary interventions is confounded by the challenges inherent in assessing free living diet. Here we profiled dietary metabolites to investigate glycaemic deterioration and cardiometabolic risk in people at risk of or living with T2D. METHODS:We analysed data from plasma collected at baseline and 18-month follow-up in individuals from the Innovative Medicines Initiative (IMI) Diabetes Research on Patient Stratification (DIRECT) cohort 1 n\u202f=\u202f403 individuals with normal or impaired glucose regulation (prediabetic) and cohort 2 n\u202f=\u202f458 individuals with new onset of T2D. A dietary metabolite profile model (Tpred) was constructed using multivariable regression of 113 plasma metabolites obtained from targeted metabolomics assays. The continuous Tpred score was used to explore the relationships between diet, glycaemic deterioration and cardio-metabolic risk via multiple linear regression models. FINDINGS:A higher Tpred score was associated with healthier diets high in wholegrain (\u03b2=3.36\u202fg, 95% CI 0.31, 6.40 and \u03b2=2.82\u202fg, 95% CI 0.06, 5.57) and lower energy intake (\u03b2=-75.53\u202fkcal, 95% CI -144.71, -2.35 and \u03b2=-122.51\u202fkcal, 95% CI -186.56, -38.46), and saturated fat (\u03b2=-0.92\u202fg, 95% CI -1.56, -0.28 and \u03b2=-0.98\u202fg, 95% CI -1.53, -0.42\u202fg), respectively for cohort 1 and 2. In both cohorts a higher Tpred score was also associated with lower total body adiposity and favourable lipid profiles HDL-cholesterol (\u03b2=0.07\u202fmmol/L, 95% CI 0.03, 0.1), (\u03b2=0.08\u202fmmol/L, 95% CI 0.04, 0.1), and triglycerides (\u03b2=-0.1\u202fmmol/L, 95% CI -0.2, -0.03), (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.09), respectively for cohort 1 and 2. In cohort 2, the Tpred score was negatively associated with liver fat (\u03b2=-0.74%, 95% CI -0.67, -0.81), and lower fasting concentrations of HbA1c (\u03b2=-0.9\u202fmmol/mol, 95% CI -1.5, -0.1), glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.4, -0.05) and insulin (\u03b2=-11.0\u202fpmol/mol, 95% CI -19.5, -2.6). Longitudinal analysis showed at 18-month follow up a higher Tpred score was also associated lower total body adiposity in both cohorts and lower fasting glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.01) and insulin (\u03b2=-9.2\u202fpmol/mol, 95% CI -17.9, -0.4) concentrations in cohort 2. INTERPRETATION:Plasma dietary metabolite profiling provides objective measures of diet intake, showing a relationship to glycaemic deterioration and cardiometabolic health. FUNDING:This work was supported by the Innovative Medicines Initiative Joint Undertaking under grant agreement no. 115,317 (DIRECT), resources of which are composed of financial contribution from the European Union's Seventh Framework Programme (FP7/2007-2013) and EFPIA companies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.ebiom.2020.102932; html:https://europepmc.org/articles/PMC7406914; pdf:https://europepmc.org/articles/PMC7406914?pdf=render"
   },
   {
     "id": "31345952",
@@ -4199,23 +4199,6 @@
     "urls": "doi:https://doi.org/10.3390/ijerph17176139; html:https://europepmc.org/articles/PMC7504024; pdf:https://europepmc.org/articles/PMC7504024?pdf=render"
   },
   {
-    "id": "32808938",
-    "doi": "https://doi.org/10.2196/17022",
-    "title": "Technological Capabilities to Assess Digital Excellence in Hospitals in High Performing Health Care Systems: International eDelphi Exercise.",
-    "authorString": "Krasuska M, Williams R, Sheikh A, Franklin BD, Heeney C, Lane W, Mozaffar H, Mason K, Eason S, Hinder S, Dunscombe R, Potts HWW, Cresswell K.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of medical Internet research",
-    "pubYear": "2020",
-    "date": "2020-08-18",
-    "isOpenAccess": "Y",
-    "keywords": "Delphi Technique; Digital Maturity; Hospitals, Ehealth; Digital Excellence",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Hospitals worldwide are developing ambitious digital transformation programs as part of broader efforts to create digitally advanced health care systems. However, there is as yet no consensus on how best to characterize and assess digital excellence in hospitals. OBJECTIVE:Our aim was to develop an international agreement on a defined set of technological capabilities to assess digital excellence in hospitals. METHODS:We conducted a two-stage international modified electronic Delphi (eDelphi) consensus-building exercise, which included a qualitative analysis of free-text responses. In total, 31 international health informatics experts participated, representing clinical, academic, public, and vendor organizations. RESULTS:We identified 35 technological capabilities that indicate digital excellence in hospitals. These are divided into two categories: (a) capabilities within a hospital (n=20) and (b) capabilities enabling communication with other parts of the health and social care system, and with patients and carers (n=15). The analysis of free-text responses pointed to the importance of nontechnological aspects of digitally enabled change, including social and organizational factors. Examples included an institutional culture characterized by a willingness to transform established ways of working and openness to risk-taking. The availability of a range of skills within digitization teams, including technological, project management and business expertise, and availability of resources to support hospital staff, were also highlighted. CONCLUSIONS:We have identified a set of criteria for assessing digital excellence in hospitals. Our findings highlight the need to broaden the focus from technical functionalities to wider digital transformation capabilities.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/17022; html:https://europepmc.org/articles/PMC7463397"
-  },
-  {
     "id": "32023934",
     "doi": "https://doi.org/10.3390/ijerph17030892",
     "title": "Identifying Homogeneous Patterns of Injury in Paediatric Trauma Patients to Improve Risk-Adjusted Models of Mortality and Functional Outcomes.",
@@ -4231,6 +4214,23 @@
     "abstract": "Injury is a leading cause of morbidity and mortality in the paediatric population and exhibits complex injury patterns. This study aimed to identify homogeneous groups of paediatric major trauma patients based on their profile of injury for use in mortality and functional outcomes risk-adjusted models. Data were extracted from the population-based Victorian State Trauma Registry for patients aged 0-15 years, injured 2006-2016. Four Latent Class Analysis (LCA) models with/without covariates of age/sex tested up to six possible latent classes. Five risk-adjusted models of in-hospital mortality and 6-month functional outcomes incorporated a combination of Injury Severity Score (ISS), New ISS (NISS), and LCA classes. LCA models replicated the best log-likelihood and entropy > 0.8 for all models (N = 1281). Four latent injury classes were identified: isolated head; isolated abdominal organ; multi-trauma injuries, and other injuries. The best models, in terms of goodness of fit statistics and model diagnostics, included the LCA classes and NISS. The identification of isolated head, isolated abdominal, multi-trauma and other injuries as key latent paediatric injury classes highlights areas for emphasis in planning prevention initiatives and paediatric trauma system development. Future risk-adjusted paediatric injury models that include these injury classes with the NISS when evaluating mortality and functional outcomes is recommended.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/ijerph17030892; html:https://europepmc.org/articles/PMC7037699; pdf:https://europepmc.org/articles/PMC7037699?pdf=render"
+  },
+  {
+    "id": "32808938",
+    "doi": "https://doi.org/10.2196/17022",
+    "title": "Technological Capabilities to Assess Digital Excellence in Hospitals in High Performing Health Care Systems: International eDelphi Exercise.",
+    "authorString": "Krasuska M, Williams R, Sheikh A, Franklin BD, Heeney C, Lane W, Mozaffar H, Mason K, Eason S, Hinder S, Dunscombe R, Potts HWW, Cresswell K.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of medical Internet research",
+    "pubYear": "2020",
+    "date": "2020-08-18",
+    "isOpenAccess": "Y",
+    "keywords": "Delphi Technique; Digital Maturity; Hospitals, Ehealth; Digital Excellence",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Hospitals worldwide are developing ambitious digital transformation programs as part of broader efforts to create digitally advanced health care systems. However, there is as yet no consensus on how best to characterize and assess digital excellence in hospitals. OBJECTIVE:Our aim was to develop an international agreement on a defined set of technological capabilities to assess digital excellence in hospitals. METHODS:We conducted a two-stage international modified electronic Delphi (eDelphi) consensus-building exercise, which included a qualitative analysis of free-text responses. In total, 31 international health informatics experts participated, representing clinical, academic, public, and vendor organizations. RESULTS:We identified 35 technological capabilities that indicate digital excellence in hospitals. These are divided into two categories: (a) capabilities within a hospital (n=20) and (b) capabilities enabling communication with other parts of the health and social care system, and with patients and carers (n=15). The analysis of free-text responses pointed to the importance of nontechnological aspects of digitally enabled change, including social and organizational factors. Examples included an institutional culture characterized by a willingness to transform established ways of working and openness to risk-taking. The availability of a range of skills within digitization teams, including technological, project management and business expertise, and availability of resources to support hospital staff, were also highlighted. CONCLUSIONS:We have identified a set of criteria for assessing digital excellence in hospitals. Our findings highlight the need to broaden the focus from technical functionalities to wider digital transformation capabilities.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/17022; html:https://europepmc.org/articles/PMC7463397"
   },
   {
     "id": "31965568",
@@ -5151,23 +5151,6 @@
     "urls": "doi:https://doi.org/10.1111/acer.14481"
   },
   {
-    "id": "31675503",
-    "doi": "https://doi.org/10.1016/j.cell.2019.10.004",
-    "title": "Uganda Genome Resource Enables Insights into Population History and Genomic Discovery in Africa.",
-    "authorString": "Gurdasani D, Carstensen T, Fatumo S, Chen G, Franklin CS, Prado-Martinez J, Bouman H, Abascal F, Haber M, Tachmazidou I, Mathieson I, Ekoru K, DeGorter MK, Nsubuga RN, Finan C, Wheeler E, Chen L, Cooper DN, Schiffels S, Chen Y, Ritchie GRS, Pollard MO, Fortune MD, Mentzer AJ, Garrison E, Bergstr\u00f6m A, Hatzikotoulas K, Adeyemo A, Doumatey A, Elding H, Wain LV, Ehret G, Auer PL, Kooperberg CL, Reiner AP, Franceschini N, Maher D, Montgomery SB, Kadie C, Widmer C, Xue Y, Seeley J, Asiki G, Kamali A, Young EH, Pomilla C, Soranzo N, Zeggini E, Pirie F, Morris AP, Heckerman D, Tyler-Smith C, Motala AA, Rotimi C, Kaleebu P, Barroso I, Sandhu MS.",
-    "authorAffiliations": "",
-    "journalTitle": "Cell",
-    "pubYear": "2019",
-    "date": "2019-10-01",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Genomic studies in African populations provide unique opportunities to understand disease etiology, human diversity, and population history. In the largest study of its kind, comprising genome-wide data from 6,400 individuals and whole-genome sequences from 1,978 individuals from rural Uganda, we find evidence of geographically correlated fine-scale population substructure. Historically, the ancestry of modern Ugandans was best represented by a mixture of ancient East African pastoralists. We demonstrate the value of the largest sequence panel from Africa to date as an imputation resource. Examining 34 cardiometabolic traits, we show systematic differences in trait heritability between European and African populations, probably reflecting the differential impact of genes and environment. In a multi-trait pan-African GWAS of up to 14,126 individuals, we identify novel loci associated with anthropometric, hematological, lipid, and glycemic traits. We find that several functionally important signals are driven by Africa-specific variants, highlighting the value of studying diverse populations across the region.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.cell.2019.10.004; html:https://europepmc.org/articles/PMC7202134; pdf:https://europepmc.org/articles/PMC7202134?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.10.004"
-  },
-  {
     "id": "32108548",
     "doi": "https://doi.org/10.1177/0269881120907973",
     "title": "Synthetic cannabinoid use in psychiatric patients and relationship to hospitalisation: A retrospective electronic case register study.",
@@ -5183,6 +5166,23 @@
     "abstract": "INTRODUCTION AND OBJECTIVES:Cannabis use has been associated with psychosis and with poor outcome in patients with mental illness. Synthetic cannabinoids (SCs) have been suggested to pose an even greater risk to mental health, but the effect on clinical outcome has not been directly measured. In this study, we aimed to investigate the demographics and hospitalisation of psychiatric patients who were SC users. METHODS:We searched the Biomedical Research Centre Clinical Record Interactive Search register for SC users and age- and sex-matched SC non-users who had been psychiatric patients under the South London and Maudsley NHS Trust. We recorded diagnosis, homelessness, cannabis use and the total number of days admitted as an inpatient to secondary and tertiary mental-health services. RESULTS:We identified 635 SC users and 635 age- and sex-matched SC non-users. SC users were significantly more likely to be homeless (\u03c72=138.0; p<0.0001) and to use cannabis (\u03c72=257.3; p<0.0001) than SC non-users. SC users had significantly more inpatient days after their first recorded use of SCs than controls (M (SD)=85.5 (199.7) vs. 25.4 (92.32); p<0.0001). Post hoc tests revealed that SC non-users who used cannabis had fewer inpatient days than SC users (p<0.0001), and that non-users of both SC and cannabis had fewer inpatient days than SC non-using cannabis users (p=0.02). CONCLUSIONS:SC use may lead to an increase in the number of days spent in hospital in patients with psychiatric illness. This highlights the need for clinicians to ask specifically about SC use.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1177/0269881120907973; html:https://europepmc.org/articles/PMC7249610; pdf:https://europepmc.org/articles/PMC7249610?pdf=render"
+  },
+  {
+    "id": "31675503",
+    "doi": "https://doi.org/10.1016/j.cell.2019.10.004",
+    "title": "Uganda Genome Resource Enables Insights into Population History and Genomic Discovery in Africa.",
+    "authorString": "Gurdasani D, Carstensen T, Fatumo S, Chen G, Franklin CS, Prado-Martinez J, Bouman H, Abascal F, Haber M, Tachmazidou I, Mathieson I, Ekoru K, DeGorter MK, Nsubuga RN, Finan C, Wheeler E, Chen L, Cooper DN, Schiffels S, Chen Y, Ritchie GRS, Pollard MO, Fortune MD, Mentzer AJ, Garrison E, Bergstr\u00f6m A, Hatzikotoulas K, Adeyemo A, Doumatey A, Elding H, Wain LV, Ehret G, Auer PL, Kooperberg CL, Reiner AP, Franceschini N, Maher D, Montgomery SB, Kadie C, Widmer C, Xue Y, Seeley J, Asiki G, Kamali A, Young EH, Pomilla C, Soranzo N, Zeggini E, Pirie F, Morris AP, Heckerman D, Tyler-Smith C, Motala AA, Rotimi C, Kaleebu P, Barroso I, Sandhu MS.",
+    "authorAffiliations": "",
+    "journalTitle": "Cell",
+    "pubYear": "2019",
+    "date": "2019-10-01",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Genomic studies in African populations provide unique opportunities to understand disease etiology, human diversity, and population history. In the largest study of its kind, comprising genome-wide data from 6,400 individuals and whole-genome sequences from 1,978 individuals from rural Uganda, we find evidence of geographically correlated fine-scale population substructure. Historically, the ancestry of modern Ugandans was best represented by a mixture of ancient East African pastoralists. We demonstrate the value of the largest sequence panel from Africa to date as an imputation resource. Examining 34 cardiometabolic traits, we show systematic differences in trait heritability between European and African populations, probably reflecting the differential impact of genes and environment. In a multi-trait pan-African GWAS of up to 14,126 individuals, we identify novel loci associated with anthropometric, hematological, lipid, and glycemic traits. We find that several functionally important signals are driven by Africa-specific variants, highlighting the value of studying diverse populations across the region.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.cell.2019.10.004; html:https://europepmc.org/articles/PMC7202134; pdf:https://europepmc.org/articles/PMC7202134?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.10.004"
   },
   {
     "id": "32346541",
@@ -5372,23 +5372,6 @@
     "urls": "doi:https://doi.org/10.1093/bioinformatics/btz469; html:https://europepmc.org/articles/PMC6853652; pdf:https://europepmc.org/articles/PMC6853652?pdf=render"
   },
   {
-    "id": "33017023",
-    "doi": "https://doi.org/10.1001/jamaneurol.2020.3502",
-    "title": "Trends in Optic Neuritis Incidence and Prevalence in the UK and Association With Systemic and Neurologic Disease.",
-    "authorString": "Braithwaite T, Subramanian A, Petzold A, Galloway J, Adderley NJ, Mollan SP, Plant GT, Nirantharakumar K, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "JAMA neurology",
-    "pubYear": "2020",
-    "date": "2020-10-05",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Importance:Epidemiologic data on optic neuritis (ON) incidence and associations with immune-mediated inflammatory diseases (IMIDs) are sparse. Objective:To estimate 22-year trends in ON prevalence and incidence and association with IMIDs in the United Kingdom. Design, Setting, and Participants:This cohort study analyzed data from The Health Improvement Network from January 1, 1995, to September 1, 2019. The study included 10\u202f937\u202f511 patients 1 year or older with 75.2 million person-years' follow-up. Annual ON incidence rates were estimated yearly (January 1, 1997, to December 31, 2018), and annual ON prevalence was estimated by performing sequential cross-sectional studies on data collected on January 1 each year for the same period. Data for 1995, 1996, and 2019 were excluded as incomplete. Risk factors for ON were explored in a cohort analysis from January 1, 1997, to December 31, 2018. Matched case-control and retrospective cohort studies were performed using data from January 1, 1995, to September 1, 2019, to explore the odds of antecedent diagnosis and hazard of incident diagnosis of 66 IMIDs in patients compared with controls. Exposures:Optic neuritis. Main Outcomes and Measures:Annual point prevalence and incidence rates of ON, adjusted incident rate ratios (IRRs) for risk factors, and adjusted odds ratios (ORs) and adjusted hazard ratios (HRs) for 66 IMIDs. Results:A total of 10\u202f937\u202f511 patients (median [IQR] age at cohort entry, 32.6 [18.0-50.4] years; 5 571 282 [50.9%] female) were studied. A total of 1962 of 2826 patients (69.4%) with incident ON were female and 1192 of 1290 92.4%) were White, with a mean (SD) age of 35.6 (15.6) years. Overall incidence across 22 years was stable at 3.7 (95% CI, 3.6-3.9) per 100\u202f000 person-years. Annual point prevalence (per 100\u202f000 population) increased with database maturity, from 69.3 (95% CI, 57.2-81.3) in 1997 to 114.8 (95% CI, 111.0-118.6) in 2018. The highest risk of incident ON was associated with female sex, obesity, reproductive age, smoking, and residence at higher latitude, with significantly lower risk in South Asian or mixed race/ethnicity compared with White people. Patients with ON had significantly higher odds of prior multiple sclerosis (MS) (OR,\u200998.22; 95% CI, 65.40-147.52), syphilis (OR,\u20095.76; 95% CI, 1.39-23.96), Mycoplasma (OR,\u20093.90; 95% CI, 1.09-13.93), vasculitis (OR,\u20093.70; 95% CI, 1.68-8.15), sarcoidosis (OR,\u20092.50; 95% CI, 1.21-5.18), Epstein-Barr virus (OR,\u20092.29; 95% CI, 1.80-2.92), Crohn disease (OR,\u20091.97; 95% CI, 1.13-3.43), and psoriasis (OR,\u20091.28; 95% CI, 1.03-1.58). Patients with ON had a significantly higher hazard of incident MS (HR,\u2009284.97; 95% CI, 167.85-483.81), Beh\u00e7et disease (HR,\u200917.39; 95% CI, 1.55-195.53), sarcoidosis (HR,\u200914.80; 95% CI, 4.86-45.08), vasculitis (HR,\u20094.89; 95% CI, 1.82-13.10), Sj\u00f6gren syndrome (HR,\u20093.48; 95% CI, 1.38-8.76), and herpetic infection (HR,\u20091.68; 95% CI, 1.24-2.28). Conclusions and Relevance:The UK incidence of ON is stable. Even though predominantly associated with MS, ON has numerous other associations with IMIDs. Although individually rare, together these associations outnumber MS-associated ON and typically require urgent management to preserve sight.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1001/jamaneurol.2020.3502"
-  },
-  {
     "id": "31053412",
     "doi": "https://doi.org/10.1016/j.burns.2019.04.006",
     "title": "Severe burns in Australian and New Zealand adults: Epidemiology and burn centre care.",
@@ -5404,6 +5387,23 @@
     "abstract": "INTRODUCTION:Studies describing the epidemiology of severe burns (>20% total body surface area) in adults are limited despite the extensive associated morbidity and mortality. This study aimed to describe the epidemiology of severe burn injuries admitted to burn centres in Australia and New Zealand. MATERIALS AND METHODS:Data from the Burns Registry of Australia and New Zealand (BRANZ) were used in this study. Patients were eligible for inclusion if they were admitted between August 2009 and June 2013, were adults (18-years or older), and had burns of 20% total body surface area (TBSA) or greater. Demographics, burn characteristics and in-hospital mortality risk factors were investigated using multivariable Cox proportional hazards analysis. RESULTS:There were 496 BRANZ registered patients who met the inclusion criteria. Over half of the patients were aged 18-40 years and most were male. The median (IQR) TBSA was 31 (25-47). Most (75%) patients had burns involving <50% TBSA, 58% sustained their burn injury at home, and 86% had sustained flame burns. Leisure activities, working for income and preparing food together accounted for over 48% of the activities undertaken at the time of injury. The in-hospital mortality rate was 17% and the median (IQR) length of stay was 24 (12-44) days. Seventy-two percent were admitted to an intensive care unit (ICU) and 40% of patients had an associated inhalation injury. Alcohol and/or drug involvement was suspected in 25% of cases. CONCLUSION:This study describes the demographics, burn injury characteristics and in-hospital outcomes of severe burn injuries in adults whilst also identifying key predictors of inpatient mortality. Key findings included the over-representation of young males, intentional self-harm injuries and flame as a cause of burns and highlights high risk groups to help aid in the development of targeted prevention strategies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.burns.2019.04.006"
+  },
+  {
+    "id": "33017023",
+    "doi": "https://doi.org/10.1001/jamaneurol.2020.3502",
+    "title": "Trends in Optic Neuritis Incidence and Prevalence in the UK and Association With Systemic and Neurologic Disease.",
+    "authorString": "Braithwaite T, Subramanian A, Petzold A, Galloway J, Adderley NJ, Mollan SP, Plant GT, Nirantharakumar K, Denniston AK.",
+    "authorAffiliations": "",
+    "journalTitle": "JAMA neurology",
+    "pubYear": "2020",
+    "date": "2020-10-05",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Importance:Epidemiologic data on optic neuritis (ON) incidence and associations with immune-mediated inflammatory diseases (IMIDs) are sparse. Objective:To estimate 22-year trends in ON prevalence and incidence and association with IMIDs in the United Kingdom. Design, Setting, and Participants:This cohort study analyzed data from The Health Improvement Network from January 1, 1995, to September 1, 2019. The study included 10\u202f937\u202f511 patients 1 year or older with 75.2 million person-years' follow-up. Annual ON incidence rates were estimated yearly (January 1, 1997, to December 31, 2018), and annual ON prevalence was estimated by performing sequential cross-sectional studies on data collected on January 1 each year for the same period. Data for 1995, 1996, and 2019 were excluded as incomplete. Risk factors for ON were explored in a cohort analysis from January 1, 1997, to December 31, 2018. Matched case-control and retrospective cohort studies were performed using data from January 1, 1995, to September 1, 2019, to explore the odds of antecedent diagnosis and hazard of incident diagnosis of 66 IMIDs in patients compared with controls. Exposures:Optic neuritis. Main Outcomes and Measures:Annual point prevalence and incidence rates of ON, adjusted incident rate ratios (IRRs) for risk factors, and adjusted odds ratios (ORs) and adjusted hazard ratios (HRs) for 66 IMIDs. Results:A total of 10\u202f937\u202f511 patients (median [IQR] age at cohort entry, 32.6 [18.0-50.4] years; 5 571 282 [50.9%] female) were studied. A total of 1962 of 2826 patients (69.4%) with incident ON were female and 1192 of 1290 92.4%) were White, with a mean (SD) age of 35.6 (15.6) years. Overall incidence across 22 years was stable at 3.7 (95% CI, 3.6-3.9) per 100\u202f000 person-years. Annual point prevalence (per 100\u202f000 population) increased with database maturity, from 69.3 (95% CI, 57.2-81.3) in 1997 to 114.8 (95% CI, 111.0-118.6) in 2018. The highest risk of incident ON was associated with female sex, obesity, reproductive age, smoking, and residence at higher latitude, with significantly lower risk in South Asian or mixed race/ethnicity compared with White people. Patients with ON had significantly higher odds of prior multiple sclerosis (MS) (OR,\u200998.22; 95% CI, 65.40-147.52), syphilis (OR,\u20095.76; 95% CI, 1.39-23.96), Mycoplasma (OR,\u20093.90; 95% CI, 1.09-13.93), vasculitis (OR,\u20093.70; 95% CI, 1.68-8.15), sarcoidosis (OR,\u20092.50; 95% CI, 1.21-5.18), Epstein-Barr virus (OR,\u20092.29; 95% CI, 1.80-2.92), Crohn disease (OR,\u20091.97; 95% CI, 1.13-3.43), and psoriasis (OR,\u20091.28; 95% CI, 1.03-1.58). Patients with ON had a significantly higher hazard of incident MS (HR,\u2009284.97; 95% CI, 167.85-483.81), Beh\u00e7et disease (HR,\u200917.39; 95% CI, 1.55-195.53), sarcoidosis (HR,\u200914.80; 95% CI, 4.86-45.08), vasculitis (HR,\u20094.89; 95% CI, 1.82-13.10), Sj\u00f6gren syndrome (HR,\u20093.48; 95% CI, 1.38-8.76), and herpetic infection (HR,\u20091.68; 95% CI, 1.24-2.28). Conclusions and Relevance:The UK incidence of ON is stable. Even though predominantly associated with MS, ON has numerous other associations with IMIDs. Although individually rare, together these associations outnumber MS-associated ON and typically require urgent management to preserve sight.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1001/jamaneurol.2020.3502"
   },
   {
     "id": "31220083",
@@ -5557,6 +5557,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jhep.2020.08.030"
+  },
+  {
+    "id": "33293538",
+    "doi": "https://doi.org/10.1038/s41467-020-20096-1",
+    "title": "Patient and public perspectives on cell and gene therapies: a systematic review.",
+    "authorString": "Aiyegbusi OL, Macpherson K, Elston L, Myles S, Washington J, Sungum N, Briggs M, Newsome PN, Calvert MJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2020",
+    "date": "2020-12-08",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Cell and gene therapies offer opportunities for treating disease with potential to restore function, and cure disease. However, they are not without risk and pose complex logistical, economic, ethical and social challenges for health systems. Here we report our systematic review of the current evidence on patient and public knowledge and perspectives of cell and gene therapies, to inform future research, education and awareness raising activities. We screened 10,735 titles and abstracts, and evaluated the full texts of 151 publications. The final selection was 35 publications. Four themes were generated from the narrative synthesis of the study findings namely: (1) Knowledge and understanding of cell and gene therapies, (2) Acceptance of cell and gene therapies (3) Understanding of risk and benefits of therapy, and (4) Information needs and current sources of information. As potential funders or future recipients, it is important that the public and patients are aware of these therapies, understand the issues involved, and can contribute to the debate. This review highlights the need for appropriate patient and public education on the various aspects of cell and gene therapies. High quality studies exploring patient and public opinions and experiences of cell and gene therapy are required. Patient and public perceptions of these therapies, alongside evidence of clinical and cost-effectiveness, will be central to their uptake and use.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-020-20096-1; html:https://europepmc.org/articles/PMC7722871; pdf:https://europepmc.org/articles/PMC7722871?pdf=render"
   },
   {
     "id": "32505923",
@@ -6749,23 +6766,6 @@
     "urls": "doi:https://doi.org/10.1016/S2352-3026(20)30031-4"
   },
   {
-    "id": "32080192",
-    "doi": "https://doi.org/10.1038/s41467-020-14717-y",
-    "title": "Author Correction: Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
-    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2020",
-    "date": "2020-02-20",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "An amendment to this paper has been published and can be accessed via a link at the top of the paper.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-020-14717-y; html:https://europepmc.org/articles/PMC7033171; pdf:https://europepmc.org/articles/PMC7033171?pdf=render"
-  },
-  {
     "id": "30928767",
     "doi": "https://doi.org/10.1016/j.evalprogplan.2019.03.002",
     "title": "Understanding the factors that influence health promotion evaluation: The development and validation of the evaluation practice analysis survey.",
@@ -6781,6 +6781,23 @@
     "abstract": "The demand for improved quality of health promotion evaluation and greater capacity to undertake evaluation is growing, yet evidence of the challenges and facilitators to evaluation practice within the health promotion field is lacking. A limited number of evaluation capacity measurement instruments have been validated in government or non-government organisations (NGO), however there is no instrument designed for health promotion organisations. This study aimed to develop and validate an Evaluation Practice Analysis Survey (EPAS) to examine evaluation practices in health promotion organisations. Qualitative interviews, existing frameworks and instruments informed the survey development. Health promotion practitioners from government agencies and NGOs completed the survey (n\u2009=\u2009169). Principal components analysis was used to determine scale structure and Cronbach's \u03b1 used to estimate internal reliability. Logistic regression was conducted to assess predictive validity of selected EPAS scale. The final survey instrument included 25 scales (125 items). The EPAS demonstrated good internal reliability (\u03b1\u2009>\u20090.7) for 23 scales. Dedicated resources and time for evaluation, leadership, organisational culture and internal support for evaluation showed promising predictive validity. The EPAS can be used to describe elements of evaluation capacity at the individual, organisational and system levels and to guide initiatives to improve evaluation practice in health promotion organisations.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.evalprogplan.2019.03.002"
+  },
+  {
+    "id": "32080192",
+    "doi": "https://doi.org/10.1038/s41467-020-14717-y",
+    "title": "Author Correction: Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
+    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2020",
+    "date": "2020-02-20",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "An amendment to this paper has been published and can be accessed via a link at the top of the paper.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-020-14717-y; html:https://europepmc.org/articles/PMC7033171; pdf:https://europepmc.org/articles/PMC7033171?pdf=render"
   },
   {
     "id": "29780001",
@@ -8410,7 +8427,7 @@
     "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "OBJECTIVE:To develop and validate a pragmatic risk score to predict mortality in patients admitted to hospital with coronavirus disease 2019 (covid-19). DESIGN:Prospective observational cohort study. SETTING:International Severe Acute Respiratory and emerging Infections Consortium (ISARIC) World Health Organization (WHO) Clinical Characterisation Protocol UK (CCP-UK) study (performed by the ISARIC Coronavirus Clinical Characterisation Consortium-ISARIC-4C) in 260 hospitals across England, Scotland, and Wales. Model training was performed on a cohort of patients recruited between 6 February and 20 May 2020, with validation conducted on a second cohort of patients recruited after model development between 21 May and 29 June 2020. PARTICIPANTS: Adults (age \u226518 years) admitted to hospital with covid-19 at least four weeks before final data extraction. MAIN OUTCOME MEASURE:In-hospital mortality. RESULTS:35\u2009463 patients were included in the derivation dataset (mortality rate 32.2%) and 22\u2009361 in the validation dataset (mortality rate 30.1%). The final 4C Mortality Score included eight variables readily available at initial hospital assessment: age, sex, number of comorbidities, respiratory rate, peripheral oxygen saturation, level of consciousness, urea level, and C reactive protein (score range 0-21 points). The 4C Score showed high discrimination for mortality (derivation cohort: area under the receiver operating characteristic curve 0.79, 95% confidence interval 0.78 to 0.79; validation cohort: 0.77, 0.76 to 0.77) with excellent calibration (validation: calibration-in-the-large=0, slope=1.0). Patients with a score of at least 15 (n=4158, 19%) had a 62% mortality (positive predictive value 62%) compared with 1% mortality for those with a score of 3 or less (n=1650, 7%; negative predictive value 99%). Discriminatory performance was higher than 15 pre-existing risk stratification scores (area under the receiver operating characteristic curve range 0.61-0.76), with scores developed in other covid-19 cohorts often performing poorly (range 0.63-0.73). CONCLUSIONS:An easy-to-use risk stratification score has been developed and validated based on commonly available parameters at hospital presentation. The 4C Mortality Score outperformed existing scores, showed utility to directly inform clinical decision making, and can be used to stratify patients admitted to hospital with covid-19 into different management groups. The score should be further validated to determine its applicability in other populations. STUDY REGISTRATION:ISRCTN66726260.",
+    "abstract": "<b>Objective: </b>To develop and validate a pragmatic risk score to predict mortality in patients admitted to hospital with coronavirus disease 2019 (covid-19).<br><br><b>Design: </b>Prospective observational cohort study.<br><br><b>Setting: </b>International Severe Acute Respiratory and emerging Infections Consortium (ISARIC) World Health Organization (WHO) Clinical Characterisation Protocol UK (CCP-UK) study (performed by the ISARIC Coronavirus Clinical Characterisation Consortium-ISARIC-4C) in 260 hospitals across England, Scotland, and Wales. Model training was performed on a cohort of patients recruited between 6 February and 20 May 2020, with validation conducted on a second cohort of patients recruited after model development between 21 May and 29 June 2020<i>.</i> PARTICIPANTS: Adults (age \u226518 years) admitted to hospital with covid-19 at least four weeks before final data extraction.<br><br><b>Main outcome measure: </b>In-hospital mortality.<br><br><b>Results: </b>35\u2009463 patients were included in the derivation dataset (mortality rate 32.2%) and 22\u2009361 in the validation dataset (mortality rate 30.1%). The final 4C Mortality Score included eight variables readily available at initial hospital assessment: age, sex, number of comorbidities, respiratory rate, peripheral oxygen saturation, level of consciousness, urea level, and C reactive protein (score range 0-21 points). The 4C Score showed high discrimination for mortality (derivation cohort: area under the receiver operating characteristic curve 0.79, 95% confidence interval 0.78 to 0.79; validation cohort: 0.77, 0.76 to 0.77) with excellent calibration (validation: calibration-in-the-large=0, slope=1.0). Patients with a score of at least 15 (n=4158, 19%) had a 62% mortality (positive predictive value 62%) compared with 1% mortality for those with a score of 3 or less (n=1650, 7%; negative predictive value 99%). Discriminatory performance was higher than 15 pre-existing risk stratification scores (area under the receiver operating characteristic curve range 0.61-0.76), with scores developed in other covid-19 cohorts often performing poorly (range 0.63-0.73).<br><br><b>Conclusions: </b>An easy-to-use risk stratification score has been developed and validated based on commonly available parameters at hospital presentation. The 4C Mortality Score outperformed existing scores, showed utility to directly inform clinical decision making, and can be used to stratify patients admitted to hospital with covid-19 into different management groups. The score should be further validated to determine its applicability in other populations.<br><br><b>Study registration: </b>ISRCTN66726260.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmj.m3339; html:https://europepmc.org/articles/PMC7116472; pdf:https://europepmc.org/articles/PMC7116472?pdf=render"
   },
@@ -8619,23 +8636,6 @@
     "urls": "doi:https://doi.org/10.1128/JCM.01037-19; html:https://europepmc.org/articles/PMC6935933; pdf:https://europepmc.org/articles/PMC6935933?pdf=render"
   },
   {
-    "id": "32571619",
-    "doi": "https://doi.org/10.1016/j.schres.2020.05.007",
-    "title": "Real-world implementation of precision psychiatry: Transdiagnostic risk calculator for the automatic detection of individuals at-risk of psychosis.",
-    "authorString": "Oliver D, Spada G, Colling C, Broadbent M, Baldwin H, Patel R, Stewart R, Stahl D, Dobson R, McGuire P, Fusar-Poli P.",
-    "authorAffiliations": "",
-    "journalTitle": "Schizophrenia research",
-    "pubYear": "2020",
-    "date": "2020-06-19",
-    "isOpenAccess": "N",
-    "keywords": "Feasibility; Implementation; Risk Calculator; Precision Psychiatry; Psychosis;transdiagnostic",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Risk estimation models integrated into Electronic Health Records (EHRs) can deliver innovative approaches in psychiatry, but clinicians' endorsement and their real-world usability are unknown. This study aimed to investigate the real-world feasibility of implementing an individualised, transdiagnostic risk calculator to automatically screen EHRs and detect individuals at-risk for psychosis. METHODS:Feasibility implementation study encompassing an in-vitro phase (March 2018 to May 2018) and in-vivo phase (May 2018 to April 2019). The in-vitro phase addressed implementation barriers and embedded the risk calculator (predictors: age, gender, ethnicity, index cluster diagnosis, age*gender) into the local EHR. The in-vivo phase investigated the real-world feasibility of screening individuals accessing secondary mental healthcare at the South London and Maudsley NHS Trust. The primary outcome was adherence of clinicians to automatic EHR screening, defined by the proportion of clinicians who responded to alerts from the risk calculator, over those contacted. RESULTS:In-vitro phase: implementation barriers were identified/overcome with clinician and service user engagement, and the calculator was successfully integrated into the local EHR through the CogStack platform. In-vivo phase: 3722 individuals were automatically screened and 115 were detected. Clinician adherence was 74% without outreach and 85% with outreach. One-third of clinicians responded to the first email (37.1%) or phone calls (33.7%). Among those detected, cumulative risk of developing psychosis was 12% at six-month follow-up. CONCLUSION:This is the first implementation study suggesting that combining precision psychiatry and EHR methods to improve detection of individuals with emerging psychosis is feasible. Future psychiatric implementation research is urgently needed.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.schres.2020.05.007"
-  },
-  {
     "id": "31641117",
     "doi": "https://doi.org/10.1038/s41467-019-12682-9",
     "title": "Sequence variants with large effects on cardiac electrophysiology and disease.",
@@ -8651,6 +8651,23 @@
     "abstract": "Features of the QRS complex of the electrocardiogram, reflecting ventricular depolarisation, associate with various physiologic functions and several pathologic conditions. We test 32.5 million variants for association with ten measures of the QRS complex in 12 leads, using 405,732 electrocardiograms from 81,192 Icelanders. We identify 190 associations at 130 loci, the majority of which have not been reported before, including associations with 21 rare or low-frequency coding variants. Assessment of genes expressed in the\u00a0heart yields an additional 13 rare QRS coding variants at 12 loci. We find 51 unreported associations between the QRS variants and echocardiographic traits and cardiovascular diseases, including atrial fibrillation, complete AV block, heart failure and supraventricular tachycardia. We demonstrate the advantage of in-depth analysis of the QRS complex in conjunction with other cardiovascular phenotypes to enhance our understanding of the genetic basis of myocardial mass, cardiac conduction and disease.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41467-019-12682-9; html:https://europepmc.org/articles/PMC6805929; pdf:https://europepmc.org/articles/PMC6805929?pdf=render"
+  },
+  {
+    "id": "32571619",
+    "doi": "https://doi.org/10.1016/j.schres.2020.05.007",
+    "title": "Real-world implementation of precision psychiatry: Transdiagnostic risk calculator for the automatic detection of individuals at-risk of psychosis.",
+    "authorString": "Oliver D, Spada G, Colling C, Broadbent M, Baldwin H, Patel R, Stewart R, Stahl D, Dobson R, McGuire P, Fusar-Poli P.",
+    "authorAffiliations": "",
+    "journalTitle": "Schizophrenia research",
+    "pubYear": "2020",
+    "date": "2020-06-19",
+    "isOpenAccess": "N",
+    "keywords": "Feasibility; Implementation; Risk Calculator; Precision Psychiatry; Psychosis;transdiagnostic",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Risk estimation models integrated into Electronic Health Records (EHRs) can deliver innovative approaches in psychiatry, but clinicians' endorsement and their real-world usability are unknown. This study aimed to investigate the real-world feasibility of implementing an individualised, transdiagnostic risk calculator to automatically screen EHRs and detect individuals at-risk for psychosis. METHODS:Feasibility implementation study encompassing an in-vitro phase (March 2018 to May 2018) and in-vivo phase (May 2018 to April 2019). The in-vitro phase addressed implementation barriers and embedded the risk calculator (predictors: age, gender, ethnicity, index cluster diagnosis, age*gender) into the local EHR. The in-vivo phase investigated the real-world feasibility of screening individuals accessing secondary mental healthcare at the South London and Maudsley NHS Trust. The primary outcome was adherence of clinicians to automatic EHR screening, defined by the proportion of clinicians who responded to alerts from the risk calculator, over those contacted. RESULTS:In-vitro phase: implementation barriers were identified/overcome with clinician and service user engagement, and the calculator was successfully integrated into the local EHR through the CogStack platform. In-vivo phase: 3722 individuals were automatically screened and 115 were detected. Clinician adherence was 74% without outreach and 85% with outreach. One-third of clinicians responded to the first email (37.1%) or phone calls (33.7%). Among those detected, cumulative risk of developing psychosis was 12% at six-month follow-up. CONCLUSION:This is the first implementation study suggesting that combining precision psychiatry and EHR methods to improve detection of individuals with emerging psychosis is feasible. Future psychiatric implementation research is urgently needed.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.schres.2020.05.007"
   },
   {
     "id": "31830076",
@@ -8993,6 +9010,23 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2018-028375; html:https://europepmc.org/articles/PMC6624024; pdf:https://europepmc.org/articles/PMC6624024?pdf=render"
   },
   {
+    "id": "31112426",
+    "doi": "https://doi.org/10.1161/circgen.118.002436",
+    "title": "Mortality Risk Associated With Truncating Founder Mutations in Titin.",
+    "authorString": "Jansen M, Baas AF, van Spaendonck-Zwarts KY, Ummels AS, van den Wijngaard A, Jongbloed JDH, van Slegtenhorst MA, Lekanne Deprez RH, Wessels MW, Michels M, Houweling AC, Hoorntje ET, Helderman-van den Enden PJTM, Barge-Schaapveld DQCM, Peter van Tintelen J, van den Berg MP, Wilde AAM, Ploos van Amstel HK, Hennekam EAM, Asselbergs FW, Sijbrands EJG, Dooijes D.",
+    "authorAffiliations": "",
+    "journalTitle": "Circulation. Genomic and precision medicine",
+    "pubYear": "2019",
+    "date": "2019-05-01",
+    "isOpenAccess": "N",
+    "keywords": "Mutation; Mortality; Natural history; Cardiomyopathy, Dilated; Titin",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Background Truncating titin variants (TTNtv) are the most prevalent genetic cause of dilated cardiomyopathy, found in \u226425% of familial cases. Moreover, TTNtv associated with dilated cardiomyopathy are estimated to be present in 0.5% of the general population. The prognosis of asymptomatic carriers of TTNtv is poorly understood because TTNtv are associated with a highly variable phenotype. We aim to assess the natural history and clinical relevance of TTNtv by analyzing standardized mortality ratios (SMR) in multigenerational pedigrees and in close relatives of present-day patients. Methods Haplotype and genealogical analyses were performed on 3 recurrent TTNtv. Subsequently, the family tree mortality ratio method was used to compare all-cause mortality of subjects at an a priori 50% risk of carrying TTNtv to the general Dutch population. SMRs were stratified for sex, age, and calendar period. Subgroups were compared with Poisson regression. Similarly, SMRs were calculated in parents of 128 present-day dilated cardiomyopathy probands with TTNtv using the reverse parent-offspring method. Results The TTNtv were established as founder mutations and traced to 18th century ancestors. In 20\u2009522 person-years, overall mortality was not significantly increased (SMR, 1.06; 95% CI, 0.95-1.18; P=0.162). However, mortality was significantly increased in subjects living after 1965 (SMR, 1.27; 95% CI, 1.04-1.53; P=0.009) and aged \u226560 years (SMR, 1.17; 95% CI, 1.01-1.35; P=0.02). The reverse parent-offspring analysis showed overall excess mortality (SMR, 1.26; 95% CI, 1.07-1.48; P=0.003), driven by subjects aged \u226560 years. Conclusions The natural history of the analyzed TTNtv shows a relatively mild disease course with significant excess mortality in elderly patients. With increasing life expectancy, TTNtv-associated morbidity and mortality will likely become more prevalent.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/CIRCGEN.118.002436"
+  },
+  {
     "id": "31341063",
     "doi": "https://doi.org/10.1126/scitranslmed.aan5662",
     "title": "The gut microbiota influences skeletal muscle mass and function in mice.",
@@ -9025,23 +9059,6 @@
     "abstract": "Understanding risk factors for Ebola transmission is key for effective prediction and design of interventions. We used data on 860 cases in 129 chains of transmission from the latter half of the 2013-2016 Ebola epidemic in Guinea. Using negative binomial regression, we determined characteristics associated with the number of secondary cases resulting from each infected individual. We found that attending an Ebola treatment unit was associated with a 38% decrease in secondary cases (incidence rate ratio (IRR) = 0.62, 95% confidence interval (CI): 0.38, 0.99) among individuals that did not survive. Unsafe burial was associated with a higher number of secondary cases (IRR = 1.82, 95% CI: 1.10, 3.02). The average number of secondary cases was higher for the first generation of a transmission chain (mean = 1.77) compared with subsequent generations (mean = 0.70). Children were least likely to transmit (IRR = 0.35, 95% CI: 0.21, 0.57) compared with adults, whereas older adults were associated with higher numbers of secondary cases. Men were less likely to transmit than women (IRR = 0.71, 95% CI: 0.55, 0.93). This detailed surveillance data set provided an invaluable insight into transmission routes and risks. Our analysis highlights the key role that age, receiving treatment, and safe burial played in the spread of EVD.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/aje/kwz090; html:https://europepmc.org/articles/PMC6601535; pdf:https://europepmc.org/articles/PMC6601535?pdf=render"
-  },
-  {
-    "id": "31112426",
-    "doi": "https://doi.org/10.1161/circgen.118.002436",
-    "title": "Mortality Risk Associated With Truncating Founder Mutations in Titin.",
-    "authorString": "Jansen M, Baas AF, van Spaendonck-Zwarts KY, Ummels AS, van den Wijngaard A, Jongbloed JDH, van Slegtenhorst MA, Lekanne Deprez RH, Wessels MW, Michels M, Houweling AC, Hoorntje ET, Helderman-van den Enden PJTM, Barge-Schaapveld DQCM, Peter van Tintelen J, van den Berg MP, Wilde AAM, Ploos van Amstel HK, Hennekam EAM, Asselbergs FW, Sijbrands EJG, Dooijes D.",
-    "authorAffiliations": "",
-    "journalTitle": "Circulation. Genomic and precision medicine",
-    "pubYear": "2019",
-    "date": "2019-05-01",
-    "isOpenAccess": "N",
-    "keywords": "Mutation; Mortality; Natural history; Cardiomyopathy, Dilated; Titin",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Background Truncating titin variants (TTNtv) are the most prevalent genetic cause of dilated cardiomyopathy, found in \u226425% of familial cases. Moreover, TTNtv associated with dilated cardiomyopathy are estimated to be present in 0.5% of the general population. The prognosis of asymptomatic carriers of TTNtv is poorly understood because TTNtv are associated with a highly variable phenotype. We aim to assess the natural history and clinical relevance of TTNtv by analyzing standardized mortality ratios (SMR) in multigenerational pedigrees and in close relatives of present-day patients. Methods Haplotype and genealogical analyses were performed on 3 recurrent TTNtv. Subsequently, the family tree mortality ratio method was used to compare all-cause mortality of subjects at an a priori 50% risk of carrying TTNtv to the general Dutch population. SMRs were stratified for sex, age, and calendar period. Subgroups were compared with Poisson regression. Similarly, SMRs were calculated in parents of 128 present-day dilated cardiomyopathy probands with TTNtv using the reverse parent-offspring method. Results The TTNtv were established as founder mutations and traced to 18th century ancestors. In 20\u2009522 person-years, overall mortality was not significantly increased (SMR, 1.06; 95% CI, 0.95-1.18; P=0.162). However, mortality was significantly increased in subjects living after 1965 (SMR, 1.27; 95% CI, 1.04-1.53; P=0.009) and aged \u226560 years (SMR, 1.17; 95% CI, 1.01-1.35; P=0.02). The reverse parent-offspring analysis showed overall excess mortality (SMR, 1.26; 95% CI, 1.07-1.48; P=0.003), driven by subjects aged \u226560 years. Conclusions The natural history of the analyzed TTNtv shows a relatively mild disease course with significant excess mortality in elderly patients. With increasing life expectancy, TTNtv-associated morbidity and mortality will likely become more prevalent.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/CIRCGEN.118.002436"
   },
   {
     "id": "31243008",
@@ -9617,7 +9634,7 @@
     "keywords": "Interleukin-7, Genetic Architecture, Fine-mapping, Selective Sweeps, Polygenic Trait Score, Phenome-wide Association Study",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "Most loci identified by GWASs have been found in populations of European ancestry (EUR). In trans-ethnic meta-analyses for 15 hematological traits in 746,667 participants, including 184,535 non-EUR individuals, we identified 5,552 trait-variant associations at p\u00a0< 5\u00a0\u00d7 10-9, including 71 novel associations not found in EUR populations. We also identified 28 additional novel variants in ancestry-specific, non-EUR meta-analyses, including an IL7 missense variant in South Asians associated with lymphocyte count in\u00a0vivo and IL-7 secretion levels in\u00a0vitro. Fine-mapping prioritized variants annotated as functional and generated 95% credible sets that were 30% smaller when using the trans-ethnic as opposed to the EUR-only results. We explored the clinical significance and predictive value of trans-ethnic variants in multiple populations and compared genetic architecture and the effect of natural selection on these blood phenotypes between populations. Altogether, our results for hematological traits highlight the value of a more global representation of populations in genetic studies.",
+    "abstract": "Most loci identified by GWASs have been found in populations of European ancestry (EUR). In trans-ethnic meta-analyses for 15 hematological traits in 746,667 participants, including 184,535 non-EUR individuals, we identified 5,552 trait-variant associations at p\u00a0< 5\u00a0\u00d7 10<sup>-9</sup>, including 71 novel associations not found in EUR populations. We also identified 28 additional novel variants in ancestry-specific, non-EUR meta-analyses, including an IL7 missense variant in South Asians associated with lymphocyte count in\u00a0vivo and IL-7 secretion levels in\u00a0vitro. Fine-mapping prioritized variants annotated as functional and generated 95% credible sets that were 30% smaller when using the trans-ethnic as opposed to the EUR-only results. We explored the clinical significance and predictive value of trans-ethnic variants in multiple populations and compared genetic architecture and the effect of natural selection on these blood phenotypes between populations. Altogether, our results for hematological traits highlight the value of a more global representation of populations in genetic studies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.cell.2020.06.045"
   },
