@@ -663,23 +663,6 @@
     "urls": "doi:https://doi.org/10.3390/ijms21217886; html:https://europepmc.org/articles/PMC7660606; pdf:https://europepmc.org/articles/PMC7660606?pdf=render"
   },
   {
-    "id": "33200120",
-    "doi": "https://doi.org/10.1016/j.eclinm.2020.100630",
-    "title": "Ethnicity and clinical outcomes in COVID-19: A systematic review and meta-analysis.",
-    "authorString": "Sze S, Pan D, Nevill CR, Gray LJ, Martin CA, Nazareth J, Minhas JS, Divall P, Khunti K, Abrams KR, Nellums LB, Pareek M.",
-    "authorAffiliations": "",
-    "journalTitle": "EClinicalMedicine",
-    "pubYear": "2020",
-    "date": "2020-11-12",
-    "isOpenAccess": "Y",
-    "keywords": "Infection; Transmission; RACE; Death; Ethnicity; Outcome; Asian; Hispanic; Ethnic; Sars-cov-2; Covid-19 Black; Disporportionate; Itu Admission",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Background: </b>Patients from ethnic minority groups are disproportionately affected by Coronavirus disease (COVID-19). We performed\u00a0a systematic review and meta-analysis to explore the relationship between ethnicity and clinical outcomes in COVID-19.<br><br><b>Methods: </b>Databases (MEDLINE, EMBASE, PROSPERO, Cochrane library and <i>MedRxiv</i>) were searched up to 31st August 2020, for studies reporting COVID-19 data disaggregated by ethnicity. Outcomes were: risk of infection; intensive therapy unit (ITU) admission and death. PROSPERO ID: 180654.<br><br><b>Findings: </b>18,728,893 patients from 50 studies were included; 26 were peer-reviewed; 42 were from the United States of America and 8 from the United Kingdom. Individuals from Black and Asian ethnicities had a higher risk of COVID-19 infection compared to White individuals. This was consistent in both the main analysis (pooled adjusted RR for Black: 2.02, 95% CI 1.67-2.44; pooled adjusted RR for Asian: 1.50, 95% CI 1.24-1.83) and sensitivity analyses examining peer-reviewed studies only (pooled adjusted RR for Black: 1.85, 95%CI: 1.46-2.35; pooled adjusted RR for Asian: 1.51, 95% CI 1.22-1.88). Individuals of Asian ethnicity may also be at higher risk of ITU admission (pooled adjusted RR 1.97 95% CI 1.34-2.89) (but no studies had yet been peer-reviewed) and death (pooled adjusted RR/HR 1.22 [0.99-1.50]).<br><br><b>Interpretation: </b>Individuals of Black and Asian ethnicity are at increased risk of COVID-19 infection compared to White individuals; Asians may be at higher risk of ITU admission and death. These findings are of critical public health importance in informing interventions to reduce morbidity and mortality amongst ethnic minority groups.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100630; html:https://europepmc.org/articles/PMC7658622; pdf:https://europepmc.org/articles/PMC7658622?pdf=render"
-  },
-  {
     "id": "32614817",
     "doi": "https://doi.org/10.1371/journal.pcbi.1008031",
     "title": "Estimation of country-level basic reproductive ratios for novel Coronavirus (SARS-CoV-2/COVID-19) using synthetic contact matrices.",
@@ -695,6 +678,23 @@
     "abstract": "The 2019-2020 pandemic of atypical pneumonia (COVID-19) caused by the virus SARS-CoV-2 has spread globally and has the potential to infect large numbers of people in every country. Estimating the country-specific basic reproductive ratio is a vital first step in public-health planning. The basic reproductive ratio (R0) is determined by both the nature of pathogen and the network of human contacts through which the disease can spread, which is itself dependent on population age structure and household composition. Here we introduce a transmission model combining age-stratified contact frequencies with age-dependent susceptibility, probability of clinical symptoms, and transmission from asymptomatic (or mild) cases, which we use to estimate the country-specific basic reproductive ratio of COVID-19 for 152 countries. Using early outbreak data from China and a synthetic contact matrix, we estimate an age-stratified transmission structure which can then be extrapolated to 151 other countries for which synthetic contact matrices also exist. This defines a set of country-specific transmission structures from which we can calculate the basic reproductive ratio for each country. Our predicted R0 is critically sensitive to the intensity of transmission from asymptomatic cases; with low asymptomatic transmission the highest values are predicted across Eastern Europe and Japan and the lowest across Africa, Central America and South-Western Asia. This pattern is largely driven by the ratio of children to older adults in each country and the observed propensity of clinical cases in the elderly. If asymptomatic cases have comparable transmission to detected cases, the pattern is reversed. Our results demonstrate the importance of age-specific heterogeneities going beyond contact structure to the spread of COVID-19. These heterogeneities give COVID-19 the capacity to spread particularly quickly in countries with older populations, and that intensive control measures are likely to be necessary to impede its progress in these countries.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pcbi.1008031; html:https://europepmc.org/articles/PMC7363110; pdf:https://europepmc.org/articles/PMC7363110?pdf=render"
+  },
+  {
+    "id": "33200120",
+    "doi": "https://doi.org/10.1016/j.eclinm.2020.100630",
+    "title": "Ethnicity and clinical outcomes in COVID-19: A systematic review and meta-analysis.",
+    "authorString": "Sze S, Pan D, Nevill CR, Gray LJ, Martin CA, Nazareth J, Minhas JS, Divall P, Khunti K, Abrams KR, Nellums LB, Pareek M.",
+    "authorAffiliations": "",
+    "journalTitle": "EClinicalMedicine",
+    "pubYear": "2020",
+    "date": "2020-11-12",
+    "isOpenAccess": "Y",
+    "keywords": "Infection; Transmission; RACE; Death; Ethnicity; Outcome; Asian; Hispanic; Ethnic; Sars-cov-2; Covid-19 Black; Disporportionate; Itu Admission",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Background: </b>Patients from ethnic minority groups are disproportionately affected by Coronavirus disease (COVID-19). We performed\u00a0a systematic review and meta-analysis to explore the relationship between ethnicity and clinical outcomes in COVID-19.<br><br><b>Methods: </b>Databases (MEDLINE, EMBASE, PROSPERO, Cochrane library and <i>MedRxiv</i>) were searched up to 31st August 2020, for studies reporting COVID-19 data disaggregated by ethnicity. Outcomes were: risk of infection; intensive therapy unit (ITU) admission and death. PROSPERO ID: 180654.<br><br><b>Findings: </b>18,728,893 patients from 50 studies were included; 26 were peer-reviewed; 42 were from the United States of America and 8 from the United Kingdom. Individuals from Black and Asian ethnicities had a higher risk of COVID-19 infection compared to White individuals. This was consistent in both the main analysis (pooled adjusted RR for Black: 2.02, 95% CI 1.67-2.44; pooled adjusted RR for Asian: 1.50, 95% CI 1.24-1.83) and sensitivity analyses examining peer-reviewed studies only (pooled adjusted RR for Black: 1.85, 95%CI: 1.46-2.35; pooled adjusted RR for Asian: 1.51, 95% CI 1.22-1.88). Individuals of Asian ethnicity may also be at higher risk of ITU admission (pooled adjusted RR 1.97 95% CI 1.34-2.89) (but no studies had yet been peer-reviewed) and death (pooled adjusted RR/HR 1.22 [0.99-1.50]).<br><br><b>Interpretation: </b>Individuals of Black and Asian ethnicity are at increased risk of COVID-19 infection compared to White individuals; Asians may be at higher risk of ITU admission and death. These findings are of critical public health importance in informing interventions to reduce morbidity and mortality amongst ethnic minority groups.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100630; html:https://europepmc.org/articles/PMC7658622; pdf:https://europepmc.org/articles/PMC7658622?pdf=render"
   },
   {
     "id": "33199838",
@@ -1972,23 +1972,6 @@
     "urls": "doi:https://doi.org/10.2196/23369"
   },
   {
-    "id": "32979970",
-    "doi": "https://doi.org/10.1016/s0140-6736(20)31966-8",
-    "title": "Models for mortality require tailoring in the context of the COVID-19 pandemic - Authors' reply.",
-    "authorString": "Banerjee A, Pasea L, Denaxas S, Williams B, Hemingway H.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2020",
-    "date": "2020-09-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31966-8; html:https://europepmc.org/articles/PMC7515579; pdf:https://europepmc.org/articles/PMC7515579?pdf=render"
-  },
-  {
     "id": "32426117",
     "doi": "https://doi.org/10.7189/jogh.10.010348",
     "title": "Novel approaches to estimate compliance with lockdown measures in the COVID-19 pandemic.",
@@ -2004,6 +1987,23 @@
     "abstract": "",
     "laySummary": "This is a summary of new methods for estimating phyiscal distancing and compliance with lockdown. I haven't scored the content because it isn't primary research.",
     "urls": "doi:https://doi.org/10.7189/jogh.10.010348; html:https://europepmc.org/articles/PMC7211415; pdf:https://europepmc.org/articles/PMC7211415?pdf=render"
+  },
+  {
+    "id": "32979970",
+    "doi": "https://doi.org/10.1016/s0140-6736(20)31966-8",
+    "title": "Models for mortality require tailoring in the context of the COVID-19 pandemic - Authors' reply.",
+    "authorString": "Banerjee A, Pasea L, Denaxas S, Williams B, Hemingway H.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2020",
+    "date": "2020-09-01",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31966-8; html:https://europepmc.org/articles/PMC7515579; pdf:https://europepmc.org/articles/PMC7515579?pdf=render"
   },
   {
     "id": "33262478",
@@ -2091,23 +2091,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pgen.1008164; html:https://europepmc.org/articles/PMC6592570; pdf:https://europepmc.org/articles/PMC6592570?pdf=render"
   },
   {
-    "id": "33180769",
-    "doi": "https://doi.org/10.1371/journal.pone.0240902",
-    "title": "Probable PTSD, depression and anxiety in 40,299 UK police officers and staff: Prevalence, risk factors and associations with blood pressure.",
-    "authorString": "Stevelink SAM, Opie E, Pernet D, Gao H, Elliott P, Wessely S, Fear NT, Hotopf M, Greenberg N.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2020",
-    "date": "2020-11-12",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Introduction: </b>Police employees undertake challenging duties which may adversely impact their health. This study explored the prevalence of and risk factors for probable mental disorders amongst a representative sample of UK police employees. The association between mental illness and alterations in blood pressure was also explored.<br><br><b>Methods: </b>Data were used from the Airwave Health Monitoring Study which was established to monitor the possible physical health impacts of a new communication system on police employees. Data included sociodemographic characteristics, lifestyle habits, depression, anxiety, and post-traumatic stress disorder (PTSD) symptoms and blood pressure. Descriptive statistics were used to explore the prevalence of probable mental disorders and associated factors. Stepwise linear regression was conducted, controlling for confounding variables, to examine associations between mental disorders and blood pressure.<br><br><b>Results: </b>The sample included 40,299 police staff, police constable/sergeants and inspectors or above. Probable depression was most frequently reported (9.8%), followed by anxiety (8.5%) and PTSD (3.9%). Groups at risk for probable mental disorders included police staff, and police employees who reported drinking heavily. Police employees exposed to traumatic incidents in the past six months had a doubling in rates of anxiety or depression and a six-fold increase in PTSD compared to those with no recent trauma exposure. Adjusted logistic regression models did not reveal any significant association between probable mental disorders and systolic blood pressure but significantly elevated diastolic blood pressure (\u22481mmHg) was found across mental disorders.<br><br><b>Conclusions: </b>These results show lower rates of probable mental disorders, especially PTSD, than reported in other studies focusing on police employees. Although mental ill health was associated with increased diastolic blood pressure, this was unlikely to be clinically significant. These findings highlight the importance of continued health monitoring of members of the UK police forces, focusing on employees recently exposed to traumatic incidents, heavy drinkers and police staff.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0240902; html:https://europepmc.org/articles/PMC7660485; pdf:https://europepmc.org/articles/PMC7660485?pdf=render"
-  },
-  {
     "id": "30240446",
     "doi": "https://doi.org/10.1371/journal.pone.0203896",
     "title": "Polygenic risk scores for major depressive disorder and neuroticism as predictors of antidepressant response: Meta-analysis of three treatment cohorts.",
@@ -2123,6 +2106,23 @@
     "abstract": "There are currently no reliable approaches for correctly identifying which patients with major depressive disorder (MDD) will respond well to antidepressant therapy. However, recent genetic advances suggest that Polygenic Risk Scores (PRS) could allow MDD patients to be stratified for antidepressant response. We used PRS for MDD and PRS for neuroticism as putative predictors of antidepressant response within three treatment cohorts: The Genome-based Therapeutic Drugs for Depression (GENDEP) cohort, and 2 sub-cohorts from the Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomics Study PRGN-AMPS (total patient number = 760). Results across cohorts were combined via meta-analysis within a random effects model. Overall, PRS for MDD and neuroticism did not significantly predict antidepressant response but there was a consistent direction of effect, whereby greater genetic loading for both MDD (best MDD result, p < 5*10-5 MDD-PRS at 4 weeks, \u03b2 = -0.019, S.E = 0.008, p = 0.01) and neuroticism (best neuroticism result, p < 0.1 neuroticism-PRS at 8 weeks, \u03b2 = -0.017, S.E = 0.008, p = 0.03) were associated with less favourable response. We conclude that the PRS approach may offer some promise for treatment stratification in MDD and should now be assessed within larger clinical cohorts.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0203896; html:https://europepmc.org/articles/PMC6150505; pdf:https://europepmc.org/articles/PMC6150505?pdf=render"
+  },
+  {
+    "id": "33180769",
+    "doi": "https://doi.org/10.1371/journal.pone.0240902",
+    "title": "Probable PTSD, depression and anxiety in 40,299 UK police officers and staff: Prevalence, risk factors and associations with blood pressure.",
+    "authorString": "Stevelink SAM, Opie E, Pernet D, Gao H, Elliott P, Wessely S, Fear NT, Hotopf M, Greenberg N.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2020",
+    "date": "2020-11-12",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Introduction: </b>Police employees undertake challenging duties which may adversely impact their health. This study explored the prevalence of and risk factors for probable mental disorders amongst a representative sample of UK police employees. The association between mental illness and alterations in blood pressure was also explored.<br><br><b>Methods: </b>Data were used from the Airwave Health Monitoring Study which was established to monitor the possible physical health impacts of a new communication system on police employees. Data included sociodemographic characteristics, lifestyle habits, depression, anxiety, and post-traumatic stress disorder (PTSD) symptoms and blood pressure. Descriptive statistics were used to explore the prevalence of probable mental disorders and associated factors. Stepwise linear regression was conducted, controlling for confounding variables, to examine associations between mental disorders and blood pressure.<br><br><b>Results: </b>The sample included 40,299 police staff, police constable/sergeants and inspectors or above. Probable depression was most frequently reported (9.8%), followed by anxiety (8.5%) and PTSD (3.9%). Groups at risk for probable mental disorders included police staff, and police employees who reported drinking heavily. Police employees exposed to traumatic incidents in the past six months had a doubling in rates of anxiety or depression and a six-fold increase in PTSD compared to those with no recent trauma exposure. Adjusted logistic regression models did not reveal any significant association between probable mental disorders and systolic blood pressure but significantly elevated diastolic blood pressure (\u22481mmHg) was found across mental disorders.<br><br><b>Conclusions: </b>These results show lower rates of probable mental disorders, especially PTSD, than reported in other studies focusing on police employees. Although mental ill health was associated with increased diastolic blood pressure, this was unlikely to be clinically significant. These findings highlight the importance of continued health monitoring of members of the UK police forces, focusing on employees recently exposed to traumatic incidents, heavy drinkers and police staff.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0240902; html:https://europepmc.org/articles/PMC7660485; pdf:https://europepmc.org/articles/PMC7660485?pdf=render"
   },
   {
     "id": "32301135",
@@ -2414,23 +2414,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0225625; html:https://europepmc.org/articles/PMC6876873; pdf:https://europepmc.org/articles/PMC6876873?pdf=render"
   },
   {
-    "id": "31529485",
-    "doi": "https://doi.org/10.1111/bjd.18526",
-    "title": "The association of smoking and socioeconomic status on cutaneous melanoma: a population-based, data-linkage, case-control study.",
-    "authorString": "Gibson JAG, Dobbs TD, Griffiths R, Song J, Akbari A, Whitaker S, Watkins A, Langan SM, Hutchings HA, Lyons RA, Whitaker IS.",
-    "authorAffiliations": "",
-    "journalTitle": "The British journal of dermatology",
-    "pubYear": "2020",
-    "date": "2019-12-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Previous studies have identified an inverse association between melanoma and smoking; however, data from population-based studies are scarce. OBJECTIVES:To determine the association between smoking and socioeconomic (SES) on the risk of development of melanoma. Furthermore, we sought to determine the implications of smoking and SES on survival. METHODS:We conducted a population-based case-control study. Cases were identified from the Welsh Cancer Intelligence and Surveillance Unit (WCISU) during 2000-2015 and controls from the general population. Smoking and SES were obtained from data linkage with other national databases. The association of smoking status and SES on the incidence of melanoma were assessed using binary logistic regression. Multivariate survival analysis was performed on a melanoma cohort using a Cox proportional hazard model using survival as the outcome. RESULTS:During 2000-2015, 9636 patients developed melanoma. Smoking data were obtained for 7124 (73\u00b79%) of these patients. There were 26\u00a0408 controls identified from the general population. Smoking was inversely associated with melanoma incidence [odds ratio (OR) 0\u00b770,\u00a095% confidence interval (CI) 0\u00b765-0\u00b776]. Smoking was associated with an increased overall mortality [hazard ratio (HR) 1\u00b730, 95% CI 1\u00b709-1\u00b755], but not associated with melanoma-specific mortality. Patients with higher SES had an increased association with melanoma incidence (OR 1\u00b758,\u00a095% CI 1\u00b744-1\u00b773). Higher SES was associated with an increased chance of both overall (HR 0\u00b767, 95% CI 0\u00b756-0\u00b781) and disease-specific survival (HR 0\u00b769, 95% CI 0\u00b753-0\u00b790). CONCLUSIONS:Our study has demonstrated that smoking appeared to be associated with reduced incidence of melanoma. Although smoking increases overall mortality, no association was observed with melanoma-specific mortality. Further work is required to determine if there is a biological mechanism underlying this relationship or an alternative explanation, such as survival bias. What's already known about this topic? Previous studies have been contradictory with both negative and positive associations between smoking and the incidence of melanoma reported. Previous studies have either been limited by publication bias because of selective reporting or underpowered. What does this study add? Our large study identified an inverse association between smoking status and melanoma incidence. Although smoking status was negatively associated with overall disease survival, no significant association was noted in melanoma-specific survival. Socioeconomic status remains closely associated with melanoma. Although higher socioeconomic populations are more likely to develop the disease, patients with lower socioeconomic status continue to have a worse prognosis.",
-    "laySummary": "This study investiages whether there is a smoking and socioeconomic status is linked to the risk of developing melanoma (a skin cancer). They used a Welsh database to find data on individuals who had melanoma and linked this data with smoking status and socioeconomic status on other national databases. They found that melanoma was less likely in those who smoked, but was associated with less chance of survival (due to health problems other than melanoma). Those in higher socioeconomic status had overall higher likelihood of survival.",
-    "urls": "doi:https://doi.org/10.1111/bjd.18526; html:https://europepmc.org/articles/PMC7383980; pdf:https://europepmc.org/articles/PMC7383980?pdf=render"
-  },
-  {
     "id": "31088492",
     "doi": "https://doi.org/10.1186/s12967-019-1912-5",
     "title": "-Omics biomarker identification pipeline for translational medicine.",
@@ -2446,6 +2429,23 @@
     "abstract": "BACKGROUND:Translational medicine (TM) is an emerging domain that aims to facilitate medical or biological advances efficiently from the scientist to the clinician. Central to the TM vision is to narrow the gap between basic science and applied science in terms of time, cost and early diagnosis of the disease state. Biomarker identification is one of the main challenges within TM. The identification of disease biomarkers from -omics data will not only help the stratification of diverse patient cohorts but will also provide early diagnostic information which could improve patient management and potentially prevent adverse outcomes. However, biomarker identification needs to be robust and reproducible. Hence a robust unbiased computational framework that can help clinicians identify those biomarkers is necessary. METHODS:We developed a pipeline (workflow) that includes two different supervised classification techniques based on regularization methods to identify biomarkers from -omics or other high dimension clinical datasets. The pipeline includes several important steps such as quality control and stability of selected biomarkers. The process takes input files (outcome and independent variables or -omics data) and pre-processes (normalization, missing values) them. After a random division of samples into training and test sets, Least Absolute Shrinkage and Selection Operator and Elastic Net feature selection methods are applied to identify the most important features representing potential biomarker candidates. The penalization parameters are optimised using 10-fold cross validation and the process undergoes 100 iterations and a combinatorial analysis to select the best performing multivariate model. An empirical unbiased assessment of their quality as biomarkers for clinical use is performed through a Receiver Operating Characteristic curve and its Area Under the Curve analysis on both permuted and real data for 1000 different randomized training and test sets. We validated this pipeline against previously published biomarkers. RESULTS:We applied this pipeline to three different datasets with previously published biomarkers: lipidomics data by Acharjee et al. (Metabolomics 13:25, 2017) and transcriptomics data by Rajamani and Bhasin (Genome Med 8:38, 2016) and Mills\u00a0et al. (Blood 114:1063-1072, 2009). Our results demonstrate that our method was able to identify both previously published biomarkers as well as new variables that add value to the published results. CONCLUSIONS:We developed a robust pipeline to identify clinically relevant biomarkers that can be applied to different -omics datasets. Such identification reveals potentially novel drug targets and can be used as a part of a machine-learning based patient stratification framework in the translational medicine settings.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1186/s12967-019-1912-5; html:https://europepmc.org/articles/PMC6518609; pdf:https://europepmc.org/articles/PMC6518609?pdf=render"
+  },
+  {
+    "id": "31529485",
+    "doi": "https://doi.org/10.1111/bjd.18526",
+    "title": "The association of smoking and socioeconomic status on cutaneous melanoma: a population-based, data-linkage, case-control study.",
+    "authorString": "Gibson JAG, Dobbs TD, Griffiths R, Song J, Akbari A, Whitaker S, Watkins A, Langan SM, Hutchings HA, Lyons RA, Whitaker IS.",
+    "authorAffiliations": "",
+    "journalTitle": "The British journal of dermatology",
+    "pubYear": "2020",
+    "date": "2019-12-01",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Previous studies have identified an inverse association between melanoma and smoking; however, data from population-based studies are scarce. OBJECTIVES:To determine the association between smoking and socioeconomic (SES) on the risk of development of melanoma. Furthermore, we sought to determine the implications of smoking and SES on survival. METHODS:We conducted a population-based case-control study. Cases were identified from the Welsh Cancer Intelligence and Surveillance Unit (WCISU) during 2000-2015 and controls from the general population. Smoking and SES were obtained from data linkage with other national databases. The association of smoking status and SES on the incidence of melanoma were assessed using binary logistic regression. Multivariate survival analysis was performed on a melanoma cohort using a Cox proportional hazard model using survival as the outcome. RESULTS:During 2000-2015, 9636 patients developed melanoma. Smoking data were obtained for 7124 (73\u00b79%) of these patients. There were 26\u00a0408 controls identified from the general population. Smoking was inversely associated with melanoma incidence [odds ratio (OR) 0\u00b770,\u00a095% confidence interval (CI) 0\u00b765-0\u00b776]. Smoking was associated with an increased overall mortality [hazard ratio (HR) 1\u00b730, 95% CI 1\u00b709-1\u00b755], but not associated with melanoma-specific mortality. Patients with higher SES had an increased association with melanoma incidence (OR 1\u00b758,\u00a095% CI 1\u00b744-1\u00b773). Higher SES was associated with an increased chance of both overall (HR 0\u00b767, 95% CI 0\u00b756-0\u00b781) and disease-specific survival (HR 0\u00b769, 95% CI 0\u00b753-0\u00b790). CONCLUSIONS:Our study has demonstrated that smoking appeared to be associated with reduced incidence of melanoma. Although smoking increases overall mortality, no association was observed with melanoma-specific mortality. Further work is required to determine if there is a biological mechanism underlying this relationship or an alternative explanation, such as survival bias. What's already known about this topic? Previous studies have been contradictory with both negative and positive associations between smoking and the incidence of melanoma reported. Previous studies have either been limited by publication bias because of selective reporting or underpowered. What does this study add? Our large study identified an inverse association between smoking status and melanoma incidence. Although smoking status was negatively associated with overall disease survival, no significant association was noted in melanoma-specific survival. Socioeconomic status remains closely associated with melanoma. Although higher socioeconomic populations are more likely to develop the disease, patients with lower socioeconomic status continue to have a worse prognosis.",
+    "laySummary": "This study investiages whether there is a smoking and socioeconomic status is linked to the risk of developing melanoma (a skin cancer). They used a Welsh database to find data on individuals who had melanoma and linked this data with smoking status and socioeconomic status on other national databases. They found that melanoma was less likely in those who smoked, but was associated with less chance of survival (due to health problems other than melanoma). Those in higher socioeconomic status had overall higher likelihood of survival.",
+    "urls": "doi:https://doi.org/10.1111/bjd.18526; html:https://europepmc.org/articles/PMC7383980; pdf:https://europepmc.org/articles/PMC7383980?pdf=render"
   },
   {
     "id": "32771960",
@@ -2856,6 +2856,23 @@
     "urls": "doi:https://doi.org/10.1136/archdischild-2019-317271; html:https://europepmc.org/articles/PMC7041499; pdf:https://europepmc.org/articles/PMC7041499?pdf=render"
   },
   {
+    "id": "31353050",
+    "doi": "https://doi.org/10.1016/s0140-6736(19)31359-5",
+    "title": "Eligibility and subsequent burden of cardiovascular disease of four strategies for blood pressure-lowering treatment: a retrospective cohort study.",
+    "authorString": "Herrett E, Gadd S, Jackson R, Bhaskaran K, Williamson E, van Staa T, Sofat R, Timmis A, Smeeth L.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2019",
+    "date": "2019-07-25",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Better Care",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Worldwide treatment recommendations for lowering blood pressure continue to be guided predominantly by blood pressure thresholds, despite strong evidence that the benefits of blood pressure reduction are observed in patients across the blood pressure spectrum. In this study, we aimed to investigate the implications of alternative strategies for offering blood pressure treatment, using the UK as an illustrative example. METHODS:We did a retrospective cohort study in primary care patients aged 30-79 years without cardiovascular disease, using data from the UK's Clinical Practice Research Datalink linked to Hospital Episode Statistics and Office for National Statistics mortality. We assessed and compared four different strategies to determine eligibility for treatment: using 2011 UK National Institute for Health and Care Excellence (NICE) guideline, or proposed 2019 NICE guideline, or blood pressure alone (threshold \u2265140/90 mm Hg), or predicted 10-year cardiovascular risk alone (QRISK2 score \u226510%). Patients were followed up until the earliest occurrence of a cardiovascular disease diagnosis, death, or end of follow-up period (March 31, 2016). For each strategy, we estimated the proportion of patients eligible for treatment and number of cardiovascular events that could be prevented with treatment. We then estimated eligibility and number of events that would occur during 10 years in the UK general population. FINDINGS:Between Jan 1, 2011, and March 31, 2016, 1\u2008222\u2008670 patients in the cohort were followed up for a median of 4\u00b73 years (IQR 2\u00b75-5\u00b72). 271\u2008963 (22\u00b72%) patients were eligible for treatment under the 2011 NICE guideline, 327\u2008429 (26\u00b78%) under the proposed 2019 NICE guideline, 481\u2008859 (39\u00b74%) on the basis of a blood pressure threshold of 140/90 mm Hg or higher, and 357\u2008840 (29\u00b73%) on the basis of a QRISK2 threshold of 10% or higher. During follow-up, 32\u2008183 patients were diagnosed with cardiovascular disease (overall rate 7\u00b71 per 1000 person-years, 95% CI 7\u00b70-7\u00b72). Cardiovascular event rates in patients eligible for each strategy were 15\u00b72 per 1000 person-years (95% CI 15\u00b70-15\u00b75) under the 2011 NICE guideline, 14\u00b79 (14\u00b77-15\u00b71) under the proposed 2019 NICE guideline, 11\u00b74 (11\u00b73-11\u00b76) with blood pressure threshold alone, and 16\u00b79 (16\u00b77-17\u00b71) with QRISK2 threshold alone. Scaled to the UK population, we estimated that 233\u2008152 events would be avoided under the 2011 NICE guideline (28 patients needed to treat for 10 years to avoid one event), 270\u2008233 under the 2019 NICE guideline (29 patients), 301\u2008523 using a blood pressure threshold (38 patients), and 322\u2008921 using QRISK2 threshold (27 patients). INTERPRETATION:A cardiovascular risk-based strategy (QRISK2 \u226510%) could prevent over a third more cardiovascular disease events than the 2011 NICE guideline and a fifth more than the 2019 NICE guideline, with similar efficiency regarding number treated per event avoided. FUNDING:National Institute for Health Research.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31359-5; html:https://europepmc.org/articles/PMC6717081"
+  },
+  {
     "id": "32282926",
     "doi": "https://doi.org/10.1111/bjd.19122",
     "title": "Partner bereavement and risk of chronic urticaria, alopecia areata and vitiligo: cohort studies in the UK and Denmark.",
@@ -2888,23 +2905,6 @@
     "abstract": "INTRODUCTION:The emergence of the novel respiratory SARS-CoV-2 and subsequent COVID-19 pandemic have required rapid assimilation of population-level data to understand and control the spread of infection in the general and vulnerable populations. Rapid analyses are needed to inform policy development and target interventions to at-risk groups to prevent serious health outcomes. We aim to provide an accessible research platform to determine demographic, socioeconomic and clinical risk factors for infection, morbidity and mortality of COVID-19, to measure the impact of COVID-19 on healthcare utilisation and long-term health, and to enable the evaluation of natural experiments of policy interventions. METHODS AND ANALYSIS:Two privacy-protecting population-level cohorts have been created and derived from multisourced demographic and healthcare data. The C20 cohort consists of 3.2\u2009million people in Wales on the 1 January 2020 with follow-up until 31 May 2020. The complete cohort dataset will be updated monthly with some individual datasets available daily. The C16 cohort consists of 3\u2009million people in Wales on the 1 January 2016 with follow-up to 31 December 2019. C16 is designed as a counterfactual cohort to provide contextual comparative population data on disease, health service utilisation and mortality. Study outcomes will: (a) characterise the epidemiology of COVID-19, (b) assess socioeconomic and demographic influences on infection and outcomes, (c) measure the impact of COVID-19 on short -term and longer-term population outcomes and (d) undertake studies on the transmission and spatial spread of infection. ETHICS AND DISSEMINATION:The Secure Anonymised Information Linkage-independent Information Governance Review Panel has approved this study. The study findings will be presented to policy groups, public meetings, national and international conferences, and published in peer-reviewed journals.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2020-043010; html:https://europepmc.org/articles/PMC7580065; pdf:https://europepmc.org/articles/PMC7580065?pdf=render"
-  },
-  {
-    "id": "31353050",
-    "doi": "https://doi.org/10.1016/s0140-6736(19)31359-5",
-    "title": "Eligibility and subsequent burden of cardiovascular disease of four strategies for blood pressure-lowering treatment: a retrospective cohort study.",
-    "authorString": "Herrett E, Gadd S, Jackson R, Bhaskaran K, Williamson E, van Staa T, Sofat R, Timmis A, Smeeth L.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2019",
-    "date": "2019-07-25",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Better Care",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Worldwide treatment recommendations for lowering blood pressure continue to be guided predominantly by blood pressure thresholds, despite strong evidence that the benefits of blood pressure reduction are observed in patients across the blood pressure spectrum. In this study, we aimed to investigate the implications of alternative strategies for offering blood pressure treatment, using the UK as an illustrative example. METHODS:We did a retrospective cohort study in primary care patients aged 30-79 years without cardiovascular disease, using data from the UK's Clinical Practice Research Datalink linked to Hospital Episode Statistics and Office for National Statistics mortality. We assessed and compared four different strategies to determine eligibility for treatment: using 2011 UK National Institute for Health and Care Excellence (NICE) guideline, or proposed 2019 NICE guideline, or blood pressure alone (threshold \u2265140/90 mm Hg), or predicted 10-year cardiovascular risk alone (QRISK2 score \u226510%). Patients were followed up until the earliest occurrence of a cardiovascular disease diagnosis, death, or end of follow-up period (March 31, 2016). For each strategy, we estimated the proportion of patients eligible for treatment and number of cardiovascular events that could be prevented with treatment. We then estimated eligibility and number of events that would occur during 10 years in the UK general population. FINDINGS:Between Jan 1, 2011, and March 31, 2016, 1\u2008222\u2008670 patients in the cohort were followed up for a median of 4\u00b73 years (IQR 2\u00b75-5\u00b72). 271\u2008963 (22\u00b72%) patients were eligible for treatment under the 2011 NICE guideline, 327\u2008429 (26\u00b78%) under the proposed 2019 NICE guideline, 481\u2008859 (39\u00b74%) on the basis of a blood pressure threshold of 140/90 mm Hg or higher, and 357\u2008840 (29\u00b73%) on the basis of a QRISK2 threshold of 10% or higher. During follow-up, 32\u2008183 patients were diagnosed with cardiovascular disease (overall rate 7\u00b71 per 1000 person-years, 95% CI 7\u00b70-7\u00b72). Cardiovascular event rates in patients eligible for each strategy were 15\u00b72 per 1000 person-years (95% CI 15\u00b70-15\u00b75) under the 2011 NICE guideline, 14\u00b79 (14\u00b77-15\u00b71) under the proposed 2019 NICE guideline, 11\u00b74 (11\u00b73-11\u00b76) with blood pressure threshold alone, and 16\u00b79 (16\u00b77-17\u00b71) with QRISK2 threshold alone. Scaled to the UK population, we estimated that 233\u2008152 events would be avoided under the 2011 NICE guideline (28 patients needed to treat for 10 years to avoid one event), 270\u2008233 under the 2019 NICE guideline (29 patients), 301\u2008523 using a blood pressure threshold (38 patients), and 322\u2008921 using QRISK2 threshold (27 patients). INTERPRETATION:A cardiovascular risk-based strategy (QRISK2 \u226510%) could prevent over a third more cardiovascular disease events than the 2011 NICE guideline and a fifth more than the 2019 NICE guideline, with similar efficiency regarding number treated per event avoided. FUNDING:National Institute for Health Research.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31359-5; html:https://europepmc.org/articles/PMC6717081"
   },
   {
     "id": "31822919",
@@ -3128,23 +3128,6 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31356-8; html:https://europepmc.org/articles/PMC7429983"
   },
   {
-    "id": "32900377",
-    "doi": "https://doi.org/10.1186/s12916-020-01754-z",
-    "title": "Going on up to the SPIRIT in AI: will new reporting guidelines for clinical trials of AI interventions improve their rigour?",
-    "authorString": "Wicks P, Liu X, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC medicine",
-    "pubYear": "2020",
-    "date": "2020-09-09",
-    "isOpenAccess": "Y",
-    "keywords": "Artificial intelligence; Checklist; Clinical Trial; Machine Learning; Reporting Guidelines",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1186/s12916-020-01754-z; html:https://europepmc.org/articles/PMC7487816; pdf:https://europepmc.org/articles/PMC7487816?pdf=render"
-  },
-  {
     "id": "31349307",
     "doi": "https://doi.org/10.3233/shti190058",
     "title": "Phenotyping UK Electronic Health Records from 15 Million Individuals for Precision Medicine: The CALIBER Resource.",
@@ -3160,6 +3143,23 @@
     "abstract": "Electronic health records (EHR) are increasingly being used for observational research at scale. In the UK, we have established the CALIBER research resource which utilizes national primary and hospital EHR data sources and enables researchers to create and validate longitudinal disease phenotypes at scale. In this work, we will describe the core components of the resource and provide results from three exemplar research studies on high-resolution epidemiology, disease risk prediction and subtype discovery which demonstrate both the opportunities and challenges of using EHR for research.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3233/SHTI190058"
+  },
+  {
+    "id": "32900377",
+    "doi": "https://doi.org/10.1186/s12916-020-01754-z",
+    "title": "Going on up to the SPIRIT in AI: will new reporting guidelines for clinical trials of AI interventions improve their rigour?",
+    "authorString": "Wicks P, Liu X, Denniston AK.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC medicine",
+    "pubYear": "2020",
+    "date": "2020-09-09",
+    "isOpenAccess": "Y",
+    "keywords": "Artificial intelligence; Checklist; Clinical Trial; Machine Learning; Reporting Guidelines",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1186/s12916-020-01754-z; html:https://europepmc.org/articles/PMC7487816; pdf:https://europepmc.org/articles/PMC7487816?pdf=render"
   },
   {
     "id": "31857590",
@@ -3859,23 +3859,6 @@
     "urls": "doi:https://doi.org/10.1093/ehjqcco/qcaa079; html:https://europepmc.org/articles/PMC7665465; pdf:https://europepmc.org/articles/PMC7665465?pdf=render"
   },
   {
-    "id": "32247548",
-    "doi": "https://doi.org/10.1016/j.tips.2020.03.003",
-    "title": "Electronic Health Records to Predict Gestational Diabetes Risk.",
-    "authorString": "Mateen BA, David AL, Denaxas S.",
-    "authorAffiliations": "",
-    "journalTitle": "Trends in pharmacological sciences",
-    "pubYear": "2020",
-    "date": "2020-04-01",
-    "isOpenAccess": "N",
-    "keywords": "Artificial intelligence; Gestational Diabetes Mellitus; Machine Learning; Risk Prediction; Electronic Health Records",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Gestational diabetes mellitus is a common pregnancy complication associated with significant adverse health outcomes for both women and infants. Effective screening and early prediction tools as part of routine clinical care are needed to reduce the impact of the disease on the baby and mother. Using large-scale electronic health records, Artzi and colleagues developed and evaluated a machine learning driven tool to identify women at high and low risk of GDM. Their findings showcase how artificial intelligence approaches can potentially be embedded in clinical care to enable accurate and rapid risk stratification.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.tips.2020.03.003"
-  },
-  {
     "id": "30742608",
     "doi": "https://doi.org/10.1371/journal.pcbi.1006785",
     "title": "Assessing the performance of real-time epidemic forecasts: A case study of Ebola in the Western Area region of Sierra Leone, 2014-15.",
@@ -3891,6 +3874,23 @@
     "abstract": "Real-time forecasts based on mathematical models can inform critical decision-making during infectious disease outbreaks. Yet, epidemic forecasts are rarely evaluated during or after the event, and there is little guidance on the best metrics for assessment. Here, we propose an evaluation approach that disentangles different components of forecasting ability using metrics that separately assess the calibration, sharpness and bias of forecasts. This makes it possible to assess not just how close a forecast was to reality but also how well uncertainty has been quantified. We used this approach to analyse the performance of weekly forecasts we generated in real time for Western Area, Sierra Leone, during the 2013-16 Ebola epidemic in West Africa. We investigated a range of forecast model variants based on the model fits generated at the time with a semi-mechanistic model, and found that good probabilistic calibration was achievable at short time horizons of one or two weeks ahead but model predictions were increasingly unreliable at longer forecasting horizons. This suggests that forecasts may have been of good enough quality to inform decision making based on predictions a few weeks ahead of time but not longer, reflecting the high level of uncertainty in the processes driving the trajectory of the epidemic. Comparing forecasts based on the semi-mechanistic model to simpler null models showed that the best semi-mechanistic model variant performed better than the null models with respect to probabilistic calibration, and that this would have been identified from the earliest stages of the outbreak. As forecasts become a routine part of the toolkit in public health, standards for evaluation of performance will be important for assessing quality and improving credibility of mathematical models, and for elucidating difficulties and trade-offs when aiming to make the most useful and reliable forecasts.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pcbi.1006785; html:https://europepmc.org/articles/PMC6386417; pdf:https://europepmc.org/articles/PMC6386417?pdf=render"
+  },
+  {
+    "id": "32247548",
+    "doi": "https://doi.org/10.1016/j.tips.2020.03.003",
+    "title": "Electronic Health Records to Predict Gestational Diabetes Risk.",
+    "authorString": "Mateen BA, David AL, Denaxas S.",
+    "authorAffiliations": "",
+    "journalTitle": "Trends in pharmacological sciences",
+    "pubYear": "2020",
+    "date": "2020-04-01",
+    "isOpenAccess": "N",
+    "keywords": "Artificial intelligence; Gestational Diabetes Mellitus; Machine Learning; Risk Prediction; Electronic Health Records",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Gestational diabetes mellitus is a common pregnancy complication associated with significant adverse health outcomes for both women and infants. Effective screening and early prediction tools as part of routine clinical care are needed to reduce the impact of the disease on the baby and mother. Using large-scale electronic health records, Artzi and colleagues developed and evaluated a machine learning driven tool to identify women at high and low risk of GDM. Their findings showcase how artificial intelligence approaches can potentially be embedded in clinical care to enable accurate and rapid risk stratification.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.tips.2020.03.003"
   },
   {
     "id": "31558464",
@@ -4811,23 +4811,6 @@
     "urls": "doi:https://doi.org/10.1002/ejhf.1924; html:https://europepmc.org/articles/PMC7301045; pdf:https://europepmc.org/articles/PMC7301045?pdf=render"
   },
   {
-    "id": "31950165",
-    "doi": "https://doi.org/10.1093/pubmed/fdz188",
-    "title": "Is child weight status correctly reported to parents? Cross-sectional analysis of National Child Measurement Programme data using ethnic-specific BMI adjustments.",
-    "authorString": "Firman N, Boomla K, Hudda MT, Robson J, Whincup P, Dezateux C.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of public health (Oxford, England)",
-    "pubYear": "2020",
-    "date": "2020-11-01",
-    "isOpenAccess": "Y",
-    "keywords": "Obesity; Children; Ethnicity",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Background:</b>BMI underestimates and overestimates body fat in children from South Asian and Black ethnic groups, respectively.<br><br><b>Methods:</b>We used cross-sectional NCMP data (2015-17) for 38\u00a0270 children in three inner-London local authorities: City & Hackney, Newham and Tower Hamlets (41% South Asian, 18.8% Black): 20\u00a0439 4-5\u00a0year-olds (48.9% girls) and 17\u00a0831 10-11\u00a0year-olds (49.1% girls). We estimated the proportion of parents who would have received different information about their child's weight status, and the area-level prevalence of obesity-defined as \u226598th centile-had ethnic-specific BMI adjustments been employed in the English National Child Measurement Programme (NCMP).<br><br><b>Results:</b>Had ethnic-specific adjustment been employed, 19.7% (3112/15\u00a0830) of parents of children from South Asian backgrounds would have been informed that their child was in a heavier weight category, and 19.1% (1381/7217) of parents of children from Black backgrounds would have been informed that their child was in a lighter weight category. Ethnic-specific adjustment increased obesity prevalence from 7.9% (95% CI: 7.6, 8.3) to 9.1% (8.7, 9.5) amongst 4-5\u00a0year-olds and from 17.5% (16.9, 18.1) to 18.8% (18.2, 19.4) amongst 10-11\u00a0year-olds.<br><br><b>Conclusions:</b>Ethnic-specific adjustment in the NCMP would ensure equitable categorization of weight status, provide correct information to parents and support local service provision for families.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/pubmed/fdz188; html:https://europepmc.org/articles/PMC7685848; pdf:https://europepmc.org/articles/PMC7685848?pdf=render"
-  },
-  {
     "id": "32478737",
     "doi": "https://doi.org/10.3791/60794",
     "title": "Implementation of a Real-Time Psychosis Risk Detection and Alerting System Based on Electronic Health Records using CogStack.",
@@ -4843,6 +4826,23 @@
     "abstract": "Recent studies have shown that an automated, lifespan-inclusive, transdiagnostic, and clinically based, individualized risk calculator provides a powerful system for supporting the early detection of individuals at-risk of psychosis at a large scale, by leveraging electronic health records (EHRs). This risk calculator has been externally validated twice and is undergoing feasibility testing for clinical implementation. Integration of this risk calculator in clinical routine should be facilitated by prospective feasibility studies, which are required to address pragmatic challenges, such as missing data, and the usability of this risk calculator in a real-world and routine clinical setting. Here, we present an approach for a prospective implementation of a real-time psychosis risk detection and alerting service in a real-world EHR system. This method leverages the CogStack platform, which is an open-source, lightweight, and distributed information retrieval and text extraction system. The CogStack platform incorporates a set of services that allow for full-text search of clinical data, lifespan-inclusive, real-time calculation of psychosis risk, early risk-alerting to clinicians, and the visual monitoring of patients over time. Our method includes: 1) ingestion and synchronization of data from multiple sources into the CogStack platform, 2) implementation of a risk calculator, whose algorithm was previously developed and validated, for timely computation of a patient's risk of psychosis, 3) creation of interactive visualizations and dashboards to monitor patients' health status over time, and 4) building automated alerting systems to ensure that clinicians are notified of patients at-risk, so that appropriate actions can be pursued. This is the first ever study that has developed and implemented a similar detection and alerting system in clinical routine for early detection of psychosis.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3791/60794; html:https://europepmc.org/articles/PMC7272223; pdf:https://europepmc.org/articles/PMC7272223?pdf=render; doi:https://doi.org/10.3791/60794"
+  },
+  {
+    "id": "31950165",
+    "doi": "https://doi.org/10.1093/pubmed/fdz188",
+    "title": "Is child weight status correctly reported to parents? Cross-sectional analysis of National Child Measurement Programme data using ethnic-specific BMI adjustments.",
+    "authorString": "Firman N, Boomla K, Hudda MT, Robson J, Whincup P, Dezateux C.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of public health (Oxford, England)",
+    "pubYear": "2020",
+    "date": "2020-11-01",
+    "isOpenAccess": "Y",
+    "keywords": "Obesity; Children; Ethnicity",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Background:</b>BMI underestimates and overestimates body fat in children from South Asian and Black ethnic groups, respectively.<br><br><b>Methods:</b>We used cross-sectional NCMP data (2015-17) for 38\u00a0270 children in three inner-London local authorities: City & Hackney, Newham and Tower Hamlets (41% South Asian, 18.8% Black): 20\u00a0439 4-5\u00a0year-olds (48.9% girls) and 17\u00a0831 10-11\u00a0year-olds (49.1% girls). We estimated the proportion of parents who would have received different information about their child's weight status, and the area-level prevalence of obesity-defined as \u226598th centile-had ethnic-specific BMI adjustments been employed in the English National Child Measurement Programme (NCMP).<br><br><b>Results:</b>Had ethnic-specific adjustment been employed, 19.7% (3112/15\u00a0830) of parents of children from South Asian backgrounds would have been informed that their child was in a heavier weight category, and 19.1% (1381/7217) of parents of children from Black backgrounds would have been informed that their child was in a lighter weight category. Ethnic-specific adjustment increased obesity prevalence from 7.9% (95% CI: 7.6, 8.3) to 9.1% (8.7, 9.5) amongst 4-5\u00a0year-olds and from 17.5% (16.9, 18.1) to 18.8% (18.2, 19.4) amongst 10-11\u00a0year-olds.<br><br><b>Conclusions:</b>Ethnic-specific adjustment in the NCMP would ensure equitable categorization of weight status, provide correct information to parents and support local service provision for families.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/pubmed/fdz188; html:https://europepmc.org/articles/PMC7685848; pdf:https://europepmc.org/articles/PMC7685848?pdf=render"
   },
   {
     "id": "32073627",
@@ -5797,23 +5797,6 @@
     "urls": "doi:https://doi.org/10.1038/s41433-018-0229-6; html:https://europepmc.org/articles/PMC6367454; pdf:https://europepmc.org/articles/PMC6367454?pdf=render; doi:https://doi.org/10.1038/s41433-018-0229-6"
   },
   {
-    "id": "32811694",
-    "doi": "https://doi.org/10.1016/j.burns.2020.01.005",
-    "title": "Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the Burns Registry of Australia and New Zealand.",
-    "authorString": "Gong J, Singer Y, Cleland H, Wood F, Cameron P, Tracy LM, Gabbe BJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Burns : journal of the International Society for Burn Injuries",
-    "pubYear": "2020",
-    "date": "2020-08-15",
-    "isOpenAccess": "N",
-    "keywords": "Burns; Quality Indicators; Clinical Quality Registry",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:In 2009, the Burns Registry of Australia and New Zealand (BRANZ) published a set of clinical quality indicators (QIs) to monitor performance, improve quality of care, and inform and change policy. With several years of data collected since the initial development of the indicators for burns, the BRANZ QI Working Party reviewed the clinical QIs for relevance and meaning, and considered new QIs that had not been collected previously. METHOD:Using published literature and expert opinion, the QI Working Party, consisting of multidisciplinary burn clinicians, reviewed the QIs for burn care to be included as routine data items in the BRANZ. RESULTS:In July 2016, the list of clinical QIs in the BRANZ was updated to 23 QIs/data items, covering structure, process, and outcome measures. Four QIs were removed as they were not found to be useful, nine QIs/data items were revised, and eight new QIs/data items were added as they were considered to be clinically useful. CONCLUSION:This review outlines the changes made to the QIs collected by the BRANZ four years since their development and implementation. Ongoing refinement of the BRANZ QIs will ensure that high quality data is collected to drive improvements in clinical and patient outcomes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.burns.2020.01.005"
-  },
-  {
     "id": "32040531",
     "doi": "https://doi.org/10.1371/journal.pone.0228940",
     "title": "Risk assessment for hospital admission in patients with COPD; a multi-centre UK prospective observational study.",
@@ -5829,6 +5812,23 @@
     "abstract": "In chronic obstructive pulmonary disease (COPD), acute exacerbation of COPD requiring hospital admission is associated with mortality and healthcare costs. The ERICA study assessed multiple clinical measures in people with COPD, including the short physical performance battery (SPPB), a simple test of physical function with 3 components (gait speed, balance and sit-to-stand). We tested the hypothesis that SPPB score would relate to risk of hospital admissions and length of hospital stay. Data were analysed from 714 of the total 729 participants (434 men and 280 women) with COPD. Data from this prospective observational longitudinal study were obtained from 4 secondary and 1 tertiary centres from England, Scotland, and Wales. The main outcome measures were to estimate the risk of hospitalisation with acute exacerbation of COPD (AECOPD and length of hospital stay derived from hospital episode statistics (HES). In total, 291 of 714 individuals experienced 762 hospitalised AECOPD during five-year follow up. Poorer performance of SPPB was associated with both higher rate (IRR 1.08 per 1 point decrease, 95% CI 1.01 to 1.14) and increased length of stay (IRR 1.18 per 1 point decrease, 95% CI 1.10 to 1.27) for hospitalised AECOPD. For the individual sit-to-stand component of the SPPB, the association was even stronger (IRR 1.14, 95% CI 1.02 to 1.26 for rate and IRR 1.32, 95% CI 1.16 to 1.49 for length of stay for hospitalised AECOPD). The SPPB, and in particular the sit-to-stand component can both evaluate the risk of H-AECOPD and length of hospital stay in COPD. The SPPB can aid in clinical decision making and when prioritising healthcare resources.",
     "laySummary": "This article looks at risk assessment for hospital admission in patients with Chronic Obstructive Pulmonary Disease (COPD), which is a group of lung conditions that make it difficult to empty air out of the lungs. The objective of the risk assessment was to eventually aid in clinical decision making and prioritising healthcare resources.",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0228940; html:https://europepmc.org/articles/PMC7010290; pdf:https://europepmc.org/articles/PMC7010290?pdf=render"
+  },
+  {
+    "id": "32811694",
+    "doi": "https://doi.org/10.1016/j.burns.2020.01.005",
+    "title": "Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the Burns Registry of Australia and New Zealand.",
+    "authorString": "Gong J, Singer Y, Cleland H, Wood F, Cameron P, Tracy LM, Gabbe BJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Burns : journal of the International Society for Burn Injuries",
+    "pubYear": "2020",
+    "date": "2020-08-15",
+    "isOpenAccess": "N",
+    "keywords": "Burns; Quality Indicators; Clinical Quality Registry",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:In 2009, the Burns Registry of Australia and New Zealand (BRANZ) published a set of clinical quality indicators (QIs) to monitor performance, improve quality of care, and inform and change policy. With several years of data collected since the initial development of the indicators for burns, the BRANZ QI Working Party reviewed the clinical QIs for relevance and meaning, and considered new QIs that had not been collected previously. METHOD:Using published literature and expert opinion, the QI Working Party, consisting of multidisciplinary burn clinicians, reviewed the QIs for burn care to be included as routine data items in the BRANZ. RESULTS:In July 2016, the list of clinical QIs in the BRANZ was updated to 23 QIs/data items, covering structure, process, and outcome measures. Four QIs were removed as they were not found to be useful, nine QIs/data items were revised, and eight new QIs/data items were added as they were considered to be clinically useful. CONCLUSION:This review outlines the changes made to the QIs collected by the BRANZ four years since their development and implementation. Ongoing refinement of the BRANZ QIs will ensure that high quality data is collected to drive improvements in clinical and patient outcomes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.burns.2020.01.005"
   },
   {
     "id": "31650125",
@@ -6511,23 +6511,6 @@
     "urls": "doi:https://doi.org/10.1038/s41562-019-0653-z; html:https://europepmc.org/articles/PMC7711277; pdf:https://europepmc.org/articles/PMC7711277?pdf=render; doi:https://doi.org/10.1038/s41562-019-0653-z"
   },
   {
-    "id": "32709645",
-    "doi": "https://doi.org/10.1136/bmjopen-2019-035968",
-    "title": "Infant formula composition and educational performance: a protocol to extend follow-up for a set of randomised controlled trials using linked administrative education records.",
-    "authorString": "Verf\u00fcrden M, Harron K, Jerrim J, Fewtrell M, Gilbert R.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2020",
-    "date": "2020-07-23",
-    "isOpenAccess": "Y",
-    "keywords": "Public Health; Clinical Trials; Paediatric Neurology; Nutrition & Dietetics",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION:The effect of infant nutrition on long-term cognition is important for parents and policy makers. However, most clinical trials typically have short follow-up periods, when measures of cognition are poorly predictive of later function. The few trials with longer-term follow-up have high levels of attrition, which can lead to selection bias, and in turn to erroneous interpretation of long-term harms and benefits of infant nutrition. We address the need for unbiased, long-term follow-up, by linking measures of educational performance from administrative education records. Educational performance is a meaningful marker of cognitive function in children and it is strongly correlated with IQ. We aim to evaluate educational performance for children who, as infants, were part of a series of trials that randomised participants to either nutritionally modified infant formula or standard formula. Most trialists anticipated positive effects of these interventions on later cognitive function. METHODS AND ANALYSIS:Using data from 1923 participants of seven randomised infant formula trials linked to the English National Pupil Database (NPD), this study will provide new insights into the effect of nutrient intake in infancy on school achievement. Our primary outcome will be the mean differences in z-scores between intervention and control groups for a compulsory Mathematics exam sat at age 16. Secondary outcomes will be z-scores for a compulsory English exam at age 16 and z-scores for compulsory Mathematics and English exams at age 11. We will also evaluate intervention effects on the likelihood of receiving special educational needs (SEN) support. All analyses will be performed separately by trial. ETHICS AND DISSEMINATION:Research ethics approval, and approval from the Health Research Authority Confidentiality Advisory Group, has been obtained for this study. The results of this study will be disseminated to scientific, practitioner, and lay audiences, submitted for publication in peer-reviewed journals, and will contribute towards a PhD dissertation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-035968; html:https://europepmc.org/articles/PMC7380883; pdf:https://europepmc.org/articles/PMC7380883?pdf=render"
-  },
-  {
     "id": "31163036",
     "doi": "https://doi.org/10.1371/journal.pone.0217158",
     "title": "Differences in the epidemiology of out-of-hospital and in-hospital trauma deaths.",
@@ -6543,6 +6526,23 @@
     "abstract": "BACKGROUND:Trauma is a leading cause of mortality. Holistic views of trauma systems consider injury as a public health problem that requires efforts in primary, secondary and tertiary prevention. However, the performance of trauma systems is commonly judged on the in-hospital mortality rate. Such a focus misses opportunities to consider all deaths within a population, to understand differences in in-hospital and out-of-hospital trauma deaths and to inform population-level injury prevention efforts. The aim of this study was to provide an epidemiological overview of out-of-hospital and in-hospital trauma deaths in a geographically-defined area over a 10-year period. METHODS:We performed a population-based review of out-of-hospital and in-hospital trauma deaths over the period of 01 July 2006 to 30 June 2016 in Victoria, Australia, using data from the National Coronial Information System and the Victorian State Trauma Registry. Temporal trends in population-based incidence rates were evaluated. RESULTS:Over the study period, there were 11,246 trauma deaths, of which 71% were out-of-hospital deaths. Out-of-hospital trauma deaths commonly resulted from intentional self-harm events (50%) and transport events (35%), while in-hospital trauma deaths commonly resulted from low falls (\u22641 metre) (50%). The incidence of overall trauma deaths did not change over the study period (incidence rate ratio 0.998; 95%CI: 0.991, 1.004; P = 0.56). CONCLUSIONS:Out-of-hospital deaths accounted for most trauma deaths. Given the notable differences between out-of-hospital and in-hospital trauma deaths, monitoring of all trauma deaths is necessary to inform injury prevention activities and to reduce trauma mortality. The absence of a change in the incidence of both out-of-hospital and in-hospital trauma deaths demonstrates the need for enhanced activities across all aspects of injury prevention.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0217158; html:https://europepmc.org/articles/PMC6548370; pdf:https://europepmc.org/articles/PMC6548370?pdf=render"
+  },
+  {
+    "id": "32709645",
+    "doi": "https://doi.org/10.1136/bmjopen-2019-035968",
+    "title": "Infant formula composition and educational performance: a protocol to extend follow-up for a set of randomised controlled trials using linked administrative education records.",
+    "authorString": "Verf\u00fcrden M, Harron K, Jerrim J, Fewtrell M, Gilbert R.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2020",
+    "date": "2020-07-23",
+    "isOpenAccess": "Y",
+    "keywords": "Public Health; Clinical Trials; Paediatric Neurology; Nutrition & Dietetics",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "INTRODUCTION:The effect of infant nutrition on long-term cognition is important for parents and policy makers. However, most clinical trials typically have short follow-up periods, when measures of cognition are poorly predictive of later function. The few trials with longer-term follow-up have high levels of attrition, which can lead to selection bias, and in turn to erroneous interpretation of long-term harms and benefits of infant nutrition. We address the need for unbiased, long-term follow-up, by linking measures of educational performance from administrative education records. Educational performance is a meaningful marker of cognitive function in children and it is strongly correlated with IQ. We aim to evaluate educational performance for children who, as infants, were part of a series of trials that randomised participants to either nutritionally modified infant formula or standard formula. Most trialists anticipated positive effects of these interventions on later cognitive function. METHODS AND ANALYSIS:Using data from 1923 participants of seven randomised infant formula trials linked to the English National Pupil Database (NPD), this study will provide new insights into the effect of nutrient intake in infancy on school achievement. Our primary outcome will be the mean differences in z-scores between intervention and control groups for a compulsory Mathematics exam sat at age 16. Secondary outcomes will be z-scores for a compulsory English exam at age 16 and z-scores for compulsory Mathematics and English exams at age 11. We will also evaluate intervention effects on the likelihood of receiving special educational needs (SEN) support. All analyses will be performed separately by trial. ETHICS AND DISSEMINATION:Research ethics approval, and approval from the Health Research Authority Confidentiality Advisory Group, has been obtained for this study. The results of this study will be disseminated to scientific, practitioner, and lay audiences, submitted for publication in peer-reviewed journals, and will contribute towards a PhD dissertation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-035968; html:https://europepmc.org/articles/PMC7380883; pdf:https://europepmc.org/articles/PMC7380883?pdf=render"
   },
   {
     "id": "32724858",
@@ -6783,23 +6783,6 @@
     "urls": "doi:https://doi.org/10.1016/S2352-3026(20)30031-4"
   },
   {
-    "id": "32080192",
-    "doi": "https://doi.org/10.1038/s41467-020-14717-y",
-    "title": "Author Correction: Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
-    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2020",
-    "date": "2020-02-20",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "An amendment to this paper has been published and can be accessed via a link at the top of the paper.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-020-14717-y; html:https://europepmc.org/articles/PMC7033171; pdf:https://europepmc.org/articles/PMC7033171?pdf=render"
-  },
-  {
     "id": "30928767",
     "doi": "https://doi.org/10.1016/j.evalprogplan.2019.03.002",
     "title": "Understanding the factors that influence health promotion evaluation: The development and validation of the evaluation practice analysis survey.",
@@ -6815,6 +6798,23 @@
     "abstract": "The demand for improved quality of health promotion evaluation and greater capacity to undertake evaluation is growing, yet evidence of the challenges and facilitators to evaluation practice within the health promotion field is lacking. A limited number of evaluation capacity measurement instruments have been validated in government or non-government organisations (NGO), however there is no instrument designed for health promotion organisations. This study aimed to develop and validate an Evaluation Practice Analysis Survey (EPAS) to examine evaluation practices in health promotion organisations. Qualitative interviews, existing frameworks and instruments informed the survey development. Health promotion practitioners from government agencies and NGOs completed the survey (n\u2009=\u2009169). Principal components analysis was used to determine scale structure and Cronbach's \u03b1 used to estimate internal reliability. Logistic regression was conducted to assess predictive validity of selected EPAS scale. The final survey instrument included 25 scales (125 items). The EPAS demonstrated good internal reliability (\u03b1\u2009>\u20090.7) for 23 scales. Dedicated resources and time for evaluation, leadership, organisational culture and internal support for evaluation showed promising predictive validity. The EPAS can be used to describe elements of evaluation capacity at the individual, organisational and system levels and to guide initiatives to improve evaluation practice in health promotion organisations.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.evalprogplan.2019.03.002"
+  },
+  {
+    "id": "32080192",
+    "doi": "https://doi.org/10.1038/s41467-020-14717-y",
+    "title": "Author Correction: Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
+    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2020",
+    "date": "2020-02-20",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "An amendment to this paper has been published and can be accessed via a link at the top of the paper.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-020-14717-y; html:https://europepmc.org/articles/PMC7033171; pdf:https://europepmc.org/articles/PMC7033171?pdf=render"
   },
   {
     "id": "29780001",
@@ -7089,23 +7089,6 @@
     "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.119.041546; html:https://europepmc.org/articles/PMC6749971; pdf:https://europepmc.org/articles/PMC6749971?pdf=render"
   },
   {
-    "id": "33185739",
-    "doi": "https://doi.org/10.1007/s00395-020-00828-6",
-    "title": "Functional investigation of the coronary artery disease gene SVEP1.",
-    "authorString": "Winkler MJ, M\u00fcller P, Sharifi AM, Wobst J, Winter H, Mokry M, Ma L, van der Laan SW, Pang S, Miritsch B, Hinterdobler J, Werner J, Stiller B, G\u00fcldener U, Webb TR, Asselbergs FW, Bj\u00f6rkegren JLM, Maegdefessel L, Schunkert H, Sager HB, Kessler T.",
-    "authorAffiliations": "",
-    "journalTitle": "Basic research in cardiology",
-    "pubYear": "2020",
-    "date": "2020-11-13",
-    "isOpenAccess": "Y",
-    "keywords": "Genetics; Atherosclerosis; coronary artery disease; Svep1",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "A missense variant of the sushi, von Willebrand factor type A, EGF and pentraxin domain containing protein 1 (SVEP1) is genome-wide significantly associated with coronary artery disease. The mechanisms how SVEP1 impacts atherosclerosis are not known. We found endothelial cells (EC) and vascular smooth muscle cells to represent the major cellular source of SVEP1 in plaques. Plaques were larger in atherosclerosis-prone Svep1 haploinsufficient (ApoE-/-Svep1+/-) compared to Svep1 wild-type mice (ApoE-/-Svep1+/+) and ApoE-/-Svep1+/- mice displayed elevated plaque neutrophil, Ly6Chigh monocyte, and macrophage numbers. We assessed how leukocytes accumulated more inside plaques in ApoE-/-Svep1+/- mice and found enhanced leukocyte recruitment from blood into plaques. In vitro, we examined how SVEP1 deficiency promotes leukocyte recruitment and found elevated expression of the leukocyte attractant chemokine (C-X-C motif) ligand 1 (CXCL1) in EC after incubation with missense compared to wild-type SVEP1. Increasing wild-type SVEP1 levels silenced endothelial CXCL1 release. In line, plasma Cxcl1 levels were elevated in ApoE-/-Svep1+/- mice. Our studies reveal an atheroprotective role of SVEP1. Deficiency of wild-type Svep1 increased endothelial CXCL1 expression leading to enhanced recruitment of proinflammatory leukocytes from blood to plaque. Consequently, elevated vascular inflammation resulted in enhanced plaque progression in Svep1 deficiency.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s00395-020-00828-6; html:https://europepmc.org/articles/PMC7666586; pdf:https://europepmc.org/articles/PMC7666586?pdf=render"
-  },
-  {
     "id": "31848017",
     "doi": "https://doi.org/10.1016/j.injury.2019.12.016",
     "title": "Pre-injury health status of major trauma patients with orthopaedic injuries.",
@@ -7121,6 +7104,23 @@
     "abstract": "<b>Background:</b>Pre-injury health status is an important determining factor of long-term outcomes after orthopaedic major trauma. Determining pre-injury health status of major trauma patients with orthopaedic injuries is also important for evaluating the change from pre to post-injury health status.<br><br><b>Objectives:</b>Describe pre-injury health statuses reported at three different time points (6, 12 and 24 months) after injury and compare these with Australian normative values; determine the agreement between pre-injury health status collected at multiple time points post-injury; and identify factors associated with reporting better pre-injury health status.<br><br><b>Materials and methods:</b>A registry-based cohort study was conducted. Major trauma patients with orthopaedic injuries captured by the Victorian State Trauma Registry with a date of injury from January 2009 to December 2016 were included. Pre-injury health status (measured using the EuroQol-Visual Analogue Scale (EQ-VAS)), reported 6, 12 and 24 months post-injury, was compared against Australian population normative values. The Bland-Altman method of comparison was used to determine the agreement between pre-injury EQ-VAS scores reported 6 to 12 and 6 to 24 months post-injury. Mixed effects ordinal logistic regression was used to determine factors associated with reporting better pre-injury health status.<br><br><b>Results:</b>A total of 3,371 patients were eligible for the study. The median (IQR) pre-injury EQ-VAS score reported 6, 12 and 24 months post-injury was 90 (85-100) out of 100. Participants' pre-injury EQ-VAS scores reported 6, 12 and 24 months post-injury were significantly higher than Australian population normative values. Pre-injury EQ-VAS scores reported 6 months post-injury agreed with pre-injury EQ-VAS scores reported 12 and 24 months post-injury. A significant association exists between pre-injury health status and age, comorbidities, injury characteristics, socioeconomic status and pre-injury work status.<br><br><b>Conclusions:</b>People with orthopaedic major trauma have better pre-injury health compared to the general Australian population. Therefore, population-specific values should be used as baseline measures to evaluate orthopaedic trauma outcomes. Pre-injury health status values reported at three different post-injury time points were comparable. If conducting a retrospective pre-injury health evaluation, researchers need be aware of factors that influence self-reporting of pre-injury health status and the response shift that may happen due to encountering injury.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.injury.2019.12.016"
+  },
+  {
+    "id": "33185739",
+    "doi": "https://doi.org/10.1007/s00395-020-00828-6",
+    "title": "Functional investigation of the coronary artery disease gene SVEP1.",
+    "authorString": "Winkler MJ, M\u00fcller P, Sharifi AM, Wobst J, Winter H, Mokry M, Ma L, van der Laan SW, Pang S, Miritsch B, Hinterdobler J, Werner J, Stiller B, G\u00fcldener U, Webb TR, Asselbergs FW, Bj\u00f6rkegren JLM, Maegdefessel L, Schunkert H, Sager HB, Kessler T.",
+    "authorAffiliations": "",
+    "journalTitle": "Basic research in cardiology",
+    "pubYear": "2020",
+    "date": "2020-11-13",
+    "isOpenAccess": "Y",
+    "keywords": "Genetics; Atherosclerosis; coronary artery disease; Svep1",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "A missense variant of the sushi, von Willebrand factor type A, EGF and pentraxin domain containing protein 1 (SVEP1) is genome-wide significantly associated with coronary artery disease. The mechanisms how SVEP1 impacts atherosclerosis are not known. We found endothelial cells (EC) and vascular smooth muscle cells to represent the major cellular source of SVEP1 in plaques. Plaques were larger in atherosclerosis-prone Svep1 haploinsufficient (ApoE-/-Svep1+/-) compared to Svep1 wild-type mice (ApoE-/-Svep1+/+) and ApoE-/-Svep1+/- mice displayed elevated plaque neutrophil, Ly6Chigh monocyte, and macrophage numbers. We assessed how leukocytes accumulated more inside plaques in ApoE-/-Svep1+/- mice and found enhanced leukocyte recruitment from blood into plaques. In vitro, we examined how SVEP1 deficiency promotes leukocyte recruitment and found elevated expression of the leukocyte attractant chemokine (C-X-C motif) ligand 1 (CXCL1) in EC after incubation with missense compared to wild-type SVEP1. Increasing wild-type SVEP1 levels silenced endothelial CXCL1 release. In line, plasma Cxcl1 levels were elevated in ApoE-/-Svep1+/- mice. Our studies reveal an atheroprotective role of SVEP1. Deficiency of wild-type Svep1 increased endothelial CXCL1 expression leading to enhanced recruitment of proinflammatory leukocytes from blood to plaque. Consequently, elevated vascular inflammation resulted in enhanced plaque progression in Svep1 deficiency.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s00395-020-00828-6; html:https://europepmc.org/articles/PMC7666586; pdf:https://europepmc.org/articles/PMC7666586?pdf=render"
   },
   {
     "id": "33203906",
@@ -7480,23 +7480,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100117; html:https://europepmc.org/articles/PMC7062357; pdf:https://europepmc.org/articles/PMC7062357?pdf=render"
   },
   {
-    "id": "32894757",
-    "doi": "https://doi.org/10.1093/ageing/afaa138",
-    "title": "Short physical performance battery as a practical tool to assess mortality risk in chronic obstructive pulmonary disease.",
-    "authorString": "Fermont JM, Mohan D, Fisk M, Bolton CE, Macnee W, Cockcroft JR, McEniery C, Fuld J, Cheriyan J, Tal-Singer R, M\u00fcllerova H, Wood AM, Wilkinson IB, Polkey MI, ERICA consortium.",
-    "authorAffiliations": "",
-    "journalTitle": "Age and ageing",
-    "pubYear": "2020",
-    "date": "2020-09-07",
-    "isOpenAccess": "N",
-    "keywords": "Mortality; Skeletal muscle; Biomarkers; Older People; chronic obstructive pulmonary disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "RATIONALE:chronic obstructive pulmonary disease (COPD) is a leading cause of mortality and common in older adults. The BODE Index is the most recognised mortality risk score in COPD but includes a 6-minute walk test (6MWT) that is seldom available in practise; the BODE Index may be better adopted if the 6MWT was replaced. OBJECTIVES:we investigated whether a modified BODE Index in which 6MWT was replaced by an alternative measure of physical capacity, specifically the short physical performance battery (SPPB) or components, retained its predictive ability for mortality in individuals with COPD. METHODS:we analysed 630 COPD patients from the ERICA cohort study for whom UK Office for National Statistics verified mortality data were available. Variables tested at baseline included spirometry, 6MWT, SPPB and its components (4-m gait speed test [4MGS], chair stand and balance). Predictive models were developed using stratified multivariable Cox regression, and assessed by C-indices and calibration plots with 10-fold cross-validation and replication. RESULTS:during median 2\u00a0years of follow-up, 60 (10%) individuals died. There was no significant difference between the discriminative ability of BODE6MWT (C-index 0.709, 95% confidence interval [CI], 0.680-0.737), BODESPPB (C-index 0.683, 95% CI, 0.647-0.712), BODE4MGS (C-index 0.676, 95% CI, 0.643-0.700) and BODEBALANCE (C-index 0.686, 95% CI, 0.651-0.713) for predicting mortality. CONCLUSIONS:the SPPB, and its 4MGS and balance components, can potentially be used as an alternative to the 6MWT in the BODE Index without significant loss of predictive ability in all-cause mortality.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/ageing/afaa138"
-  },
-  {
     "id": "31134468",
     "doi": "https://doi.org/10.1007/s12471-019-1288-4",
     "title": "UNRAVEL: big data analytics research data platform to improve care of patients with cardiomyopathies using routine electronic health records and standardised biobanking.",
@@ -7512,6 +7495,23 @@
     "abstract": "INTRODUCTION:Despite major advances in our understanding of genetic cardiomyopathies, they remain the leading cause of premature sudden cardiac death and end-stage heart failure in persons under the age of 60\u00a0years. Integrated research databases based on a\u00a0large number of patients may provide a\u00a0scaffold for future research. Using routine electronic health records and standardised biobanking, big data analysis on a\u00a0larger number of patients and investigations are possible. In this article, we describe the UNRAVEL research data platform embedded in routine practice to facilitate research in genetic cardiomyopathies. DESIGN:Eligible participants with proven or suspected cardiac disease and their relatives are asked for permission to use their data and to draw blood for biobanking. Routinely collected clinical data are included in a\u00a0research database by weekly extraction. A\u00a0text-mining tool has been developed to enrich UNRAVEL with unstructured data in clinical notes. PRELIMINARY RESULTS:Thus far, 828 individuals with a\u00a0median age of 57\u00a0years have been included, 58% of whom are male. All data are captured in a\u00a0temporal sequence amounting to a\u00a0total of 18,565 electrocardiograms, 3619\u00a0echocardiograms, data from over 20,000 radiological examinations and 650,000 individual laboratory measurements. CONCLUSION:Integration of routine electronic health care in a\u00a0research data platform allows efficient data collection, including all investigations in chronological sequence. Trials embedded in the electronic health record are now possible, providing cost-effective ways to answer clinical questions. We explicitly welcome national and international collaboration and have provided our protocols and other materials on www.unravelrdp.nl .",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1007/s12471-019-1288-4; html:https://europepmc.org/articles/PMC6712144; pdf:https://europepmc.org/articles/PMC6712144?pdf=render"
+  },
+  {
+    "id": "32894757",
+    "doi": "https://doi.org/10.1093/ageing/afaa138",
+    "title": "Short physical performance battery as a practical tool to assess mortality risk in chronic obstructive pulmonary disease.",
+    "authorString": "Fermont JM, Mohan D, Fisk M, Bolton CE, Macnee W, Cockcroft JR, McEniery C, Fuld J, Cheriyan J, Tal-Singer R, M\u00fcllerova H, Wood AM, Wilkinson IB, Polkey MI, ERICA consortium.",
+    "authorAffiliations": "",
+    "journalTitle": "Age and ageing",
+    "pubYear": "2020",
+    "date": "2020-09-07",
+    "isOpenAccess": "N",
+    "keywords": "Mortality; Skeletal muscle; Biomarkers; Older People; chronic obstructive pulmonary disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "RATIONALE:chronic obstructive pulmonary disease (COPD) is a leading cause of mortality and common in older adults. The BODE Index is the most recognised mortality risk score in COPD but includes a 6-minute walk test (6MWT) that is seldom available in practise; the BODE Index may be better adopted if the 6MWT was replaced. OBJECTIVES:we investigated whether a modified BODE Index in which 6MWT was replaced by an alternative measure of physical capacity, specifically the short physical performance battery (SPPB) or components, retained its predictive ability for mortality in individuals with COPD. METHODS:we analysed 630 COPD patients from the ERICA cohort study for whom UK Office for National Statistics verified mortality data were available. Variables tested at baseline included spirometry, 6MWT, SPPB and its components (4-m gait speed test [4MGS], chair stand and balance). Predictive models were developed using stratified multivariable Cox regression, and assessed by C-indices and calibration plots with 10-fold cross-validation and replication. RESULTS:during median 2\u00a0years of follow-up, 60 (10%) individuals died. There was no significant difference between the discriminative ability of BODE6MWT (C-index 0.709, 95% confidence interval [CI], 0.680-0.737), BODESPPB (C-index 0.683, 95% CI, 0.647-0.712), BODE4MGS (C-index 0.676, 95% CI, 0.643-0.700) and BODEBALANCE (C-index 0.686, 95% CI, 0.651-0.713) for predicting mortality. CONCLUSIONS:the SPPB, and its 4MGS and balance components, can potentially be used as an alternative to the 6MWT in the BODE Index without significant loss of predictive ability in all-cause mortality.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/ageing/afaa138"
   },
   {
     "id": "31408153",
@@ -7633,23 +7633,6 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)32013-4; html:https://europepmc.org/articles/PMC7535623"
   },
   {
-    "id": "32814899",
-    "doi": "https://doi.org/10.1038/s41586-020-2635-8",
-    "title": "Genetic and functional insights into the fractal structure of the heart.",
-    "authorString": "Meyer HV, Dawes TJW, Serrani M, Bai W, Tokarczuk P, Cai J, de Marvao A, Henry A, Lumbers RT, Gierten J, Thumberger T, Wittbrodt J, Ware JS, Rueckert D, Matthews PM, Prasad SK, Costantino ML, Cook SA, Birney E, O'Regan DP.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature",
-    "pubYear": "2020",
-    "date": "2020-08-19",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The inner surfaces of the human heart are covered by a complex network of muscular strands that is thought to be a remnant of embryonic development1,2. The function of these trabeculae in adults and their genetic architecture are unknown. Here we performed a genome-wide association study to investigate image-derived phenotypes of trabeculae using the fractal analysis of trabecular morphology in 18,096 participants of the UK Biobank. We identified 16\u00a0significant loci that contain genes associated with haemodynamic phenotypes and regulation of cytoskeletal arborization3,4. Using biomechanical simulations and observational data from human participants, we demonstrate that trabecular morphology is an important determinant of cardiac performance. Through genetic association studies with cardiac disease phenotypes and Mendelian randomization, we find a causal relationship between trabecular morphology and risk of cardiovascular disease. These findings suggest a previously unknown role for myocardial trabeculae in the function of the adult heart, identify conserved pathways that regulate structural complexity and reveal the influence of the myocardial trabeculae on susceptibility to cardiovascular disease.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41586-020-2635-8"
-  },
-  {
     "id": "31822727",
     "doi": "https://doi.org/10.1038/s41598-019-55098-7",
     "title": "Co-incidence of RCC-susceptibility polymorphisms with HIF cis-acting sequences supports a pathway tuning model of cancer.",
@@ -7665,6 +7648,23 @@
     "abstract": "Emerging evidence suggests that dysregulation of oncogenic pathways requires precise tuning in order for cancer to develop. To test this, we examined the overlap between cis-acting elements of the hypoxia-inducible factor (HIF) pathway and cancer-susceptibility polymorphisms as defined in genome-wide association studies (GWAS). In renal cancer, where HIF is constitutively and un-physiologically activated by mutation of the von Hippel-Lindau tumour suppressor, we observed marked excess overlap, which extended to potential susceptibility polymorphisms that are below the conventional threshold applied in GWAS. In contrast, in other cancers where HIF is upregulated by different mechanisms, including micro-environmental hypoxia, we observed no excess in overlap. Our findings support a 'pathway tuning' model of cancer, whereby precise modulation of multiple outputs of specific, activated pathways is important in oncogenesis. This implies that selective pressures to modulate such pathways operate during cancer development and should focus attempts to identify their nature and consequences.",
     "laySummary": "This study investigated the association between proteins responsible for DNA replication the susceptibility to cancer using GWAS. ",
     "urls": "doi:https://doi.org/10.1038/s41598-019-55098-7; html:https://europepmc.org/articles/PMC6904466; pdf:https://europepmc.org/articles/PMC6904466?pdf=render"
+  },
+  {
+    "id": "32814899",
+    "doi": "https://doi.org/10.1038/s41586-020-2635-8",
+    "title": "Genetic and functional insights into the fractal structure of the heart.",
+    "authorString": "Meyer HV, Dawes TJW, Serrani M, Bai W, Tokarczuk P, Cai J, de Marvao A, Henry A, Lumbers RT, Gierten J, Thumberger T, Wittbrodt J, Ware JS, Rueckert D, Matthews PM, Prasad SK, Costantino ML, Cook SA, Birney E, O'Regan DP.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature",
+    "pubYear": "2020",
+    "date": "2020-08-19",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The inner surfaces of the human heart are covered by a complex network of muscular strands that is thought to be a remnant of embryonic development1,2. The function of these trabeculae in adults and their genetic architecture are unknown. Here we performed a genome-wide association study to investigate image-derived phenotypes of trabeculae using the fractal analysis of trabecular morphology in 18,096 participants of the UK Biobank. We identified 16\u00a0significant loci that contain genes associated with haemodynamic phenotypes and regulation of cytoskeletal arborization3,4. Using biomechanical simulations and observational data from human participants, we demonstrate that trabecular morphology is an important determinant of cardiac performance. Through genetic association studies with cardiac disease phenotypes and Mendelian randomization, we find a causal relationship between trabecular morphology and risk of cardiovascular disease. These findings suggest a previously unknown role for myocardial trabeculae in the function of the adult heart, identify conserved pathways that regulate structural complexity and reveal the influence of the myocardial trabeculae on susceptibility to cardiovascular disease.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41586-020-2635-8"
   },
   {
     "id": "31801372",
