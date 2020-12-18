@@ -119,6 +119,23 @@
     "urls": "doi:https://doi.org/10.1093/ageing/afaa018; html:https://europepmc.org/articles/PMC7444666; pdf:https://europepmc.org/articles/PMC7444666?pdf=render"
   },
   {
+    "id": "PMC7736131",
+    "doi": "https://doi.org/10.1186/s12911-020-01336-2",
+    "title": "Towards semantic interoperability: finding and repairing hidden contradictions in biomedical ontologies",
+    "authorString": "Slater L, Gkoutos G, Hoehndorf R.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC medical informatics and decision making",
+    "pubYear": "2020",
+    "date": "2020-01-01",
+    "isOpenAccess": "Y",
+    "keywords": "Automated Reasoning; Ontology Interoperability",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4> Ontologies are widely used throughout the biomedical domain. These ontologies formally represent the classes and relations assumed to exist within a domain. As scientific domains are deeply interlinked, so too are their representations. While individual ontologies can be tested for consistency and coherency using automated reasoning methods, systematically combining ontologies of multiple domains together may reveal previously hidden contradictions. <h4>Methods</h4> We developed a method that tests for hidden unsatisfiabilities in an ontology that arise when combined with other ontologies. For this purpose, we combined sets of ontologies and use automated reasoning to determine whether unsatisfiable classes are present. In addition, we designed and implemented a novel algorithm that can determine justifications for contradictions across extremely large and complicated ontologies, and use these justifications to semi-automatically repair ontologies by identifying a small set of axioms that, when removed, result in a consistent and coherent set of ontologies. <h4>Results</h4> We tested the mutual consistency of the OBO Foundry and the OBO ontologies and find that the combined OBO Foundry gives rise to at least 636 unsatisfiable classes, while the OBO ontologies give rise to more than 300,000 unsatisfiable classes. We also applied our semi-automatic repair algorithm to each combination of OBO ontologies that resulted in unsatisfiable classes, finding that only 117 axioms could be removed to account for all cases of unsatisfiability across all OBO ontologies. <h4>Conclusions</h4> We identified a large set of hidden unsatisfiability across a broad range of biomedical ontologies, and we find that this large set of unsatisfiable classes is the result of a relatively small amount of axiomatic disagreements. Our results show that hidden unsatisfiability is a serious problem in ontology interoperability; however, our results also provide a way towards more consistent ontologies by addressing the issues we identified.",
+    "laySummary": "",
+    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7736131/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7736131/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7736131; pdf:https://europepmc.org/articles/PMC7736131?pdf=render"
+  },
+  {
     "id": "32405103",
     "doi": "https://doi.org/10.1016/s0140-6736(20)30854-0",
     "title": "Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study.",
@@ -408,23 +425,6 @@
     "urls": "doi:https://doi.org/10.1002/edm2.140; html:https://europepmc.org/articles/PMC7375073; pdf:https://europepmc.org/articles/PMC7375073?pdf=render"
   },
   {
-    "id": "32613083",
-    "doi": "https://doi.org/10.12688/wellcomeopenres.15922.2",
-    "title": "Black, Asian and Minority Ethnic groups in England are at increased risk of death from COVID-19: indirect standardisation of NHS mortality data.",
-    "authorString": "Aldridge RW, Lewer D, Katikireddi SV, Mathur R, Pathak N, Burns R, Fragaszy EB, Johnson AM, Devakumar D, Abubakar I, Hayward A.",
-    "authorAffiliations": "",
-    "journalTitle": "Wellcome open research",
-    "pubYear": "2020",
-    "date": "2020-06-24",
-    "isOpenAccess": "Y",
-    "keywords": "Mortality; Minority Ethnic Groups; Covid-19; Sars-cov-2",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Background: International and UK data suggest that Black, Asian and Minority Ethnic (BAME) groups are at increased risk of infection and death from COVID-19. We aimed to explore the risk of death in minority ethnic groups in England using data reported by NHS England. Methods: We used NHS data on patients with a positive COVID-19 test who died in hospitals in England published on 28th April, with deaths by ethnicity available from 1st March 2020 up to 5pm on 21 April 2020. We undertook indirect standardisation of these data (using the whole population of England as the reference) to produce ethnic specific standardised mortality ratios (SMRs) adjusted for age and geographical region. Results: The largest total number of deaths in minority ethnic groups were Indian (492 deaths) and Black Caribbean (460 deaths)\u00a0groups. Adjusting for region we found a lower risk of death for White Irish (SMR 0.52; 95%CIs 0.45-0.60) and White British ethnic groups (0.88; 95%CIs 0.86-0.0.89), but increased risk of death for Black African (3.24; 95%CIs 2.90-3.62), Black Caribbean (2.21; 95%CIs 2.02-2.41), Pakistani (3.29; 95%CIs 2.96-3.64), Bangladeshi (2.41; 95%CIs 1.98-2.91) and Indian (1.70; 95%CIs 1.56-1.85) minority ethnic groups. Conclusion: Our analysis adds to the evidence that BAME people are at increased risk of death from COVID-19 even after adjusting for geographical region, but was limited by the lack of data on deaths outside of NHS settings and ethnicity denominator data being based on the 2011 census. Despite these limitations, we believe there is an urgent need to take action to reduce the risk of death for BAME groups and better understand why some ethnic groups experience greater risk. Actions that are likely to reduce these inequities include ensuring adequate income protection, reducing occupational risks, reducing barriers in accessing healthcare and providing culturally and linguistically appropriate public health communications.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15922.2; html:https://europepmc.org/articles/PMC7317462; pdf:https://europepmc.org/articles/PMC7317462?pdf=render"
-  },
-  {
     "id": "32341912",
     "doi": "https://doi.org/10.1177/2235042x19893470",
     "title": "Urban-rural and socioeconomic status: Impact on multimorbidity prevalence in hospitalized patients.",
@@ -440,6 +440,23 @@
     "abstract": "Objective:The aim of this study was to describe multimorbidity prevalence in hospitalized adults, by urban-rural area of residence and socioeconomic status (SES). Methods:Linked hospital episode data were used. Adults (\u226518 years) admitted to hospital as an inpatient during 2014 in Grampian, Scotland, were included. Conditions were identified from admissions during the 5 years prior to the first admission in 2014. Multimorbidity was defined as \u22652 conditions and measured using Tonelli et al. based on International Classification of Diseases-10 coding (preselected list of 30 conditions). We used proportions and 95% confidence intervals (CIs) to summarize the prevalence of multimorbidity by age group, sex, urban-rural category and deprivation. The association between multimorbidity and patient characteristics was assessed using the \u03c7 2 test. Results:Forty one thousand five hundred and forty-five patients were included (median age 62, 52.6% female). Overall, 27.4% (95% CI 27.0, 27.8) of patients were multimorbid. Multimorbidity prevalence was 28.8% (95% CI 28.1, 29.5) in large urban versus 22.0% (95% CI 20.9, 23.3) in remote rural areas and 28.7% (95% CI 27.2, 30.3) in the most deprived versus 26.0% (95% CI 25.2, 26.9) in the least deprived areas. This effect was consistent in all age groups, but not statistically significant in the age group 18-29 years. Multimorbidity increased with age but was similar for males and females. Conclusion:Given the scarcity of research into the effect of urban-rural area and SES on multimorbidity prevalence among hospitalized patients, these findings should inform future research into new models of care, including the consideration of urban-rural area and SES.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1177/2235042X19893470; html:https://europepmc.org/articles/PMC7171988; pdf:https://europepmc.org/articles/PMC7171988?pdf=render"
+  },
+  {
+    "id": "32613083",
+    "doi": "https://doi.org/10.12688/wellcomeopenres.15922.2",
+    "title": "Black, Asian and Minority Ethnic groups in England are at increased risk of death from COVID-19: indirect standardisation of NHS mortality data.",
+    "authorString": "Aldridge RW, Lewer D, Katikireddi SV, Mathur R, Pathak N, Burns R, Fragaszy EB, Johnson AM, Devakumar D, Abubakar I, Hayward A.",
+    "authorAffiliations": "",
+    "journalTitle": "Wellcome open research",
+    "pubYear": "2020",
+    "date": "2020-06-24",
+    "isOpenAccess": "Y",
+    "keywords": "Mortality; Minority Ethnic Groups; Covid-19; Sars-cov-2",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Background: International and UK data suggest that Black, Asian and Minority Ethnic (BAME) groups are at increased risk of infection and death from COVID-19. We aimed to explore the risk of death in minority ethnic groups in England using data reported by NHS England. Methods: We used NHS data on patients with a positive COVID-19 test who died in hospitals in England published on 28th April, with deaths by ethnicity available from 1st March 2020 up to 5pm on 21 April 2020. We undertook indirect standardisation of these data (using the whole population of England as the reference) to produce ethnic specific standardised mortality ratios (SMRs) adjusted for age and geographical region. Results: The largest total number of deaths in minority ethnic groups were Indian (492 deaths) and Black Caribbean (460 deaths)\u00a0groups. Adjusting for region we found a lower risk of death for White Irish (SMR 0.52; 95%CIs 0.45-0.60) and White British ethnic groups (0.88; 95%CIs 0.86-0.0.89), but increased risk of death for Black African (3.24; 95%CIs 2.90-3.62), Black Caribbean (2.21; 95%CIs 2.02-2.41), Pakistani (3.29; 95%CIs 2.96-3.64), Bangladeshi (2.41; 95%CIs 1.98-2.91) and Indian (1.70; 95%CIs 1.56-1.85) minority ethnic groups. Conclusion: Our analysis adds to the evidence that BAME people are at increased risk of death from COVID-19 even after adjusting for geographical region, but was limited by the lack of data on deaths outside of NHS settings and ethnicity denominator data being based on the 2011 census. Despite these limitations, we believe there is an urgent need to take action to reduce the risk of death for BAME groups and better understand why some ethnic groups experience greater risk. Actions that are likely to reduce these inequities include ensuring adequate income protection, reducing occupational risks, reducing barriers in accessing healthcare and providing culturally and linguistically appropriate public health communications.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15922.2; html:https://europepmc.org/articles/PMC7317462; pdf:https://europepmc.org/articles/PMC7317462?pdf=render"
   },
   {
     "id": "31469943",
@@ -663,23 +680,6 @@
     "urls": "doi:https://doi.org/10.3390/ijms21217886; html:https://europepmc.org/articles/PMC7660606; pdf:https://europepmc.org/articles/PMC7660606?pdf=render"
   },
   {
-    "id": "32614817",
-    "doi": "https://doi.org/10.1371/journal.pcbi.1008031",
-    "title": "Estimation of country-level basic reproductive ratios for novel Coronavirus (SARS-CoV-2/COVID-19) using synthetic contact matrices.",
-    "authorString": "Hilton J, Keeling MJ.",
-    "authorAffiliations": "",
-    "journalTitle": "PLoS computational biology",
-    "pubYear": "2020",
-    "date": "2020-07-02",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The 2019-2020 pandemic of atypical pneumonia (COVID-19) caused by the virus SARS-CoV-2 has spread globally and has the potential to infect large numbers of people in every country. Estimating the country-specific basic reproductive ratio is a vital first step in public-health planning. The basic reproductive ratio (R0) is determined by both the nature of pathogen and the network of human contacts through which the disease can spread, which is itself dependent on population age structure and household composition. Here we introduce a transmission model combining age-stratified contact frequencies with age-dependent susceptibility, probability of clinical symptoms, and transmission from asymptomatic (or mild) cases, which we use to estimate the country-specific basic reproductive ratio of COVID-19 for 152 countries. Using early outbreak data from China and a synthetic contact matrix, we estimate an age-stratified transmission structure which can then be extrapolated to 151 other countries for which synthetic contact matrices also exist. This defines a set of country-specific transmission structures from which we can calculate the basic reproductive ratio for each country. Our predicted R0 is critically sensitive to the intensity of transmission from asymptomatic cases; with low asymptomatic transmission the highest values are predicted across Eastern Europe and Japan and the lowest across Africa, Central America and South-Western Asia. This pattern is largely driven by the ratio of children to older adults in each country and the observed propensity of clinical cases in the elderly. If asymptomatic cases have comparable transmission to detected cases, the pattern is reversed. Our results demonstrate the importance of age-specific heterogeneities going beyond contact structure to the spread of COVID-19. These heterogeneities give COVID-19 the capacity to spread particularly quickly in countries with older populations, and that intensive control measures are likely to be necessary to impede its progress in these countries.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pcbi.1008031; html:https://europepmc.org/articles/PMC7363110; pdf:https://europepmc.org/articles/PMC7363110?pdf=render"
-  },
-  {
     "id": "33200120",
     "doi": "https://doi.org/10.1016/j.eclinm.2020.100630",
     "title": "Ethnicity and clinical outcomes in COVID-19: A systematic review and meta-analysis.",
@@ -695,6 +695,23 @@
     "abstract": "<b>Background: </b>Patients from ethnic minority groups are disproportionately affected by Coronavirus disease (COVID-19). We performed\u00a0a systematic review and meta-analysis to explore the relationship between ethnicity and clinical outcomes in COVID-19.<br><br><b>Methods: </b>Databases (MEDLINE, EMBASE, PROSPERO, Cochrane library and <i>MedRxiv</i>) were searched up to 31st August 2020, for studies reporting COVID-19 data disaggregated by ethnicity. Outcomes were: risk of infection; intensive therapy unit (ITU) admission and death. PROSPERO ID: 180654.<br><br><b>Findings: </b>18,728,893 patients from 50 studies were included; 26 were peer-reviewed; 42 were from the United States of America and 8 from the United Kingdom. Individuals from Black and Asian ethnicities had a higher risk of COVID-19 infection compared to White individuals. This was consistent in both the main analysis (pooled adjusted RR for Black: 2.02, 95% CI 1.67-2.44; pooled adjusted RR for Asian: 1.50, 95% CI 1.24-1.83) and sensitivity analyses examining peer-reviewed studies only (pooled adjusted RR for Black: 1.85, 95%CI: 1.46-2.35; pooled adjusted RR for Asian: 1.51, 95% CI 1.22-1.88). Individuals of Asian ethnicity may also be at higher risk of ITU admission (pooled adjusted RR 1.97 95% CI 1.34-2.89) (but no studies had yet been peer-reviewed) and death (pooled adjusted RR/HR 1.22 [0.99-1.50]).<br><br><b>Interpretation: </b>Individuals of Black and Asian ethnicity are at increased risk of COVID-19 infection compared to White individuals; Asians may be at higher risk of ITU admission and death. These findings are of critical public health importance in informing interventions to reduce morbidity and mortality amongst ethnic minority groups.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100630; html:https://europepmc.org/articles/PMC7658622; pdf:https://europepmc.org/articles/PMC7658622?pdf=render"
+  },
+  {
+    "id": "32614817",
+    "doi": "https://doi.org/10.1371/journal.pcbi.1008031",
+    "title": "Estimation of country-level basic reproductive ratios for novel Coronavirus (SARS-CoV-2/COVID-19) using synthetic contact matrices.",
+    "authorString": "Hilton J, Keeling MJ.",
+    "authorAffiliations": "",
+    "journalTitle": "PLoS computational biology",
+    "pubYear": "2020",
+    "date": "2020-07-02",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The 2019-2020 pandemic of atypical pneumonia (COVID-19) caused by the virus SARS-CoV-2 has spread globally and has the potential to infect large numbers of people in every country. Estimating the country-specific basic reproductive ratio is a vital first step in public-health planning. The basic reproductive ratio (R0) is determined by both the nature of pathogen and the network of human contacts through which the disease can spread, which is itself dependent on population age structure and household composition. Here we introduce a transmission model combining age-stratified contact frequencies with age-dependent susceptibility, probability of clinical symptoms, and transmission from asymptomatic (or mild) cases, which we use to estimate the country-specific basic reproductive ratio of COVID-19 for 152 countries. Using early outbreak data from China and a synthetic contact matrix, we estimate an age-stratified transmission structure which can then be extrapolated to 151 other countries for which synthetic contact matrices also exist. This defines a set of country-specific transmission structures from which we can calculate the basic reproductive ratio for each country. Our predicted R0 is critically sensitive to the intensity of transmission from asymptomatic cases; with low asymptomatic transmission the highest values are predicted across Eastern Europe and Japan and the lowest across Africa, Central America and South-Western Asia. This pattern is largely driven by the ratio of children to older adults in each country and the observed propensity of clinical cases in the elderly. If asymptomatic cases have comparable transmission to detected cases, the pattern is reversed. Our results demonstrate the importance of age-specific heterogeneities going beyond contact structure to the spread of COVID-19. These heterogeneities give COVID-19 the capacity to spread particularly quickly in countries with older populations, and that intensive control measures are likely to be necessary to impede its progress in these countries.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pcbi.1008031; html:https://europepmc.org/articles/PMC7363110; pdf:https://europepmc.org/articles/PMC7363110?pdf=render"
   },
   {
     "id": "33199838",
@@ -765,23 +782,6 @@
     "urls": "doi:https://doi.org/10.1038/s41598-019-45562-9; html:https://europepmc.org/articles/PMC6597711; pdf:https://europepmc.org/articles/PMC6597711?pdf=render"
   },
   {
-    "id": "33020224",
-    "doi": "https://doi.org/10.1136/heartjnl-2020-317870",
-    "title": "Monitoring indirect impact of COVID-19 pandemic on services for cardiovascular diseases in the UK.",
-    "authorString": "Ball S, Banerjee A, Berry C, Boyle JR, Bray B, Bradlow W, Chaudhry A, Crawley R, Danesh J, Denniston A, Falter F, Figueroa JD, Hall C, Hemingway H, Jefferson E, Johnson T, King G, Lee KK, McKean P, Mason S, Mills NL, Pearson E, Pirmohamed M, Poon MTC, Priedon R, Shah A, Sofat R, Sterne JAC, Strachan FE, Sudlow CLM, Szarka Z, Whiteley W, Wyatt M, CVD-COVID-UK Consortium.",
-    "authorAffiliations": "",
-    "journalTitle": "Heart (British Cardiac Society)",
-    "pubYear": "2020",
-    "date": "2020-10-05",
-    "isOpenAccess": "Y",
-    "keywords": "epidemiology; Heart Disease; Health Care Delivery; Global Health Care Delivery; Aortic And Arterial Disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Objective: </b>To monitor hospital activity for presentation, diagnosis and treatment of cardiovascular diseases during the COVID-19) pandemic to inform on indirect effects.<br><br><b>Methods: </b>Retrospective serial cross-sectional study in nine UK hospitals using hospital activity data from 28 October 2019 (pre-COVID-19) to 10 May 2020 (pre-easing of lockdown) and for the same weeks during 2018-2019. We analysed aggregate data for selected cardiovascular diseases before and during the epidemic. We produced an online visualisation tool to enable near real-time monitoring of trends.<br><br><b>Results: </b>Across nine hospitals, total admissions and emergency department (ED) attendances decreased after lockdown (23 March 2020) by 57.9% (57.1%-58.6%) and 52.9% (52.2%-53.5%), respectively, compared with the previous year. Activity for cardiac, cerebrovascular and other vascular conditions started to decline 1-2 weeks before lockdown and fell by 31%-88% after lockdown, with the greatest reductions observed for coronary artery bypass grafts, carotid endarterectomy, aortic aneurysm repair and peripheral arterial disease procedures. Compared with before the first UK COVID-19 (31 January 2020), activity declined across diseases and specialties between the first case and lockdown (total ED attendances relative reduction (RR) 0.94, 0.93-0.95; total hospital admissions RR 0.96, 0.95-0.97) and after lockdown (attendances RR 0.63, 0.62-0.64; admissions RR 0.59, 0.57-0.60). There was limited recovery towards usual levels of some activities from mid-April 2020.<br><br><b>Conclusions: </b>Substantial reductions in total and cardiovascular activities are likely to contribute to a major burden of indirect effects of the pandemic, suggesting they should be monitored and mitigated urgently.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/heartjnl-2020-317870; html:https://europepmc.org/articles/PMC7536637; pdf:https://europepmc.org/articles/PMC7536637?pdf=render"
-  },
-  {
     "id": "31757986",
     "doi": "https://doi.org/10.1038/s41598-019-53454-1",
     "title": "Ontology-based prediction of cancer driver genes.",
@@ -797,6 +797,23 @@
     "abstract": "Identifying and distinguishing cancer driver genes among thousands of candidate mutations remains a major challenge. Accurate identification of driver genes and driver mutations is critical for advancing cancer research and personalizing treatment based on accurate stratification of patients. Due to inter-tumor genetic heterogeneity many driver mutations within a gene occur at low frequencies, which make it challenging to distinguish them from non-driver mutations. We have developed a novel method for identifying cancer driver genes. Our approach utilizes multiple complementary types of information, specifically cellular phenotypes, cellular locations, functions, and whole body physiological phenotypes as features. We demonstrate that our method can accurately identify known cancer driver genes and distinguish between their role in different types of cancer. In addition to confirming known driver genes, we identify several novel candidate driver genes. We demonstrate the utility of our method by validating its predictions in nasopharyngeal cancer and colorectal cancer using whole exome and whole genome sequencing.",
     "laySummary": "This study investigated which genes encourage cancer tumors to grow. The study identifies genes and distinguishes their role in different types of cancers. Their method is validated using whole exome and whole genome sequencing",
     "urls": "doi:https://doi.org/10.1038/s41598-019-53454-1; html:https://europepmc.org/articles/PMC6874647; pdf:https://europepmc.org/articles/PMC6874647?pdf=render"
+  },
+  {
+    "id": "33020224",
+    "doi": "https://doi.org/10.1136/heartjnl-2020-317870",
+    "title": "Monitoring indirect impact of COVID-19 pandemic on services for cardiovascular diseases in the UK.",
+    "authorString": "Ball S, Banerjee A, Berry C, Boyle JR, Bray B, Bradlow W, Chaudhry A, Crawley R, Danesh J, Denniston A, Falter F, Figueroa JD, Hall C, Hemingway H, Jefferson E, Johnson T, King G, Lee KK, McKean P, Mason S, Mills NL, Pearson E, Pirmohamed M, Poon MTC, Priedon R, Shah A, Sofat R, Sterne JAC, Strachan FE, Sudlow CLM, Szarka Z, Whiteley W, Wyatt M, CVD-COVID-UK Consortium.",
+    "authorAffiliations": "",
+    "journalTitle": "Heart (British Cardiac Society)",
+    "pubYear": "2020",
+    "date": "2020-10-05",
+    "isOpenAccess": "Y",
+    "keywords": "epidemiology; Heart Disease; Health Care Delivery; Global Health Care Delivery; Aortic And Arterial Disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Objective: </b>To monitor hospital activity for presentation, diagnosis and treatment of cardiovascular diseases during the COVID-19) pandemic to inform on indirect effects.<br><br><b>Methods: </b>Retrospective serial cross-sectional study in nine UK hospitals using hospital activity data from 28 October 2019 (pre-COVID-19) to 10 May 2020 (pre-easing of lockdown) and for the same weeks during 2018-2019. We analysed aggregate data for selected cardiovascular diseases before and during the epidemic. We produced an online visualisation tool to enable near real-time monitoring of trends.<br><br><b>Results: </b>Across nine hospitals, total admissions and emergency department (ED) attendances decreased after lockdown (23 March 2020) by 57.9% (57.1%-58.6%) and 52.9% (52.2%-53.5%), respectively, compared with the previous year. Activity for cardiac, cerebrovascular and other vascular conditions started to decline 1-2 weeks before lockdown and fell by 31%-88% after lockdown, with the greatest reductions observed for coronary artery bypass grafts, carotid endarterectomy, aortic aneurysm repair and peripheral arterial disease procedures. Compared with before the first UK COVID-19 (31 January 2020), activity declined across diseases and specialties between the first case and lockdown (total ED attendances relative reduction (RR) 0.94, 0.93-0.95; total hospital admissions RR 0.96, 0.95-0.97) and after lockdown (attendances RR 0.63, 0.62-0.64; admissions RR 0.59, 0.57-0.60). There was limited recovery towards usual levels of some activities from mid-April 2020.<br><br><b>Conclusions: </b>Substantial reductions in total and cardiovascular activities are likely to contribute to a major burden of indirect effects of the pandemic, suggesting they should be monitored and mitigated urgently.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/heartjnl-2020-317870; html:https://europepmc.org/articles/PMC7536637; pdf:https://europepmc.org/articles/PMC7536637?pdf=render"
   },
   {
     "id": "33052324",
@@ -816,23 +833,6 @@
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100574; html:https://europepmc.org/articles/PMC7545271; pdf:https://europepmc.org/articles/PMC7545271?pdf=render"
   },
   {
-    "id": "32737300",
-    "doi": "https://doi.org/10.1038/s41467-020-17696-2",
-    "title": "Distinct genetic architectures and environmental factors associate with host response to the \u03b32-herpesvirus infections.",
-    "authorString": "Sallah N, Miley W, Labo N, Carstensen T, Fatumo S, Gurdasani D, Pollard MO, Dilthey AT, Mentzer AJ, Marshall V, Cornejo Castro EM, Pomilla C, Young EH, Asiki G, Hibberd ML, Sandhu M, Kellam P, Newton R, Whitby D, Barroso I.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2020",
-    "date": "2020-07-31",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Kaposi's sarcoma-associated herpesvirus (KSHV) and Epstein-Barr Virus (EBV) establish life-long infections and are associated with malignancies. Striking geographic variation in incidence and the fact that virus alone is insufficient to cause disease, suggests other co-factors are involved. Here we present epidemiological analysis and genome-wide association study (GWAS) in 4365 individuals from an African population cohort, to assess the influence of host genetic and non-genetic factors on virus antibody responses. EBV/KSHV co-infection (OR\u2009=\u20095.71(1.58-7.12)), HIV positivity (OR\u2009=\u20092.22(1.32-3.73)) and living in a more rural area (OR\u2009=\u20091.38(1.01-1.89)) are strongly associated with immunogenicity. GWAS reveals associations with KSHV antibody response in the HLA-B/C region (p\u2009=\u20096.64\u2009\u00d7\u200910-09). For EBV, associations are identified for VCA (rs71542439, p\u2009=\u20091.15\u2009\u00d7\u200910-12). Human leucocyte antigen (HLA) and trans-ancestry fine-mapping substantiate that distinct variants in HLA-DQA1 (p\u2009=\u20095.24\u2009\u00d7\u200910-44) are driving associations for EBNA-1 in Africa. This study highlights complex interactions between KSHV and EBV, in addition to distinct genetic architectures resulting in important differences in pathogenesis and transmission.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-020-17696-2; html:https://europepmc.org/articles/PMC7395761; pdf:https://europepmc.org/articles/PMC7395761?pdf=render"
-  },
-  {
     "id": "31878916",
     "doi": "https://doi.org/10.1186/s12889-019-7919-2",
     "title": "Sustained adherence to a Mediterranean diet and physical activity on all-cause mortality in the Melbourne Collaborative Cohort Study: application of the g-formula.",
@@ -848,6 +848,23 @@
     "abstract": "BACKGROUND:Adherence to a traditional Mediterranean diet has been associated with lower mortality and cardiovascular disease risk. The relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time remains unknown. METHODS:We used the parametric G-formula to account for time-dependent confounding, in order to assess the relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time. We included healthy Melbourne Collaborative Cohort Study participants attending a visit during 1995-1999. Questionnaires assessed diet and physical activity at each of three study waves. Deaths were identified by linkage to national registries. We estimated mortality risk over approximately 14\u2009years (1995-2011). RESULTS:Of 22,213 participants, 2163 (9.7%) died during 13.6\u2009years median follow-up. Sustained high physical activity and adherence to a Mediterranean-style diet resulted in an estimated reduction in all-cause mortality of 1.82 per 100 people (95% confidence interval (CI): 0.03, 3.6). The population attributable fraction was 13% (95% CI: 4, 23%) for sustained high physical activity, 7% (95% CI: -\u20093, 17%) for sustained adherence to a Mediterranean-style diet and 18% (95% CI: 0, 36%) for their combination. CONCLUSIONS:A small reduction in mortality may be achieved by sustained elevated physical activity levels in healthy middle-aged adults, but there may be comparatively little gain from increasing adherence to a Mediterranean-style diet.",
     "laySummary": "This study aimed to calculate the proportion of deaths that could be prevented over a 14 year period through making long-term changes in lifestyle (diet and physical activity). Over 22K people were included in the study and filled out questionnaires about their lifestyle at three different time points. The authors used statistical methods that take into account how lifestyle measurements change over time and estimated the relative impact that different lifestyle factors have on death. The study suggests that being more physically active in middle age is more likely to reduce mortality than maintaining a Mediterranean-style diet.",
     "urls": "doi:https://doi.org/10.1186/s12889-019-7919-2; html:https://europepmc.org/articles/PMC6933918; pdf:https://europepmc.org/articles/PMC6933918?pdf=render"
+  },
+  {
+    "id": "32737300",
+    "doi": "https://doi.org/10.1038/s41467-020-17696-2",
+    "title": "Distinct genetic architectures and environmental factors associate with host response to the \u03b32-herpesvirus infections.",
+    "authorString": "Sallah N, Miley W, Labo N, Carstensen T, Fatumo S, Gurdasani D, Pollard MO, Dilthey AT, Mentzer AJ, Marshall V, Cornejo Castro EM, Pomilla C, Young EH, Asiki G, Hibberd ML, Sandhu M, Kellam P, Newton R, Whitby D, Barroso I.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2020",
+    "date": "2020-07-31",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Kaposi's sarcoma-associated herpesvirus (KSHV) and Epstein-Barr Virus (EBV) establish life-long infections and are associated with malignancies. Striking geographic variation in incidence and the fact that virus alone is insufficient to cause disease, suggests other co-factors are involved. Here we present epidemiological analysis and genome-wide association study (GWAS) in 4365 individuals from an African population cohort, to assess the influence of host genetic and non-genetic factors on virus antibody responses. EBV/KSHV co-infection (OR\u2009=\u20095.71(1.58-7.12)), HIV positivity (OR\u2009=\u20092.22(1.32-3.73)) and living in a more rural area (OR\u2009=\u20091.38(1.01-1.89)) are strongly associated with immunogenicity. GWAS reveals associations with KSHV antibody response in the HLA-B/C region (p\u2009=\u20096.64\u2009\u00d7\u200910-09). For EBV, associations are identified for VCA (rs71542439, p\u2009=\u20091.15\u2009\u00d7\u200910-12). Human leucocyte antigen (HLA) and trans-ancestry fine-mapping substantiate that distinct variants in HLA-DQA1 (p\u2009=\u20095.24\u2009\u00d7\u200910-44) are driving associations for EBNA-1 in Africa. This study highlights complex interactions between KSHV and EBV, in addition to distinct genetic architectures resulting in important differences in pathogenesis and transmission.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-020-17696-2; html:https://europepmc.org/articles/PMC7395761; pdf:https://europepmc.org/articles/PMC7395761?pdf=render"
   },
   {
     "id": "31984360",
@@ -1785,23 +1802,6 @@
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz569"
   },
   {
-    "id": "32763878",
-    "doi": "https://doi.org/10.2196/18690",
-    "title": "Notifications to Improve Engagement With an Alcohol Reduction App: Protocol for a Micro-Randomized Trial.",
-    "authorString": "Bell L, Garnett C, Qian T, Perski O, Potts HWW, Williamson E.",
-    "authorAffiliations": "",
-    "journalTitle": "JMIR research protocols",
-    "pubYear": "2020",
-    "date": "2020-08-07",
-    "isOpenAccess": "Y",
-    "keywords": "Alcohol; Engagement; Mhealth; Mobile Health; Excessive Alcohol Consumption; Smartphone App; Push Notifications; Digital Behavior Change; Micro-randomized Trial",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Drink Less is a behavior change app that aims to help users in the general adult population reduce hazardous and harmful alcohol consumption. The app includes a daily push notification, delivered at 11 am, asking users to \"Please complete your mood and drinking diaries.\" Previous analysis of Drink Less engagement data suggests the current notification strongly influences how users engage with the app in the subsequent hour. To exploit a potential increase of vulnerability of excess drinking and opportunity to engage with the app in the evenings, we changed the delivery time from 11 am to 8 pm. We now aim to further optimise the content and sequence of notifications, testing 30 new evidence-informed notifications targeting the user's perceived usefulness of the app. OBJECTIVE:The primary objective is to assess whether sending a notification at 8 pm increases behavioral engagement (opening the app) in the subsequent hour. Secondary objectives include comparing the effect of the new bank of messages with the standard message and effect moderation over time. We also aim to more generally understand the role notifications have on the overall duration, depth, and frequency of engagement with Drink Less over the first 30 days after download. METHODS:This is a protocol for a micro-randomized trial with two additional parallel arms. Inclusion criteria are Drink Less users who (1) consent to participate in the trial; (2) self-report a baseline Alcohol Use Disorders Identification Test score of 8 or above; (3) reside in the United Kingdom; (4) age \u226518 years and; (5) report interest in drinking less alcohol. In the micro-randomized trial, participants will be randomized daily at 8 pm to receive no notification, a notification with text from the new message bank, or the standard message. The primary outcome is the time-varying, binary outcome of \"Did the user open the app in the hour from 8 pm to 9 pm?\". The primary analysis will estimate the marginal relative risk for the notifications using an estimator developed for micro-randomized trials with binary outcomes. Participants randomized to the parallel arms will receive no notifications (Secondary Arm A), or the standard notification delivered daily at 11 am (Secondary Arm B) over 30 days, allowing the comparison of overall engagement between different notification delivery strategies. RESULTS:Approval was granted by the University College of London's Departmental Research Ethics Committee (CEHP/2016/556) on October 11, 2019, and The London School of Hygiene and Tropical Medicine Interventions Research Ethics Committee (17929) on November 27, 2019. Recruitment began on January 2, 2020, and is ongoing. CONCLUSIONS:Understanding how push notifications may impact engagement with a behavior change app can lead to further improvements in engagement, and ultimately help users reduce their alcohol consumption. This understanding may also be generalizable to other apps that target a variety of behavior changes. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID):DERR1-10.2196/18690.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/18690; html:https://europepmc.org/articles/PMC7442945"
-  },
-  {
     "id": "PMC7533363",
     "doi": "https://doi.org/10.1016/j.eclinm.2020.100560",
     "title": "Investigating the effects of comprehensive smoke-free legislation on neonatal and infant mortality in Thailand using the synthetic control method",
@@ -1817,6 +1817,23 @@
     "abstract": "Background Almost all of the evidence on the benefits of smoke-free legislation on child health comes from evaluations in high-income countries. We investigated the effects of Thailand's 2010 comprehensive smoke-free legislation on neonatal and infant mortality. Methods To overcome some of the methodological issues inherent to traditional quasi-experimental methods, we applied the novel synthetic control approach. Using 2001\u20132017 country-level panel data from the World Bank and Penn World datasets, we estimated the effects of smoke-free legislation as the difference between the outcome trends in Thailand versus those in a synthetic control country. The synthetic control country was composed of \u2018control\u2019 middle-income countries without comprehensive smoke-free legislation to recreate trends in Thailand in the 2001\u20132009 pre-legislation outcomes and covariates. We compared the legislation effects to \u2018placebo effects\u2019 obtained for each control country by fictitiously assuming that comprehensive smoke-free legislation was introduced there in 2010, similar to Thailand. Findings Neonatal and infant mortality decreased by 2.9% and 2.8%/year respectively following smoke-free legislation, with an estimated 7463 infant deaths (including 4623 neonatal deaths) having been averted over eight years. The results were robust to different specifications of the control countries. Comparison with placebo effects indicated that the findings were unlikely to be attributable to factors other than the smoke-free legislation. Interpretation Expanding comprehensive smoke-free policies to middle-income countries can support national efforts to achieve Sustainable Development Goal 3.2 for reducing preventable early-life deaths. Funding Netherlands Lung Foundation, HDRUK, Asthma UK center for Applied Research and NIHR Global Respiratory Health Unit (RESPIRE).",
     "laySummary": "",
     "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533363/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533363/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7533363; pdf:https://europepmc.org/articles/PMC7533363?pdf=render"
+  },
+  {
+    "id": "32763878",
+    "doi": "https://doi.org/10.2196/18690",
+    "title": "Notifications to Improve Engagement With an Alcohol Reduction App: Protocol for a Micro-Randomized Trial.",
+    "authorString": "Bell L, Garnett C, Qian T, Perski O, Potts HWW, Williamson E.",
+    "authorAffiliations": "",
+    "journalTitle": "JMIR research protocols",
+    "pubYear": "2020",
+    "date": "2020-08-07",
+    "isOpenAccess": "Y",
+    "keywords": "Alcohol; Engagement; Mhealth; Mobile Health; Excessive Alcohol Consumption; Smartphone App; Push Notifications; Digital Behavior Change; Micro-randomized Trial",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Drink Less is a behavior change app that aims to help users in the general adult population reduce hazardous and harmful alcohol consumption. The app includes a daily push notification, delivered at 11 am, asking users to \"Please complete your mood and drinking diaries.\" Previous analysis of Drink Less engagement data suggests the current notification strongly influences how users engage with the app in the subsequent hour. To exploit a potential increase of vulnerability of excess drinking and opportunity to engage with the app in the evenings, we changed the delivery time from 11 am to 8 pm. We now aim to further optimise the content and sequence of notifications, testing 30 new evidence-informed notifications targeting the user's perceived usefulness of the app. OBJECTIVE:The primary objective is to assess whether sending a notification at 8 pm increases behavioral engagement (opening the app) in the subsequent hour. Secondary objectives include comparing the effect of the new bank of messages with the standard message and effect moderation over time. We also aim to more generally understand the role notifications have on the overall duration, depth, and frequency of engagement with Drink Less over the first 30 days after download. METHODS:This is a protocol for a micro-randomized trial with two additional parallel arms. Inclusion criteria are Drink Less users who (1) consent to participate in the trial; (2) self-report a baseline Alcohol Use Disorders Identification Test score of 8 or above; (3) reside in the United Kingdom; (4) age \u226518 years and; (5) report interest in drinking less alcohol. In the micro-randomized trial, participants will be randomized daily at 8 pm to receive no notification, a notification with text from the new message bank, or the standard message. The primary outcome is the time-varying, binary outcome of \"Did the user open the app in the hour from 8 pm to 9 pm?\". The primary analysis will estimate the marginal relative risk for the notifications using an estimator developed for micro-randomized trials with binary outcomes. Participants randomized to the parallel arms will receive no notifications (Secondary Arm A), or the standard notification delivered daily at 11 am (Secondary Arm B) over 30 days, allowing the comparison of overall engagement between different notification delivery strategies. RESULTS:Approval was granted by the University College of London's Departmental Research Ethics Committee (CEHP/2016/556) on October 11, 2019, and The London School of Hygiene and Tropical Medicine Interventions Research Ethics Committee (17929) on November 27, 2019. Recruitment began on January 2, 2020, and is ongoing. CONCLUSIONS:Understanding how push notifications may impact engagement with a behavior change app can lead to further improvements in engagement, and ultimately help users reduce their alcohol consumption. This understanding may also be generalizable to other apps that target a variety of behavior changes. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID):DERR1-10.2196/18690.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/18690; html:https://europepmc.org/articles/PMC7442945"
   },
   {
     "id": "32856160",
@@ -1972,23 +1989,6 @@
     "urls": "doi:https://doi.org/10.2196/23369"
   },
   {
-    "id": "32426117",
-    "doi": "https://doi.org/10.7189/jogh.10.010348",
-    "title": "Novel approaches to estimate compliance with lockdown measures in the COVID-19 pandemic.",
-    "authorString": "Sheikh A, Sheikh Z, Sheikh A.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of global health",
-    "pubYear": "2020",
-    "date": "2020-06-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "This is a summary of new methods for estimating phyiscal distancing and compliance with lockdown. I haven't scored the content because it isn't primary research.",
-    "urls": "doi:https://doi.org/10.7189/jogh.10.010348; html:https://europepmc.org/articles/PMC7211415; pdf:https://europepmc.org/articles/PMC7211415?pdf=render"
-  },
-  {
     "id": "32979970",
     "doi": "https://doi.org/10.1016/s0140-6736(20)31966-8",
     "title": "Models for mortality require tailoring in the context of the COVID-19 pandemic - Authors' reply.",
@@ -2006,21 +2006,21 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31966-8; html:https://europepmc.org/articles/PMC7515579; pdf:https://europepmc.org/articles/PMC7515579?pdf=render"
   },
   {
-    "id": "33262478",
-    "doi": "https://doi.org/10.1038/s41433-020-01326-8",
-    "title": "Risk factors for having diabetic retinopathy at first screening in persons with type 1 diabetes diagnosed under 18 years of age.",
-    "authorString": "Rafferty J, Owens DR, Luzio SD, Watts P, Akbari A, Thomas RL.",
+    "id": "32426117",
+    "doi": "https://doi.org/10.7189/jogh.10.010348",
+    "title": "Novel approaches to estimate compliance with lockdown measures in the COVID-19 pandemic.",
+    "authorString": "Sheikh A, Sheikh Z, Sheikh A.",
     "authorAffiliations": "",
-    "journalTitle": "Eye (London, England)",
+    "journalTitle": "Journal of global health",
     "pubYear": "2020",
-    "date": "2020-12-01",
-    "isOpenAccess": "N",
+    "date": "2020-06-01",
+    "isOpenAccess": "Y",
     "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "<b>Objective:</b>To determine the risk factors for having diabetic retinopathy (DR) in children and young people (CYP) with type 1 diabetes (T1DM) at first screening.<br><br><b>Methods:</b>Records from the Diabetes Eye Screening Wales (DESW) service for people in Wales, UK, with T1DM diagnosed under age 18 years were combined with other electronic health record (EHR) data in the Secure Anonymised Information Linkage (SAIL) Databank. Data close to the screening date were collected, and risk factors derived from multivariate, multinomial logistic regression modelling.<br><br><b>Results:</b>Data from 4172 persons, with median (lower quartile, upper quartile) age 16.3 (13.0, 22.3) years and duration of diabetes 6.6 (2.3, 12.3) years were analysed. 62.6% (n\u2009=\u20092613) had no DR, 26.7% (n\u2009=\u20091112) background DR, and 10.7% (n\u2009=\u2009447) had referable DR (RDR). No RDR was observed under 19 years of age. Factors associated with an increased risk of DR were diabetes duration, elevated HbA<sub>1c</sub>, and diastolic blood pressure. People diagnosed with T1DM at 12 years or older had an additional risk for each year they had diabetes compared to those diagnosed before age 12 controlling for the diabetes duration (odds ratios 1.23 and 1.34, respectively).<br><br><b>Conclusions:</b>This study found that 37.4% of the study cohort had DR at first screening, the risk being greater the longer the duration of diabetes or higher the HbA<sub>1c</sub> and diastolic blood pressure. In addition, people diagnosed at 12 years of age or over were more likely to have DR with each additional year with diabetes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41433-020-01326-8"
+    "abstract": "",
+    "laySummary": "This is a summary of new methods for estimating phyiscal distancing and compliance with lockdown. I haven't scored the content because it isn't primary research.",
+    "urls": "doi:https://doi.org/10.7189/jogh.10.010348; html:https://europepmc.org/articles/PMC7211415; pdf:https://europepmc.org/articles/PMC7211415?pdf=render"
   },
   {
     "id": "31611193",
@@ -2038,6 +2038,23 @@
     "abstract": "BACKGROUND:This study used individual-level linked data across general practice, emergency departments (EDs), outpatients and hospital admissions to examine contacts across settings and time by sex for self-harm in individuals aged 10-24 years old in Wales, UK. METHODS:A whole population-based e-cohort study of routinely collected healthcare data was conducted. Rates of self-harm across settings over time by sex were examined. Individuals were categorised based on the service(s) to which they presented. RESULTS:A total of 937 697 individuals aged 10-24 years contributed 5 369 794 person years of data from 1 January 2003 to 30 September 2015. Self-harm incidence was highest in primary care but remained stable over time (incident rate ratio (IRR)=1.0; 95% CI 0.9 to 1.1). Incidence of ED attendance increased over time (IRR=1.3; 95% CI 1.2 to 1.5) as did hospital admissions (IRR=1.4; 95% CI 1.1 to 1.6). Incidence in the 15-19 years age group was the highest across all settings. The largest increases were seen in the youngest age group. There were increases in ED attendances for both sexes; however, females are more likely than males to be admitted following this. This was most evident in individuals 10-15 years old, where 76% of females were admitted compared with just 49% of males. The majority of associated outpatient appointments were under a mental health specialty. CONCLUSIONS:This is the first study to compare self-harm in people aged 10-24 years across primary care, EDs and hospital settings in the UK. The high rates of self-harm in primary care and for young men in EDs highlight these as important settings for intervention.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/archdischild-2019-317248; html:https://europepmc.org/articles/PMC7146921; pdf:https://europepmc.org/articles/PMC7146921?pdf=render"
+  },
+  {
+    "id": "33262478",
+    "doi": "https://doi.org/10.1038/s41433-020-01326-8",
+    "title": "Risk factors for having diabetic retinopathy at first screening in persons with type 1 diabetes diagnosed under 18 years of age.",
+    "authorString": "Rafferty J, Owens DR, Luzio SD, Watts P, Akbari A, Thomas RL.",
+    "authorAffiliations": "",
+    "journalTitle": "Eye (London, England)",
+    "pubYear": "2020",
+    "date": "2020-12-01",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Objective:</b>To determine the risk factors for having diabetic retinopathy (DR) in children and young people (CYP) with type 1 diabetes (T1DM) at first screening.<br><br><b>Methods:</b>Records from the Diabetes Eye Screening Wales (DESW) service for people in Wales, UK, with T1DM diagnosed under age 18 years were combined with other electronic health record (EHR) data in the Secure Anonymised Information Linkage (SAIL) Databank. Data close to the screening date were collected, and risk factors derived from multivariate, multinomial logistic regression modelling.<br><br><b>Results:</b>Data from 4172 persons, with median (lower quartile, upper quartile) age 16.3 (13.0, 22.3) years and duration of diabetes 6.6 (2.3, 12.3) years were analysed. 62.6% (n\u2009=\u20092613) had no DR, 26.7% (n\u2009=\u20091112) background DR, and 10.7% (n\u2009=\u2009447) had referable DR (RDR). No RDR was observed under 19 years of age. Factors associated with an increased risk of DR were diabetes duration, elevated HbA<sub>1c</sub>, and diastolic blood pressure. People diagnosed with T1DM at 12 years or older had an additional risk for each year they had diabetes compared to those diagnosed before age 12 controlling for the diabetes duration (odds ratios 1.23 and 1.34, respectively).<br><br><b>Conclusions:</b>This study found that 37.4% of the study cohort had DR at first screening, the risk being greater the longer the duration of diabetes or higher the HbA<sub>1c</sub> and diastolic blood pressure. In addition, people diagnosed at 12 years of age or over were more likely to have DR with each additional year with diabetes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41433-020-01326-8"
   },
   {
     "id": "33096553",
@@ -2074,23 +2091,6 @@
     "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15786.1; html:https://europepmc.org/articles/PMC7255910; pdf:https://europepmc.org/articles/PMC7255910?pdf=render"
   },
   {
-    "id": "31194737",
-    "doi": "https://doi.org/10.1371/journal.pgen.1008164",
-    "title": "Genome-wide association study of multisite chronic pain in UK Biobank.",
-    "authorString": "Johnston KJA, Adams MJ, Nicholl BI, Ward J, Strawbridge RJ, Ferguson A, McIntosh AM, Bailey MES, Smith DJ.",
-    "authorAffiliations": "",
-    "journalTitle": "PLoS genetics",
-    "pubYear": "2019",
-    "date": "2019-06-13",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "Chronic pain is highly prevalent worldwide and represents a significant socioeconomic and public health burden. Several aspects of chronic pain, for example back pain and a severity-related phenotype 'chronic pain grade', have been shown previously to be complex heritable traits with a polygenic component. Additional pain-related phenotypes capturing aspects of an individual's overall sensitivity to experiencing and reporting chronic pain have also been suggested as a focus for investigation. We made use of a measure of the number of sites of chronic pain in individuals within the UK general population. This measure, termed Multisite Chronic Pain (MCP), is a complex trait and its genetic architecture has not previously been investigated. To address this, we carried out a large-scale genome-wide association study (GWAS) of MCP in ~380,000 UK Biobank participants. Our findings were consistent with MCP having a significant polygenic component, with a Single Nucleotide Polymorphism (SNP) heritability of 10.2%. In total 76 independent lead SNPs at 39 risk loci were associated with MCP. Additional gene-level association analyses identified neurogenesis, synaptic plasticity, nervous system development, cell-cycle progression and apoptosis genes as enriched for genetic association with MCP. Genetic correlations were observed between MCP and a range of psychiatric, autoimmune and anthropometric traits, including major depressive disorder (MDD), asthma and Body Mass Index (BMI). Furthermore, in Mendelian randomisation (MR) analyses a causal effect of MCP on MDD was observed. Additionally, a polygenic risk score (PRS) for MCP was found to significantly predict chronic widespread pain (pain all over the body), indicating the existence of genetic variants contributing to both of these pain phenotypes. Overall, our findings support the proposition that chronic pain involves a strong nervous system component with implications for our understanding of the physiology of chronic pain. These discoveries may also inform the future development of novel treatment approaches.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pgen.1008164; html:https://europepmc.org/articles/PMC6592570; pdf:https://europepmc.org/articles/PMC6592570?pdf=render"
-  },
-  {
     "id": "30240446",
     "doi": "https://doi.org/10.1371/journal.pone.0203896",
     "title": "Polygenic risk scores for major depressive disorder and neuroticism as predictors of antidepressant response: Meta-analysis of three treatment cohorts.",
@@ -2106,6 +2106,23 @@
     "abstract": "There are currently no reliable approaches for correctly identifying which patients with major depressive disorder (MDD) will respond well to antidepressant therapy. However, recent genetic advances suggest that Polygenic Risk Scores (PRS) could allow MDD patients to be stratified for antidepressant response. We used PRS for MDD and PRS for neuroticism as putative predictors of antidepressant response within three treatment cohorts: The Genome-based Therapeutic Drugs for Depression (GENDEP) cohort, and 2 sub-cohorts from the Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomics Study PRGN-AMPS (total patient number = 760). Results across cohorts were combined via meta-analysis within a random effects model. Overall, PRS for MDD and neuroticism did not significantly predict antidepressant response but there was a consistent direction of effect, whereby greater genetic loading for both MDD (best MDD result, p < 5*10-5 MDD-PRS at 4 weeks, \u03b2 = -0.019, S.E = 0.008, p = 0.01) and neuroticism (best neuroticism result, p < 0.1 neuroticism-PRS at 8 weeks, \u03b2 = -0.017, S.E = 0.008, p = 0.03) were associated with less favourable response. We conclude that the PRS approach may offer some promise for treatment stratification in MDD and should now be assessed within larger clinical cohorts.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0203896; html:https://europepmc.org/articles/PMC6150505; pdf:https://europepmc.org/articles/PMC6150505?pdf=render"
+  },
+  {
+    "id": "31194737",
+    "doi": "https://doi.org/10.1371/journal.pgen.1008164",
+    "title": "Genome-wide association study of multisite chronic pain in UK Biobank.",
+    "authorString": "Johnston KJA, Adams MJ, Nicholl BI, Ward J, Strawbridge RJ, Ferguson A, McIntosh AM, Bailey MES, Smith DJ.",
+    "authorAffiliations": "",
+    "journalTitle": "PLoS genetics",
+    "pubYear": "2019",
+    "date": "2019-06-13",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "Chronic pain is highly prevalent worldwide and represents a significant socioeconomic and public health burden. Several aspects of chronic pain, for example back pain and a severity-related phenotype 'chronic pain grade', have been shown previously to be complex heritable traits with a polygenic component. Additional pain-related phenotypes capturing aspects of an individual's overall sensitivity to experiencing and reporting chronic pain have also been suggested as a focus for investigation. We made use of a measure of the number of sites of chronic pain in individuals within the UK general population. This measure, termed Multisite Chronic Pain (MCP), is a complex trait and its genetic architecture has not previously been investigated. To address this, we carried out a large-scale genome-wide association study (GWAS) of MCP in ~380,000 UK Biobank participants. Our findings were consistent with MCP having a significant polygenic component, with a Single Nucleotide Polymorphism (SNP) heritability of 10.2%. In total 76 independent lead SNPs at 39 risk loci were associated with MCP. Additional gene-level association analyses identified neurogenesis, synaptic plasticity, nervous system development, cell-cycle progression and apoptosis genes as enriched for genetic association with MCP. Genetic correlations were observed between MCP and a range of psychiatric, autoimmune and anthropometric traits, including major depressive disorder (MDD), asthma and Body Mass Index (BMI). Furthermore, in Mendelian randomisation (MR) analyses a causal effect of MCP on MDD was observed. Additionally, a polygenic risk score (PRS) for MCP was found to significantly predict chronic widespread pain (pain all over the body), indicating the existence of genetic variants contributing to both of these pain phenotypes. Overall, our findings support the proposition that chronic pain involves a strong nervous system component with implications for our understanding of the physiology of chronic pain. These discoveries may also inform the future development of novel treatment approaches.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pgen.1008164; html:https://europepmc.org/articles/PMC6592570; pdf:https://europepmc.org/articles/PMC6592570?pdf=render"
   },
   {
     "id": "33180769",
@@ -2499,23 +2516,6 @@
     "urls": "doi:https://doi.org/10.1136/thoraxjnl-2020-215566"
   },
   {
-    "id": "32856398",
-    "doi": "https://doi.org/10.1111/1742-6723.13604",
-    "title": "To intubate or not to intubate? Predictors of inhalation injury in burn-injured patients before arrival at the burn centre.",
-    "authorString": "Dyson K, Baker P, Garcia N, Braun A, Aung M, Pilcher D, Smith K, Cleland H, Gabbe B.",
-    "authorAffiliations": "",
-    "journalTitle": "Emergency medicine Australasia : EMA",
-    "pubYear": "2020",
-    "date": "2020-08-27",
-    "isOpenAccess": "N",
-    "keywords": "Burn; Pre-hospital; Inhalation Injury; Endotracheal Intubation",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVE:Inhalation injury occurs in approximately 10-20% of burn patients and is associated with increased mortality. There is no clear method of identifying patients at risk of inhalation injury or requiring intubation in the pre-hospital setting. Our objective was to identify pre-burn centre factors associated with inhalation injury confirmed on bronchoscopy, and to develop a prognostic model for inhalation injury. METHODS:We analysed acute admissions from the Victorian Adult Burns Service and Ambulance Victoria electronic patient care records for 1 July 2009 to 30 June 2016. We defined inhalation injury as an Abbreviated Injury Scale of >1 on bronchoscopy. A multivariable logistic regression prediction model was developed based on pre-burn centre factors. RESULTS:Emergency medical services transported 1148 patients who were admitted to the burn centre. The median age of patients was 39\u2009years and most patients had <10% total body surface area (%TBSA) burned. The prevalence of confirmed inhalation injury was 11%. Increasing %TBSA burned, flame, enclosed space, face burns, hoarse voice, soot in mouth and shortness of breath were predictive of inhalation injury. The model provided excellent discrimination (area under curve 0.87, 95% confidence interval 0.84-0.91). A lower proportion of patients intubated at a non-burn centre had an inhalation injury (33%) compared to patients intubated by emergency medical services (54%) and in the burn centre (58%). CONCLUSIONS:A model to predict inhalation injury in burn-injured patients was developed with excellent discrimination. This model requires prospective testing but could form an integral part of clinician decision-making.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/1742-6723.13604"
-  },
-  {
     "id": "32831176",
     "doi": "https://doi.org/10.7554/elife.58699",
     "title": "The contribution of asymptomatic SARS-CoV-2 infections to transmission on the Diamond Princess cruise ship.",
@@ -2548,6 +2548,23 @@
     "abstract": "We evaluated effectiveness of thermal passenger screening for 2019-nCoV infection at airport exit and entry to inform public health decision-making. In our baseline scenario, we estimated that 46% (95% confidence interval: 36 to 58) of infected travellers would not be detected, depending on incubation period, sensitivity of exit and entry screening, and proportion of asymptomatic cases. Airport screening is unlikely to detect a sufficient proportion of 2019-nCoV infected travellers to avoid entry of infected travellers.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.2807/1560-7917.ES.2020.25.5.2000080; html:https://europepmc.org/articles/PMC7014668; pdf:https://europepmc.org/articles/PMC7014668?pdf=render"
+  },
+  {
+    "id": "32856398",
+    "doi": "https://doi.org/10.1111/1742-6723.13604",
+    "title": "To intubate or not to intubate? Predictors of inhalation injury in burn-injured patients before arrival at the burn centre.",
+    "authorString": "Dyson K, Baker P, Garcia N, Braun A, Aung M, Pilcher D, Smith K, Cleland H, Gabbe B.",
+    "authorAffiliations": "",
+    "journalTitle": "Emergency medicine Australasia : EMA",
+    "pubYear": "2020",
+    "date": "2020-08-27",
+    "isOpenAccess": "N",
+    "keywords": "Burn; Pre-hospital; Inhalation Injury; Endotracheal Intubation",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVE:Inhalation injury occurs in approximately 10-20% of burn patients and is associated with increased mortality. There is no clear method of identifying patients at risk of inhalation injury or requiring intubation in the pre-hospital setting. Our objective was to identify pre-burn centre factors associated with inhalation injury confirmed on bronchoscopy, and to develop a prognostic model for inhalation injury. METHODS:We analysed acute admissions from the Victorian Adult Burns Service and Ambulance Victoria electronic patient care records for 1 July 2009 to 30 June 2016. We defined inhalation injury as an Abbreviated Injury Scale of >1 on bronchoscopy. A multivariable logistic regression prediction model was developed based on pre-burn centre factors. RESULTS:Emergency medical services transported 1148 patients who were admitted to the burn centre. The median age of patients was 39\u2009years and most patients had <10% total body surface area (%TBSA) burned. The prevalence of confirmed inhalation injury was 11%. Increasing %TBSA burned, flame, enclosed space, face burns, hoarse voice, soot in mouth and shortness of breath were predictive of inhalation injury. The model provided excellent discrimination (area under curve 0.87, 95% confidence interval 0.84-0.91). A lower proportion of patients intubated at a non-burn centre had an inhalation injury (33%) compared to patients intubated by emergency medical services (54%) and in the burn centre (58%). CONCLUSIONS:A model to predict inhalation injury in burn-injured patients was developed with excellent discrimination. This model requires prospective testing but could form an integral part of clinician decision-making.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/1742-6723.13604"
   },
   {
     "id": "30659777",
@@ -3315,23 +3332,6 @@
     "urls": "doi:https://doi.org/10.2196/18185; html:https://europepmc.org/articles/PMC7381072"
   },
   {
-    "id": "32071531",
-    "doi": "https://doi.org/10.1016/j.jor.2020.02.001",
-    "title": "Predictors of clavicle fixation in multiply injured patients.",
-    "authorString": "Tinney A, Moaveni AK, Kimmel LA, Gabbe BJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of orthopaedics",
-    "pubYear": "2020",
-    "date": "2020-02-04",
-    "isOpenAccess": "N",
-    "keywords": "Trauma; Operative treatment; Trauma Registry; Clavicle Fracture; Surgical Fixation; Multiply Injured Patient",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Introduction:Clavicle fractures account for approximately 10% of all fractures in multiply injured patients. Our study aims to determine factors associated with surgical fixation of the clavicle fracture in multiply injured patients. Methods:Major adult trauma patients from 2005 to 2014 with a clavicle fracture were included. Multivariate analysis was undertaken to determine the variables associated with fixation. Results:1779 patients (median age of 47 and a median Injury Severity Score of 17) were included. 273 (15%) patients underwent clavicle fixation. Factors associated with surgical fixation of the clavicle included: year, younger age, ICU admission, or an associated humerus or scapula fracture.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jor.2020.02.001"
-  },
-  {
     "id": "31168069",
     "doi": "https://doi.org/10.1038/s41380-019-0439-8",
     "title": "The genomic basis of mood instability: identification of 46 loci in 363,705 UK Biobank participants, genetic correlation with psychiatric disorders, and association with gene expression and function.",
@@ -3347,6 +3347,23 @@
     "abstract": "Genome-wide association studies (GWAS) of psychiatric phenotypes have tended to focus on categorical diagnoses, but to understand the biology of mental illness it may be more useful to study traits which cut across traditional boundaries. Here, we report the results of a GWAS of mood instability as a trait in a large population cohort (UK Biobank, n\u2009=\u2009363,705). We also assess the clinical and biological relevance of the findings, including whether genetic associations show enrichment for nervous system pathways. Forty six unique loci associated with mood instability were identified with a SNP heritability estimate of 9%. Linkage Disequilibrium Score Regression (LDSR) analyses identified genetic correlations with Major Depressive Disorder (MDD), Bipolar Disorder (BD), Schizophrenia, anxiety, and Post Traumatic Stress Disorder (PTSD). Gene-level and gene set analyses identified 244 significant genes and 6 enriched gene sets. Tissue expression analysis of the SNP-level data found enrichment in multiple brain regions, and eQTL analyses highlighted an inversion on chromosome 17 plus two brain-specific eQTLs. In addition, we used a Phenotype Linkage Network (PLN) analysis and community analysis to assess for enrichment of nervous system gene sets using mouse orthologue databases. The PLN analysis found enrichment in nervous system PLNs for a community containing serotonin and melatonin receptors. In summary, this work has identified novel loci, tissues and gene sets contributing to mood instability. These findings may be relevant for the identification of novel trans-diagnostic drug targets and could help to inform future stratified medicine innovations in mental health.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41380-019-0439-8; html:https://europepmc.org/articles/PMC7116257; pdf:https://europepmc.org/articles/PMC7116257?pdf=render"
+  },
+  {
+    "id": "32071531",
+    "doi": "https://doi.org/10.1016/j.jor.2020.02.001",
+    "title": "Predictors of clavicle fixation in multiply injured patients.",
+    "authorString": "Tinney A, Moaveni AK, Kimmel LA, Gabbe BJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of orthopaedics",
+    "pubYear": "2020",
+    "date": "2020-02-04",
+    "isOpenAccess": "N",
+    "keywords": "Trauma; Operative treatment; Trauma Registry; Clavicle Fracture; Surgical Fixation; Multiply Injured Patient",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Introduction:Clavicle fractures account for approximately 10% of all fractures in multiply injured patients. Our study aims to determine factors associated with surgical fixation of the clavicle fracture in multiply injured patients. Methods:Major adult trauma patients from 2005 to 2014 with a clavicle fracture were included. Multivariate analysis was undertaken to determine the variables associated with fixation. Results:1779 patients (median age of 47 and a median Injury Severity Score of 17) were included. 273 (15%) patients underwent clavicle fixation. Factors associated with surgical fixation of the clavicle included: year, younger age, ICU admission, or an associated humerus or scapula fracture.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jor.2020.02.001"
   },
   {
     "id": "30972781",
@@ -4420,23 +4437,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0236193; html:https://europepmc.org/articles/PMC7373274; pdf:https://europepmc.org/articles/PMC7373274?pdf=render"
   },
   {
-    "id": "32678323",
-    "doi": "https://doi.org/10.1038/s41366-020-0642-3",
-    "title": "Cross-sectional associations between central and general adiposity with albuminuria: observations from 400,000 people in UK Biobank.",
-    "authorString": "Zhu P, Lewington S, Haynes R, Emberson J, Landray MJ, Cherney D, Woodward M, Baigent C, Herrington WG, Staplin N.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of obesity (2005)",
-    "pubYear": "2020",
-    "date": "2020-07-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Whether measures of central adiposity are more or less strongly associated with risk of albuminuria than body mass index (BMI), and by how much diabetes/levels of glycosylated haemoglobin (HbA1c) explain or modify these associations, is uncertain. METHODS:Ordinal logistic regression was used to estimate associations between values of central adiposity (waist-to-hip ratio) and, separately, general adiposity (BMI) with categories of urinary albumin-to-creatinine ratio (uACR) in 408,527 UK Biobank participants. Separate central and general adiposity-based models were initially adjusted for potential confounders and measurement error, then sequentially, models were mutually adjusted (e.g. waist-to-hip ratio adjusted for BMI, and vice versa), and finally they were adjusted for potential mediators. RESULTS:Levels of albuminuria were generally low: 20,425 (5%) had a uACR \u22653\u2009mg/mmol. After adjustment for confounders and measurement error, each 0.06 higher waist-to-hip ratio was associated with a 55% (95%CI 53-57%) increase in the odds of being in a higher uACR category. After adjustment for baseline BMI, this association was reduced to 32% (30-34%). Each 5\u2009kg/m2 higher BMI was associated with a 47% (46-49%) increase in the odds of being in a higher uACR category. Adjustment for baseline waist-to-hip ratio reduced this association to 35% (33-37%). Those with higher HbA1c were at progressively higher odds of albuminuria, but positive associations between both waist-to-hip ratio and BMI were apparent irrespective of HbA1c. Altogether, about 40% of central adiposity associations appeared to be mediated by diabetes, vascular disease and blood pressure. CONCLUSIONS:Conventional epidemiological approaches suggest that higher waist-to-hip ratio and BMI are independently positively associated with albuminuria. Adiposity-albuminuria associations appear strong among people with normal HbA1c, as well as people with pre-diabetes or diabetes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41366-020-0642-3; html:https://europepmc.org/articles/PMC7577847; pdf:https://europepmc.org/articles/PMC7577847?pdf=render"
-  },
-  {
     "id": "30120083",
     "doi": "https://doi.org/10.1016/j.ebiom.2018.08.004",
     "title": "Genome-Wide Association Study of Circadian Rhythmicity in 71,500 UK Biobank Participants and Polygenic Association with Mood Instability.",
@@ -4452,6 +4452,23 @@
     "abstract": "<b>Background: </b>Circadian rhythms are fundamental to health and are particularly important for mental wellbeing. Disrupted rhythms of rest and activity are recognised as risk factors for major depressive disorder and bipolar disorder.<br><br><b>Methods: </b>We conducted a genome-wide association study (GWAS) of low relative amplitude (RA), an objective measure of rest-activity cycles derived from the accelerometer data of 71,500 UK Biobank participants. Polygenic risk scores (PRS) for low RA were used to investigate potential associations with psychiatric phenotypes.<br><br><b>Outcomes: </b>Two independent genetic loci were associated with low RA, within genomic regions for Neurofascin (NFASC) and Solute Carrier Family 25 Member 17 (SLC25A17). A secondary GWAS of RA as a continuous measure identified a locus within Meis Homeobox 1 (MEIS1). There were no significant genetic correlations between low RA and any of the psychiatric phenotypes assessed. However, PRS for low RA was significantly associated with mood instability across multiple PRS thresholds (at PRS threshold 0\u00b705: OR\u202f=\u202f1\u00b702, 95% CI\u202f=\u202f1\u00b701-1\u00b702, p\u202f=\u202f9\u00b76\u202f\u00d7\u202f10<sup>-5</sup>), and with major depressive disorder (at PRS threshold 0\u00b71: OR\u202f=\u202f1\u00b703, 95% CI\u202f=\u202f1\u00b701-1\u00b705, p\u202f=\u202f0\u00b7025) and neuroticism (at PRS threshold 0\u00b75: Beta\u202f=\u202f0\u00b702, 95% CI\u202f=\u202f0\u00b7007-0\u00b704, p\u202f=\u202f0\u00b7021).<br><br><b>Interpretation: </b>Overall, our findings contribute new knowledge on the complex genetic architecture of circadian rhythmicity and suggest a putative biological link between disrupted circadian function and mood disorder phenotypes, particularly mood instability, but also major depressive disorder and neuroticism.<br><br><b>Funding: </b>Medical Research Council (MR/K501335/1).",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.ebiom.2018.08.004; html:https://europepmc.org/articles/PMC6154782; pdf:https://europepmc.org/articles/PMC6154782?pdf=render"
+  },
+  {
+    "id": "32678323",
+    "doi": "https://doi.org/10.1038/s41366-020-0642-3",
+    "title": "Cross-sectional associations between central and general adiposity with albuminuria: observations from 400,000 people in UK Biobank.",
+    "authorString": "Zhu P, Lewington S, Haynes R, Emberson J, Landray MJ, Cherney D, Woodward M, Baigent C, Herrington WG, Staplin N.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of obesity (2005)",
+    "pubYear": "2020",
+    "date": "2020-07-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Whether measures of central adiposity are more or less strongly associated with risk of albuminuria than body mass index (BMI), and by how much diabetes/levels of glycosylated haemoglobin (HbA1c) explain or modify these associations, is uncertain. METHODS:Ordinal logistic regression was used to estimate associations between values of central adiposity (waist-to-hip ratio) and, separately, general adiposity (BMI) with categories of urinary albumin-to-creatinine ratio (uACR) in 408,527 UK Biobank participants. Separate central and general adiposity-based models were initially adjusted for potential confounders and measurement error, then sequentially, models were mutually adjusted (e.g. waist-to-hip ratio adjusted for BMI, and vice versa), and finally they were adjusted for potential mediators. RESULTS:Levels of albuminuria were generally low: 20,425 (5%) had a uACR \u22653\u2009mg/mmol. After adjustment for confounders and measurement error, each 0.06 higher waist-to-hip ratio was associated with a 55% (95%CI 53-57%) increase in the odds of being in a higher uACR category. After adjustment for baseline BMI, this association was reduced to 32% (30-34%). Each 5\u2009kg/m2 higher BMI was associated with a 47% (46-49%) increase in the odds of being in a higher uACR category. Adjustment for baseline waist-to-hip ratio reduced this association to 35% (33-37%). Those with higher HbA1c were at progressively higher odds of albuminuria, but positive associations between both waist-to-hip ratio and BMI were apparent irrespective of HbA1c. Altogether, about 40% of central adiposity associations appeared to be mediated by diabetes, vascular disease and blood pressure. CONCLUSIONS:Conventional epidemiological approaches suggest that higher waist-to-hip ratio and BMI are independently positively associated with albuminuria. Adiposity-albuminuria associations appear strong among people with normal HbA1c, as well as people with pre-diabetes or diabetes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41366-020-0642-3; html:https://europepmc.org/articles/PMC7577847; pdf:https://europepmc.org/articles/PMC7577847?pdf=render"
   },
   {
     "id": "31089183",
@@ -5202,23 +5219,6 @@
     "urls": "doi:https://doi.org/10.1093/burnst/tkz004; html:https://europepmc.org/articles/PMC7175773; pdf:https://europepmc.org/articles/PMC7175773?pdf=render"
   },
   {
-    "id": "31312209",
-    "doi": "https://doi.org/10.3389/fgene.2019.00567",
-    "title": "Use of Pharmacogenetic Drugs by the Dutch Population.",
-    "authorString": "Alshabeeb MA, Deneer VHM, Khan A, Asselbergs FW.",
-    "authorAffiliations": "",
-    "journalTitle": "Frontiers in genetics",
-    "pubYear": "2019",
-    "date": "2019-07-02",
-    "isOpenAccess": "Y",
-    "keywords": "CYP2C19; CYP2D6; Pharmacogenetics; Adrs; Slco1b1; Preemptive Genetic Testing",
-    "nationalPriorities": "Better Care",
-    "healthCategories": "",
-    "abstract": "Introduction:The Dutch Pharmacogenetics Working Group (DPWG) indicated a list of actionable genotypes that affect patients' response to more 50 drugs; these drugs which show variable effects based on patients' genetic traits were named as pharmacogenetics (PGX) drugs. Preemptive genetic testing before using these drugs may protect certain patients from serious adverse reactions and could help in avoiding treatment failures. The objectives of this study include identifying the rate of PGX drug usage among Dutch population, estimating the level of users who carry the actionable genotypes and determining the main genes involved in drug's effect variability. Methods:Usage of PGX drugs over 2011-2017 by the insured population (an average of 11.4 million) in outpatient clinics in Netherlands was obtained from the publically available GIP databank. The data of 45 drugs were analyzed and their interactions with selected pharmacogenes were estimated. Frequency of actionable genotypes of 249 Dutch parents was obtained from the public database: Genome of Netherlands (GoNL), to identify the pattern of genetic characteristics of Dutch population. Results:Over a 7 year period, 51.3 million exposures of patients to PGX drugs were reported with an average of 5.3 exposures per each drug user. One quarterof the exposures (12.4 million) are predicted to be experienced by individuals with actionable genotypes (risky exposures). Up to 60% of the risky exposures (around 7.5 million) were related to drugs metabolized by CYP2D6. SLCO1B1, and CYP2C19 were also identified among the top genes affecting response of drugs users (involved in about 22 and 12.4% of the risky exposures, respectively). Cardiovascular medications were the top prescribed PGX drug class (43%), followed by gastroenterology (29%) and psychiatry/neurology medications (15%). Women use more PGX drugs than men (55.8 vs. 44.2%, respectively) with the majority (84%) of users in both sexes are above 45 years. Conclusion:PGX drugs are commonly used in Netherlands. Preemptive panel testing for CYP2D6, SLCO1B1, and CYP2C19 only could be useful to predict 95% of vulnerable patients' exposures to PGX drugs. Future studies to assess the economic impact of preemptive panel testing on patients of older age are suggested.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3389/fgene.2019.00567; html:https://europepmc.org/articles/PMC6614185; pdf:https://europepmc.org/articles/PMC6614185?pdf=render"
-  },
-  {
     "id": "31675503",
     "doi": "https://doi.org/10.1016/j.cell.2019.10.004",
     "title": "Uganda Genome Resource Enables Insights into Population History and Genomic Discovery in Africa.",
@@ -5234,6 +5234,23 @@
     "abstract": "Genomic studies in African populations provide unique opportunities to understand disease etiology, human diversity, and population history. In the largest study of its kind, comprising genome-wide data from 6,400 individuals and whole-genome sequences from 1,978 individuals from rural Uganda, we find evidence of geographically correlated fine-scale population substructure. Historically, the ancestry of modern Ugandans was best represented by a mixture of ancient East African pastoralists. We demonstrate the value of the largest sequence panel from Africa to date as an imputation resource. Examining 34 cardiometabolic traits, we show systematic differences in trait heritability between European and African populations, probably reflecting the differential impact of genes and environment. In a multi-trait pan-African GWAS of up to 14,126 individuals, we identify novel loci associated with anthropometric, hematological, lipid, and glycemic traits. We find that several functionally important signals are driven by Africa-specific variants, highlighting the value of studying diverse populations across the region.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.cell.2019.10.004; html:https://europepmc.org/articles/PMC7202134; pdf:https://europepmc.org/articles/PMC7202134?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.10.004"
+  },
+  {
+    "id": "31312209",
+    "doi": "https://doi.org/10.3389/fgene.2019.00567",
+    "title": "Use of Pharmacogenetic Drugs by the Dutch Population.",
+    "authorString": "Alshabeeb MA, Deneer VHM, Khan A, Asselbergs FW.",
+    "authorAffiliations": "",
+    "journalTitle": "Frontiers in genetics",
+    "pubYear": "2019",
+    "date": "2019-07-02",
+    "isOpenAccess": "Y",
+    "keywords": "CYP2C19; CYP2D6; Pharmacogenetics; Adrs; Slco1b1; Preemptive Genetic Testing",
+    "nationalPriorities": "Better Care",
+    "healthCategories": "",
+    "abstract": "Introduction:The Dutch Pharmacogenetics Working Group (DPWG) indicated a list of actionable genotypes that affect patients' response to more 50 drugs; these drugs which show variable effects based on patients' genetic traits were named as pharmacogenetics (PGX) drugs. Preemptive genetic testing before using these drugs may protect certain patients from serious adverse reactions and could help in avoiding treatment failures. The objectives of this study include identifying the rate of PGX drug usage among Dutch population, estimating the level of users who carry the actionable genotypes and determining the main genes involved in drug's effect variability. Methods:Usage of PGX drugs over 2011-2017 by the insured population (an average of 11.4 million) in outpatient clinics in Netherlands was obtained from the publically available GIP databank. The data of 45 drugs were analyzed and their interactions with selected pharmacogenes were estimated. Frequency of actionable genotypes of 249 Dutch parents was obtained from the public database: Genome of Netherlands (GoNL), to identify the pattern of genetic characteristics of Dutch population. Results:Over a 7 year period, 51.3 million exposures of patients to PGX drugs were reported with an average of 5.3 exposures per each drug user. One quarterof the exposures (12.4 million) are predicted to be experienced by individuals with actionable genotypes (risky exposures). Up to 60% of the risky exposures (around 7.5 million) were related to drugs metabolized by CYP2D6. SLCO1B1, and CYP2C19 were also identified among the top genes affecting response of drugs users (involved in about 22 and 12.4% of the risky exposures, respectively). Cardiovascular medications were the top prescribed PGX drug class (43%), followed by gastroenterology (29%) and psychiatry/neurology medications (15%). Women use more PGX drugs than men (55.8 vs. 44.2%, respectively) with the majority (84%) of users in both sexes are above 45 years. Conclusion:PGX drugs are commonly used in Netherlands. Preemptive panel testing for CYP2D6, SLCO1B1, and CYP2C19 only could be useful to predict 95% of vulnerable patients' exposures to PGX drugs. Future studies to assess the economic impact of preemptive panel testing on patients of older age are suggested.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3389/fgene.2019.00567; html:https://europepmc.org/articles/PMC6614185; pdf:https://europepmc.org/articles/PMC6614185?pdf=render"
   },
   {
     "id": "31702773",
@@ -5435,7 +5452,7 @@
     "keywords": "",
     "nationalPriorities": "Understanding the Causes of Disease",
     "healthCategories": "",
-    "abstract": "BACKGROUND:Iron is integral to many physiological processes, and variations in its levels, even within the normal range, can have implications for health. The objective of this study was to explore the broad clinical effects of varying iron status. METHODS AND FINDINGS:Genome-wide association study (GWAS) summary data obtained from 48,972 European individuals (55% female) across 19 cohorts in the Genetics of Iron Status Consortium were used to identify 3 genetic variants (rs1800562 and rs1799945 in the hemochromatosis gene [HFE] and rs855791 in the transmembrane protease serine 6 gene [TMPRSS6]) that associate with increased serum iron, ferritin, and transferrin saturation and decreased transferrin levels, thus serving as instruments for systemic iron status. Phenome-wide association study (PheWAS) of these instruments was performed on 424,439 European individuals (54% female) in the UK Biobank who were aged 40-69 years when recruited from 2006 to 2010, with their genetic data linked to Hospital Episode Statistics (HES) from April, 1995 to March, 2016. Two-sample summary data mendelian randomization (MR) analysis was performed to investigate the effect of varying iron status on outcomes across the human phenome. MR-PheWAS analysis for the 3 iron status genetic instruments was performed separately and then pooled by meta-analysis. Correction was made for testing of multiple correlated phenotypes using a 5% false discovery rate (FDR) threshold. Heterogeneity between MR estimates for different instruments was used to indicate possible bias due to effects of the genetic variants through pathways unrelated to iron status. There were 904 distinct phenotypes included in the MR-PheWAS analyses. After correcting for multiple testing, the 3 genetic instruments for systemic iron status demonstrated consistent evidence of a causal effect of higher iron status on decreasing risk of traits related to anemia (iron deficiency anemia: odds ratio [OR] scaled to a standard deviation [SD] increase in genetically determined serum iron levels 0.72, 95% confidence interval [CI] 0.64-0.81, P = 4 \u00d7 10-8) and hypercholesterolemia (hypercholesterolemia: OR 0.88, 95% CI 0.83-0.93, P = 2 \u00d7 10-5) and increasing risk of traits related to infection of the skin and related structures (cellulitis and abscess of the leg: OR 1.25, 95% CI 1.10-1.42, P = 6 \u00d7 10-4). The main limitations of this study relate to possible bias from pleiotropic effects of the considered genetic variants and misclassification of diagnoses in the HES data. Furthermore, this work only investigated participants with European ancestry, and the findings may not be applicable to other ethnic groups. CONCLUSIONS:Our findings offer novel, to our knowledge, insight into previously unreported effects of iron status, highlighting a potential protective effect of higher iron status on hypercholesterolemia and a detrimental role on risk of skin and skin structure infections. Given the modifiable and variable nature of iron status, these findings warrant further investigation.",
+    "abstract": "<b>Background: </b>Iron is integral to many physiological processes, and variations in its levels, even within the normal range, can have implications for health. The objective of this study was to explore the broad clinical effects of varying iron status.<br><br><b>Methods and findings: </b>Genome-wide association study (GWAS) summary data obtained from 48,972 European individuals (55% female) across 19 cohorts in the Genetics of Iron Status Consortium were used to identify 3 genetic variants (rs1800562 and rs1799945 in the hemochromatosis gene [HFE] and rs855791 in the transmembrane protease serine 6 gene [TMPRSS6]) that associate with increased serum iron, ferritin, and transferrin saturation and decreased transferrin levels, thus serving as instruments for systemic iron status. Phenome-wide association study (PheWAS) of these instruments was performed on 424,439 European individuals (54% female) in the UK Biobank who were aged 40-69 years when recruited from 2006 to 2010, with their genetic data linked to Hospital Episode Statistics (HES) from April, 1995 to March, 2016. Two-sample summary data mendelian randomization (MR) analysis was performed to investigate the effect of varying iron status on outcomes across the human phenome. MR-PheWAS analysis for the 3 iron status genetic instruments was performed separately and then pooled by meta-analysis. Correction was made for testing of multiple correlated phenotypes using a 5% false discovery rate (FDR) threshold. Heterogeneity between MR estimates for different instruments was used to indicate possible bias due to effects of the genetic variants through pathways unrelated to iron status. There were 904 distinct phenotypes included in the MR-PheWAS analyses. After correcting for multiple testing, the 3 genetic instruments for systemic iron status demonstrated consistent evidence of a causal effect of higher iron status on decreasing risk of traits related to anemia (iron deficiency anemia: odds ratio [OR] scaled to a standard deviation [SD] increase in genetically determined serum iron levels 0.72, 95% confidence interval [CI] 0.64-0.81, P = 4 \u00d7 10-8) and hypercholesterolemia (hypercholesterolemia: OR 0.88, 95% CI 0.83-0.93, P = 2 \u00d7 10-5) and increasing risk of traits related to infection of the skin and related structures (cellulitis and abscess of the leg: OR 1.25, 95% CI 1.10-1.42, P = 6 \u00d7 10-4). The main limitations of this study relate to possible bias from pleiotropic effects of the considered genetic variants and misclassification of diagnoses in the HES data. Furthermore, this work only investigated participants with European ancestry, and the findings may not be applicable to other ethnic groups.<br><br><b>Conclusions: </b>Our findings offer novel, to our knowledge, insight into previously unreported effects of iron status, highlighting a potential protective effect of higher iron status on hypercholesterolemia and a detrimental role on risk of skin and skin structure infections. Given the modifiable and variable nature of iron status, these findings warrant further investigation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pmed.1002833; html:https://europepmc.org/articles/PMC6586257; pdf:https://europepmc.org/articles/PMC6586257?pdf=render"
   },
@@ -5950,23 +5967,6 @@
     "urls": "doi:https://doi.org/10.1038/s41416-018-0365-6; html:https://europepmc.org/articles/PMC6354010; pdf:https://europepmc.org/articles/PMC6354010?pdf=render"
   },
   {
-    "id": "32680743",
-    "doi": "https://doi.org/10.1016/j.jphys.2020.06.008",
-    "title": "Adaptation, self-motivation and support services are key to physical activity participation three to five years after major trauma: a qualitative study.",
-    "authorString": "Ekegren CL, Braaf S, Ameratunga S, Ponsford J, Nunn A, Cameron P, Lyons RA, Gabbe BJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of physiotherapy",
-    "pubYear": "2020",
-    "date": "2020-07-14",
-    "isOpenAccess": "N",
-    "keywords": "Trauma; Recovery; Exercise; wounds and injuries; Sedentary Lifestyle",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "QUESTIONS:What are the perceived long-term impacts of major trauma on physical activity participation over time? What factors influence physical activity participation in people recovering from major trauma? DESIGN:Longitudinal qualitative study. PARTICIPANTS:Sixty-six people aged \u2265 16 years with non-neurological major trauma. METHODS:Participants were interviewed 3 years (n\u00a0= 66), 4 years (n\u00a0= 63) and 5 years (n\u00a0= 57) after their injury. A thematic analysis was performed. RESULTS:Despite wanting to be physically active, many participants experienced significant, long-term physical activity restriction after their injury, which persisted over time. Restrictions were often related to a fear of re-injury or of exacerbating pain and fatigue levels. These restrictions were a source of distress and frustration for many participants, given the perceived impacts on their social life, family roles and enjoyment of life. Participants were also concerned about weight gain, health decline and reduced physical fitness. Participants valued the support of insurers and specialised services in facilitating access to modified activities, such as clinical Pilates and hydrotherapy. Many participants also recognised the importance of adaptation, goal-setting, self-motivation and determination to be physically active despite limitations. CONCLUSION:People recovering from major trauma experienced significant and persistent physical activity restriction after their injury. Given the high prevalence of activity restrictions, distress and health concerns that were reported, there is an urgent need to develop and evaluate support strategies to improve physical activity participation in this group.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jphys.2020.06.008"
-  },
-  {
     "id": "31564467",
     "doi": "https://doi.org/10.1016/s2215-0366(19)30369-4",
     "title": "The burden of mental ill health associated with childhood maltreatment in the UK, using The Health Improvement Network database: a population-based retrospective cohort study.",
@@ -5982,6 +5982,23 @@
     "abstract": "BACKGROUND:Childhood maltreatment is a global public health, human rights, and moral issue that is associated with a substantial mental health burden. We aimed to assess the association between childhood maltreatment and the development of mental ill health and the initiation of new prescriptions for mental ill health. METHODS:In this population-based, retrospective, open cohort study, we used a dataset from individuals in The Health Improvement Network (THIN) database. THIN database comprises UK electronic medical records taken from 787 general practices throughout the UK. We used read codes in these records to identify exposed patients (those with a read code identifying officially confirmed childhood maltreatment or a maltreatment-related concern) and up to two unexposed patients (those without such read codes) from the same general practice, who were matched by age and sex. We evaluated the risk of developing depression, anxiety, or serious mental illness (a composite mental ill health outcome) or initiation of a prescription drug used to treat mental ill health, and the odds ratio of these events at baseline, in the exposed versus unexposed patients. FINDINGS:The first possible date for cohort entry (the study start date) was Jan 1, 1995, and patients could enter the cohort until the study end date, Dec 31, 2018. During the study period, 11\u2008831\u2008850 patients were eligible to participate. Of these patients, we identified 217\u2008758 (1\u00b78%) patients with any recorded childhood maltreatment. These patients were matched to 423\u2008410 unexposed control patients with no recorded exposure to childhood maltreatment. The exposed group were followed up for a median of 1\u00b78 years (IQR 0\u00b76-4\u00b73) versus 3\u00b72 years (1\u00b73-6\u00b71) in the unexposed group. During the study period, 11\u2008665 (5\u00b79%) new diagnoses of mental ill health were made in the exposed group, giving an incidence rate of 16\u00b78 events per 1000 person-years versus 15\u2008301 (3\u00b77%) new recorded diagnoses at an incidence rate of 8\u00b73 events per 1000 person-years in the unexposed cohort, giving an adjusted IRR of 2\u00b714 (95% CI 2\u00b708-2\u00b719). 30\u2008911 (14\u00b78%) patients in the exposed group received a new prescription for any type of mental ill health (incidence rate 46\u00b75 events per 1000 person-years) versus 36\u2008390 (8\u00b79%) patients in the unexposed group (20\u00b75 per 1000 person-years) resulting in an adjusted IRR of 2\u00b744 (95% CI 2\u00b740-2\u00b748). INTERPRETATION:Childhood maltreatment is thought to affect one in three children globally; therefore, a doubled risk of developing mental ill health among these individuals represents a substantial contribution to the mental ill health burden in the UK. It is imperative that public health approaches, including those aimed at preventing and detecting childhood maltreatment and its associated negative consequences, are implemented to prevent mental ill health. FUNDING:None.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S2215-0366(19)30369-4"
+  },
+  {
+    "id": "32680743",
+    "doi": "https://doi.org/10.1016/j.jphys.2020.06.008",
+    "title": "Adaptation, self-motivation and support services are key to physical activity participation three to five years after major trauma: a qualitative study.",
+    "authorString": "Ekegren CL, Braaf S, Ameratunga S, Ponsford J, Nunn A, Cameron P, Lyons RA, Gabbe BJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of physiotherapy",
+    "pubYear": "2020",
+    "date": "2020-07-14",
+    "isOpenAccess": "N",
+    "keywords": "Trauma; Recovery; Exercise; wounds and injuries; Sedentary Lifestyle",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "QUESTIONS:What are the perceived long-term impacts of major trauma on physical activity participation over time? What factors influence physical activity participation in people recovering from major trauma? DESIGN:Longitudinal qualitative study. PARTICIPANTS:Sixty-six people aged \u2265 16 years with non-neurological major trauma. METHODS:Participants were interviewed 3 years (n\u00a0= 66), 4 years (n\u00a0= 63) and 5 years (n\u00a0= 57) after their injury. A thematic analysis was performed. RESULTS:Despite wanting to be physically active, many participants experienced significant, long-term physical activity restriction after their injury, which persisted over time. Restrictions were often related to a fear of re-injury or of exacerbating pain and fatigue levels. These restrictions were a source of distress and frustration for many participants, given the perceived impacts on their social life, family roles and enjoyment of life. Participants were also concerned about weight gain, health decline and reduced physical fitness. Participants valued the support of insurers and specialised services in facilitating access to modified activities, such as clinical Pilates and hydrotherapy. Many participants also recognised the importance of adaptation, goal-setting, self-motivation and determination to be physically active despite limitations. CONCLUSION:People recovering from major trauma experienced significant and persistent physical activity restriction after their injury. Given the high prevalence of activity restrictions, distress and health concerns that were reported, there is an urgent need to develop and evaluate support strategies to improve physical activity participation in this group.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jphys.2020.06.008"
   },
   {
     "id": "30537243",
@@ -6647,6 +6664,23 @@
     "urls": "doi:https://doi.org/10.1038/s41533-019-0132-z; html:https://europepmc.org/articles/PMC6509212; pdf:https://europepmc.org/articles/PMC6509212?pdf=render"
   },
   {
+    "id": "32212911",
+    "doi": "https://doi.org/10.1161/jaha.119.013684",
+    "title": "Prognostic significance of troponin level in 3121 patients presenting with atrial fibrillation (The NIHR Health Informatics Collaborative TROP-AF study).",
+    "authorString": "Kaura A, Arnold AD, Panoulas V, Glampson B, Davies J, Mulla A, Woods K, Omigie J, Shah AD, Channon KM, Weber JN, Thursz MR, Elliott P, Hemingway H, Williams B, Asselbergs FW, O'Sullivan M, Lord GM, Melikian N, Lefroy DC, Francis DP, Shah AM, Kharbanda R, Perera D, Patel RS, Mayet J.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of the American Heart Association",
+    "pubYear": "2020",
+    "date": "2020-03-26",
+    "isOpenAccess": "Y",
+    "keywords": "Troponin; Mortality; Atrial fibrillation; coronary artery disease; angiography",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Background Patients presenting with atrial fibrillation (AF) often undergo a blood test to measure troponin, but interpretation of the result is impeded by uncertainty about its clinical importance. We investigated the relationship between troponin level, coronary angiography, and all-cause mortality in real-world patients presenting with AF. Methods and Results We used National Institute of Health Research Health Informatics Collaborative data to identify patients admitted between 2010 and 2017 at 5 tertiary centers in the United Kingdom with a primary diagnosis of AF. Peak troponin results were scaled as multiples of the upper limit of normal. A total of 3121 patients were included in the analysis. Over a median follow-up of 1462 (interquartile range, 929-1975) days, there were 586 deaths (18.8%). The adjusted hazard ratio for mortality associated with a positive troponin (value above upper limit of normal) was 1.20 (95% CI, 1.01-1.43; P<0.05). Higher troponin levels were associated with higher risk of mortality, reaching a maximum hazard ratio of 2.6 (95% CI, 1.9-3.4) at \u2248250 multiples of the upper limit of normal. There was an exponential relationship between higher troponin levels and increased odds of coronary angiography. The mortality risk was 36% lower in patients undergoing coronary angiography than in those who did not (adjusted hazard ratio, 0.61; 95% CI, 0.42-0.89; P=0.01). Conclusions Increased troponin was associated with increased risk of mortality in patients presenting with AF. The lower hazard ratio in patients undergoing invasive management raises the possibility that the clinical importance of troponin release in AF may be mediated by coronary artery disease, which may be responsive to revascularization.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/JAHA.119.013684; html:https://europepmc.org/articles/PMC7428631; pdf:https://europepmc.org/articles/PMC7428631?pdf=render"
+  },
+  {
     "id": "32706893",
     "doi": "https://doi.org/10.1182/bloodadvances.2020002230",
     "title": "Artificial intelligence-based morphological fingerprinting of megakaryocytes: a new tool for assessing disease in MPN patients.",
@@ -6679,23 +6713,6 @@
     "abstract": "Escherichia coli and Klebsiella spp. are important human pathogens that cause a wide spectrum of clinical disease. In healthcare settings, sinks and other wastewater sites have been shown to be reservoirs of antimicrobial-resistant E. coli and Klebsiella spp., particularly in the context of outbreaks of resistant strains amongst patients. Without focusing exclusively on resistance markers or a clinical outbreak, we demonstrate that many hospital sink drains are abundantly and persistently colonized with diverse populations of E. coli, Klebsiella pneumoniae and Klebsiella oxytoca, including both antimicrobial-resistant and susceptible strains. Using whole-genome sequencing of 439 isolates, we show that environmental bacterial populations are largely structured by ward and sink, with only a handful of lineages, such as E. coli ST635, being widely distributed, suggesting different prevailing ecologies, which may vary as a result of different inputs and selection pressures. Whole-genome sequencing of 46 contemporaneous patient isolates identified one (2\u200a%; 95\u200a%\u2009CI 0.05-11\u200a%) E. coli urine infection-associated isolate with high similarity to a prior sink isolate, suggesting that sinks may contribute to up to 10\u200a% of infections caused by these organisms in patients on the ward over the same timeframe. Using metagenomics from 20 sink-timepoints, we show that sinks also harbour many clinically relevant antimicrobial resistance genes including bla CTX-M, bla SHV and mcr, and may act as niches for the exchange and amplification of these genes. Our study reinforces the potential role of sinks in contributing to Enterobacterales infection and antimicrobial resistance in hospital patients, something that could be amenable to intervention. This article contains data hosted by Microreact.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1099/mgen.0.000391; html:https://europepmc.org/articles/PMC7478627; pdf:https://europepmc.org/articles/PMC7478627?pdf=render"
-  },
-  {
-    "id": "32212911",
-    "doi": "https://doi.org/10.1161/jaha.119.013684",
-    "title": "Prognostic significance of troponin level in 3121 patients presenting with atrial fibrillation (The NIHR Health Informatics Collaborative TROP-AF study).",
-    "authorString": "Kaura A, Arnold AD, Panoulas V, Glampson B, Davies J, Mulla A, Woods K, Omigie J, Shah AD, Channon KM, Weber JN, Thursz MR, Elliott P, Hemingway H, Williams B, Asselbergs FW, O'Sullivan M, Lord GM, Melikian N, Lefroy DC, Francis DP, Shah AM, Kharbanda R, Perera D, Patel RS, Mayet J.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of the American Heart Association",
-    "pubYear": "2020",
-    "date": "2020-03-26",
-    "isOpenAccess": "Y",
-    "keywords": "Troponin; Mortality; Atrial fibrillation; coronary artery disease; angiography",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Background Patients presenting with atrial fibrillation (AF) often undergo a blood test to measure troponin, but interpretation of the result is impeded by uncertainty about its clinical importance. We investigated the relationship between troponin level, coronary angiography, and all-cause mortality in real-world patients presenting with AF. Methods and Results We used National Institute of Health Research Health Informatics Collaborative data to identify patients admitted between 2010 and 2017 at 5 tertiary centers in the United Kingdom with a primary diagnosis of AF. Peak troponin results were scaled as multiples of the upper limit of normal. A total of 3121 patients were included in the analysis. Over a median follow-up of 1462 (interquartile range, 929-1975) days, there were 586 deaths (18.8%). The adjusted hazard ratio for mortality associated with a positive troponin (value above upper limit of normal) was 1.20 (95% CI, 1.01-1.43; P<0.05). Higher troponin levels were associated with higher risk of mortality, reaching a maximum hazard ratio of 2.6 (95% CI, 1.9-3.4) at \u2248250 multiples of the upper limit of normal. There was an exponential relationship between higher troponin levels and increased odds of coronary angiography. The mortality risk was 36% lower in patients undergoing coronary angiography than in those who did not (adjusted hazard ratio, 0.61; 95% CI, 0.42-0.89; P=0.01). Conclusions Increased troponin was associated with increased risk of mortality in patients presenting with AF. The lower hazard ratio in patients undergoing invasive management raises the possibility that the clinical importance of troponin release in AF may be mediated by coronary artery disease, which may be responsive to revascularization.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/JAHA.119.013684; html:https://europepmc.org/articles/PMC7428631; pdf:https://europepmc.org/articles/PMC7428631?pdf=render"
   },
   {
     "id": "32558637",
@@ -7444,6 +7461,23 @@
     "abstract": "Introduction:There is a lack of evidence on the adverse effects of air pollution on cognition for people with air quality-related health conditions. We propose that educational attainment, as a proxy for cognition, may increase with improved air quality. This study will explore whether asthma and seasonal allergic rhinitis, when exacerbated by acute exposure to air pollution, is associated with educational attainment. Objective:To describe the preparation of individual and household-level linked environmental and health data for analysis within an anonymised safe haven. Also to introduce our statistical analysis plan for our study: COgnition, Respiratory Tract illness and Effects of eXposure (CORTEX). Methods:We imported daily air pollution and aeroallergen data, and individual level education data into the SAIL databank, an anonymised safe haven for person-based records. We linked individual-level education, socioeconomic and health data to air quality data for home and school locations, creating tailored exposures for individuals across a city. We developed daily exposure data for all pupils in repeated cross sectional exam cohorts (2009-2015). Conclusion:We have used the SAIL databank, an innovative, data safe haven to create individual-level exposures to air pollution and pollen for multiple daily home and school locations. The analysis platform will allow us to evaluate retrospectively the impact of air quality on attainment for multiple cross-sectional cohorts of pupils. Our methods will allow us to distinguish between the pollution impacts on educational attainment for pupils with and without respiratory health conditions. The results from this study will further our understanding of the effects of air quality and respiratory-related health conditions on cognition. Highlights:This city-wide study includes longitudinal routinely-recorded educational attainment data for all pupils taking exams over seven years;High spatial resolution air pollution data were linked within a privacy protected databank to obtain individual exposure at multiple daily locations;This study will use health data linked at the individual level to explore associations between air pollution, related morbidity, and educational attainment.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.23889/ijpds.v3i1.412; html:https://europepmc.org/articles/PMC7299475; pdf:https://europepmc.org/articles/PMC7299475?pdf=render"
+  },
+  {
+    "id": "33174830",
+    "doi": "https://doi.org/10.1099/mgen.0.000453",
+    "title": "Optimized use of Oxford Nanopore flowcells for hybrid assemblies.",
+    "authorString": "Lipworth S, Pickford H, Sanderson N, Chau KK, Kavanagh J, Barker L, Vaughan A, Swann J, Andersson M, Jeffery K, Morgan M, Peto TEA, Crook DW, Stoesser N, Walker AS.",
+    "authorAffiliations": "",
+    "journalTitle": "Microbial genomics",
+    "pubYear": "2020",
+    "date": "2020-11-01",
+    "isOpenAccess": "Y",
+    "keywords": "Enterobacteriaceae; Hybrid Assembly; Nanopore Sequencing; Bacterial Genomics; Long-read Assembly",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Hybrid assemblies are highly valuable for studies of Enterobacteriaceae due to their ability to fully resolve the structure of mobile genetic elements, such as plasmids, which are involved in the carriage of clinically important genes (e.g. those involved in antimicrobial resistance/virulence). The widespread application of this technique is currently primarily limited by cost. Recent data have suggested that non-inferior, and even superior, hybrid assemblies can be produced using a fraction of the total output from a multiplexed nanopore [Oxford Nanopore Technologies (ONT)] flowcell run. In this study we sought to determine the optimal minimal running time for flowcells when acquiring reads for hybrid assembly. We then evaluated whether the ONT wash kit might allow users to exploit shorter running times by sequencing multiple libraries per flowcell. After 24\u2009h of sequencing, most chromosomes and plasmids had circularized and there was no benefit associated with longer running times. Quality was similar at 12\u2009h, suggesting that shorter running times are likely to be acceptable for certain applications (e.g. plasmid genomics). The ONT wash kit was highly effective in removing DNA between libraries. Contamination between libraries did not appear to affect subsequent hybrid assemblies, even when the same barcodes were used successively on a single flowcell. Utilizing shorter run times in combination with between-library nuclease washes allows at least 36 Enterobacteriaceae isolates to be sequenced per flowcell, significantly reducing the per-isolate sequencing cost. Ultimately this will facilitate large-scale studies utilizing hybrid assembly, advancing our understanding of the genomics of key human pathogens.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1099/mgen.0.000453; html:https://europepmc.org/articles/PMC7725331; pdf:https://europepmc.org/articles/PMC7725331?pdf=render"
   },
   {
     "id": "30082368",
@@ -8330,23 +8364,6 @@
     "urls": "doi:https://doi.org/10.1136/bmj.l6927"
   },
   {
-    "id": "33033260",
-    "doi": "https://doi.org/10.1038/s41467-020-18843-5",
-    "title": "Prostate cancer evolution from multilineage primary to single lineage metastases with implications for liquid biopsy.",
-    "authorString": "Woodcock DJ, Riabchenko E, Taavitsainen S, Kankainen M, Gundem G, Brewer DS, Ellonen P, Lepist\u00f6 M, Golubeva YA, Warner AC, Tolonen T, Jasu J, Isaacs WB, Emmert-Buck MR, Nykter M, Visakorpi T, Bova GS, Wedge DC.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2020",
-    "date": "2020-10-08",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The evolutionary progression from primary to metastatic prostate cancer is largely uncharted, and the implications for liquid biopsy are unexplored. We infer detailed reconstructions of tumor phylogenies in ten prostate cancer patients with fatal disease, and investigate them in conjunction with histopathology and tumor DNA extracted from blood and cerebrospinal fluid. Substantial evolution occurs within the prostate, resulting in branching into multiple spatially intermixed lineages. One dominant lineage emerges that initiates and drives systemic metastasis, where polyclonal seeding between sites is common. Routes to metastasis differ between patients, and likely genetic drivers of metastasis distinguish the metastatic lineage from the lineage that remains confined to the prostate within each patient. Body fluids capture features of the dominant lineage, and subclonal expansions that occur in the metastatic phase are non-uniformly represented. Cerebrospinal fluid analysis reveals lineages not detected in blood-borne DNA, suggesting possible clinical utility.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-020-18843-5; html:https://europepmc.org/articles/PMC7545111; pdf:https://europepmc.org/articles/PMC7545111?pdf=render"
-  },
-  {
     "id": "31794059",
     "doi": "https://doi.org/10.1111/bjd.18778",
     "title": "What is the evidence for interactions between filaggrin null mutations and environmental exposures in the aetiology of atopic dermatitis? A systematic review.",
@@ -8362,6 +8379,23 @@
     "abstract": "BACKGROUND:Epidemiological studies indicate that gene-environment interactions play a role in atopic dermatitis (AD). OBJECTIVES:To review the evidence for gene-environment interactions in AD aetiology, focusing on filaggrin (FLG) loss-of-function mutations. METHODS:A systematic search from inception to September 2018 in Embase, MEDLINE and BIOSIS was performed. Search terms included all synonyms for AD and filaggrin/FLG; any genetic or epidemiological study design using any statistical methods were included. Quality assessment using criteria modified from guidance (ROBINS-I and Human Genome Epidemiology Network) for nonrandomized and genetic studies was completed, including consideration of power. Heterogeneity of study design and analyses precluded the use of meta-analysis. RESULTS:Of 1817 papers identified, 12 studies fulfilled the inclusion criteria required and performed formal interaction testing. There was some evidence for FLG-environment interactions in six of the studies (P-value for interaction \u2264 0\u00b705), including early-life cat ownership, older siblings, water hardness, phthalate exposure, higher urinary phthalate metabolite levels (which all increased AD risk additional to FLG null genotype) and prolonged breastfeeding (which decreased AD risk in the context of FLG null genotype). Major limitations of published studies were the low numbers of individuals (ranging from five to 94) with AD and FLG loss-of-function mutations and exposure to specific environmental factors, and variation in exposure definitions. CONCLUSIONS:Evidence on FLG-environment interactions in AD aetiology is limited. However, many of the studies lacked large enough sample sizes to assess these interactions fully. Further research is needed with larger sample sizes and clearly defined exposure assessment. Linked Comment:\u00a0Park and Seo. Br J Dermatol 2020; 183:411.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/bjd.18778; html:https://europepmc.org/articles/PMC7496176; pdf:https://europepmc.org/articles/PMC7496176?pdf=render"
+  },
+  {
+    "id": "33033260",
+    "doi": "https://doi.org/10.1038/s41467-020-18843-5",
+    "title": "Prostate cancer evolution from multilineage primary to single lineage metastases with implications for liquid biopsy.",
+    "authorString": "Woodcock DJ, Riabchenko E, Taavitsainen S, Kankainen M, Gundem G, Brewer DS, Ellonen P, Lepist\u00f6 M, Golubeva YA, Warner AC, Tolonen T, Jasu J, Isaacs WB, Emmert-Buck MR, Nykter M, Visakorpi T, Bova GS, Wedge DC.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2020",
+    "date": "2020-10-08",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The evolutionary progression from primary to metastatic prostate cancer is largely uncharted, and the implications for liquid biopsy are unexplored. We infer detailed reconstructions of tumor phylogenies in ten prostate cancer patients with fatal disease, and investigate them in conjunction with histopathology and tumor DNA extracted from blood and cerebrospinal fluid. Substantial evolution occurs within the prostate, resulting in branching into multiple spatially intermixed lineages. One dominant lineage emerges that initiates and drives systemic metastasis, where polyclonal seeding between sites is common. Routes to metastasis differ between patients, and likely genetic drivers of metastasis distinguish the metastatic lineage from the lineage that remains confined to the prostate within each patient. Body fluids capture features of the dominant lineage, and subclonal expansions that occur in the metastatic phase are non-uniformly represented. Cerebrospinal fluid analysis reveals lineages not detected in blood-borne DNA, suggesting possible clinical utility.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-020-18843-5; html:https://europepmc.org/articles/PMC7545111; pdf:https://europepmc.org/articles/PMC7545111?pdf=render"
   },
   {
     "id": "32246132",
@@ -8874,6 +8908,23 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)30608-5; html:https://europepmc.org/articles/PMC7180045"
   },
   {
+    "id": "31485076",
+    "doi": "https://doi.org/10.1038/s41586-019-1530-7",
+    "title": "Structures of influenza A virus RNA polymerase offer insight into viral genome replication.",
+    "authorString": "Fan H, Walker AP, Carrique L, Keown JR, Serna Martin I, Karia D, Sharps J, Hengrung N, Pardon E, Steyaert J, Grimes JM, Fodor E.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature",
+    "pubYear": "2019",
+    "date": "2019-09-04",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Influenza\u00a0A viruses are responsible for seasonal epidemics, and pandemics can arise from the transmission of novel zoonotic influenza\u00a0A viruses to humans1,2. Influenza\u00a0A viruses contain a segmented negative-sense RNA genome, which is transcribed and replicated by the viral-RNA-dependent RNA polymerase (FluPolA) composed of PB1, PB2 and PA subunits3-5. Although the high-resolution crystal structure of FluPolA of bat influenza\u00a0A virus has previously been reported6, there are no complete structures available for human and avian FluPolA. Furthermore, the molecular mechanisms of genomic viral RNA (vRNA) replication-which proceeds through a complementary RNA (cRNA) replicative intermediate, and requires oligomerization of the polymerase7-10-remain largely unknown. Here, using crystallography and cryo-electron microscopy, we determine the structures of FluPolA from human influenza\u00a0A/NT/60/1968 (H3N2) and avian influenza\u00a0A/duck/Fujian/01/2002 (H5N1) viruses at a resolution of 3.0-4.3\u00a0\u00c5, in the presence or absence of a\u00a0cRNA or vRNA template. In solution, FluPolA forms dimers of heterotrimers through the C-terminal domain of the PA subunit, the thumb subdomain of PB1 and the N1 subdomain of PB2. The cryo-electron microscopy structure of monomeric FluPolA bound to the\u00a0cRNA template reveals a binding site for the 3' cRNA at the dimer interface. We use a combination of cell-based and in vitro assays to show that the interface of the FluPolA dimer is required for vRNA synthesis during replication of the viral genome. We also show that a nanobody (a single-domain antibody) that interferes with FluPolA dimerization inhibits the synthesis of vRNA and, consequently, inhibits virus replication in infected cells. Our study provides high-resolution structures of medically relevant FluPolA, as well as insights into the replication mechanisms of the viral RNA genome. In addition, our work identifies sites in FluPolA that could be targeted in the development of antiviral drugs.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41586-019-1530-7; html:https://europepmc.org/articles/PMC6795553; pdf:https://europepmc.org/articles/PMC6795553?pdf=render"
+  },
+  {
     "id": "31488387",
     "doi": "https://doi.org/10.1016/s2214-109x(19)30318-3",
     "title": "World Health Organization cardiovascular disease risk charts: revised models to estimate risk in 21 global regions.",
@@ -8906,23 +8957,6 @@
     "abstract": "Inferring the full genealogical history of a set of DNA sequences is a core problem in evolutionary biology, because this history encodes information about the events and forces that have influenced a species. However, current methods are limited, and the most accurate techniques are able to process no more than a hundred samples. As datasets that consist of millions of genomes are now being collected, there is a need for scalable and efficient inference methods to fully utilize these resources. Here we introduce an algorithm that is able to not only infer whole-genome histories with comparable accuracy to the state-of-the-art but also process four orders of magnitude more sequences. The approach also provides an 'evolutionary encoding' of the data, enabling efficient calculation of relevant statistics. We apply the method to human data from the 1000 Genomes Project, Simons Genome Diversity Project and UK Biobank, showing that the inferred genealogies are rich in biological signal and efficient to process.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41588-019-0483-y; html:https://europepmc.org/articles/PMC6726478; pdf:https://europepmc.org/articles/PMC6726478?pdf=render"
-  },
-  {
-    "id": "31485076",
-    "doi": "https://doi.org/10.1038/s41586-019-1530-7",
-    "title": "Structures of influenza A virus RNA polymerase offer insight into viral genome replication.",
-    "authorString": "Fan H, Walker AP, Carrique L, Keown JR, Serna Martin I, Karia D, Sharps J, Hengrung N, Pardon E, Steyaert J, Grimes JM, Fodor E.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature",
-    "pubYear": "2019",
-    "date": "2019-09-04",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Influenza\u00a0A viruses are responsible for seasonal epidemics, and pandemics can arise from the transmission of novel zoonotic influenza\u00a0A viruses to humans1,2. Influenza\u00a0A viruses contain a segmented negative-sense RNA genome, which is transcribed and replicated by the viral-RNA-dependent RNA polymerase (FluPolA) composed of PB1, PB2 and PA subunits3-5. Although the high-resolution crystal structure of FluPolA of bat influenza\u00a0A virus has previously been reported6, there are no complete structures available for human and avian FluPolA. Furthermore, the molecular mechanisms of genomic viral RNA (vRNA) replication-which proceeds through a complementary RNA (cRNA) replicative intermediate, and requires oligomerization of the polymerase7-10-remain largely unknown. Here, using crystallography and cryo-electron microscopy, we determine the structures of FluPolA from human influenza\u00a0A/NT/60/1968 (H3N2) and avian influenza\u00a0A/duck/Fujian/01/2002 (H5N1) viruses at a resolution of 3.0-4.3\u00a0\u00c5, in the presence or absence of a\u00a0cRNA or vRNA template. In solution, FluPolA forms dimers of heterotrimers through the C-terminal domain of the PA subunit, the thumb subdomain of PB1 and the N1 subdomain of PB2. The cryo-electron microscopy structure of monomeric FluPolA bound to the\u00a0cRNA template reveals a binding site for the 3' cRNA at the dimer interface. We use a combination of cell-based and in vitro assays to show that the interface of the FluPolA dimer is required for vRNA synthesis during replication of the viral genome. We also show that a nanobody (a single-domain antibody) that interferes with FluPolA dimerization inhibits the synthesis of vRNA and, consequently, inhibits virus replication in infected cells. Our study provides high-resolution structures of medically relevant FluPolA, as well as insights into the replication mechanisms of the viral RNA genome. In addition, our work identifies sites in FluPolA that could be targeted in the development of antiviral drugs.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41586-019-1530-7; html:https://europepmc.org/articles/PMC6795553; pdf:https://europepmc.org/articles/PMC6795553?pdf=render"
   },
   {
     "id": "33221853",
