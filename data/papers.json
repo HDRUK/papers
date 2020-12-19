@@ -391,23 +391,6 @@
     "urls": "doi:https://doi.org/10.2196/16452; html:https://europepmc.org/articles/PMC7290450"
   },
   {
-    "id": "32935048",
-    "doi": "https://doi.org/10.23889/ijpds.v5i1.1121",
-    "title": "The Secure Anonymised Information Linkage databank Dementia e-cohort (SAIL-DeC).",
-    "authorString": "Schnier C, Wilkinson T, Akbari A, Orton C, Sleegers K, Gallacher J, Lyons RA, Sudlow C.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of population data science",
-    "pubYear": "2020",
-    "date": "2020-02-25",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Introduction:The rising burden of dementia is a global concern, and there is a need to study its causes, natural history and outcomes. The Secure Anonymised Information Linkage (SAIL) Databank contains anonymised, routinely-collected healthcare data for the population of Wales, UK. It has potential to be a valuable resource for dementia research owing to its size, long follow-up time and prospective collection of data during clinical care. Objectives:We aimed to apply reproducible methods to create the SAIL dementia e-cohort (SAIL-DeC). We created SAIL-DeC with a view to maximising its utility for a broad range of research questions whilst minimising duplication of effort for researchers. Methods:SAIL contains individual-level, linked primary care, hospital admission, mortality and demographic data. Data are currently available until 2018 and future updates will extend participant follow-up time. We included participants who were born between 1st January 1900 and 1st January 1958 and for whom primary care data were available. We applied algorithms consisting of International Classification of Diseases (versions 9 and 10) and Read (version 2) codes to identify participants with and without all-cause dementia and dementia subtypes. We also created derived variables for comorbidities and risk factors. Results:From 4.4 million unique participants in SAIL, 1.2 million met the cohort inclusion criteria, resulting in 18.8 million person-years of follow-up. Of these, 129,650 (10%) developed all-cause dementia, with 77,978 (60%) having dementia subtype codes. Alzheimer's disease was the most common subtype diagnosis (62%). Among the dementia cases, the median duration of observation time was 14 years. Conclusion:We have created a generalisable, national dementia e-cohort, aimed at facilitating epidemiological dementia research.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.23889/ijpds.v5i1.1121; html:https://europepmc.org/articles/PMC7473277; pdf:https://europepmc.org/articles/PMC7473277?pdf=render"
-  },
-  {
     "id": "32704561",
     "doi": "https://doi.org/10.1002/edm2.140",
     "title": "Prevalence of admission plasma glucose in 'diabetes'\u00a0or 'at risk' ranges in hospital emergencies with no prior diagnosis of diabetes by gender, age and ethnicity.",
@@ -423,6 +406,23 @@
     "abstract": "Aims:To establish the prevalence of admission plasma glucose in 'diabetes'\u00a0and 'at risk' ranges\u00a0in emergency hospital admissions with no prior diagnosis of diabetes; characteristics of people with hyperglycaemia; and factors influencing glucose measurement. Methods:Electronic patient records for 113\u00a0097 hospital admissions over 1\u00a0year from 2014 to 2015 included 43\u00a0201 emergencies with glucose available for 31\u00a0927 (74%) admissions, comprising 22\u00a0045 people. Data are presented for 18\u00a0965 people with no prior diagnosis of diabetes and glucose available on first attendance. Results:Three quarters (14\u00a0214) were White Europeans aged 62 (43-78)\u00a0years, median (IQ range); 12% (2241) South Asians 46 (32-64)\u00a0years; 9% (1726) Unknown/Other ethnicities 43 (29-61)\u00a0years; and 4% (784) Afro-Caribbeans 49 (33-63)\u00a0years, P\u00a0<\u00a0.001. Overall, 5% (1003) had glucose in the 'diabetes'\u00a0range (\u226511.1\u00a0mmol/L) higher at 8% (175) for South Asians; 16% (3042) were 'at risk' (7.8-11.0\u00a0mmol/L), that is 17% (2379) White Europeans, 15% (338) South Asians, 14% (236) Unknown/Others and 11% (89) Afro-Caribbeans, P\u00a0<\u00a0.001. The prevalence for South Asians aged <30\u00a0years was 2.1% and 5.2%, respectively, 2.6% and 8.6% for Afro-Caribbeans <30\u00a0years, and 2.0% and 8.4% for White Europeans <40\u00a0years. Glucose increased with age and was more often in the 'diabetes'\u00a0range for South Asians than White Europeans with South Asian men particularly affected. One third of all emergency admissions were for <24\u00a0hours with 58% of these having glucose measured compared to 82% with duration >24\u00a0hours. Conclusions:Hyperglycaemia was evident in 21% of adults admitted as an emergency; various aspects related to follow-up and initial testing, age and ethnicity need to be considered by professional bodies addressing undiagnosed diabetes in hospital admissions.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/edm2.140; html:https://europepmc.org/articles/PMC7375073; pdf:https://europepmc.org/articles/PMC7375073?pdf=render"
+  },
+  {
+    "id": "32935048",
+    "doi": "https://doi.org/10.23889/ijpds.v5i1.1121",
+    "title": "The Secure Anonymised Information Linkage databank Dementia e-cohort (SAIL-DeC).",
+    "authorString": "Schnier C, Wilkinson T, Akbari A, Orton C, Sleegers K, Gallacher J, Lyons RA, Sudlow C.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of population data science",
+    "pubYear": "2020",
+    "date": "2020-02-25",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Introduction:The rising burden of dementia is a global concern, and there is a need to study its causes, natural history and outcomes. The Secure Anonymised Information Linkage (SAIL) Databank contains anonymised, routinely-collected healthcare data for the population of Wales, UK. It has potential to be a valuable resource for dementia research owing to its size, long follow-up time and prospective collection of data during clinical care. Objectives:We aimed to apply reproducible methods to create the SAIL dementia e-cohort (SAIL-DeC). We created SAIL-DeC with a view to maximising its utility for a broad range of research questions whilst minimising duplication of effort for researchers. Methods:SAIL contains individual-level, linked primary care, hospital admission, mortality and demographic data. Data are currently available until 2018 and future updates will extend participant follow-up time. We included participants who were born between 1st January 1900 and 1st January 1958 and for whom primary care data were available. We applied algorithms consisting of International Classification of Diseases (versions 9 and 10) and Read (version 2) codes to identify participants with and without all-cause dementia and dementia subtypes. We also created derived variables for comorbidities and risk factors. Results:From 4.4 million unique participants in SAIL, 1.2 million met the cohort inclusion criteria, resulting in 18.8 million person-years of follow-up. Of these, 129,650 (10%) developed all-cause dementia, with 77,978 (60%) having dementia subtype codes. Alzheimer's disease was the most common subtype diagnosis (62%). Among the dementia cases, the median duration of observation time was 14 years. Conclusion:We have created a generalisable, national dementia e-cohort, aimed at facilitating epidemiological dementia research.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.23889/ijpds.v5i1.1121; html:https://europepmc.org/articles/PMC7473277; pdf:https://europepmc.org/articles/PMC7473277?pdf=render"
   },
   {
     "id": "32341912",
@@ -1887,23 +1887,6 @@
     "urls": "doi:https://doi.org/10.1038/s41598-018-32876-3; html:https://europepmc.org/articles/PMC6168481; pdf:https://europepmc.org/articles/PMC6168481?pdf=render"
   },
   {
-    "id": "31685485",
-    "doi": "https://doi.org/10.1136/bmjopen-2019-031365",
-    "title": "Diagnosed prevalence of Ehlers-Danlos syndrome and hypermobility spectrum disorder in Wales, UK: a national electronic cohort study and case-control comparison.",
-    "authorString": "Demmler JC, Atkinson MD, Reinhold EJ, Choy E, Lyons RA, Brophy ST.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2019",
-    "date": "2019-11-04",
-    "isOpenAccess": "Y",
-    "keywords": "Prevalence; Joint Hypermobility Syndrome; Ehlers-danlos Syndromes; Heritable Disorders Of Connective Tissue; Health Data Linkage; Hypermobility Spectrum Disorder",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "OBJECTIVES:To describe the epidemiology of diagnosed hypermobility spectrum disorder (HSD) and Ehlers-Danlos syndromes (EDS) using linked electronic medical records. To examine whether these conditions remain rare and primarily affect the musculoskeletal system. DESIGN:Nationwide linked electronic cohort and nested case-control study. SETTING:Routinely collected data from primary care and hospital admissions in Wales, UK. PARTICIPANTS:People within the primary care or hospital data systems with a coded diagnosis of EDS or joint hypermobility syndrome (JHS) between 1 July 1990 and 30 June 2017. MAIN OUTCOME MEASURES:Combined prevalence of JHS and EDS in Wales. Additional diagnosis and prescription data in those diagnosed with EDS or JHS compared with matched controls. RESULTS:We found 6021 individuals (men: 30%, women: 70%) with a diagnostic code of either EDS or JHS. This gives a diagnosed point prevalence of 194.2 per 100\u2009000 in 2016/2017 or roughly 10 cases in a practice of 5000 patients. There was a pronounced gender difference of 8.5 years (95%\u2009CI: 7.70 to 9.22) in the mean age at diagnosis. EDS or JHS was not only associated with high odds for other musculoskeletal diagnoses and drug prescriptions but also with significantly higher odds of a diagnosis in other disease categories (eg, mental health, nervous and digestive systems) and higher odds of a prescription in most disease categories (eg, gastrointestinal and cardiovascular drugs) within the 12 months before and after the first recorded diagnosis. CONCLUSIONS:EDS and JHS (since March 2017 classified as EDS or HSD) have historically been considered rare diseases only affecting the musculoskeletal system and soft tissues. These data demonstrate that both these assertions should be reconsidered.",
-    "laySummary": "epidemiological study looking at the prevalence of ehlos danlos syndrome and joint hypermobility syndrome, using SAIL database for welsh population. They found a steady increase in the rates of diagnosis for these two diseases, higher odds of being on other medication, and association with other diseases categories.",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-031365; html:https://europepmc.org/articles/PMC6858200; pdf:https://europepmc.org/articles/PMC6858200?pdf=render"
-  },
-  {
     "id": "31951005",
     "doi": "https://doi.org/10.1093/jamia/ocz211",
     "title": "On classifying sepsis heterogeneity in the ICU: insight using machine learning.",
@@ -1921,6 +1904,23 @@
     "urls": "doi:https://doi.org/10.1093/jamia/ocz211; html:https://europepmc.org/articles/PMC7025363; pdf:https://europepmc.org/articles/PMC7025363?pdf=render"
   },
   {
+    "id": "31685485",
+    "doi": "https://doi.org/10.1136/bmjopen-2019-031365",
+    "title": "Diagnosed prevalence of Ehlers-Danlos syndrome and hypermobility spectrum disorder in Wales, UK: a national electronic cohort study and case-control comparison.",
+    "authorString": "Demmler JC, Atkinson MD, Reinhold EJ, Choy E, Lyons RA, Brophy ST.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2019",
+    "date": "2019-11-04",
+    "isOpenAccess": "Y",
+    "keywords": "Prevalence; Joint Hypermobility Syndrome; Ehlers-danlos Syndromes; Heritable Disorders Of Connective Tissue; Health Data Linkage; Hypermobility Spectrum Disorder",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "OBJECTIVES:To describe the epidemiology of diagnosed hypermobility spectrum disorder (HSD) and Ehlers-Danlos syndromes (EDS) using linked electronic medical records. To examine whether these conditions remain rare and primarily affect the musculoskeletal system. DESIGN:Nationwide linked electronic cohort and nested case-control study. SETTING:Routinely collected data from primary care and hospital admissions in Wales, UK. PARTICIPANTS:People within the primary care or hospital data systems with a coded diagnosis of EDS or joint hypermobility syndrome (JHS) between 1 July 1990 and 30 June 2017. MAIN OUTCOME MEASURES:Combined prevalence of JHS and EDS in Wales. Additional diagnosis and prescription data in those diagnosed with EDS or JHS compared with matched controls. RESULTS:We found 6021 individuals (men: 30%, women: 70%) with a diagnostic code of either EDS or JHS. This gives a diagnosed point prevalence of 194.2 per 100\u2009000 in 2016/2017 or roughly 10 cases in a practice of 5000 patients. There was a pronounced gender difference of 8.5 years (95%\u2009CI: 7.70 to 9.22) in the mean age at diagnosis. EDS or JHS was not only associated with high odds for other musculoskeletal diagnoses and drug prescriptions but also with significantly higher odds of a diagnosis in other disease categories (eg, mental health, nervous and digestive systems) and higher odds of a prescription in most disease categories (eg, gastrointestinal and cardiovascular drugs) within the 12 months before and after the first recorded diagnosis. CONCLUSIONS:EDS and JHS (since March 2017 classified as EDS or HSD) have historically been considered rare diseases only affecting the musculoskeletal system and soft tissues. These data demonstrate that both these assertions should be reconsidered.",
+    "laySummary": "epidemiological study looking at the prevalence of ehlos danlos syndrome and joint hypermobility syndrome, using SAIL database for welsh population. They found a steady increase in the rates of diagnosis for these two diseases, higher odds of being on other medication, and association with other diseases categories.",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-031365; html:https://europepmc.org/articles/PMC6858200; pdf:https://europepmc.org/articles/PMC6858200?pdf=render"
+  },
+  {
     "id": "29925668",
     "doi": "https://doi.org/10.1136/jech-2017-210370",
     "title": "Emergency hospital admissions associated with a non-randomised housing intervention meeting national housing quality standards: a longitudinal data linkage study.",
@@ -1936,6 +1936,23 @@
     "abstract": "BACKGROUND:We investigated tenant healthcare utilisation associated with upgrading 8558 council houses to a national quality standard. Homes received multiple internal and external improvements and were analysed using repeated measures of healthcare utilisation. METHODS:The primary outcome was emergency hospital admissions for cardiorespiratory conditions and injuries for residents aged 60 years and over. Secondary outcomes included each of the separate conditions, for tenants aged 60 and over, and for all ages. Council home address and intervention records for eight housing cointerventions were anonymously linked to demographic data, hospital admissions and deaths for individuals in a dynamic cohort. Counts of health events were analysed using multilevel regression models to investigate associations between receipt of each housing improvement, adjusting for potential confounding factors and regional trends. RESULTS:Residents aged 60 years and over living in homes when improvements were made were associated with up to 39% fewer admissions compared with those living in homes that were not upgraded (incidence rate ratio=0.61, 95%\u2009CI 0.53 to 0.72). Reduced admissions were associated with electrical systems, windows and doors, wall insulation, and garden paths. There were small non-significant reductions for the primary outcome associated with upgrading heating, adequate loft insulation, new kitchens and new bathrooms. CONCLUSION:Results suggest that hospital admissions can be avoided through improving whole home quality standards. This is the first large-scale longitudinal evaluation of a whole home intervention that has evaluated multiple improvement elements using individual-level objective routine health data.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/jech-2017-210370; html:https://europepmc.org/articles/PMC6161658; pdf:https://europepmc.org/articles/PMC6161658?pdf=render"
+  },
+  {
+    "id": "33307988",
+    "doi": "https://doi.org/10.1177/0961203320979045",
+    "title": "Brain network reorganisation and spatial lesion distribution in systemic lupus erythematosus.",
+    "authorString": "Vald\u00e9s Hern\u00e1ndez MDC, Smith K, Bastin ME, Nicole Amft E, Ralston SH, Wardlaw JM, Wiseman SJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Lupus",
+    "pubYear": "2020",
+    "date": "2020-12-13",
+    "isOpenAccess": "N",
+    "keywords": "SLE; Connectome; Network Analysis",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Objective</h4>This work investigates network organisation of brain structural connectivity in systemic lupus erythematosus (SLE) relative to healthy controls and its putative association with lesion distribution and disease indicators.<h4>Methods</h4>White matter hyperintensity (WMH) segmentation and connectomics were performed in 47 patients with SLE and 47 healthy age-matched controls from structural and diffusion MRI data. Network nodes were divided into hierarchical tiers based on numbers of connections. Results were compared between patients and controls to assess for differences in brain network organisation. Voxel-based analyses of the spatial distribution of WMH in relation to network measures and SLE disease indicators were conducted.<h4>Results</h4>Despite inter-individual differences in brain network organization observed across the study sample, the connectome networks of SLE patients had larger proportion of connections in the peripheral nodes. SLE patients had statistically larger numbers of links in their networks with generally larger fractional anisotropy weights (i.e. a measure of white matter integrity) and less tendency to aggregate than those of healthy controls. The voxels exhibiting connectomic differences were coincident with WMH clusters, particularly the left hemisphere's intersection between the anterior limb of the internal and external capsules. Moreover, these voxels also associated more strongly with disease indicators.<h4>Conclusion</h4>Our results indicate network differences reflective of compensatory reorganization of the neural circuits, reflecting adaptive or extended neuroplasticity in SLE.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1177/0961203320979045"
   },
   {
     "id": "31329239",
@@ -2074,23 +2091,6 @@
     "urls": "doi:https://doi.org/10.1093/ajcn/nqaa266"
   },
   {
-    "id": "32518842",
-    "doi": "https://doi.org/10.12688/wellcomeopenres.15786.1",
-    "title": "Inferring the number of COVID-19 cases from recently reported deaths.",
-    "authorString": "Jombart T, van Zandvoort K, Russell TW, Jarvis CI, Gimma A, Abbott S, Clifford S, Funk S, Gibbs H, Liu Y, Pearson CAB, Bosse NI, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Eggo RM, Kucharski AJ, Edmunds WJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Wellcome open research",
-    "pubYear": "2020",
-    "date": "2020-04-27",
-    "isOpenAccess": "Y",
-    "keywords": "Estimation; Statistics; epidemics; outbreak; Modelling; Covid-19; Sars-cov-2",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "We estimate the number of COVID-19 cases from newly reported deaths in a population without previous reports. Our results suggest that by the time a single death occurs, hundreds to thousands of cases are likely to be present in that population. This suggests containment via contact tracing will be challenging at this point, and other response strategies should be considered. Our approach is implemented in a publicly available, user-friendly, online tool.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15786.1; html:https://europepmc.org/articles/PMC7255910; pdf:https://europepmc.org/articles/PMC7255910?pdf=render"
-  },
-  {
     "id": "30240446",
     "doi": "https://doi.org/10.1371/journal.pone.0203896",
     "title": "Polygenic risk scores for major depressive disorder and neuroticism as predictors of antidepressant response: Meta-analysis of three treatment cohorts.",
@@ -2106,6 +2106,23 @@
     "abstract": "There are currently no reliable approaches for correctly identifying which patients with major depressive disorder (MDD) will respond well to antidepressant therapy. However, recent genetic advances suggest that Polygenic Risk Scores (PRS) could allow MDD patients to be stratified for antidepressant response. We used PRS for MDD and PRS for neuroticism as putative predictors of antidepressant response within three treatment cohorts: The Genome-based Therapeutic Drugs for Depression (GENDEP) cohort, and 2 sub-cohorts from the Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomics Study PRGN-AMPS (total patient number = 760). Results across cohorts were combined via meta-analysis within a random effects model. Overall, PRS for MDD and neuroticism did not significantly predict antidepressant response but there was a consistent direction of effect, whereby greater genetic loading for both MDD (best MDD result, p < 5*10-5 MDD-PRS at 4 weeks, \u03b2 = -0.019, S.E = 0.008, p = 0.01) and neuroticism (best neuroticism result, p < 0.1 neuroticism-PRS at 8 weeks, \u03b2 = -0.017, S.E = 0.008, p = 0.03) were associated with less favourable response. We conclude that the PRS approach may offer some promise for treatment stratification in MDD and should now be assessed within larger clinical cohorts.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0203896; html:https://europepmc.org/articles/PMC6150505; pdf:https://europepmc.org/articles/PMC6150505?pdf=render"
+  },
+  {
+    "id": "32518842",
+    "doi": "https://doi.org/10.12688/wellcomeopenres.15786.1",
+    "title": "Inferring the number of COVID-19 cases from recently reported deaths.",
+    "authorString": "Jombart T, van Zandvoort K, Russell TW, Jarvis CI, Gimma A, Abbott S, Clifford S, Funk S, Gibbs H, Liu Y, Pearson CAB, Bosse NI, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Eggo RM, Kucharski AJ, Edmunds WJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Wellcome open research",
+    "pubYear": "2020",
+    "date": "2020-04-27",
+    "isOpenAccess": "Y",
+    "keywords": "Estimation; Statistics; epidemics; outbreak; Modelling; Covid-19; Sars-cov-2",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "We estimate the number of COVID-19 cases from newly reported deaths in a population without previous reports. Our results suggest that by the time a single death occurs, hundreds to thousands of cases are likely to be present in that population. This suggests containment via contact tracing will be challenging at this point, and other response strategies should be considered. Our approach is implemented in a publicly available, user-friendly, online tool.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15786.1; html:https://europepmc.org/articles/PMC7255910; pdf:https://europepmc.org/articles/PMC7255910?pdf=render"
   },
   {
     "id": "31194737",
@@ -2703,6 +2720,23 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2019-036099; html:https://europepmc.org/articles/PMC7380838; pdf:https://europepmc.org/articles/PMC7380838?pdf=render"
   },
   {
+    "id": "30648344",
+    "doi": "https://doi.org/10.1002/cnm.3180",
+    "title": "A semi-active human digital twin model for detecting severity of carotid stenoses from head vibration-A coupled computational mechanics and computer vision method.",
+    "authorString": "Chakshu NK, Carson J, Sazonov I, Nithiarasu P.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal for numerical methods in biomedical engineering",
+    "pubYear": "2019",
+    "date": "2019-02-20",
+    "isOpenAccess": "Y",
+    "keywords": "Computer vision; Blood flow; Systemic Circulation; Carotid Stenoses; Digital Twin; Biomechanical Vibrations; Face Video",
+    "nationalPriorities": "Applied Analytics",
+    "healthCategories": "",
+    "abstract": "In this work, we propose a methodology to detect the severity of carotid stenosis from a video of a human face with the help of a coupled blood flow and head vibration model. This semi-active digital twin model is an attempt to link noninvasive video of a patient face to the percentage of carotid occlusion. The pulsatile nature of blood flow through the carotid arteries induces a subtle head vibration. This vibration is a potential indicator of carotid stenosis severity, and it is exploited in the present study. A head vibration model has been proposed in the present work that is linked to the forces generated by blood flow with or without occlusion. The model is used to generate a large number of virtual head vibration data for different degrees of occlusion. In order to determine the in vivo head vibration, a computer vision algorithm is adopted to use human face videos. The in vivo vibrations are compared against the virtual vibration data generated from the coupled computational blood flow/vibration model. A comparison of the in vivo vibration is made against the virtual data to find the best fit between in vivo and virtual data. The preliminary results on healthy subjects and a patient clearly indicate that the model is accurate and it possesses the potential for detecting approximate severity of carotid artery stenoses.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/cnm.3180; html:https://europepmc.org/articles/PMC6593817; pdf:https://europepmc.org/articles/PMC6593817?pdf=render"
+  },
+  {
     "id": "30729733",
     "doi": "https://doi.org/10.1111/ijpo.12512",
     "title": "Predictors of objectively measured physical activity in 12-month-old infants: A study of linked birth cohort data with electronic health records.",
@@ -2735,23 +2769,6 @@
     "abstract": "Background: A novel coronavirus disease (COVID-19) outbreak has now spread to a number of countries worldwide. While sustained transmission chains of human-to-human transmission suggest high basic reproduction number R 0, variation in the number of secondary transmissions (often characterised by so-called superspreading events) may be large as some countries have observed fewer local transmissions than others. Methods: We quantified individual-level variation in COVID-19 transmission by applying a mathematical model to observed outbreak sizes in affected countries. We extracted the number of imported and local cases in the affected countries from the\u00a0World Health Organization situation report and applied a branching process model where the number of secondary transmissions was assumed to follow a negative-binomial distribution. Results: Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R 0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1 (median estimate 0.1; 95% CrI: 0.05-0.2 for R0 = 2.5), suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%). A joint estimation yielded likely ranges for R 0 and k (95% CrIs: R 0 1.4-12; k 0.04-0.2); however, the upper bound of R 0 was not well informed by the model and data, which did not notably differ from that of the prior distribution. Conclusions: Our finding of a highly-overdispersed offspring distribution highlights a potential benefit to focusing intervention efforts on superspreading. As most infected individuals do not contribute to the expansion of an epidemic, the effective reproduction number could be drastically reduced by preventing relatively rare superspreading events.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15842.3; html:https://europepmc.org/articles/PMC7338915; pdf:https://europepmc.org/articles/PMC7338915?pdf=render"
-  },
-  {
-    "id": "30648344",
-    "doi": "https://doi.org/10.1002/cnm.3180",
-    "title": "A semi-active human digital twin model for detecting severity of carotid stenoses from head vibration-A coupled computational mechanics and computer vision method.",
-    "authorString": "Chakshu NK, Carson J, Sazonov I, Nithiarasu P.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal for numerical methods in biomedical engineering",
-    "pubYear": "2019",
-    "date": "2019-02-20",
-    "isOpenAccess": "Y",
-    "keywords": "Computer vision; Blood flow; Systemic Circulation; Carotid Stenoses; Digital Twin; Biomechanical Vibrations; Face Video",
-    "nationalPriorities": "Applied Analytics",
-    "healthCategories": "",
-    "abstract": "In this work, we propose a methodology to detect the severity of carotid stenosis from a video of a human face with the help of a coupled blood flow and head vibration model. This semi-active digital twin model is an attempt to link noninvasive video of a patient face to the percentage of carotid occlusion. The pulsatile nature of blood flow through the carotid arteries induces a subtle head vibration. This vibration is a potential indicator of carotid stenosis severity, and it is exploited in the present study. A head vibration model has been proposed in the present work that is linked to the forces generated by blood flow with or without occlusion. The model is used to generate a large number of virtual head vibration data for different degrees of occlusion. In order to determine the in vivo head vibration, a computer vision algorithm is adopted to use human face videos. The in vivo vibrations are compared against the virtual vibration data generated from the coupled computational blood flow/vibration model. A comparison of the in vivo vibration is made against the virtual data to find the best fit between in vivo and virtual data. The preliminary results on healthy subjects and a patient clearly indicate that the model is accurate and it possesses the potential for detecting approximate severity of carotid artery stenoses.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/cnm.3180; html:https://europepmc.org/articles/PMC6593817; pdf:https://europepmc.org/articles/PMC6593817?pdf=render"
   },
   {
     "id": "32626822",
@@ -3196,23 +3213,6 @@
     "urls": "doi:https://doi.org/10.1038/s41597-019-0337-6; html:https://europepmc.org/articles/PMC6923383; pdf:https://europepmc.org/articles/PMC6923383?pdf=render"
   },
   {
-    "id": "32788201",
-    "doi": "https://doi.org/10.1136/archdischild-2020-319027",
-    "title": "Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysis.",
-    "authorString": "Syed S, Ashwick R, Schlosser M, Gonzalez-Izquierdo A, Li L, Gilbert R.",
-    "authorAffiliations": "",
-    "journalTitle": "Archives of disease in childhood",
-    "pubYear": "2020",
-    "date": "2020-08-11",
-    "isOpenAccess": "N",
-    "keywords": "Data collection; epidemiology; Child Abuse; Health Services Research; Drug Withdrawal",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVE:Electronic health records (EHRs) are routinely used to identify family violence, yet reliable evidence of their validity remains limited. We conducted a systematic review and meta-analysis to evaluate the positive predictive values (PPVs) of coded indicators in EHRs for identifying intimate partner violence (IPV) and child maltreatment (CM), including prenatal neglect. METHODS:We searched 18 electronic databases between January 1980 and May 2020 for studies comparing any coded indicator of IPV or CM including prenatal neglect defined as neonatal abstinence syndrome (NAS) or fetal alcohol syndrome (FAS), against an independent reference standard. We pooled PPVs for each indicator using random effects meta-analyses. RESULTS:We included 88 studies (3 875 183 individuals) involving 15 indicators for identifying CM in the prenatal period and childhood (0-18 years) and five indicators for IPV among women of reproductive age (12-50 years). Based on the International Classification of Disease system, the pooled PPV was over 80% for NAS (16 studies) but lower for FAS (<40%; seven studies). For young children, primary diagnoses of CM, specific injury presentations (eg, rib fractures and retinal haemorrhages) and assaults showed a high PPV for CM (pooled PPVs: 55.9%-87.8%). Indicators of IPV in women had a high PPV, with primary diagnoses correctly identifying IPV in >85% of cases. CONCLUSIONS:Coded indicators in EHRs have a high likelihood of correctly classifying types of CM and IPV across the life course, providing a useful tool for assessment, support and monitoring of high-risk groups in health services and research.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/archdischild-2020-319027"
-  },
-  {
     "id": "32128788",
     "doi": "https://doi.org/10.1111/bjd.18889",
     "title": "The association between partner bereavement and melanoma: cohort studies in the U.K. and Denmark.",
@@ -3228,6 +3228,23 @@
     "abstract": "BACKGROUND:Psychological stress is commonly cited as a risk factor for melanoma, but clinical evidence is limited. OBJECTIVES:This study aimed to evaluate the association between partner bereavement and (i) first-time melanoma diagnosis and (ii) mortality in patients with melanoma. METHODS:We conducted two cohort studies using data from the U.K. Clinical Practice Research Datalink (1997-2017) and Danish nationwide registries (1997-2016). In study 1, we compared the risk of first melanoma diagnosis in bereaved vs. matched nonbereaved people using stratified Cox regression. In study 2 we estimated hazard ratios (HRs) for death from melanoma in bereaved compared with nonbereaved individuals with melanoma using Cox regression. We estimated HRs separately for the U.K. and for Denmark, and then pooled the data to perform a random-effects meta-analysis. RESULTS:In study 1, the pooled adjusted HR for the association between partner bereavement and melanoma diagnosis was 0\u00b788 [95% confidence interval (CI) 0\u00b784-0\u00b792] across the entire follow-up period. In study 2, we observed increased melanoma-specific mortality in people experiencing partner bereavement across the entire follow-up period (HR 1\u00b717, 95% CI 1\u00b706-1\u00b730), with the peak occurring during the first year of follow-up (HR 1\u00b731, 95% CI 1\u00b707-1\u00b760). CONCLUSIONS:We found decreased risk of melanoma diagnosis, but increased mortality associated with partner bereavement. These findings may be partly explained by delayed detection resulting from the loss of a partner who could notice skin changes. Stress may play a role in melanoma progression. Our findings indicate the need for a low threshold for skin examination in individuals whose partners have died. What is already known about this topic? Psychological stress has been proposed as a risk factor for the development and progression of cancer, including melanoma, but evidence is conflicting. Clinical evidence is limited by small sample sizes, potential recall bias associated with self-report, and heterogeneous stress definitions. What does this study add? We found a decreased risk of melanoma diagnosis, but increased mortality associated with partner bereavement. While stress might play a role in the progression of melanoma, an alternative explanation is that bereaved people no longer have a close person to help notice skin changes, leading to delayed melanoma detection. Linked Comment: Talaganis et al. Br J Dermatol 2020; 183:607-608.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/bjd.18889; html:https://europepmc.org/articles/PMC7587014; pdf:https://europepmc.org/articles/PMC7587014?pdf=render"
+  },
+  {
+    "id": "32788201",
+    "doi": "https://doi.org/10.1136/archdischild-2020-319027",
+    "title": "Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysis.",
+    "authorString": "Syed S, Ashwick R, Schlosser M, Gonzalez-Izquierdo A, Li L, Gilbert R.",
+    "authorAffiliations": "",
+    "journalTitle": "Archives of disease in childhood",
+    "pubYear": "2020",
+    "date": "2020-08-11",
+    "isOpenAccess": "N",
+    "keywords": "Data collection; epidemiology; Child Abuse; Health Services Research; Drug Withdrawal",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVE:Electronic health records (EHRs) are routinely used to identify family violence, yet reliable evidence of their validity remains limited. We conducted a systematic review and meta-analysis to evaluate the positive predictive values (PPVs) of coded indicators in EHRs for identifying intimate partner violence (IPV) and child maltreatment (CM), including prenatal neglect. METHODS:We searched 18 electronic databases between January 1980 and May 2020 for studies comparing any coded indicator of IPV or CM including prenatal neglect defined as neonatal abstinence syndrome (NAS) or fetal alcohol syndrome (FAS), against an independent reference standard. We pooled PPVs for each indicator using random effects meta-analyses. RESULTS:We included 88 studies (3 875 183 individuals) involving 15 indicators for identifying CM in the prenatal period and childhood (0-18 years) and five indicators for IPV among women of reproductive age (12-50 years). Based on the International Classification of Disease system, the pooled PPV was over 80% for NAS (16 studies) but lower for FAS (<40%; seven studies). For young children, primary diagnoses of CM, specific injury presentations (eg, rib fractures and retinal haemorrhages) and assaults showed a high PPV for CM (pooled PPVs: 55.9%-87.8%). Indicators of IPV in women had a high PPV, with primary diagnoses correctly identifying IPV in >85% of cases. CONCLUSIONS:Coded indicators in EHRs have a high likelihood of correctly classifying types of CM and IPV across the life course, providing a useful tool for assessment, support and monitoring of high-risk groups in health services and research.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/archdischild-2020-319027"
   },
   {
     "id": "32735830",
@@ -3332,23 +3349,6 @@
     "urls": "doi:https://doi.org/10.2196/18185; html:https://europepmc.org/articles/PMC7381072"
   },
   {
-    "id": "31168069",
-    "doi": "https://doi.org/10.1038/s41380-019-0439-8",
-    "title": "The genomic basis of mood instability: identification of 46 loci in 363,705 UK Biobank participants, genetic correlation with psychiatric disorders, and association with gene expression and function.",
-    "authorString": "Ward J, Tunbridge EM, Sandor C, Lyall LM, Ferguson A, Strawbridge RJ, Lyall DM, Cullen B, Graham N, Johnston KJA, Webber C, Escott-Price V, O'Donovan M, Pell JP, Bailey MES, Harrison PJ, Smith DJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Molecular psychiatry",
-    "pubYear": "2020",
-    "date": "2019-06-05",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Genome-wide association studies (GWAS) of psychiatric phenotypes have tended to focus on categorical diagnoses, but to understand the biology of mental illness it may be more useful to study traits which cut across traditional boundaries. Here, we report the results of a GWAS of mood instability as a trait in a large population cohort (UK Biobank, n\u2009=\u2009363,705). We also assess the clinical and biological relevance of the findings, including whether genetic associations show enrichment for nervous system pathways. Forty six unique loci associated with mood instability were identified with a SNP heritability estimate of 9%. Linkage Disequilibrium Score Regression (LDSR) analyses identified genetic correlations with Major Depressive Disorder (MDD), Bipolar Disorder (BD), Schizophrenia, anxiety, and Post Traumatic Stress Disorder (PTSD). Gene-level and gene set analyses identified 244 significant genes and 6 enriched gene sets. Tissue expression analysis of the SNP-level data found enrichment in multiple brain regions, and eQTL analyses highlighted an inversion on chromosome 17 plus two brain-specific eQTLs. In addition, we used a Phenotype Linkage Network (PLN) analysis and community analysis to assess for enrichment of nervous system gene sets using mouse orthologue databases. The PLN analysis found enrichment in nervous system PLNs for a community containing serotonin and melatonin receptors. In summary, this work has identified novel loci, tissues and gene sets contributing to mood instability. These findings may be relevant for the identification of novel trans-diagnostic drug targets and could help to inform future stratified medicine innovations in mental health.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41380-019-0439-8; html:https://europepmc.org/articles/PMC7116257; pdf:https://europepmc.org/articles/PMC7116257?pdf=render"
-  },
-  {
     "id": "32071531",
     "doi": "https://doi.org/10.1016/j.jor.2020.02.001",
     "title": "Predictors of clavicle fixation in multiply injured patients.",
@@ -3383,6 +3383,23 @@
     "urls": "doi:https://doi.org/10.1111/apt.15232; html:https://europepmc.org/articles/PMC6519290; pdf:https://europepmc.org/articles/PMC6519290?pdf=render"
   },
   {
+    "id": "31168069",
+    "doi": "https://doi.org/10.1038/s41380-019-0439-8",
+    "title": "The genomic basis of mood instability: identification of 46 loci in 363,705 UK Biobank participants, genetic correlation with psychiatric disorders, and association with gene expression and function.",
+    "authorString": "Ward J, Tunbridge EM, Sandor C, Lyall LM, Ferguson A, Strawbridge RJ, Lyall DM, Cullen B, Graham N, Johnston KJA, Webber C, Escott-Price V, O'Donovan M, Pell JP, Bailey MES, Harrison PJ, Smith DJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Molecular psychiatry",
+    "pubYear": "2020",
+    "date": "2019-06-05",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Genome-wide association studies (GWAS) of psychiatric phenotypes have tended to focus on categorical diagnoses, but to understand the biology of mental illness it may be more useful to study traits which cut across traditional boundaries. Here, we report the results of a GWAS of mood instability as a trait in a large population cohort (UK Biobank, n\u2009=\u2009363,705). We also assess the clinical and biological relevance of the findings, including whether genetic associations show enrichment for nervous system pathways. Forty six unique loci associated with mood instability were identified with a SNP heritability estimate of 9%. Linkage Disequilibrium Score Regression (LDSR) analyses identified genetic correlations with Major Depressive Disorder (MDD), Bipolar Disorder (BD), Schizophrenia, anxiety, and Post Traumatic Stress Disorder (PTSD). Gene-level and gene set analyses identified 244 significant genes and 6 enriched gene sets. Tissue expression analysis of the SNP-level data found enrichment in multiple brain regions, and eQTL analyses highlighted an inversion on chromosome 17 plus two brain-specific eQTLs. In addition, we used a Phenotype Linkage Network (PLN) analysis and community analysis to assess for enrichment of nervous system gene sets using mouse orthologue databases. The PLN analysis found enrichment in nervous system PLNs for a community containing serotonin and melatonin receptors. In summary, this work has identified novel loci, tissues and gene sets contributing to mood instability. These findings may be relevant for the identification of novel trans-diagnostic drug targets and could help to inform future stratified medicine innovations in mental health.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41380-019-0439-8; html:https://europepmc.org/articles/PMC7116257; pdf:https://europepmc.org/articles/PMC7116257?pdf=render"
+  },
+  {
     "id": "31994239",
     "doi": "https://doi.org/10.1002/bimj.201900041",
     "title": "Estimating treatment effects with partially observed covariates using outcome regression with missing indicators.",
@@ -3400,23 +3417,6 @@
     "urls": "doi:https://doi.org/10.1002/bimj.201900041"
   },
   {
-    "id": "PMC7574931",
-    "doi": "https://doi.org/10.1016/S2666-7568(20)30012-X",
-    "title": "Evolution and effects of COVID-19 outbreaks in care homes: a population analysis in 189 care homes in one geographical region of the UK",
-    "authorString": "Burton J, Bayne G, Evans C, Garbe F, Gorman D, Honhold N, McCormick D, Othieno R, Stevenson J, Swietlik S, Templeton K, Tranter M, Willocks L, Guthrie B.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Healthy longevity",
-    "pubYear": "2020",
-    "date": "2020-10-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Background COVID-19 has affected care home residents internationally, but detailed information on outbreaks is scarce. We aimed to describe the evolution of outbreaks of COVID-19 in all care homes in one large health region in Scotland. Methods We did a population analysis of testing, cases, and deaths in care homes in the National Health Service (NHS) Lothian health region of the UK. We obtained data for COVID-19 testing (PCR testing of nasopharyngeal swabs for severe acute respiratory syndrome coronavirus 2 [SARS-CoV-2]) and deaths (COVID-19-related and non-COVID-19-related), and we analysed data by several variables including type of care home, number of beds, and locality. Outcome measures were timing of outbreaks, number of confirmed cases of COVID-19 in care home residents, care home characteristics associated with the presence of an outbreak, and deaths of residents in both care homes and hospitals. We calculated excess deaths (both COVID-19-related and non-COVID-19-related), which we defined as the sum of deaths over and above the historical average in the same period over the past 5 years. Findings Between March 10 and Aug 2, 2020, residents at 189 care homes (5843 beds) were tested for COVID-19 when symptomatic. A COVID-19 outbreak was confirmed at 69 (37%) care homes, of which 66 (96%) were care homes for older people. The size of care homes for older people was strongly associated with a COVID-19 outbreak (odds ratio per 20-bed increase 3\u00b735, 95% CI 1\u00b799\u20135\u00b763). 907 confirmed cases of SARS-CoV-2 infection were recorded during the study period, and 432 COVID-19-related deaths. 229 (25%) COVID-19-related cases and 99 (24%) COVID-related deaths occurred in five (3%) of 189 care homes, and 441 (49%) cases and 207 (50%) deaths were in 13 (7%) care homes. 411 (95%) COVID-19-related deaths occurred in the 69 care homes with a confirmed COVID-19 outbreak, 19 (4%) deaths were in hospital, and two (<1%) were in one of the 120 care homes without a confirmed COVID-19 outbreak. At the 69 care homes with a confirmed COVID-19 outbreak, 74 excess non-COVID-19-related deaths were reported, whereas ten non-COVID-19-related excess deaths were observed in the 120 care homes without a confirmed COVID-19 outbreak. 32 fewer non-COVID-19-related deaths than expected were reported among care home residents in hospital. Interpretation The effect of COVID-19 on care homes has been substantial but concentrated in care homes with known outbreaks. A key implication from our findings is that, if community incidence of COVID-19 increases again, many care home residents will be susceptible. Shielding care home residents from potential sources of SARS-CoV-2 infection, and ensuring rapid action to minimise outbreak size if infection is introduced, will be important for any second wave. Funding None.",
-    "laySummary": "",
-    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574931/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574931/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7574931; pdf:https://europepmc.org/articles/PMC7574931?pdf=render"
-  },
-  {
     "id": "31747863",
     "doi": "https://doi.org/10.1161/jaha.119.012551",
     "title": "UVA and Seasonal Patterning of 56\u00a0370 Myocardial Infarctions Across Scotland, 2000-2011.",
@@ -3432,6 +3432,23 @@
     "abstract": "Background Myocardial infarction exhibits seasonal patterning, with higher amplitude at increased latitude. Epidemiological evidence suggests that sunlight is protective against cardiovascular disease, independent of ambient temperature, but ultraviolet B-mediated vitamin D production has been discounted as causal. We aimed to determine whether ultraviolet A is associated with the seasonal patterning of myocardial infarction. Methods and Results Routine hospitalization data were used to determine monthly incidence of myocardial infarction in Scotland between 2000 and 2011. Small-area-level aggregated data were obtained on ambient temperature from the Meteorological Office and ultraviolet A and ultraviolet B irradiance from NASA satellites. Autoregressive distributed lag models were run for ultraviolet A and myocardial infarction, including adjustment for ambient temperature and ultraviolet B. Monthly incidence of myocardial infarction displayed winter peaks and summer troughs superimposed on the underlying trend, with a mean amplitude of 0.31 (95% CI: 0.21, 0.41) myocardial infarctions per 100\u00a0000 population per month. Ultraviolet A exposure was inversely associated with myocardial infarction independent of ambient temperature (coefficient, -0.05; 95% CI, -0.09, -0.01; P=0.015) and ultraviolet B UVB (coefficient, -0.05; 95% CI, -0.09, -0.02; P=0.004). Conclusions Further research is required to explore whether an ultraviolet-mediated mechanism different to vitamin D, such as nitric oxide-mediated vasodilatation, may play a causal role in the seasonal and geographical patterning of myocardial infarction.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1161/JAHA.119.012551; html:https://europepmc.org/articles/PMC6912961; pdf:https://europepmc.org/articles/PMC6912961?pdf=render"
+  },
+  {
+    "id": "PMC7574931",
+    "doi": "https://doi.org/10.1016/S2666-7568(20)30012-X",
+    "title": "Evolution and effects of COVID-19 outbreaks in care homes: a population analysis in 189 care homes in one geographical region of the UK",
+    "authorString": "Burton J, Bayne G, Evans C, Garbe F, Gorman D, Honhold N, McCormick D, Othieno R, Stevenson J, Swietlik S, Templeton K, Tranter M, Willocks L, Guthrie B.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Healthy longevity",
+    "pubYear": "2020",
+    "date": "2020-10-01",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Background COVID-19 has affected care home residents internationally, but detailed information on outbreaks is scarce. We aimed to describe the evolution of outbreaks of COVID-19 in all care homes in one large health region in Scotland. Methods We did a population analysis of testing, cases, and deaths in care homes in the National Health Service (NHS) Lothian health region of the UK. We obtained data for COVID-19 testing (PCR testing of nasopharyngeal swabs for severe acute respiratory syndrome coronavirus 2 [SARS-CoV-2]) and deaths (COVID-19-related and non-COVID-19-related), and we analysed data by several variables including type of care home, number of beds, and locality. Outcome measures were timing of outbreaks, number of confirmed cases of COVID-19 in care home residents, care home characteristics associated with the presence of an outbreak, and deaths of residents in both care homes and hospitals. We calculated excess deaths (both COVID-19-related and non-COVID-19-related), which we defined as the sum of deaths over and above the historical average in the same period over the past 5 years. Findings Between March 10 and Aug 2, 2020, residents at 189 care homes (5843 beds) were tested for COVID-19 when symptomatic. A COVID-19 outbreak was confirmed at 69 (37%) care homes, of which 66 (96%) were care homes for older people. The size of care homes for older people was strongly associated with a COVID-19 outbreak (odds ratio per 20-bed increase 3\u00b735, 95% CI 1\u00b799\u20135\u00b763). 907 confirmed cases of SARS-CoV-2 infection were recorded during the study period, and 432 COVID-19-related deaths. 229 (25%) COVID-19-related cases and 99 (24%) COVID-related deaths occurred in five (3%) of 189 care homes, and 441 (49%) cases and 207 (50%) deaths were in 13 (7%) care homes. 411 (95%) COVID-19-related deaths occurred in the 69 care homes with a confirmed COVID-19 outbreak, 19 (4%) deaths were in hospital, and two (<1%) were in one of the 120 care homes without a confirmed COVID-19 outbreak. At the 69 care homes with a confirmed COVID-19 outbreak, 74 excess non-COVID-19-related deaths were reported, whereas ten non-COVID-19-related excess deaths were observed in the 120 care homes without a confirmed COVID-19 outbreak. 32 fewer non-COVID-19-related deaths than expected were reported among care home residents in hospital. Interpretation The effect of COVID-19 on care homes has been substantial but concentrated in care homes with known outbreaks. A key implication from our findings is that, if community incidence of COVID-19 increases again, many care home residents will be susceptible. Shielding care home residents from potential sources of SARS-CoV-2 infection, and ensuring rapid action to minimise outbreak size if infection is introduced, will be important for any second wave. Funding None.",
+    "laySummary": "",
+    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574931/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574931/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7574931; pdf:https://europepmc.org/articles/PMC7574931?pdf=render"
   },
   {
     "id": "31984563",
@@ -3468,23 +3485,6 @@
     "urls": "doi:https://doi.org/10.1093/pm/pnz209"
   },
   {
-    "id": "32611631",
-    "doi": "https://doi.org/10.1212/wnl.0000000000009814",
-    "title": "Genetically determined blood pressure, antihypertensive drug classes, and risk of stroke subtypes.",
-    "authorString": "Georgakis MK, Gill D, Webb AJS, Evangelou E, Elliott P, Sudlow CLM, Dehghan A, Malik R, Tzoulaki I, Dichgans M.",
-    "authorAffiliations": "",
-    "journalTitle": "Neurology",
-    "pubYear": "2020",
-    "date": "2020-07-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVE:We employed Mendelian randomization to explore whether the effects of blood pressure (BP) and BP-lowering through different antihypertensive drug classes on stroke risk vary by stroke etiology. METHODS:We selected genetic variants associated with systolic and diastolic BP and BP-lowering variants in genes encoding antihypertensive drug targets from genome-wide association studies (GWAS) on 757,601 individuals. Applying 2-sample Mendelian randomization, we examined associations with any stroke (67,162 cases; 454,450 controls), ischemic stroke and its subtypes (large artery, cardioembolic, small vessel stroke), intracerebral hemorrhage (ICH, deep and lobar), and the related small vessel disease phenotype of white matter hyperintensities (WMH). RESULTS:Genetic predisposition to higher systolic and diastolic BP was associated with higher risk of any stroke, ischemic stroke, and ICH. We found associations between genetically determined BP and all ischemic stroke subtypes with a higher risk of large artery and small vessel stroke compared to cardioembolic stroke, as well as associations with deep, but not lobar ICH. Genetic proxies for calcium channel blockers, but not \u03b2-blockers, were associated with lower risk of any stroke and ischemic stroke. Proxies for calcium channel blockers showed particularly strong associations with small vessel stroke and the related radiologic phenotype of WMH. CONCLUSIONS:This study supports a causal role of hypertension in all major stroke subtypes except lobar ICH. We find differences in the effects of BP and BP-lowering through antihypertensive drug classes between stroke subtypes and identify calcium channel blockade as a promising strategy for preventing manifestations of cerebral small vessel disease.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1212/WNL.0000000000009814; html:https://europepmc.org/articles/PMC7455321; pdf:https://europepmc.org/articles/PMC7455321?pdf=render"
-  },
-  {
     "id": "29944675",
     "doi": "https://doi.org/10.1371/journal.pone.0199026",
     "title": "The diagnosis, burden and prognosis of dementia: A record-linkage cohort study in England.",
@@ -3500,6 +3500,23 @@
     "abstract": "OBJECTIVES:Electronic health records (EHR) might be a useful resource to study the risk factors and clinical care of people with dementia. We sought to determine the diagnostic validity of dementia captured in linked EHR. METHODS AND FINDINGS:A cohort of adults in linked primary care, hospital, disease registry and mortality records in England, [CALIBER (CArdiovascular disease research using LInked Bespoke studies and Electronic health Records)]. The proportion of individuals with dementia, Alzheimer's disease, vascular and rare dementia in each data source was determined. A comparison was made of symptoms and care between people with dementia and age-, sex- and general practice-matched controls, using conditional logistic regression. The lifetime risk and prevalence of dementia and mortality rates in people with and without dementia were estimated with random-effects Poisson models. There were 47,386 people with dementia: 12,633 with Alzheimer's disease, 9540 with vascular and 1539 with rare dementia. Seventy-four percent of cases had corroborating evidence of dementia. People with dementia were more likely to live in a deprived area (conditional OR 1.26;95%CI:1.20-1.31 most vs least deprived), have documented memory impairment (cOR = 11.97;95%CI:11.24-12.75), falls (cOR = 2.36;95%CI:2.31-2.41), depression (cOR = 2.03; 95%CI:1.98-2.09) or anxiety (cOR = 1.27; 95%CI:1.23-1.32). The lifetime risk of dementia at age 65 was 9.2% (95%CI:9.0%-9.4%), in men and 14.9% (95%CI:14.7%-15.1%) in women. The population prevalence of recorded dementia increased from 0.3% in 2000 to 0.7% in 2010. A higher mortality rate was observed in people with than without dementia (IRR = 1.56;95%CI:1.54-1.58). CONCLUSIONS:Most people with a record of dementia in linked UK EHR had some corroborating evidence for diagnosis. The estimated 10-year risk of dementia was higher than published population-based estimations. EHR are therefore a promising source of data for dementia research.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0199026; html:https://europepmc.org/articles/PMC6019102; pdf:https://europepmc.org/articles/PMC6019102?pdf=render"
+  },
+  {
+    "id": "32611631",
+    "doi": "https://doi.org/10.1212/wnl.0000000000009814",
+    "title": "Genetically determined blood pressure, antihypertensive drug classes, and risk of stroke subtypes.",
+    "authorString": "Georgakis MK, Gill D, Webb AJS, Evangelou E, Elliott P, Sudlow CLM, Dehghan A, Malik R, Tzoulaki I, Dichgans M.",
+    "authorAffiliations": "",
+    "journalTitle": "Neurology",
+    "pubYear": "2020",
+    "date": "2020-07-01",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVE:We employed Mendelian randomization to explore whether the effects of blood pressure (BP) and BP-lowering through different antihypertensive drug classes on stroke risk vary by stroke etiology. METHODS:We selected genetic variants associated with systolic and diastolic BP and BP-lowering variants in genes encoding antihypertensive drug targets from genome-wide association studies (GWAS) on 757,601 individuals. Applying 2-sample Mendelian randomization, we examined associations with any stroke (67,162 cases; 454,450 controls), ischemic stroke and its subtypes (large artery, cardioembolic, small vessel stroke), intracerebral hemorrhage (ICH, deep and lobar), and the related small vessel disease phenotype of white matter hyperintensities (WMH). RESULTS:Genetic predisposition to higher systolic and diastolic BP was associated with higher risk of any stroke, ischemic stroke, and ICH. We found associations between genetically determined BP and all ischemic stroke subtypes with a higher risk of large artery and small vessel stroke compared to cardioembolic stroke, as well as associations with deep, but not lobar ICH. Genetic proxies for calcium channel blockers, but not \u03b2-blockers, were associated with lower risk of any stroke and ischemic stroke. Proxies for calcium channel blockers showed particularly strong associations with small vessel stroke and the related radiologic phenotype of WMH. CONCLUSIONS:This study supports a causal role of hypertension in all major stroke subtypes except lobar ICH. We find differences in the effects of BP and BP-lowering through antihypertensive drug classes between stroke subtypes and identify calcium channel blockade as a promising strategy for preventing manifestations of cerebral small vessel disease.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1212/WNL.0000000000009814; html:https://europepmc.org/articles/PMC7455321; pdf:https://europepmc.org/articles/PMC7455321?pdf=render"
   },
   {
     "id": "31302040",
@@ -4046,23 +4063,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2018-027577; html:https://europepmc.org/articles/PMC6720244; pdf:https://europepmc.org/articles/PMC6720244?pdf=render"
   },
   {
-    "id": "PMC7486860",
-    "doi": "https://doi.org/10.1016/j.puhip.2020.100039",
-    "title": "Schools and COVID-19: Reopening Pandora\u2019s box?",
-    "authorString": "Ziauddeen N, Woods-Townsend K, Saxena S, Gilbert R, Alwan N.",
-    "authorAffiliations": "",
-    "journalTitle": "Public Health in Practice",
-    "pubYear": "2020",
-    "date": "2020-09-12",
-    "isOpenAccess": "Y",
-    "keywords": "Safety; Covid-19; School Re-Opening",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Schools in countries across the world are reopening as lockdown to slow progression of COVID-19 is eased. The UK government ordered school closures in England from March 20, 2020, later than the rest of Europe. A temporary and limited return for some year groups was trialled from June 2020. Teachers, school governors, the public and doctors have openly challenged the decision. The UK government has struggled to provide enough detailed information to convince the public, teachers and health practitioners, that effective systems for protection, including test, trace and isolate, are in place to prevent and manage outbreaks in schools. Risks of infection on reopening to children, staff and families must be weighed against the harms of closure to children\u2019s education and social development. The potential consequences, if the re-opening of schools is managed badly, is subsequent waves of COVID-19 infection leading to more deaths, further school closures and prolonged restrictions, losing any ground gained thus far. This article weighs the evidence for risks and benefits of reopening schools during the pandemic.",
-    "laySummary": "",
-    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486860/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486860/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7486860; pdf:https://europepmc.org/articles/PMC7486860?pdf=render"
-  },
-  {
     "id": "32103533",
     "doi": "https://doi.org/10.1002/sim.8503",
     "title": "Propensity scores using missingness pattern information: a practical guide.",
@@ -4078,6 +4078,23 @@
     "abstract": "Electronic health records are a valuable data source for investigating health-related questions, and propensity score analysis has become an increasingly popular approach to address confounding bias in such investigations. However, because electronic health records are typically routinely recorded as part of standard clinical care, there are often missing values, particularly for potential confounders. In our motivating study-using electronic health records to investigate the effect of renin-angiotensin system blockers on the risk of acute kidney injury-two key confounders, ethnicity and chronic kidney disease stage, have 59% and 53% missing data, respectively. The missingness pattern approach (MPA), a variant of the missing indicator approach, has been proposed as a method for handling partially observed confounders in propensity score analysis. In the MPA, propensity scores are estimated separately for each missingness pattern present in the data. Although the assumptions underlying the validity of the MPA are stated in the literature, it can be difficult in practice to assess their plausibility. In this article, we explore the MPA's underlying assumptions by using causal diagrams to assess their plausibility in a range of simple scenarios, drawing general conclusions about situations in which they are likely to be violated. We present a framework providing practical guidance for assessing whether the MPA's assumptions are plausible in a particular setting and thus deciding when the MPA is appropriate. We apply our framework to our motivating study, showing that the MPA's underlying assumptions appear reasonable, and we demonstrate the application of MPA to this study.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/sim.8503"
+  },
+  {
+    "id": "PMC7486860",
+    "doi": "https://doi.org/10.1016/j.puhip.2020.100039",
+    "title": "Schools and COVID-19: Reopening Pandora\u2019s box?",
+    "authorString": "Ziauddeen N, Woods-Townsend K, Saxena S, Gilbert R, Alwan N.",
+    "authorAffiliations": "",
+    "journalTitle": "Public Health in Practice",
+    "pubYear": "2020",
+    "date": "2020-09-12",
+    "isOpenAccess": "Y",
+    "keywords": "Safety; Covid-19; School Re-Opening",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Schools in countries across the world are reopening as lockdown to slow progression of COVID-19 is eased. The UK government ordered school closures in England from March 20, 2020, later than the rest of Europe. A temporary and limited return for some year groups was trialled from June 2020. Teachers, school governors, the public and doctors have openly challenged the decision. The UK government has struggled to provide enough detailed information to convince the public, teachers and health practitioners, that effective systems for protection, including test, trace and isolate, are in place to prevent and manage outbreaks in schools. Risks of infection on reopening to children, staff and families must be weighed against the harms of closure to children\u2019s education and social development. The potential consequences, if the re-opening of schools is managed badly, is subsequent waves of COVID-19 infection leading to more deaths, further school closures and prolonged restrictions, losing any ground gained thus far. This article weighs the evidence for risks and benefits of reopening schools during the pandemic.",
+    "laySummary": "",
+    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486860/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486860/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7486860; pdf:https://europepmc.org/articles/PMC7486860?pdf=render"
   },
   {
     "id": "31408247",
@@ -4165,23 +4182,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pgen.1006944; html:https://europepmc.org/articles/PMC6906499; pdf:https://europepmc.org/articles/PMC6906499?pdf=render"
   },
   {
-    "id": "32763829",
-    "doi": "https://doi.org/10.1016/j.ebiom.2020.102932",
-    "title": "Dietary metabolite profiling brings new insight into the relationship between nutrition and metabolic risk: An IMI DIRECT study.",
-    "authorString": "Eriksen R, Perez IG, Posma JM, Haid M, Sharma S, Prehn C, Thomas LE, Koivula RW, Bizzotto R, Prehn C, Mari A, Giordano GN, Pavo I, Schwenk JM, De Masi F, Tsirigos KD, Brunak S, Vi\u00f1uela A, Mahajan A, McDonald TJ, Kokkola T, Rutter F, Teare H, Hansen TH, Fernandez J, Jones A, Jennison C, Walker M, McCarthy MI, Pedersen O, Ruetten H, Forgie I, Bell JD, Pearson ER, Franks PW, Adamski J, Holmes E, Frost G.",
-    "authorAffiliations": "",
-    "journalTitle": "EBioMedicine",
-    "pubYear": "2020",
-    "date": "2020-08-04",
-    "isOpenAccess": "Y",
-    "keywords": "Type 2 diabetes; metabolic profiling; Dietary Patterns; Cardiometabolic Health",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Dietary advice remains the cornerstone of prevention and management of type 2 diabetes (T2D). However, understanding the efficacy of dietary interventions is confounded by the challenges inherent in assessing free living diet. Here we profiled dietary metabolites to investigate glycaemic deterioration and cardiometabolic risk in people at risk of or living with T2D. METHODS:We analysed data from plasma collected at baseline and 18-month follow-up in individuals from the Innovative Medicines Initiative (IMI) Diabetes Research on Patient Stratification (DIRECT) cohort 1 n\u202f=\u202f403 individuals with normal or impaired glucose regulation (prediabetic) and cohort 2 n\u202f=\u202f458 individuals with new onset of T2D. A dietary metabolite profile model (Tpred) was constructed using multivariable regression of 113 plasma metabolites obtained from targeted metabolomics assays. The continuous Tpred score was used to explore the relationships between diet, glycaemic deterioration and cardio-metabolic risk via multiple linear regression models. FINDINGS:A higher Tpred score was associated with healthier diets high in wholegrain (\u03b2=3.36\u202fg, 95% CI 0.31, 6.40 and \u03b2=2.82\u202fg, 95% CI 0.06, 5.57) and lower energy intake (\u03b2=-75.53\u202fkcal, 95% CI -144.71, -2.35 and \u03b2=-122.51\u202fkcal, 95% CI -186.56, -38.46), and saturated fat (\u03b2=-0.92\u202fg, 95% CI -1.56, -0.28 and \u03b2=-0.98\u202fg, 95% CI -1.53, -0.42\u202fg), respectively for cohort 1 and 2. In both cohorts a higher Tpred score was also associated with lower total body adiposity and favourable lipid profiles HDL-cholesterol (\u03b2=0.07\u202fmmol/L, 95% CI 0.03, 0.1), (\u03b2=0.08\u202fmmol/L, 95% CI 0.04, 0.1), and triglycerides (\u03b2=-0.1\u202fmmol/L, 95% CI -0.2, -0.03), (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.09), respectively for cohort 1 and 2. In cohort 2, the Tpred score was negatively associated with liver fat (\u03b2=-0.74%, 95% CI -0.67, -0.81), and lower fasting concentrations of HbA1c (\u03b2=-0.9\u202fmmol/mol, 95% CI -1.5, -0.1), glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.4, -0.05) and insulin (\u03b2=-11.0\u202fpmol/mol, 95% CI -19.5, -2.6). Longitudinal analysis showed at 18-month follow up a higher Tpred score was also associated lower total body adiposity in both cohorts and lower fasting glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.01) and insulin (\u03b2=-9.2\u202fpmol/mol, 95% CI -17.9, -0.4) concentrations in cohort 2. INTERPRETATION:Plasma dietary metabolite profiling provides objective measures of diet intake, showing a relationship to glycaemic deterioration and cardiometabolic health. FUNDING:This work was supported by the Innovative Medicines Initiative Joint Undertaking under grant agreement no. 115,317 (DIRECT), resources of which are composed of financial contribution from the European Union's Seventh Framework Programme (FP7/2007-2013) and EFPIA companies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.ebiom.2020.102932; html:https://europepmc.org/articles/PMC7406914; pdf:https://europepmc.org/articles/PMC7406914?pdf=render"
-  },
-  {
     "id": "31345952",
     "doi": "https://doi.org/10.1136/heartjnl-2018-313855",
     "title": "Do beta-blockers and inhibitors of the renin-angiotensin aldosterone system improve outcomes in patients with heart failure and left ventricular ejection fraction >40%?",
@@ -4197,6 +4197,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/heartjnl-2018-313855"
+  },
+  {
+    "id": "32763829",
+    "doi": "https://doi.org/10.1016/j.ebiom.2020.102932",
+    "title": "Dietary metabolite profiling brings new insight into the relationship between nutrition and metabolic risk: An IMI DIRECT study.",
+    "authorString": "Eriksen R, Perez IG, Posma JM, Haid M, Sharma S, Prehn C, Thomas LE, Koivula RW, Bizzotto R, Prehn C, Mari A, Giordano GN, Pavo I, Schwenk JM, De Masi F, Tsirigos KD, Brunak S, Vi\u00f1uela A, Mahajan A, McDonald TJ, Kokkola T, Rutter F, Teare H, Hansen TH, Fernandez J, Jones A, Jennison C, Walker M, McCarthy MI, Pedersen O, Ruetten H, Forgie I, Bell JD, Pearson ER, Franks PW, Adamski J, Holmes E, Frost G.",
+    "authorAffiliations": "",
+    "journalTitle": "EBioMedicine",
+    "pubYear": "2020",
+    "date": "2020-08-04",
+    "isOpenAccess": "Y",
+    "keywords": "Type 2 diabetes; metabolic profiling; Dietary Patterns; Cardiometabolic Health",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Dietary advice remains the cornerstone of prevention and management of type 2 diabetes (T2D). However, understanding the efficacy of dietary interventions is confounded by the challenges inherent in assessing free living diet. Here we profiled dietary metabolites to investigate glycaemic deterioration and cardiometabolic risk in people at risk of or living with T2D. METHODS:We analysed data from plasma collected at baseline and 18-month follow-up in individuals from the Innovative Medicines Initiative (IMI) Diabetes Research on Patient Stratification (DIRECT) cohort 1 n\u202f=\u202f403 individuals with normal or impaired glucose regulation (prediabetic) and cohort 2 n\u202f=\u202f458 individuals with new onset of T2D. A dietary metabolite profile model (Tpred) was constructed using multivariable regression of 113 plasma metabolites obtained from targeted metabolomics assays. The continuous Tpred score was used to explore the relationships between diet, glycaemic deterioration and cardio-metabolic risk via multiple linear regression models. FINDINGS:A higher Tpred score was associated with healthier diets high in wholegrain (\u03b2=3.36\u202fg, 95% CI 0.31, 6.40 and \u03b2=2.82\u202fg, 95% CI 0.06, 5.57) and lower energy intake (\u03b2=-75.53\u202fkcal, 95% CI -144.71, -2.35 and \u03b2=-122.51\u202fkcal, 95% CI -186.56, -38.46), and saturated fat (\u03b2=-0.92\u202fg, 95% CI -1.56, -0.28 and \u03b2=-0.98\u202fg, 95% CI -1.53, -0.42\u202fg), respectively for cohort 1 and 2. In both cohorts a higher Tpred score was also associated with lower total body adiposity and favourable lipid profiles HDL-cholesterol (\u03b2=0.07\u202fmmol/L, 95% CI 0.03, 0.1), (\u03b2=0.08\u202fmmol/L, 95% CI 0.04, 0.1), and triglycerides (\u03b2=-0.1\u202fmmol/L, 95% CI -0.2, -0.03), (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.09), respectively for cohort 1 and 2. In cohort 2, the Tpred score was negatively associated with liver fat (\u03b2=-0.74%, 95% CI -0.67, -0.81), and lower fasting concentrations of HbA1c (\u03b2=-0.9\u202fmmol/mol, 95% CI -1.5, -0.1), glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.4, -0.05) and insulin (\u03b2=-11.0\u202fpmol/mol, 95% CI -19.5, -2.6). Longitudinal analysis showed at 18-month follow up a higher Tpred score was also associated lower total body adiposity in both cohorts and lower fasting glucose (\u03b2=-0.2\u202fmmol/L, 95% CI -0.3, -0.01) and insulin (\u03b2=-9.2\u202fpmol/mol, 95% CI -17.9, -0.4) concentrations in cohort 2. INTERPRETATION:Plasma dietary metabolite profiling provides objective measures of diet intake, showing a relationship to glycaemic deterioration and cardiometabolic health. FUNDING:This work was supported by the Innovative Medicines Initiative Joint Undertaking under grant agreement no. 115,317 (DIRECT), resources of which are composed of financial contribution from the European Union's Seventh Framework Programme (FP7/2007-2013) and EFPIA companies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.ebiom.2020.102932; html:https://europepmc.org/articles/PMC7406914; pdf:https://europepmc.org/articles/PMC7406914?pdf=render"
   },
   {
     "id": "32413819",
@@ -4471,23 +4488,6 @@
     "urls": "doi:https://doi.org/10.1038/s41366-020-0642-3; html:https://europepmc.org/articles/PMC7577847; pdf:https://europepmc.org/articles/PMC7577847?pdf=render"
   },
   {
-    "id": "31089183",
-    "doi": "https://doi.org/10.1038/s41598-019-43861-9",
-    "title": "Genetic variation in CADM2 as a link between psychological traits and obesity.",
-    "authorString": "Morris J, Bailey MES, Baldassarre D, Cullen B, de Faire U, Ferguson A, Gigante B, Giral P, Goel A, Graham N, Hamsten A, Humphries SE, Johnston KJA, Lyall DM, Lyall LM, Sennblad B, Silveira A, Smit AJ, Tremoli E, Veglia F, Ward J, Watkins H, Smith DJ, Strawbridge RJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2019",
-    "date": "2019-05-14",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "CADM2 has been associated with a range of behavioural and metabolic traits, including physical activity, risk-taking, educational attainment, alcohol and cannabis use and obesity. Here, we set out to determine whether CADM2 contributes to mechanisms shared between mental and physical health disorders. We assessed genetic variants in the CADM2 locus for association with phenotypes in the UK Biobank, IMPROVE, PROCARDIS and SCARFSHEEP studies, before performing meta-analyses. A wide range of metabolic phenotypes were meta-analysed. Psychological phenotypes analysed in UK Biobank only were major depressive disorder, generalised anxiety disorder, bipolar disorder, neuroticism, mood instability and risk-taking behaviour. In UK Biobank, four, 88 and 172 genetic variants were significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with neuroticism, mood instability and risk-taking respectively. In meta-analyses of 4 cohorts, we identified 362, 63 and 11 genetic variants significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with BMI, SBP and CRP respectively. Genetic effects on BMI, CRP and risk-taking were all positively correlated, and were consistently inversely correlated with genetic effects on SBP, mood instability and neuroticism. Conditional analyses suggested an overlap in the signals for physical and psychological traits. Many significant variants had genotype-specific effects on CADM2 expression levels in adult brain and adipose tissues. CADM2 variants influence a wide range of both psychological and metabolic traits, suggesting common biological mechanisms across phenotypes via regulation of CADM2 expression levels in adipose tissue. Functional studies of CADM2 are required to fully understand mechanisms connecting mental and physical health conditions.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-019-43861-9; html:https://europepmc.org/articles/PMC6517397; pdf:https://europepmc.org/articles/PMC6517397?pdf=render"
-  },
-  {
     "id": "31109684",
     "doi": "https://doi.org/10.1016/j.injury.2019.05.004",
     "title": "Agreement between medical record and administrative coding of common comorbidities in orthopaedic trauma patients.",
@@ -4503,6 +4503,23 @@
     "abstract": "OBJECTIVE:To i) quantify the agreement between comorbidities documented within medical records and an orthopaedic trauma dataset; and ii) compare agreement between these sources before and after the introduction of new comorbidity coding rules in Australian hospitals. STUDY DESIGN AND SETTING:A random sample of adult (\u2265 16 years) orthopaedic trauma patients (n\u2009=\u2009400) were extracted from the Victorian Orthopaedic Trauma Outcomes Registry (VOTOR). Diagnoses of obesity, arthritis, diabetes and cardiac conditions documented within patients' medical records were compared to ICD-10-AM comorbidity codes (provided by hospitals) for the same admission. Agreement was calculated (Cohen's kappa) before and after the introduction of new coding rules. RESULTS:All comorbidities had the same or higher prevalence in medical record data compared to coded data. Kappa values ranged from <0.001 (poor agreement) for coronary artery disease to 0.94 (excellent agreement) for type 2 diabetes. There was improvement in agreement between sources for most conditions following the introduction of new coding rules. CONCLUSION:There has been improvement in the coding of certain comorbidities since the introduction of new coding rules, suggesting that, since 2015, administrative data has improved capacity to capture patients' comorbidity profiles. Consideration must be taken when using the ICD-10-AM data due to its limitations.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.injury.2019.05.004"
+  },
+  {
+    "id": "31089183",
+    "doi": "https://doi.org/10.1038/s41598-019-43861-9",
+    "title": "Genetic variation in CADM2 as a link between psychological traits and obesity.",
+    "authorString": "Morris J, Bailey MES, Baldassarre D, Cullen B, de Faire U, Ferguson A, Gigante B, Giral P, Goel A, Graham N, Hamsten A, Humphries SE, Johnston KJA, Lyall DM, Lyall LM, Sennblad B, Silveira A, Smit AJ, Tremoli E, Veglia F, Ward J, Watkins H, Smith DJ, Strawbridge RJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2019",
+    "date": "2019-05-14",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "CADM2 has been associated with a range of behavioural and metabolic traits, including physical activity, risk-taking, educational attainment, alcohol and cannabis use and obesity. Here, we set out to determine whether CADM2 contributes to mechanisms shared between mental and physical health disorders. We assessed genetic variants in the CADM2 locus for association with phenotypes in the UK Biobank, IMPROVE, PROCARDIS and SCARFSHEEP studies, before performing meta-analyses. A wide range of metabolic phenotypes were meta-analysed. Psychological phenotypes analysed in UK Biobank only were major depressive disorder, generalised anxiety disorder, bipolar disorder, neuroticism, mood instability and risk-taking behaviour. In UK Biobank, four, 88 and 172 genetic variants were significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with neuroticism, mood instability and risk-taking respectively. In meta-analyses of 4 cohorts, we identified 362, 63 and 11 genetic variants significantly (p\u2009<\u20091\u2009\u00d7\u200910-5) associated with BMI, SBP and CRP respectively. Genetic effects on BMI, CRP and risk-taking were all positively correlated, and were consistently inversely correlated with genetic effects on SBP, mood instability and neuroticism. Conditional analyses suggested an overlap in the signals for physical and psychological traits. Many significant variants had genotype-specific effects on CADM2 expression levels in adult brain and adipose tissues. CADM2 variants influence a wide range of both psychological and metabolic traits, suggesting common biological mechanisms across phenotypes via regulation of CADM2 expression levels in adipose tissue. Functional studies of CADM2 are required to fully understand mechanisms connecting mental and physical health conditions.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-019-43861-9; html:https://europepmc.org/articles/PMC6517397; pdf:https://europepmc.org/articles/PMC6517397?pdf=render"
   },
   {
     "id": "32623924",
@@ -4539,23 +4556,6 @@
     "urls": "doi:https://doi.org/10.1186/s12889-019-8015-3; html:https://europepmc.org/articles/PMC6902530; pdf:https://europepmc.org/articles/PMC6902530?pdf=render"
   },
   {
-    "id": "32714939",
-    "doi": "https://doi.org/10.3389/fnut.2020.00080",
-    "title": "Future Directions for Integrative Objective Assessment of Eating Using Wearable Sensing Technology.",
-    "authorString": "Skinner A, Toumpakari Z, Stone C, Johnson L.",
-    "authorAffiliations": "",
-    "journalTitle": "Frontiers in nutrition",
-    "pubYear": "2020",
-    "date": "2020-07-02",
-    "isOpenAccess": "Y",
-    "keywords": "Technology; Assessment; Eating; Objective; Wearable",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Established methods for nutritional assessment suffer from a number of important limitations. Diaries are burdensome to complete, food frequency questionnaires only capture average food intake, and both suffer from difficulties in self estimation of portion size and biases resulting from misreporting. Online and app versions of these methods have been developed, but issues with misreporting and portion size estimation remain. New methods utilizing passive data capture are required that address reporting bias, extend timescales for data collection, and transform what is possible for measuring habitual intakes. Digital and sensing technologies are enabling the development of innovative and transformative new methods in this area that will provide a better understanding of eating behavior and associations with health. In this article we describe how wrist-worn wearables, on-body cameras, and body-mounted biosensors can be used to capture data about when, what, and how much people eat and drink. We illustrate how these new techniques can be integrated to provide complete solutions for the passive, objective assessment of a wide range of traditional dietary factors, as well as novel measures of eating architecture, within person variation in intakes, and food/nutrient combinations within meals. We also discuss some of the challenges these new approaches will bring.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3389/fnut.2020.00080; html:https://europepmc.org/articles/PMC7343846; pdf:https://europepmc.org/articles/PMC7343846?pdf=render"
-  },
-  {
     "id": "32639589",
     "doi": "https://doi.org/10.1111/bcp.14458",
     "title": "Measuring and reporting treatment adherence: What can we learn by comparing two respiratory conditions?",
@@ -4571,6 +4571,23 @@
     "abstract": "Medication non-adherence, defined as any deviation from the regimen recommended by their healthcare provider, can increase morbidity, mortality and side effects, while reducing effectiveness. Through studying two respiratory conditions, asthma and tuberculosis (TB), we thoroughly review the current understanding of the measurement and reporting of medication adherence. In this paper, we identify major methodological issues in the standard ways that adherence has been conceptualised, defined and studied in asthma and TB. Between and within the two diseases there are substantial variations in adherence reporting, linked to differences in dosing intervals and treatment duration. Critically, the communicable nature of TB has resulted in dose-by-dose monitoring becoming a recommended treatment standard. Through the lens of these similarities and contrasts, we highlight contemporary shortcomings in the generalised conceptualisation of medication adherence. Furthermore, we outline elements in which knowledge could be directly transferred from one condition to the other, such as the application of large-scale cost-effective monitoring methods in TB to resource-poor settings in asthma. To develop a more robust evidence-based approach, we recommend the use of standard taxonomies detailed in the ABC taxonomy when measuring and discussing adherence. Regimen and intervention development and use should be based on sufficient evidence of the commonality and type of adherence behaviours displayed by patients with the relevant condition. A systematic approach to the measurement and reporting of adherence could improve the value and generalisability of research across all health conditions.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/bcp.14458"
+  },
+  {
+    "id": "32714939",
+    "doi": "https://doi.org/10.3389/fnut.2020.00080",
+    "title": "Future Directions for Integrative Objective Assessment of Eating Using Wearable Sensing Technology.",
+    "authorString": "Skinner A, Toumpakari Z, Stone C, Johnson L.",
+    "authorAffiliations": "",
+    "journalTitle": "Frontiers in nutrition",
+    "pubYear": "2020",
+    "date": "2020-07-02",
+    "isOpenAccess": "Y",
+    "keywords": "Technology; Assessment; Eating; Objective; Wearable",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Established methods for nutritional assessment suffer from a number of important limitations. Diaries are burdensome to complete, food frequency questionnaires only capture average food intake, and both suffer from difficulties in self estimation of portion size and biases resulting from misreporting. Online and app versions of these methods have been developed, but issues with misreporting and portion size estimation remain. New methods utilizing passive data capture are required that address reporting bias, extend timescales for data collection, and transform what is possible for measuring habitual intakes. Digital and sensing technologies are enabling the development of innovative and transformative new methods in this area that will provide a better understanding of eating behavior and associations with health. In this article we describe how wrist-worn wearables, on-body cameras, and body-mounted biosensors can be used to capture data about when, what, and how much people eat and drink. We illustrate how these new techniques can be integrated to provide complete solutions for the passive, objective assessment of a wide range of traditional dietary factors, as well as novel measures of eating architecture, within person variation in intakes, and food/nutrient combinations within meals. We also discuss some of the challenges these new approaches will bring.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3389/fnut.2020.00080; html:https://europepmc.org/articles/PMC7343846; pdf:https://europepmc.org/articles/PMC7343846?pdf=render"
   },
   {
     "id": "32127008",
@@ -4981,6 +4998,23 @@
     "urls": "doi:https://doi.org/10.1097/CCM.0000000000003424; html:https://europepmc.org/articles/PMC6330072; pdf:https://europepmc.org/articles/PMC6330072?pdf=render; doi:https://doi.org/10.1097/ccm.0000000000003424"
   },
   {
+    "id": "33310109",
+    "doi": "https://doi.org/10.1016/j.ijid.2020.12.006",
+    "title": "Response to \"Early Hydroxychloroquine but not Chloroquine use reduces ICU admission in COVID-19 patients\".",
+    "authorString": "Linschoten M, Nab L, van der Horst ICC, Tieleman R, Asselbergs FW.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "pubYear": "2020",
+    "date": "2020-12-09",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.ijid.2020.12.006"
+  },
+  {
     "id": "32238333",
     "doi": "https://doi.org/10.2196/16400",
     "title": "Low-Density Lipoprotein Cholesterol Target Attainment in Patients With Established Cardiovascular Disease: Analysis of Routine Care Data.",
@@ -4998,23 +5032,6 @@
     "urls": "doi:https://doi.org/10.2196/16400; html:https://europepmc.org/articles/PMC7163416"
   },
   {
-    "id": "32255392",
-    "doi": "https://doi.org/10.1080/09273948.2019.1709650",
-    "title": "Non-invasive Instrument-Based Tests for Quantifying Anterior Chamber Flare in Uveitis: A Systematic Review. ",
-    "authorString": "Liu X, McNally TW, Beese S, Downie LE, Solebo AL, Faes L, Husain S, Keane PA, Moore DJ, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "Ocular immunology and inflammation",
-    "pubYear": "2020",
-    "date": "2020-04-07",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Purpose: Anterior chamber (AC) flare is a key sign for anterior uveitis. New instrument-based techniques for measuring AC flare can offer automation and objectivity. This review aims to identify objective instrument-based measures for AC flare.Methods: In this systematic review, we identified studies reporting correlation between instrument-based tests versus clinician AC flare grading, and/or aqueous protein concentration, as well as test reliability.Results: Four index tests were identified in 11 studies: laser-flare photometry (LFP), optical coherence tomography, ocular flare analysis meter (OFAM) and the double-pass technique. The correlation between LFP and clinician grading was 0.40-0.93 and 0.87-0.94 for LFP and protein concentration. The double-pass technique showed no correlation with clinician grading and insufficient information was available for OFAM.Conclusion: LFP shows moderate to strong correlation with clinician grading and aqueous protein concentration. LFP could be a superior reference test compared to clinician AC flare grading for validating new index tests.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1080/09273948.2019.1709650"
-  },
-  {
     "id": "30554166",
     "doi": "https://doi.org/10.1136/injuryprev-2018-043019",
     "title": "Work absence due to compensable RTCs in Victoria, Australia.",
@@ -5030,6 +5047,23 @@
     "abstract": "INTRODUCTION:RTC burden is commonly measured using fatality or hospitalisation statistics. However, non-fatal and less severe injuries contribute substantial economic and human costs, including work absence. In Victoria, Australia, two major compensation systems provide income support to employed people injured in RTCs; workers' compensation (if RTC occurred during work) and an RTC-specific compensation system. This study aimed to describe the number and rate of episodes of work absence due to compensable RTC and determine factors associated with work-related RTC resulting in work absence. METHODS:Administrative data for working-age people (15-65 years) with accepted compensation claims between 1 July 2003 and 30 June 2013 were extracted from Victoria's Compensation Research Database and analysed. Injured people receiving at least one day of income support were retained. Rate calculations used Victoria's labour force as the denominator and negative binomial regression determined any time-based trend changes. Multivariable logistic regression was used to determine odds of the RTC being work-related. RESULTS:There were 40\u2009677 claims made by workers with an RTC injury that consequently missed work, averaging 4068 claims per year at a rate of 12.9 per 100\u2009000 working population. Work-related cases contributed 17.4% (N=7061). Males, older adults and RTCs involving heavy vehicles, buses, trains and trams had higher odds of a work-related RTC resulting in work absence. More severe injuries tended not to be work-related. CONCLUSIONS:Work absence due to RTC injury constitutes a substantial burden, and this measure could provide a valuable addition to conventional RTC statistics.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/injuryprev-2018-043019"
+  },
+  {
+    "id": "32255392",
+    "doi": "https://doi.org/10.1080/09273948.2019.1709650",
+    "title": "Non-invasive Instrument-Based Tests for Quantifying Anterior Chamber Flare in Uveitis: A Systematic Review. ",
+    "authorString": "Liu X, McNally TW, Beese S, Downie LE, Solebo AL, Faes L, Husain S, Keane PA, Moore DJ, Denniston AK.",
+    "authorAffiliations": "",
+    "journalTitle": "Ocular immunology and inflammation",
+    "pubYear": "2020",
+    "date": "2020-04-07",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Purpose: Anterior chamber (AC) flare is a key sign for anterior uveitis. New instrument-based techniques for measuring AC flare can offer automation and objectivity. This review aims to identify objective instrument-based measures for AC flare.Methods: In this systematic review, we identified studies reporting correlation between instrument-based tests versus clinician AC flare grading, and/or aqueous protein concentration, as well as test reliability.Results: Four index tests were identified in 11 studies: laser-flare photometry (LFP), optical coherence tomography, ocular flare analysis meter (OFAM) and the double-pass technique. The correlation between LFP and clinician grading was 0.40-0.93 and 0.87-0.94 for LFP and protein concentration. The double-pass technique showed no correlation with clinician grading and insufficient information was available for OFAM.Conclusion: LFP shows moderate to strong correlation with clinician grading and aqueous protein concentration. LFP could be a superior reference test compared to clinician AC flare grading for validating new index tests.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1080/09273948.2019.1709650"
   },
   {
     "id": "31446403",
@@ -5134,23 +5168,6 @@
     "urls": "doi:https://doi.org/10.1136/heartjnl-2019-316088"
   },
   {
-    "id": "33201485",
-    "doi": "https://doi.org/10.1007/s12471-020-01517-8",
-    "title": "ONCOR: design of the Dutch cardio-oncology registry.",
-    "authorString": "Kamphuis JAM, Linschoten M, Cramer MJ, Alsemgeest F, van Kessel DJW, Urgel K, Post MC, Manintveld OC, Hassing HC, Liesting C, Wardeh AJ, Olde Bijvank EGM, Schaap J, Stevense-den Boer AM, Doevendans PA, Asselbergs FW, Teske AJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
-    "pubYear": "2020",
-    "date": "2020-11-17",
-    "isOpenAccess": "N",
-    "keywords": "Research Design; Registries; Cardio-oncology",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:The relative new subspecialty 'cardio-oncology' was established to meet the growing demand for an interdisciplinary approach to the management of cancer therapy-related cardiovascular adverse events. In recent years, specialised cardio-oncology services have been implemented worldwide, which all strive to improve the cardiovascular health of cancer patients. However, limited data are currently available on the outcomes and experiences of these specialised services, and optimal strategies for cardio-oncological care have not been established. AIM:The ONCOR registry has been created for prospective data collection and evaluation of cardio-oncological care in daily practice. METHODS:Dutch hospitals using a\u00a0standardised cardio-oncology care pathway are included in this national, multicentre, observational cohort study. All patients visiting these cardio-oncology services are eligible for study inclusion. Data collection at baseline consists of the (planned) cancer treatment and the cardiovascular risk profile, which are used to estimate the cardiotoxic risk. Information regarding invasive and noninvasive tests is collected during the time patients receive cardio-oncological care. Outcome data consist of the incidence of cardiovascular complications and major adverse cardiac events, and the impact of these events on the oncological treatment. DISCUSSION:Outcomes of the ONCOR registry may aid in gaining more insight into the incidence of cancer therapy-related cardiovascular complications. The registry facilitates research on mechanisms of cardiovascular complications and on diagnostic, prognostic and therapeutic strategies. In addition, it provides a\u00a0platform for future (interventional) studies. Centres with cardio-oncology services that are interested in contributing to the ONCOR registry are hereby invited to participate.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s12471-020-01517-8"
-  },
-  {
     "id": "31282950",
     "doi": "https://doi.org/10.1001/jamaneurol.2019.1812",
     "title": "Association Between Idiopathic Intracranial Hypertension and Risk of Cardiovascular Diseases in Women in the United Kingdom.",
@@ -5166,6 +5183,23 @@
     "abstract": "Importance:Cardiovascular disease (CVD) risk has not been previously evaluated in a large matched cohort study in idiopathic intracranial hypertension (IIH). Objectives:To estimate the risk of composite cardiovascular events, heart failure, ischemic heart disease, stroke/transient ischemic attack (TIA), type 2 diabetes, and hypertension in women with idiopathic intracranial hypertension and compare it with the risk in women, matched on body mass index (BMI) and age, without the condition; and to evaluate the prevalence and incidence of IIH. Design, Setting, and Participants:This population-based matched controlled cohort study used 28 years of data, from January 1, 1990, to January 17, 2018, from The Health Improvement Network (THIN), an anonymized, nationally representative electronic medical records database in the United Kingdom. All female patients aged 16 years or older were eligible for inclusion. Female patients with IIH (n\u2009=\u20092760) were included and randomly matched with up to 10 control patients (n\u2009=\u200927\u202f125) by BMI and age. Main Outcomes and Measures:Adjusted hazard ratios (aHRs) of cardiovascular outcomes were calculated using Cox regression models. The primary outcome was a composite of any CVD (heart failure, ischemic heart disease, and stroke/TIA), and the secondary outcomes were each CVD outcome, type 2 diabetes, and hypertension. Results:In total, 2760 women with IIH and 27\u202f125 women without IIH were included. Age and BMI were similar between the 2 groups, with a median (interquartile range) age of 32.1 (25.6-42.0) years in the exposed group and 32.1 (25.7-42.1) years in the control group; in the exposed group 1728 women (62.6%) were obese, and in the control group 16514 women (60.9%) were obese. Higher absolute risks for all cardiovascular outcomes were observed in women with IIH compared with control patients. The aHRs were as follows: composite cardiovascular events, 2.10 (95% CI, 1.61-2.74; P\u2009<\u2009.001); heart failure, 1.97 (95% CI, 1.16-3.37; P\u2009=\u2009.01); ischemic heart disease, 1.94 (95% CI, 1.27-2.94; P\u2009=\u2009.002); stroke/TIA, 2.27 (95% CI, 1.61-3.21; P\u2009<\u2009.001); type 2 diabetes, 1.30 (95% CI, 1.07-1.57; P\u2009=\u2009.009); and hypertension, 1.55 (95% CI, 1.30-1.84; P\u2009<\u2009.001). The incidence of IIH in female patients more than tripled between 2005 and 2017, from 2.5 to 9.3 per 100\u202f000 person-years. Similarly, IIH prevalence increased in the same period, from 26 to 79 per 100\u202f000 women. Incidence increased markedly with BMI higher than 30. Conclusions and Relevance:Idiopathic intracranial hypertension in women appeared to be associated with a 2-fold increase in CVD risk; change in patient care to modify risk factors for CVD may reduce long-term morbidity for women with IIH and warrants further evaluation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1001/jamaneurol.2019.1812; html:https://europepmc.org/articles/PMC6618853"
+  },
+  {
+    "id": "33201485",
+    "doi": "https://doi.org/10.1007/s12471-020-01517-8",
+    "title": "ONCOR: design of the Dutch cardio-oncology registry.",
+    "authorString": "Kamphuis JAM, Linschoten M, Cramer MJ, Alsemgeest F, van Kessel DJW, Urgel K, Post MC, Manintveld OC, Hassing HC, Liesting C, Wardeh AJ, Olde Bijvank EGM, Schaap J, Stevense-den Boer AM, Doevendans PA, Asselbergs FW, Teske AJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
+    "pubYear": "2020",
+    "date": "2020-11-17",
+    "isOpenAccess": "N",
+    "keywords": "Research Design; Registries; Cardio-oncology",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:The relative new subspecialty 'cardio-oncology' was established to meet the growing demand for an interdisciplinary approach to the management of cancer therapy-related cardiovascular adverse events. In recent years, specialised cardio-oncology services have been implemented worldwide, which all strive to improve the cardiovascular health of cancer patients. However, limited data are currently available on the outcomes and experiences of these specialised services, and optimal strategies for cardio-oncological care have not been established. AIM:The ONCOR registry has been created for prospective data collection and evaluation of cardio-oncological care in daily practice. METHODS:Dutch hospitals using a\u00a0standardised cardio-oncology care pathway are included in this national, multicentre, observational cohort study. All patients visiting these cardio-oncology services are eligible for study inclusion. Data collection at baseline consists of the (planned) cancer treatment and the cardiovascular risk profile, which are used to estimate the cardiotoxic risk. Information regarding invasive and noninvasive tests is collected during the time patients receive cardio-oncological care. Outcome data consist of the incidence of cardiovascular complications and major adverse cardiac events, and the impact of these events on the oncological treatment. DISCUSSION:Outcomes of the ONCOR registry may aid in gaining more insight into the incidence of cancer therapy-related cardiovascular complications. The registry facilitates research on mechanisms of cardiovascular complications and on diagnostic, prognostic and therapeutic strategies. In addition, it provides a\u00a0platform for future (interventional) studies. Centres with cardio-oncology services that are interested in contributing to the ONCOR registry are hereby invited to participate.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s12471-020-01517-8"
   },
   {
     "id": "33067802",
@@ -5185,23 +5219,6 @@
     "urls": "doi:https://doi.org/10.1111/acer.14481"
   },
   {
-    "id": "32108548",
-    "doi": "https://doi.org/10.1177/0269881120907973",
-    "title": "Synthetic cannabinoid use in psychiatric patients and relationship to hospitalisation: A retrospective electronic case register study.",
-    "authorString": "Hobbs M, Patel R, Morrison PD, Kalk N, Stone JM.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of psychopharmacology (Oxford, England)",
-    "pubYear": "2020",
-    "date": "2020-02-28",
-    "isOpenAccess": "Y",
-    "keywords": "Cannabis; Psychosis; Hospitalisation; Synthetic Cannabinoids",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "INTRODUCTION AND OBJECTIVES:Cannabis use has been associated with psychosis and with poor outcome in patients with mental illness. Synthetic cannabinoids (SCs) have been suggested to pose an even greater risk to mental health, but the effect on clinical outcome has not been directly measured. In this study, we aimed to investigate the demographics and hospitalisation of psychiatric patients who were SC users. METHODS:We searched the Biomedical Research Centre Clinical Record Interactive Search register for SC users and age- and sex-matched SC non-users who had been psychiatric patients under the South London and Maudsley NHS Trust. We recorded diagnosis, homelessness, cannabis use and the total number of days admitted as an inpatient to secondary and tertiary mental-health services. RESULTS:We identified 635 SC users and 635 age- and sex-matched SC non-users. SC users were significantly more likely to be homeless (\u03c72=138.0; p<0.0001) and to use cannabis (\u03c72=257.3; p<0.0001) than SC non-users. SC users had significantly more inpatient days after their first recorded use of SCs than controls (M (SD)=85.5 (199.7) vs. 25.4 (92.32); p<0.0001). Post hoc tests revealed that SC non-users who used cannabis had fewer inpatient days than SC users (p<0.0001), and that non-users of both SC and cannabis had fewer inpatient days than SC non-using cannabis users (p=0.02). CONCLUSIONS:SC use may lead to an increase in the number of days spent in hospital in patients with psychiatric illness. This highlights the need for clinicians to ask specifically about SC use.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1177/0269881120907973; html:https://europepmc.org/articles/PMC7249610; pdf:https://europepmc.org/articles/PMC7249610?pdf=render"
-  },
-  {
     "id": "32346541",
     "doi": "https://doi.org/10.1093/burnst/tkz004",
     "title": "Predictors of itch and pain in the 12 months following burn injury: results from the Burns Registry of Australia and New Zealand (BRANZ) Long-Term Outcomes Project.",
@@ -5219,21 +5236,21 @@
     "urls": "doi:https://doi.org/10.1093/burnst/tkz004; html:https://europepmc.org/articles/PMC7175773; pdf:https://europepmc.org/articles/PMC7175773?pdf=render"
   },
   {
-    "id": "31675503",
-    "doi": "https://doi.org/10.1016/j.cell.2019.10.004",
-    "title": "Uganda Genome Resource Enables Insights into Population History and Genomic Discovery in Africa.",
-    "authorString": "Gurdasani D, Carstensen T, Fatumo S, Chen G, Franklin CS, Prado-Martinez J, Bouman H, Abascal F, Haber M, Tachmazidou I, Mathieson I, Ekoru K, DeGorter MK, Nsubuga RN, Finan C, Wheeler E, Chen L, Cooper DN, Schiffels S, Chen Y, Ritchie GRS, Pollard MO, Fortune MD, Mentzer AJ, Garrison E, Bergstr\u00f6m A, Hatzikotoulas K, Adeyemo A, Doumatey A, Elding H, Wain LV, Ehret G, Auer PL, Kooperberg CL, Reiner AP, Franceschini N, Maher D, Montgomery SB, Kadie C, Widmer C, Xue Y, Seeley J, Asiki G, Kamali A, Young EH, Pomilla C, Soranzo N, Zeggini E, Pirie F, Morris AP, Heckerman D, Tyler-Smith C, Motala AA, Rotimi C, Kaleebu P, Barroso I, Sandhu MS.",
+    "id": "32108548",
+    "doi": "https://doi.org/10.1177/0269881120907973",
+    "title": "Synthetic cannabinoid use in psychiatric patients and relationship to hospitalisation: A retrospective electronic case register study.",
+    "authorString": "Hobbs M, Patel R, Morrison PD, Kalk N, Stone JM.",
     "authorAffiliations": "",
-    "journalTitle": "Cell",
-    "pubYear": "2019",
-    "date": "2019-10-01",
-    "isOpenAccess": "N",
-    "keywords": "",
+    "journalTitle": "Journal of psychopharmacology (Oxford, England)",
+    "pubYear": "2020",
+    "date": "2020-02-28",
+    "isOpenAccess": "Y",
+    "keywords": "Cannabis; Psychosis; Hospitalisation; Synthetic Cannabinoids",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "Genomic studies in African populations provide unique opportunities to understand disease etiology, human diversity, and population history. In the largest study of its kind, comprising genome-wide data from 6,400 individuals and whole-genome sequences from 1,978 individuals from rural Uganda, we find evidence of geographically correlated fine-scale population substructure. Historically, the ancestry of modern Ugandans was best represented by a mixture of ancient East African pastoralists. We demonstrate the value of the largest sequence panel from Africa to date as an imputation resource. Examining 34 cardiometabolic traits, we show systematic differences in trait heritability between European and African populations, probably reflecting the differential impact of genes and environment. In a multi-trait pan-African GWAS of up to 14,126 individuals, we identify novel loci associated with anthropometric, hematological, lipid, and glycemic traits. We find that several functionally important signals are driven by Africa-specific variants, highlighting the value of studying diverse populations across the region.",
+    "abstract": "INTRODUCTION AND OBJECTIVES:Cannabis use has been associated with psychosis and with poor outcome in patients with mental illness. Synthetic cannabinoids (SCs) have been suggested to pose an even greater risk to mental health, but the effect on clinical outcome has not been directly measured. In this study, we aimed to investigate the demographics and hospitalisation of psychiatric patients who were SC users. METHODS:We searched the Biomedical Research Centre Clinical Record Interactive Search register for SC users and age- and sex-matched SC non-users who had been psychiatric patients under the South London and Maudsley NHS Trust. We recorded diagnosis, homelessness, cannabis use and the total number of days admitted as an inpatient to secondary and tertiary mental-health services. RESULTS:We identified 635 SC users and 635 age- and sex-matched SC non-users. SC users were significantly more likely to be homeless (\u03c72=138.0; p<0.0001) and to use cannabis (\u03c72=257.3; p<0.0001) than SC non-users. SC users had significantly more inpatient days after their first recorded use of SCs than controls (M (SD)=85.5 (199.7) vs. 25.4 (92.32); p<0.0001). Post hoc tests revealed that SC non-users who used cannabis had fewer inpatient days than SC users (p<0.0001), and that non-users of both SC and cannabis had fewer inpatient days than SC non-using cannabis users (p=0.02). CONCLUSIONS:SC use may lead to an increase in the number of days spent in hospital in patients with psychiatric illness. This highlights the need for clinicians to ask specifically about SC use.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.cell.2019.10.004; html:https://europepmc.org/articles/PMC7202134; pdf:https://europepmc.org/articles/PMC7202134?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.10.004"
+    "urls": "doi:https://doi.org/10.1177/0269881120907973; html:https://europepmc.org/articles/PMC7249610; pdf:https://europepmc.org/articles/PMC7249610?pdf=render"
   },
   {
     "id": "31312209",
@@ -5251,6 +5268,23 @@
     "abstract": "Introduction:The Dutch Pharmacogenetics Working Group (DPWG) indicated a list of actionable genotypes that affect patients' response to more 50 drugs; these drugs which show variable effects based on patients' genetic traits were named as pharmacogenetics (PGX) drugs. Preemptive genetic testing before using these drugs may protect certain patients from serious adverse reactions and could help in avoiding treatment failures. The objectives of this study include identifying the rate of PGX drug usage among Dutch population, estimating the level of users who carry the actionable genotypes and determining the main genes involved in drug's effect variability. Methods:Usage of PGX drugs over 2011-2017 by the insured population (an average of 11.4 million) in outpatient clinics in Netherlands was obtained from the publically available GIP databank. The data of 45 drugs were analyzed and their interactions with selected pharmacogenes were estimated. Frequency of actionable genotypes of 249 Dutch parents was obtained from the public database: Genome of Netherlands (GoNL), to identify the pattern of genetic characteristics of Dutch population. Results:Over a 7 year period, 51.3 million exposures of patients to PGX drugs were reported with an average of 5.3 exposures per each drug user. One quarterof the exposures (12.4 million) are predicted to be experienced by individuals with actionable genotypes (risky exposures). Up to 60% of the risky exposures (around 7.5 million) were related to drugs metabolized by CYP2D6. SLCO1B1, and CYP2C19 were also identified among the top genes affecting response of drugs users (involved in about 22 and 12.4% of the risky exposures, respectively). Cardiovascular medications were the top prescribed PGX drug class (43%), followed by gastroenterology (29%) and psychiatry/neurology medications (15%). Women use more PGX drugs than men (55.8 vs. 44.2%, respectively) with the majority (84%) of users in both sexes are above 45 years. Conclusion:PGX drugs are commonly used in Netherlands. Preemptive panel testing for CYP2D6, SLCO1B1, and CYP2C19 only could be useful to predict 95% of vulnerable patients' exposures to PGX drugs. Future studies to assess the economic impact of preemptive panel testing on patients of older age are suggested.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3389/fgene.2019.00567; html:https://europepmc.org/articles/PMC6614185; pdf:https://europepmc.org/articles/PMC6614185?pdf=render"
+  },
+  {
+    "id": "31675503",
+    "doi": "https://doi.org/10.1016/j.cell.2019.10.004",
+    "title": "Uganda Genome Resource Enables Insights into Population History and Genomic Discovery in Africa.",
+    "authorString": "Gurdasani D, Carstensen T, Fatumo S, Chen G, Franklin CS, Prado-Martinez J, Bouman H, Abascal F, Haber M, Tachmazidou I, Mathieson I, Ekoru K, DeGorter MK, Nsubuga RN, Finan C, Wheeler E, Chen L, Cooper DN, Schiffels S, Chen Y, Ritchie GRS, Pollard MO, Fortune MD, Mentzer AJ, Garrison E, Bergstr\u00f6m A, Hatzikotoulas K, Adeyemo A, Doumatey A, Elding H, Wain LV, Ehret G, Auer PL, Kooperberg CL, Reiner AP, Franceschini N, Maher D, Montgomery SB, Kadie C, Widmer C, Xue Y, Seeley J, Asiki G, Kamali A, Young EH, Pomilla C, Soranzo N, Zeggini E, Pirie F, Morris AP, Heckerman D, Tyler-Smith C, Motala AA, Rotimi C, Kaleebu P, Barroso I, Sandhu MS.",
+    "authorAffiliations": "",
+    "journalTitle": "Cell",
+    "pubYear": "2019",
+    "date": "2019-10-01",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Genomic studies in African populations provide unique opportunities to understand disease etiology, human diversity, and population history. In the largest study of its kind, comprising genome-wide data from 6,400 individuals and whole-genome sequences from 1,978 individuals from rural Uganda, we find evidence of geographically correlated fine-scale population substructure. Historically, the ancestry of modern Ugandans was best represented by a mixture of ancient East African pastoralists. We demonstrate the value of the largest sequence panel from Africa to date as an imputation resource. Examining 34 cardiometabolic traits, we show systematic differences in trait heritability between European and African populations, probably reflecting the differential impact of genes and environment. In a multi-trait pan-African GWAS of up to 14,126 individuals, we identify novel loci associated with anthropometric, hematological, lipid, and glycemic traits. We find that several functionally important signals are driven by Africa-specific variants, highlighting the value of studying diverse populations across the region.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.cell.2019.10.004; html:https://europepmc.org/articles/PMC7202134; pdf:https://europepmc.org/articles/PMC7202134?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.10.004"
   },
   {
     "id": "31702773",
@@ -5491,23 +5525,6 @@
     "urls": "doi:https://doi.org/10.5694/mja2.50143"
   },
   {
-    "id": "31912232",
-    "doi": "https://doi.org/10.1007/s00394-019-02170-7",
-    "title": "Adherence to the Dutch dietary guidelines and 15-year incidence of heart failure in the EPIC-NL cohort.",
-    "authorString": "Harbers MC, de Kroon AM, Boer JMA, Asselbergs FW, Geleijnse JM, Verschuren WMM, van der Schouw YT, Sluijs I.",
-    "authorAffiliations": "",
-    "journalTitle": "European journal of nutrition",
-    "pubYear": "2020",
-    "date": "2020-01-07",
-    "isOpenAccess": "N",
-    "keywords": "Heart Failure; Dietary Patterns; Dutch Healthy Diet 2015 Index; Dutch Dietary Guidelines",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "PURPOSE:A healthy diet may contribute to the primary prevention of heart failure (HF), but evidence is still inconclusive. We aimed to study the association between adherence to the Dutch dietary guidelines and incidence of HF. METHODS:We studied 37,468 participants aged 20-70\u00a0years and free of HF at baseline from the EPIC-NL cohort. At baseline (1993-1997), data were collected on demographics, lifestyle, and presence of chronic diseases. Dietary intake was assessed using a 178-item validated food frequency questionnaire. Dietary intake data were used to calculate scores on the Dutch Healthy Diet 2015 Index (DHD15-index) measuring adherence to the Dutch dietary guidelines. The DHD15-index is based on the average daily intake of 14 food groups resulting in a total score ranging between 0 and 140, with higher scores indicating better adherence. HF morbidity and mortality during follow-up were ascertained through linkage with national registries. Cox proportional hazards analysis was used to estimate hazard ratios (HRs) and 95% confidence intervals (95% CIs) for the association between DHD15 adherence and HF risk, adjusting for sociodemographic and lifestyle characteristics. RESULTS:The average score on the DHD15-index was 71 (SD\u2009=\u200915). During a median follow-up of 15.2\u00a0years (IQR 14.1-16.5), 674 HF events occurred. After adjustment for demographic and lifestyle characteristics, higher scores on the DHD15-index were associated with lower risk of HF (HRQ4vsQ1 0.73; 95% CI 0.58-0.93; Ptrend 0.001). CONCLUSION:In a large Dutch population of middle-aged adults, higher adherence to the Dutch dietary guidelines was associated with lower risk of HF.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s00394-019-02170-7"
-  },
-  {
     "id": "31657946",
     "doi": "https://doi.org/10.1164/rccm.201903-0673oc",
     "title": "Long-Term Outcomes after Severe Traumatic Brain Injury in Older Adults. A Registry-based Cohort Study.",
@@ -5523,6 +5540,23 @@
     "abstract": "Rationale: Older adults (\u226565 yr old) account for an increasing proportion of patients with severe traumatic brain injury (TBI), yet clinical trials and outcome studies contain relatively few of these patients.Objectives: To determine functional status 6 months after severe TBI in older adults, changes in this status over 2 years, and outcome covariates.Methods: This was a registry-based cohort study of older adults who were admitted to hospitals in Victoria, Australia, between 2007 and 2016 with severe TBI. Functional status was assessed with Glasgow Outcome Scale Extended (GOSE) 6, 12, and 24 months after injury. Cohort subgroups were defined by admission to an ICU. Features associated with functional outcome were assessed from the ICU subgroup.Measurements and Main Results: The study included 540 older adults who had been hospitalized with severe TBI over the 10-year period; 428 (79%) patients died in hospital, and 456 (84%) died 6 months after injury. There were 277 patients who had not been admitted to an ICU; at 6 months, 268 (97%) had died, 8 (3%) were dependent (GOSE 2-4), and 1 (0.4%) was functionally independent (GOSE 5-8). There were 263 patients who had been admitted to an ICU; at 6 months, 188 (73%) had died, 39 (15%) were dependent, and 32 (12%) were functionally independent. These proportions did not change over longer follow-up. The only clinical features associated with a lower rate of functional independence were Injury Severity Score \u226525 (adjusted odds ratio, 0.24 [95% confidence interval, 0.09-0.67]; P\u2009=\u20090.007) and older age groups (P\u2009=\u20090.017).Conclusions: Severe TBI in older adults is a condition with very high mortality, and few recover to functional independence.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1164/rccm.201903-0673OC"
+  },
+  {
+    "id": "31912232",
+    "doi": "https://doi.org/10.1007/s00394-019-02170-7",
+    "title": "Adherence to the Dutch dietary guidelines and 15-year incidence of heart failure in the EPIC-NL cohort.",
+    "authorString": "Harbers MC, de Kroon AM, Boer JMA, Asselbergs FW, Geleijnse JM, Verschuren WMM, van der Schouw YT, Sluijs I.",
+    "authorAffiliations": "",
+    "journalTitle": "European journal of nutrition",
+    "pubYear": "2020",
+    "date": "2020-01-07",
+    "isOpenAccess": "N",
+    "keywords": "Heart Failure; Dietary Patterns; Dutch Healthy Diet 2015 Index; Dutch Dietary Guidelines",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "PURPOSE:A healthy diet may contribute to the primary prevention of heart failure (HF), but evidence is still inconclusive. We aimed to study the association between adherence to the Dutch dietary guidelines and incidence of HF. METHODS:We studied 37,468 participants aged 20-70\u00a0years and free of HF at baseline from the EPIC-NL cohort. At baseline (1993-1997), data were collected on demographics, lifestyle, and presence of chronic diseases. Dietary intake was assessed using a 178-item validated food frequency questionnaire. Dietary intake data were used to calculate scores on the Dutch Healthy Diet 2015 Index (DHD15-index) measuring adherence to the Dutch dietary guidelines. The DHD15-index is based on the average daily intake of 14 food groups resulting in a total score ranging between 0 and 140, with higher scores indicating better adherence. HF morbidity and mortality during follow-up were ascertained through linkage with national registries. Cox proportional hazards analysis was used to estimate hazard ratios (HRs) and 95% confidence intervals (95% CIs) for the association between DHD15 adherence and HF risk, adjusting for sociodemographic and lifestyle characteristics. RESULTS:The average score on the DHD15-index was 71 (SD\u2009=\u200915). During a median follow-up of 15.2\u00a0years (IQR 14.1-16.5), 674 HF events occurred. After adjustment for demographic and lifestyle characteristics, higher scores on the DHD15-index were associated with lower risk of HF (HRQ4vsQ1 0.73; 95% CI 0.58-0.93; Ptrend 0.001). CONCLUSION:In a large Dutch population of middle-aged adults, higher adherence to the Dutch dietary guidelines was associated with lower risk of HF.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s00394-019-02170-7"
   },
   {
     "id": "PMC7648058",
@@ -5559,23 +5593,6 @@
     "urls": "doi:https://doi.org/10.1002/ana.25642; html:https://europepmc.org/articles/PMC6944510; pdf:https://europepmc.org/articles/PMC6944510?pdf=render"
   },
   {
-    "id": "32724101",
-    "doi": "https://doi.org/10.1038/s41467-020-17477-x",
-    "title": "Neonatal genetics of gene expression reveal potential origins of autoimmune and allergic disease risk.",
-    "authorString": "Huang QQ, Tang HHF, Teo SM, Mok D, Ritchie SC, Nath AP, Brozynska M, Salim A, Bakshi A, Holt BJ, Khor CC, Sly PD, Holt PG, Holt KE, Inouye M.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2020",
-    "date": "2020-07-28",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Chronic immune-mediated diseases of adulthood often originate in early childhood. To investigate genetic associations between neonatal immunity and disease, we map expression quantitative trait loci (eQTLs) in resting myeloid cells and CD4+ T cells from cord blood samples, as well as in response to lipopolysaccharide (LPS) or phytohemagglutinin (PHA) stimulation, respectively. Cis-eQTLs are largely specific to cell type or stimulation, and 31% and 52% of genes with cis-eQTLs have response eQTLs (reQTLs) in myeloid cells and T cells, respectively. We identified cis regulatory factors acting as mediators of trans effects. There is extensive colocalisation between condition-specific neonatal cis-eQTLs and variants associated with immune-mediated diseases, in particular CTSH had widespread colocalisation across diseases. Mendelian randomisation shows causal neonatal gene expression effects on disease risk for BTN3A2, HLA-C and others. Our study elucidates the genetics of gene expression in neonatal immune cells, and aetiological origins of autoimmune and allergic diseases.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-020-17477-x; html:https://europepmc.org/articles/PMC7387553; pdf:https://europepmc.org/articles/PMC7387553?pdf=render"
-  },
-  {
     "id": "32951912",
     "doi": "https://doi.org/10.1016/j.jhep.2020.08.030",
     "title": "Corrigendum to: \"Genome-wide and Mendelian randomisation studies of liver MRI yield insights into the pathogenesis of steatohepatitis\" [J Hepatol (2020) 241-251].",
@@ -5591,6 +5608,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jhep.2020.08.030"
+  },
+  {
+    "id": "32724101",
+    "doi": "https://doi.org/10.1038/s41467-020-17477-x",
+    "title": "Neonatal genetics of gene expression reveal potential origins of autoimmune and allergic disease risk.",
+    "authorString": "Huang QQ, Tang HHF, Teo SM, Mok D, Ritchie SC, Nath AP, Brozynska M, Salim A, Bakshi A, Holt BJ, Khor CC, Sly PD, Holt PG, Holt KE, Inouye M.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2020",
+    "date": "2020-07-28",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Chronic immune-mediated diseases of adulthood often originate in early childhood. To investigate genetic associations between neonatal immunity and disease, we map expression quantitative trait loci (eQTLs) in resting myeloid cells and CD4+ T cells from cord blood samples, as well as in response to lipopolysaccharide (LPS) or phytohemagglutinin (PHA) stimulation, respectively. Cis-eQTLs are largely specific to cell type or stimulation, and 31% and 52% of genes with cis-eQTLs have response eQTLs (reQTLs) in myeloid cells and T cells, respectively. We identified cis regulatory factors acting as mediators of trans effects. There is extensive colocalisation between condition-specific neonatal cis-eQTLs and variants associated with immune-mediated diseases, in particular CTSH had widespread colocalisation across diseases. Mendelian randomisation shows causal neonatal gene expression effects on disease risk for BTN3A2, HLA-C and others. Our study elucidates the genetics of gene expression in neonatal immune cells, and aetiological origins of autoimmune and allergic diseases.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-020-17477-x; html:https://europepmc.org/articles/PMC7387553; pdf:https://europepmc.org/articles/PMC7387553?pdf=render"
   },
   {
     "id": "31863937",
@@ -6919,23 +6953,6 @@
     "urls": "doi:https://doi.org/10.1016/j.neuroimage.2019.02.028; html:https://europepmc.org/articles/PMC6503942"
   },
   {
-    "id": "32336304",
-    "doi": "https://doi.org/10.1192/j.eurpsy.2020.39",
-    "title": "Prevalence and incidence of clinical outcomes in patients presenting to secondary mental health care with mood instability and sleep disturbance.",
-    "authorString": "McDonald K, Smith T, Broadbent M, Patel R, Geddes JR, Saunders KEA.",
-    "authorAffiliations": "",
-    "journalTitle": "European psychiatry : the journal of the Association of European Psychiatrists",
-    "pubYear": "2020",
-    "date": "2020-04-27",
-    "isOpenAccess": "Y",
-    "keywords": "Sleep; Psychiatry; epidemiology; Mood; Electronic Health Records",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Mood instability and sleep disturbance are common symptoms in people with mental illness. Both features are clinically important and associated with poorer illness trajectories. We compared clinical outcomes in people presenting to secondary mental health care with mood instability and/or sleep disturbance with outcomes in people without either mood instability or sleep disturbance. METHODS:Data were from electronic health records of 31,391 patients ages 16-65 years presenting to secondary mental health services between 2008 and 2016. Mood instability and sleep disturbance were identified using natural language processing. Prevalence of mood instability and sleep disturbance were estimated at baseline. Incidence rate ratios were estimates for clinical outcomes including psychiatric diagnoses, prescribed medication, and hospitalization within 2-years of presentation in persons with mood instability and/or sleep disturbance compared to individuals without either symptom. RESULTS:Mood instability was present in 9.58%, and sleep disturbance in 26.26% of patients within 1-month of presenting to secondary mental health services. Compared with individuals without either symptom, those with mood instability and sleep disturbance showed significantly increased incidence of prescription of any psychotropic medication (incidence rate ratios [IRR] = 7.04, 95% confidence intervals [CI] 6.53-7.59), and hospitalization (IRR = 5.32, 95% CI 5.32, 4.67-6.07) within 2-years of presentation. Incidence rates of most clinical outcomes were considerably increased among persons with both mood instability and sleep disturbance, relative to persons with only one symptom. CONCLUSIONS:Mood instability and sleep disturbance are present in a wide range of mental disorders, beyond those in which they are conventionally considered to be symptoms. They are associated with poor outcomes, particularly when they occur together. The poor prognosis associated with mood instability and sleep disorder may be, in part, because they are often treated as secondary symptoms. Mood instability and sleep disturbance need better recognition as clinical targets for treatment in their own right.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1192/j.eurpsy.2020.39; html:https://europepmc.org/articles/PMC7355164; pdf:https://europepmc.org/articles/PMC7355164?pdf=render"
-  },
-  {
     "id": "31950891",
     "doi": "https://doi.org/10.1192/bjo.2019.96",
     "title": "Predicting high-cost care in a mental health setting.",
@@ -6951,6 +6968,23 @@
     "abstract": "BACKGROUND:The density of information in digital health records offers new potential opportunities for automated prediction of cost-relevant outcomes. AIMS:We investigated the extent to which routinely recorded data held in the electronic health record (EHR) predict priority service outcomes and whether natural language processing tools enhance the predictions. We evaluated three high priority outcomes: in-patient duration, readmission following in-patient care and high service cost after first presentation. METHOD:We used data obtained from a clinical database derived from the EHR of a large mental healthcare provider within the UK. We combined structured data with text-derived data relating to diagnosis statements, medication and psychiatric symptomatology. Predictors of the three different clinical outcomes were modelled using logistic regression with performance evaluated against a validation set to derive areas under receiver operating characteristic curves. RESULTS:In validation samples, the full models (using all available data) achieved areas under receiver operating characteristic curves between 0.59 and 0.85 (in-patient duration 0.63, readmission 0.59, high service use 0.85). Adding natural language processing-derived data to the models increased the variance explained across all clinical scenarios (observed increase in r2 = 12-46%). CONCLUSIONS:EHR data offer the potential to improve routine clinical predictions by utilising previously inaccessible data. Of our scenarios, prediction of high service use after initial presentation achieved the highest performance.",
     "laySummary": "This study uses data from a mental healthcare provider to predict 3 things: 1) extended duration of stay in a hospital, 2) the likelihood of needing to be admitted to hospital again after discharge, and 3) likehood of needing 'high intesity service' (high cost services). The authors developed a natural language processing model (a computer system than aims to interpret text and draw out useful information) to review the text, diagnoses, medications and the patient symptoms to work out which patients would fall within those 3 categories. They conclude that their model could be used to improve services through predicting users who will require the most intense and costly care.",
     "urls": "doi:https://doi.org/10.1192/bjo.2019.96; html:https://europepmc.org/articles/PMC7001466; pdf:https://europepmc.org/articles/PMC7001466?pdf=render"
+  },
+  {
+    "id": "32336304",
+    "doi": "https://doi.org/10.1192/j.eurpsy.2020.39",
+    "title": "Prevalence and incidence of clinical outcomes in patients presenting to secondary mental health care with mood instability and sleep disturbance.",
+    "authorString": "McDonald K, Smith T, Broadbent M, Patel R, Geddes JR, Saunders KEA.",
+    "authorAffiliations": "",
+    "journalTitle": "European psychiatry : the journal of the Association of European Psychiatrists",
+    "pubYear": "2020",
+    "date": "2020-04-27",
+    "isOpenAccess": "Y",
+    "keywords": "Sleep; Psychiatry; epidemiology; Mood; Electronic Health Records",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Mood instability and sleep disturbance are common symptoms in people with mental illness. Both features are clinically important and associated with poorer illness trajectories. We compared clinical outcomes in people presenting to secondary mental health care with mood instability and/or sleep disturbance with outcomes in people without either mood instability or sleep disturbance. METHODS:Data were from electronic health records of 31,391 patients ages 16-65 years presenting to secondary mental health services between 2008 and 2016. Mood instability and sleep disturbance were identified using natural language processing. Prevalence of mood instability and sleep disturbance were estimated at baseline. Incidence rate ratios were estimates for clinical outcomes including psychiatric diagnoses, prescribed medication, and hospitalization within 2-years of presentation in persons with mood instability and/or sleep disturbance compared to individuals without either symptom. RESULTS:Mood instability was present in 9.58%, and sleep disturbance in 26.26% of patients within 1-month of presenting to secondary mental health services. Compared with individuals without either symptom, those with mood instability and sleep disturbance showed significantly increased incidence of prescription of any psychotropic medication (incidence rate ratios [IRR] = 7.04, 95% confidence intervals [CI] 6.53-7.59), and hospitalization (IRR = 5.32, 95% CI 5.32, 4.67-6.07) within 2-years of presentation. Incidence rates of most clinical outcomes were considerably increased among persons with both mood instability and sleep disturbance, relative to persons with only one symptom. CONCLUSIONS:Mood instability and sleep disturbance are present in a wide range of mental disorders, beyond those in which they are conventionally considered to be symptoms. They are associated with poor outcomes, particularly when they occur together. The poor prognosis associated with mood instability and sleep disorder may be, in part, because they are often treated as secondary symptoms. Mood instability and sleep disturbance need better recognition as clinical targets for treatment in their own right.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1192/j.eurpsy.2020.39; html:https://europepmc.org/articles/PMC7355164; pdf:https://europepmc.org/articles/PMC7355164?pdf=render"
   },
   {
     "id": "31862893",
@@ -7191,6 +7225,23 @@
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz587; html:https://europepmc.org/articles/PMC6925382; pdf:https://europepmc.org/articles/PMC6925382?pdf=render"
   },
   {
+    "id": "31787481",
+    "doi": "https://doi.org/10.1016/j.schres.2019.10.061",
+    "title": "Association of physical health multimorbidity with mortality in people with schizophrenia spectrum disorders: Using a novel semantic search system that captures physical diseases in electronic patient records.",
+    "authorString": "Kugathasan P, Wu H, Gaughran F, Nielsen RE, Pritchard M, Dobson R, Stewart R, Stubbs B.",
+    "authorAffiliations": "",
+    "journalTitle": "Schizophrenia research",
+    "pubYear": "2020",
+    "date": "2019-11-28",
+    "isOpenAccess": "N",
+    "keywords": "Mortality; Schizophrenia; Somatic; Comorbidity; Severe Mental Illness",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVE:Single physical comorbidities have been associated with the premature mortality in people with schizophrenia-spectrum disorders (SSD). We investigated the association of physical multimorbidity (\u2265two physical health conditions) with mortality in people with SSD. METHODS:A retrospective cohort study between 2013 and 2017. All people with a diagnosis of SSD (ICD-10: F20-F29), who had contact with secondary mental healthcare within South London during 2011-2012 were included. A novel semantic search system captured conditions from electronic mental health records, and all-cause mortality were retrieved. Hazard ratios (HRs) and population attributable fractions (PAFs) were calculated for associations between physical multimorbidity and all-cause mortality. RESULTS:Among the 9775 people with SSD (mean (SD) age, 45.9 (15.4); males, 59.3%), 6262 (64%) had physical multimorbidity, and 880 (9%) died during the 5-year follow-up. The top three physical multimorbidity combinations with highest mortality were cardiovascular-respiratory (HR: 2.23; 95% CI, 1.49-3.32), respiratory-skin (HR: 2.06; 95% CI, 1.31-3.24), and respiratory-digestive (HR: 1.88; 95% CI, 1.14-3.11), when adjusted for age, gender, and all other physical disease systems. Combinations of physical diseases with highest PAFs were cardiovascular-respiratory (PAF: 35.7%), neurologic-respiratory (PAF: 32.7%), as well as respiratory-skin (PAF: 29.8%). CONCLUSIONS:Approximately 2/3 of patients with SSD had physical multimorbidity and the risk of mortality in these patients was further increased compared to those with none or single physical conditions. These findings suggest that in order to reduce the physical health burden and subsequent mortality in people with SSD, proactive coordinated prevention and management efforts are required and should extend beyond the current focus on single physical comorbidities.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.schres.2019.10.061"
+  },
+  {
     "id": "33075408",
     "doi": "https://doi.org/10.1016/j.jaci.2020.10.007",
     "title": "Factors associated with adverse COVID-19 outcomes in patients with psoriasis-insights from a global registry-based study.",
@@ -7208,21 +7259,21 @@
     "urls": "doi:https://doi.org/10.1016/j.jaci.2020.10.007; html:https://europepmc.org/articles/PMC7566694; pdf:https://europepmc.org/articles/PMC7566694?pdf=render"
   },
   {
-    "id": "31787481",
-    "doi": "https://doi.org/10.1016/j.schres.2019.10.061",
-    "title": "Association of physical health multimorbidity with mortality in people with schizophrenia spectrum disorders: Using a novel semantic search system that captures physical diseases in electronic patient records.",
-    "authorString": "Kugathasan P, Wu H, Gaughran F, Nielsen RE, Pritchard M, Dobson R, Stewart R, Stubbs B.",
+    "id": "PMC7739806",
+    "doi": "https://doi.org/10.1038/s41586-020-03043-4",
+    "title": "Mapping routine measles vaccination in low- and middle-income countries",
+    "authorString": "Local Burden of Disease Vaccine Coverage Collaborators.",
     "authorAffiliations": "",
-    "journalTitle": "Schizophrenia research",
+    "journalTitle": "Nature",
     "pubYear": "2020",
-    "date": "2019-11-28",
-    "isOpenAccess": "N",
-    "keywords": "Mortality; Schizophrenia; Somatic; Comorbidity; Severe Mental Illness",
+    "date": "2020-12-16",
+    "isOpenAccess": "Y",
+    "keywords": "Infectious diseases; Public Health; Disease Prevention",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "OBJECTIVE:Single physical comorbidities have been associated with the premature mortality in people with schizophrenia-spectrum disorders (SSD). We investigated the association of physical multimorbidity (\u2265two physical health conditions) with mortality in people with SSD. METHODS:A retrospective cohort study between 2013 and 2017. All people with a diagnosis of SSD (ICD-10: F20-F29), who had contact with secondary mental healthcare within South London during 2011-2012 were included. A novel semantic search system captured conditions from electronic mental health records, and all-cause mortality were retrieved. Hazard ratios (HRs) and population attributable fractions (PAFs) were calculated for associations between physical multimorbidity and all-cause mortality. RESULTS:Among the 9775 people with SSD (mean (SD) age, 45.9 (15.4); males, 59.3%), 6262 (64%) had physical multimorbidity, and 880 (9%) died during the 5-year follow-up. The top three physical multimorbidity combinations with highest mortality were cardiovascular-respiratory (HR: 2.23; 95% CI, 1.49-3.32), respiratory-skin (HR: 2.06; 95% CI, 1.31-3.24), and respiratory-digestive (HR: 1.88; 95% CI, 1.14-3.11), when adjusted for age, gender, and all other physical disease systems. Combinations of physical diseases with highest PAFs were cardiovascular-respiratory (PAF: 35.7%), neurologic-respiratory (PAF: 32.7%), as well as respiratory-skin (PAF: 29.8%). CONCLUSIONS:Approximately 2/3 of patients with SSD had physical multimorbidity and the risk of mortality in these patients was further increased compared to those with none or single physical conditions. These findings suggest that in order to reduce the physical health burden and subsequent mortality in people with SSD, proactive coordinated prevention and management efforts are required and should extend beyond the current focus on single physical comorbidities.",
+    "abstract": "The safe, highly effective measles vaccine has been recommended globally since 1974, yet in 2017 there were more than 17\u00a0million cases of measles and 83,400\u00a0deaths in children under 5\u00a0years old, and more than 99% of both occurred in low- and middle-income countries (LMICs)1\u20134. Globally comparable, annual, local estimates of routine first-dose measles-containing vaccine (MCV1) coverage are critical for understanding geographically precise immunity patterns, progress towards the targets of the Global Vaccine Action Plan (GVAP), and high-risk areas amid disruptions to vaccination programmes caused by coronavirus disease 2019 (COVID-19)5\u20138. Here we generated annual estimates of routine childhood MCV1 coverage at 5\u00a0\u00d7\u00a05-km2 pixel and second administrative levels from 2000 to 2019 in 101 LMICs, quantified geographical inequality and assessed vaccination status by geographical remoteness. After widespread MCV1 gains from 2000 to 2010, coverage regressed in more than half of the districts between 2010 and 2019, leaving many LMICs far from the GVAP goal of 80% coverage in all districts by 2019. MCV1 coverage was lower in rural than in urban locations, although a larger proportion of unvaccinated children overall lived in urban locations; strategies to provide essential vaccination services should address both geographical contexts. These results provide a tool for decision-makers to strengthen routine MCV1 immunization programmes and provide equitable disease protection for all children. Although progress in the coverage of routine measles vaccination in children in low- and middle-income countries was made during 2000\u20132019, many countries remain far from the goal of 80% coverage in all districts by 2019.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.schres.2019.10.061"
+    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7739806/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7739806/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC7739806; pdf:https://europepmc.org/articles/PMC7739806?pdf=render"
   },
   {
     "id": "31748235",
@@ -7293,23 +7344,6 @@
     "urls": "doi:https://doi.org/10.1002/pds.4811; html:https://europepmc.org/articles/PMC6618019; pdf:https://europepmc.org/articles/PMC6618019?pdf=render"
   },
   {
-    "id": "31995663",
-    "doi": "https://doi.org/10.1111/cts.12725",
-    "title": "Using Real-World Data to Guide Ustekinumab Dosing Strategies for Psoriasis: A Prospective Pharmacokinetic-Pharmacodynamic Study.",
-    "authorString": "Pan S, Tsakok T, Dand N, Lonsdale DO, Loeff FC, Bloem K, de Vries A, Baudry D, Duckworth M, Mahil S, Pushpa-Rajah A, Russell A, Alsharqi A, Becher G, Murphy R, Wahie S, Wright A, Griffiths CEM, Reynolds NJ, Barker J, Warren RB, David Burden A, Rispens T, Standing JF, Smith CH, BADBIR Study Group, the BSTOP Study Group, the PSORT Consortium.",
-    "authorAffiliations": "",
-    "journalTitle": "Clinical and translational science",
-    "pubYear": "2020",
-    "date": "2020-01-29",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "skin",
-    "abstract": "Variation in response to biologic therapy for inflammatory diseases, such as psoriasis, is partly driven by variation in drug exposure. Real-world psoriasis data were used to develop a pharmacokinetic/pharmacodynamic (PK/PD) model for the first-line therapeutic antibody ustekinumab. The impact of differing dosing strategies on response was explored. Data\u00a0were collected from a UK prospective multicenter observational cohort (491 patients on ustekinumab monotherapy, drug levels, and anti-drug antibody measurements on 797 serum samples, 1,590 measurements of Psoriasis Area Severity Index (PASI)). Ustekinumab PKs were described with a linear one-compartment model. A maximum effect (Emax ) model inhibited progression of psoriatic skin lesions in the turnover PD mechanism describing PASI evolution while on treatment. A mixture model on half-maximal effective concentration identified a potential nonresponder group, with simulations suggesting that, in future, the model could be incorporated into a Bayesian therapeutic drug monitoring \"dashboard\" to individualize dosing and improve treatment outcomes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/cts.12725; html:https://europepmc.org/articles/PMC7070790; pdf:https://europepmc.org/articles/PMC7070790?pdf=render"
-  },
-  {
     "id": "31666709",
     "doi": "https://doi.org/10.1038/s41433-019-0657-y",
     "title": "Comment on: 'Quantification of anterior chamber reaction after intravitreal injections of conbercept and ranibizumab: a pilot study'.",
@@ -7325,6 +7359,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41433-019-0657-y"
+  },
+  {
+    "id": "31995663",
+    "doi": "https://doi.org/10.1111/cts.12725",
+    "title": "Using Real-World Data to Guide Ustekinumab Dosing Strategies for Psoriasis: A Prospective Pharmacokinetic-Pharmacodynamic Study.",
+    "authorString": "Pan S, Tsakok T, Dand N, Lonsdale DO, Loeff FC, Bloem K, de Vries A, Baudry D, Duckworth M, Mahil S, Pushpa-Rajah A, Russell A, Alsharqi A, Becher G, Murphy R, Wahie S, Wright A, Griffiths CEM, Reynolds NJ, Barker J, Warren RB, David Burden A, Rispens T, Standing JF, Smith CH, BADBIR Study Group, the BSTOP Study Group, the PSORT Consortium.",
+    "authorAffiliations": "",
+    "journalTitle": "Clinical and translational science",
+    "pubYear": "2020",
+    "date": "2020-01-29",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "skin",
+    "abstract": "Variation in response to biologic therapy for inflammatory diseases, such as psoriasis, is partly driven by variation in drug exposure. Real-world psoriasis data were used to develop a pharmacokinetic/pharmacodynamic (PK/PD) model for the first-line therapeutic antibody ustekinumab. The impact of differing dosing strategies on response was explored. Data\u00a0were collected from a UK prospective multicenter observational cohort (491 patients on ustekinumab monotherapy, drug levels, and anti-drug antibody measurements on 797 serum samples, 1,590 measurements of Psoriasis Area Severity Index (PASI)). Ustekinumab PKs were described with a linear one-compartment model. A maximum effect (Emax ) model inhibited progression of psoriatic skin lesions in the turnover PD mechanism describing PASI evolution while on treatment. A mixture model on half-maximal effective concentration identified a potential nonresponder group, with simulations suggesting that, in future, the model could be incorporated into a Bayesian therapeutic drug monitoring \"dashboard\" to individualize dosing and improve treatment outcomes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/cts.12725; html:https://europepmc.org/articles/PMC7070790; pdf:https://europepmc.org/articles/PMC7070790?pdf=render"
   },
   {
     "id": "31699727",
@@ -7429,23 +7480,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ijcard.2020.09.053"
   },
   {
-    "id": "31951611",
-    "doi": "https://doi.org/10.1371/journal.pbio.3000586",
-    "title": "Dating genomic variants and shared ancestry in population-scale sequencing data.",
-    "authorString": "Albers PK, McVean G.",
-    "authorAffiliations": "",
-    "journalTitle": "PLoS biology",
-    "pubYear": "2020",
-    "date": "2020-01-17",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "The Human Phenome",
-    "healthCategories": "",
-    "abstract": "The origin and fate of new mutations within species is the fundamental process underlying evolution. However, while much attention has been focused on characterizing the presence, frequency, and phenotypic impact of genetic variation, the evolutionary histories of most variants are largely unexplored. We have developed a nonparametric approach for estimating the date of origin of genetic variants in large-scale sequencing data sets. The accuracy and robustness of the approach is demonstrated through simulation. Using data from two publicly available human genomic diversity resources, we estimated the age of more than 45 million single-nucleotide polymorphisms (SNPs) in the human genome and release the Atlas of Variant Age as a public online database. We characterize the relationship between variant age and frequency in different geographical regions and demonstrate the value of age information in interpreting variants of functional and selective importance. Finally, we use allele age estimates to power a rapid approach for inferring the ancestry shared between individual genomes and to quantify genealogical relationships at different points in the past, as well as to describe and explore the evolutionary history of modern human populations.",
-    "laySummary": " ",
-    "urls": "doi:https://doi.org/10.1371/journal.pbio.3000586; html:https://europepmc.org/articles/PMC6992231; pdf:https://europepmc.org/articles/PMC6992231?pdf=render"
-  },
-  {
     "id": "32934998",
     "doi": "https://doi.org/10.23889/ijpds.v3i1.412",
     "title": "Creating individual level air pollution exposures in an anonymised data safe haven: a platform for evaluating impact on educational attainment.",
@@ -7461,6 +7495,23 @@
     "abstract": "Introduction:There is a lack of evidence on the adverse effects of air pollution on cognition for people with air quality-related health conditions. We propose that educational attainment, as a proxy for cognition, may increase with improved air quality. This study will explore whether asthma and seasonal allergic rhinitis, when exacerbated by acute exposure to air pollution, is associated with educational attainment. Objective:To describe the preparation of individual and household-level linked environmental and health data for analysis within an anonymised safe haven. Also to introduce our statistical analysis plan for our study: COgnition, Respiratory Tract illness and Effects of eXposure (CORTEX). Methods:We imported daily air pollution and aeroallergen data, and individual level education data into the SAIL databank, an anonymised safe haven for person-based records. We linked individual-level education, socioeconomic and health data to air quality data for home and school locations, creating tailored exposures for individuals across a city. We developed daily exposure data for all pupils in repeated cross sectional exam cohorts (2009-2015). Conclusion:We have used the SAIL databank, an innovative, data safe haven to create individual-level exposures to air pollution and pollen for multiple daily home and school locations. The analysis platform will allow us to evaluate retrospectively the impact of air quality on attainment for multiple cross-sectional cohorts of pupils. Our methods will allow us to distinguish between the pollution impacts on educational attainment for pupils with and without respiratory health conditions. The results from this study will further our understanding of the effects of air quality and respiratory-related health conditions on cognition. Highlights:This city-wide study includes longitudinal routinely-recorded educational attainment data for all pupils taking exams over seven years;High spatial resolution air pollution data were linked within a privacy protected databank to obtain individual exposure at multiple daily locations;This study will use health data linked at the individual level to explore associations between air pollution, related morbidity, and educational attainment.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.23889/ijpds.v3i1.412; html:https://europepmc.org/articles/PMC7299475; pdf:https://europepmc.org/articles/PMC7299475?pdf=render"
+  },
+  {
+    "id": "31951611",
+    "doi": "https://doi.org/10.1371/journal.pbio.3000586",
+    "title": "Dating genomic variants and shared ancestry in population-scale sequencing data.",
+    "authorString": "Albers PK, McVean G.",
+    "authorAffiliations": "",
+    "journalTitle": "PLoS biology",
+    "pubYear": "2020",
+    "date": "2020-01-17",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "The Human Phenome",
+    "healthCategories": "",
+    "abstract": "The origin and fate of new mutations within species is the fundamental process underlying evolution. However, while much attention has been focused on characterizing the presence, frequency, and phenotypic impact of genetic variation, the evolutionary histories of most variants are largely unexplored. We have developed a nonparametric approach for estimating the date of origin of genetic variants in large-scale sequencing data sets. The accuracy and robustness of the approach is demonstrated through simulation. Using data from two publicly available human genomic diversity resources, we estimated the age of more than 45 million single-nucleotide polymorphisms (SNPs) in the human genome and release the Atlas of Variant Age as a public online database. We characterize the relationship between variant age and frequency in different geographical regions and demonstrate the value of age information in interpreting variants of functional and selective importance. Finally, we use allele age estimates to power a rapid approach for inferring the ancestry shared between individual genomes and to quantify genealogical relationships at different points in the past, as well as to describe and explore the evolutionary history of modern human populations.",
+    "laySummary": " ",
+    "urls": "doi:https://doi.org/10.1371/journal.pbio.3000586; html:https://europepmc.org/articles/PMC6992231; pdf:https://europepmc.org/articles/PMC6992231?pdf=render"
   },
   {
     "id": "33174830",
@@ -8823,23 +8874,6 @@
     "urls": "doi:https://doi.org/10.1056/NEJMoa1907096"
   },
   {
-    "id": "32380893",
-    "doi": "https://doi.org/10.1177/0962280220920669",
-    "title": "Optimal individualized decision rules from a multi-arm trial: A comparison of methods and an application to tailoring inter-donation intervals among blood donors in the UK.",
-    "authorString": "Xu Y, Wood AM, Sweeting MJ, Roberts DJ, Tom BD.",
-    "authorAffiliations": "",
-    "journalTitle": "Statistical methods in medical research",
-    "pubYear": "2020",
-    "date": "2020-05-08",
-    "isOpenAccess": "Y",
-    "keywords": "Blood Donation; Precision Medicine; Individualized Treatment Rule; Utility Function; Multi-arm Trial",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "There is a growing interest in precision medicine where individual heterogeneity is incorporated into decision-making and treatments are tailored to individuals to provide better healthcare. One important aspect of precision medicine is the estimation of the optimal individualized treatment rule (ITR) that optimizes the expected outcome. Most methods developed for this purpose are restricted to the setting with two treatments, while clinical studies with more than two treatments are common in practice. In this work, we summarize methods to estimate the optimal ITR in the multi-arm setting and compare their performance in large-scale clinical trials via simulation studies. We then illustrate their utilities with a case study using the data from the INTERVAL trial, which randomly assigned over 20,000 male blood donors from England to one of the three inter-donation intervals (12-week, 10-week, and eight-week) over two\u2009years. We estimate the optimal individualized donation strategies under three different objectives. Our findings are fairly consistent across five different approaches that are applied: when we target the maximization of the total units of blood collected, almost all donors are assigned to the eight-week inter-donation interval, whereas if we aim at minimizing the low hemoglobin deferral rates, almost all donors are assigned to donate every 12\u2009weeks. However, when the goal is to maximize the utility score that \"discounts\" the total units of blood collected by the incidences of low hemoglobin deferrals, we observe some heterogeneity in the optimal inter-donation interval across donors and the optimal donor assignment strategy is highly dependent on the trade-off parameter in the utility function.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1177/0962280220920669; html:https://europepmc.org/articles/PMC7682530; pdf:https://europepmc.org/articles/PMC7682530?pdf=render"
-  },
-  {
     "id": "31382511",
     "doi": "https://doi.org/10.3390/toxins11080454",
     "title": "Indoxyl Sulfate Stimulates Angiogenesis by Regulating Reactive Oxygen Species Production via CYP1B1.",
@@ -8855,6 +8889,23 @@
     "abstract": "Indoxyl sulfate (IS) is an accumulative protein-bound uremic toxin found in patients with kidney disease. It is reported that IS impairs the vascular endothelium, but a comprehensive overview of all mechanisms active in IS-injury currently remains lacking. Here we performed RNA sequencing in human umbilical vein endothelial cells (HUVECs) after IS or control medium treatment and identified 1293 genes that were affected in a IS-induced response. Gene enrichment analysis highlighted pathways involved in altered vascular formation and cell metabolism. We confirmed these transcriptome profiles at the functional level by demonstrating decreased viability and increased cell senescence in response to IS treatment. In line with the additional pathways highlighted by the transcriptome analysis, we further could demonstrate that IS exposure of HUVECs promoted tubule formation as shown by the increase in total tubule length in a 3D HUVECs/pericytes co-culture assay. Notably, the pro-angiogenic response of IS and increased ROS production were abolished when CYP1B1, one of the main target genes that was highly upregulated by IS, was silenced. This observation indicates IS-induced ROS in endothelial cells is CYP1B1-dependent. Taken together, our findings demonstrate that IS promotes angiogenesis and CYP1B1 is an important factor in IS-activated angiogenic response.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/toxins11080454; html:https://europepmc.org/articles/PMC6723868; pdf:https://europepmc.org/articles/PMC6723868?pdf=render"
+  },
+  {
+    "id": "32380893",
+    "doi": "https://doi.org/10.1177/0962280220920669",
+    "title": "Optimal individualized decision rules from a multi-arm trial: A comparison of methods and an application to tailoring inter-donation intervals among blood donors in the UK.",
+    "authorString": "Xu Y, Wood AM, Sweeting MJ, Roberts DJ, Tom BD.",
+    "authorAffiliations": "",
+    "journalTitle": "Statistical methods in medical research",
+    "pubYear": "2020",
+    "date": "2020-05-08",
+    "isOpenAccess": "Y",
+    "keywords": "Blood Donation; Precision Medicine; Individualized Treatment Rule; Utility Function; Multi-arm Trial",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "There is a growing interest in precision medicine where individual heterogeneity is incorporated into decision-making and treatments are tailored to individuals to provide better healthcare. One important aspect of precision medicine is the estimation of the optimal individualized treatment rule (ITR) that optimizes the expected outcome. Most methods developed for this purpose are restricted to the setting with two treatments, while clinical studies with more than two treatments are common in practice. In this work, we summarize methods to estimate the optimal ITR in the multi-arm setting and compare their performance in large-scale clinical trials via simulation studies. We then illustrate their utilities with a case study using the data from the INTERVAL trial, which randomly assigned over 20,000 male blood donors from England to one of the three inter-donation intervals (12-week, 10-week, and eight-week) over two\u2009years. We estimate the optimal individualized donation strategies under three different objectives. Our findings are fairly consistent across five different approaches that are applied: when we target the maximization of the total units of blood collected, almost all donors are assigned to the eight-week inter-donation interval, whereas if we aim at minimizing the low hemoglobin deferral rates, almost all donors are assigned to donate every 12\u2009weeks. However, when the goal is to maximize the utility score that \"discounts\" the total units of blood collected by the incidences of low hemoglobin deferrals, we observe some heterogeneity in the optimal inter-donation interval across donors and the optimal donor assignment strategy is highly dependent on the trade-off parameter in the utility function.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1177/0962280220920669; html:https://europepmc.org/articles/PMC7682530; pdf:https://europepmc.org/articles/PMC7682530?pdf=render"
   },
   {
     "id": "30768153",
@@ -9622,23 +9673,6 @@
     "urls": "doi:https://doi.org/10.1016/S2214-109X(20)30278-3; html:https://europepmc.org/articles/PMC7443708"
   },
   {
-    "id": "30497965",
-    "doi": "https://doi.org/10.1016/s1474-4422(18)30415-0",
-    "title": "Global, regional, and national burden of traumatic brain injury and spinal cord injury, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.",
-    "authorString": "GBD 2016 Traumatic Brain Injury and Spinal Cord Injury Collaborators.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Neurology",
-    "pubYear": "2019",
-    "date": "2018-11-26",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Traumatic brain injury (TBI) and spinal cord injury (SCI) are increasingly recognised as global health priorities in view of the preventability of most injuries and the complex and expensive medical care they necessitate. We aimed to measure the incidence, prevalence, and years of life lived with disability (YLDs) for TBI and SCI from all causes of injury in every country, to describe how these measures have changed between 1990 and 2016, and to estimate the proportion of TBI and SCI cases caused by different types of injury. METHODS:We used results from the Global Burden of Diseases, Injuries, and Risk Factors (GBD) Study 2016 to measure the global, regional, and national burden of TBI and SCI by age and sex. We measured the incidence and prevalence of all causes of injury requiring medical care in inpatient and outpatient records, literature studies, and survey data. By use of clinical record data, we estimated the proportion of each cause of injury that required medical care that would result in TBI or SCI being considered as the nature of injury. We used literature studies to establish standardised mortality ratios and applied differential equations to convert incidence to prevalence of long-term disability. Finally, we applied GBD disability weights to calculate YLDs. We used a Bayesian meta-regression tool for epidemiological modelling, used cause-specific mortality rates for non-fatal estimation, and adjusted our results for disability experienced with comorbid conditions. We also analysed results on the basis of the Socio-demographic Index, a compound measure of income per capita, education, and fertility. FINDINGS:In 2016, there were 27\u00b708 million (95% uncertainty interval [UI] 24\u00b730-30\u00b730 million) new cases of TBI and 0\u00b793 million (0\u00b778-1\u00b716 million) new cases of SCI, with age-standardised incidence rates of 369 (331-412) per 100\u2008000 population for TBI and 13 (11-16) per 100\u2008000 for SCI. In 2016, the number of prevalent cases of TBI was 55\u00b750 million (53\u00b740-57\u00b762 million) and of SCI was 27\u00b704 million (24\u00b798-30\u00b715 million). From 1990 to 2016, the age-standardised prevalence of TBI increased by 8\u00b74% (95% UI 7\u00b77 to 9\u00b72), whereas that of SCI did not change significantly (-0\u00b72% [-2\u00b71 to 2\u00b77]). Age-standardised incidence rates increased by 3\u00b76% (1\u00b78 to 5\u00b75) for TBI, but did not change significantly for SCI (-3\u00b76% [-7\u00b74 to 4\u00b70]). TBI caused 8\u00b71 million (95% UI 6\u00b70-10\u00b74 million) YLDs and SCI caused 9\u00b75 million (6\u00b77-12\u00b74 million) YLDs in 2016, corresponding to age-standardised rates of 111 (82-141) per 100\u2008000 for TBI and 130 (90-170) per 100\u2008000 for SCI. Falls and road injuries were the leading causes of new cases of TBI and SCI in most regions. INTERPRETATION:TBI and SCI constitute a considerable portion of the global injury burden and are caused primarily by falls and road injuries. The increase in incidence of TBI over time might continue in view of increases in population density, population ageing, and increasing use of motor vehicles, motorcycles, and bicycles. The number of individuals living with SCI is expected to increase in view of population growth, which is concerning because of the specialised care that people with SCI can require. Our study was limited by data sparsity in some regions, and it will be important to invest greater resources in collection of data for TBI and SCI to improve the accuracy of future assessments. FUNDING:Bill & Melinda Gates Foundation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S1474-4422(18)30415-0; html:https://europepmc.org/articles/PMC6291456; pdf:https://europepmc.org/articles/PMC6291456?pdf=render"
-  },
-  {
     "id": "30497795",
     "doi": "https://doi.org/10.1016/s0140-6736(18)32207-4",
     "title": "Changes in health in the countries of the UK and 150 English Local Authority areas 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.",
@@ -9654,6 +9688,23 @@
     "abstract": "BACKGROUND:Previous studies have reported national and regional Global Burden of Disease (GBD) estimates for the UK. Because of substantial variation in health within the UK, action to improve it requires comparable estimates of disease burden and risks at country and local levels. The slowdown in the rate of improvement in life expectancy requires further investigation. We use GBD 2016 data on mortality, causes of death, and disability to analyse the burden of disease in the countries of the UK and within local authorities in England by deprivation quintile. METHODS:We extracted data from the GBD 2016 to estimate years of life lost (YLLs), years lived with disability (YLDs), disability-adjusted life-years (DALYs), and attributable risks from 1990 to 2016 for England, Scotland, Wales, Northern Ireland, the UK, and 150 English Upper-Tier Local Authorities. We estimated the burden of disease by cause of death, condition, year, and sex. We analysed the association between burden of disease and socioeconomic deprivation using the Index of Multiple Deprivation. We present results for all 264 GBD causes of death combined and the leading 20 specific causes, and all 84 GBD risks or risk clusters combined and 17 specific risks or risk clusters. FINDINGS:The leading causes of age-adjusted YLLs in all UK countries in 2016 were ischaemic heart disease, lung cancers, cerebrovascular disease, and chronic obstructive pulmonary disease. Age-standardised rates of YLLs for all causes varied by two times between local areas in England according to levels of socioeconomic deprivation (from 14\u2008274 per 100\u2008000 population [95% uncertainty interval 12\u2008791-15\u2008875] in Blackpool to 6888 [6145-7739] in Wokingham). Some Upper-Tier Local Authorities, particularly those in London, did better than expected for their level of deprivation. Allowing for differences in age structure, more deprived Upper-Tier Local Authorities had higher attributable YLLs for most major risk factors in the GBD. The population attributable fractions for all-cause YLLs for individual major risk factors varied across Upper-Tier Local Authorities. Life expectancy and YLLs have improved more slowly since 2010 in all UK countries compared with 1990-2010. In nine of 150 Upper-Tier Local Authorities, YLLs increased after 2010. For attributable YLLs, the rate of improvement slowed most substantially for cardiovascular disease and breast, colorectal, and lung cancers, and showed little change for Alzheimer's disease and other dementias. Morbidity makes an increasing contribution to overall burden in the UK compared with mortality. The age-standardised UK DALY rate for low back and neck pain (1795 [1258-2356]) was higher than for ischaemic heart disease (1200 [1155-1246]) or lung cancer (660 [642-679]). The leading causes of ill health (measured through YLDs) in the UK in 2016 were low back and neck pain, skin and subcutaneous diseases, migraine, depressive disorders, and sense organ disease. Age-standardised YLD rates varied much less than equivalent YLL rates across the UK, which reflects the relative scarcity of local data on causes of ill health. INTERPRETATION:These estimates at local, regional, and national level will allow policy makers to match resources and priorities to levels of burden and risk factors. Improvement in YLLs and life expectancy slowed notably after 2010, particularly in cardiovascular disease and cancer, and targeted actions are needed if the rate of improvement is to recover. A targeted policy response is also required to address the increasing proportion of burden due to morbidity, such as musculoskeletal problems and depression. Improving the quality and completeness of available data on these causes is an essential component of this response. FUNDING:Bill & Melinda Gates Foundation and Public Health England.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S0140-6736(18)32207-4; html:https://europepmc.org/articles/PMC6215773; pdf:https://europepmc.org/articles/PMC6215773?pdf=render"
+  },
+  {
+    "id": "30497965",
+    "doi": "https://doi.org/10.1016/s1474-4422(18)30415-0",
+    "title": "Global, regional, and national burden of traumatic brain injury and spinal cord injury, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.",
+    "authorString": "GBD 2016 Traumatic Brain Injury and Spinal Cord Injury Collaborators.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Neurology",
+    "pubYear": "2019",
+    "date": "2018-11-26",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Traumatic brain injury (TBI) and spinal cord injury (SCI) are increasingly recognised as global health priorities in view of the preventability of most injuries and the complex and expensive medical care they necessitate. We aimed to measure the incidence, prevalence, and years of life lived with disability (YLDs) for TBI and SCI from all causes of injury in every country, to describe how these measures have changed between 1990 and 2016, and to estimate the proportion of TBI and SCI cases caused by different types of injury. METHODS:We used results from the Global Burden of Diseases, Injuries, and Risk Factors (GBD) Study 2016 to measure the global, regional, and national burden of TBI and SCI by age and sex. We measured the incidence and prevalence of all causes of injury requiring medical care in inpatient and outpatient records, literature studies, and survey data. By use of clinical record data, we estimated the proportion of each cause of injury that required medical care that would result in TBI or SCI being considered as the nature of injury. We used literature studies to establish standardised mortality ratios and applied differential equations to convert incidence to prevalence of long-term disability. Finally, we applied GBD disability weights to calculate YLDs. We used a Bayesian meta-regression tool for epidemiological modelling, used cause-specific mortality rates for non-fatal estimation, and adjusted our results for disability experienced with comorbid conditions. We also analysed results on the basis of the Socio-demographic Index, a compound measure of income per capita, education, and fertility. FINDINGS:In 2016, there were 27\u00b708 million (95% uncertainty interval [UI] 24\u00b730-30\u00b730 million) new cases of TBI and 0\u00b793 million (0\u00b778-1\u00b716 million) new cases of SCI, with age-standardised incidence rates of 369 (331-412) per 100\u2008000 population for TBI and 13 (11-16) per 100\u2008000 for SCI. In 2016, the number of prevalent cases of TBI was 55\u00b750 million (53\u00b740-57\u00b762 million) and of SCI was 27\u00b704 million (24\u00b798-30\u00b715 million). From 1990 to 2016, the age-standardised prevalence of TBI increased by 8\u00b74% (95% UI 7\u00b77 to 9\u00b72), whereas that of SCI did not change significantly (-0\u00b72% [-2\u00b71 to 2\u00b77]). Age-standardised incidence rates increased by 3\u00b76% (1\u00b78 to 5\u00b75) for TBI, but did not change significantly for SCI (-3\u00b76% [-7\u00b74 to 4\u00b70]). TBI caused 8\u00b71 million (95% UI 6\u00b70-10\u00b74 million) YLDs and SCI caused 9\u00b75 million (6\u00b77-12\u00b74 million) YLDs in 2016, corresponding to age-standardised rates of 111 (82-141) per 100\u2008000 for TBI and 130 (90-170) per 100\u2008000 for SCI. Falls and road injuries were the leading causes of new cases of TBI and SCI in most regions. INTERPRETATION:TBI and SCI constitute a considerable portion of the global injury burden and are caused primarily by falls and road injuries. The increase in incidence of TBI over time might continue in view of increases in population density, population ageing, and increasing use of motor vehicles, motorcycles, and bicycles. The number of individuals living with SCI is expected to increase in view of population growth, which is concerning because of the specialised care that people with SCI can require. Our study was limited by data sparsity in some regions, and it will be important to invest greater resources in collection of data for TBI and SCI to improve the accuracy of future assessments. FUNDING:Bill & Melinda Gates Foundation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S1474-4422(18)30415-0; html:https://europepmc.org/articles/PMC6291456; pdf:https://europepmc.org/articles/PMC6291456?pdf=render"
   },
   {
     "id": "32888494",
@@ -10064,23 +10115,6 @@
     "urls": "doi:https://doi.org/10.1038/s41467-019-13690-5; html:https://europepmc.org/articles/PMC6952380; pdf:https://europepmc.org/articles/PMC6952380?pdf=render"
   },
   {
-    "id": "33069324",
-    "doi": "https://doi.org/10.1016/s0140-6736(20)31404-5",
-    "title": "Five insights from the Global Burden of Disease Study 2019.",
-    "authorString": "GBD 2019 Viewpoint Collaborators.",
-    "authorAffiliations": "",
-    "journalTitle": "Lancet (London, England)",
-    "pubYear": "2020",
-    "date": "2020-10-01",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2019 provides a rules-based synthesis of the available evidence on levels and trends in health outcomes, a diverse set of risk factors, and health system responses. GBD 2019 covered 204 countries and territories, as well as first administrative level disaggregations for 22 countries, from 1990 to 2019. Because GBD is highly standardised and comprehensive, spanning both fatal and non-fatal outcomes, and uses a mutually exclusive and collectively exhaustive list of hierarchical disease and injury causes, the study provides a powerful basis for detailed and broad insights on global health trends and emerging challenges. GBD 2019 incorporates data from 281\u2008586 sources and provides more than 3\u00b75 billion estimates of health outcome and health system measures of interest for global, national, and subnational policy dialogue. All GBD estimates are publicly available and adhere to the Guidelines on Accurate and Transparent Health Estimate Reporting. From this vast amount of information, five key insights that are important for health, social, and economic development strategies have been distilled. These insights are subject to the many limitations outlined in each of the component GBD capstone papers.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31404-5; html:https://europepmc.org/articles/PMC7116361; pdf:https://europepmc.org/articles/PMC7116361?pdf=render; doi:https://doi.org/10.1016/s0140-6736(20)31404-5"
-  },
-  {
     "id": "33230300",
     "doi": "https://doi.org/10.1038/s41588-020-00713-x",
     "title": "Discovery of rare variants associated with blood pressure regulation through meta-analysis of 1.3 million individuals.",
@@ -10096,6 +10130,23 @@
     "abstract": "Genetic studies of blood pressure (BP) to date have mainly analyzed common variants (minor allele frequency\u2009>\u20090.05). In a meta-analysis of up to ~1.3 million participants, we discovered 106 new BP-associated genomic regions and 87 rare (minor allele frequency\u2009\u2264\u20090.01) variant BP associations (P\u2009<\u20095\u2009\u00d7\u200910<sup>-8</sup>), of which 32 were in new BP-associated loci and 55 were independent BP-associated single-nucleotide variants within known BP-associated regions. Average effects of rare variants (44% coding) were ~8 times larger than common variant effects and indicate potential candidate causal genes at new and known loci (for example, GATA5 and PLCB3). BP-associated variants (including rare and common) were enriched in regions of active chromatin in fetal tissues, potentially linking fetal development with BP regulation in later life. Multivariable Mendelian randomization suggested possible inverse effects of elevated systolic and diastolic BP on large artery stroke. Our study demonstrates the utility of rare-variant analyses for identifying candidate genes and the results highlight potential therapeutic targets.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41588-020-00713-x"
+  },
+  {
+    "id": "33069324",
+    "doi": "https://doi.org/10.1016/s0140-6736(20)31404-5",
+    "title": "Five insights from the Global Burden of Disease Study 2019.",
+    "authorString": "GBD 2019 Viewpoint Collaborators.",
+    "authorAffiliations": "",
+    "journalTitle": "Lancet (London, England)",
+    "pubYear": "2020",
+    "date": "2020-10-01",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2019 provides a rules-based synthesis of the available evidence on levels and trends in health outcomes, a diverse set of risk factors, and health system responses. GBD 2019 covered 204 countries and territories, as well as first administrative level disaggregations for 22 countries, from 1990 to 2019. Because GBD is highly standardised and comprehensive, spanning both fatal and non-fatal outcomes, and uses a mutually exclusive and collectively exhaustive list of hierarchical disease and injury causes, the study provides a powerful basis for detailed and broad insights on global health trends and emerging challenges. GBD 2019 incorporates data from 281\u2008586 sources and provides more than 3\u00b75 billion estimates of health outcome and health system measures of interest for global, national, and subnational policy dialogue. All GBD estimates are publicly available and adhere to the Guidelines on Accurate and Transparent Health Estimate Reporting. From this vast amount of information, five key insights that are important for health, social, and economic development strategies have been distilled. These insights are subject to the many limitations outlined in each of the component GBD capstone papers.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31404-5; html:https://europepmc.org/articles/PMC7116361; pdf:https://europepmc.org/articles/PMC7116361?pdf=render; doi:https://doi.org/10.1016/s0140-6736(20)31404-5"
   },
   {
     "id": "31664920",
