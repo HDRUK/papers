@@ -1,13 +1,13 @@
-oncology,cell biology,transplantation,pathology,primary care research,zoology,radiology and imaging,cardiovascular medicine,allergy and immunology,plant biology,pharmacology and toxicology,neuroscience,dentistry and oral medicine,pharmacology and therapeutics,gastroenterology,infectious diseases,medical education,nephrology,evolutionary biology,molecular biology,endocrinology,toxicology,developmental biology,Total,microbiology,bioengineering,urology,genetic and genomic medicine,biochemistry,intensive care and critical care medicine,scientific communication and education,ophthalmology,occupational and environmental health,health policy,emergency medicine,systems biology,surgery,respiratory medicine,nutrition,genomics,immunology,psychiatry and clinical psychology,epidemiology,geriatric medicine,hiv aids,anesthesia,synthetic biology,health systems and quality improvement,month,genetics,health informatics,bioinformatics,physiology,neurology,nursing,rheumatology,pediatrics,public and global health,health economics,biophysics,ecology,addiction medicine,hematology,obstetrics and gynecology
-,,,1,1,,1,,,,,,1,,,29,1,1,,,,,,70,,,,1,,3,,,4,1,1,,,,,1,,3,15,,,,,2,Jan-21,,,,,,,,,4,,,,,,
-,,,2,1,,1,3,,,1,,,,1,23,,,,,,,,91,5,,,3,2,,1,,,,,,1,,,3,2,7,15,1,,,,1,Dec-20,,4,5,1,,,,1,7,,,,,,
-,,,2,,,,1,2,,2,,,,,66,,,,,1,,,184,5,,,1,2,2,,,2,5,,1,,1,,,4,3,42,2,2,1,1,,Nov-20,,3,4,,,,,2,23,1,2,1,,,
-1,,,1,1,,1,1,,1,,,,,,36,,,1,,,,,118,7,1,,1,3,1,,,,4,,1,,1,,,4,5,28,1,1,,,1,Oct-20,,2,1,,,,,1,11,1,,,,,
-,,,,1,,1,,1,,,,,,,25,1,,,,,,,78,2,,,,,3,,,2,1,3,,,,,,1,1,25,,1,,,,Sep-20,,3,,,1,,,,5,,,,1,,
-,1,,1,,1,,,,,,,1,1,,26,,,,2,,,1,97,8,,,1,2,3,,,2,,2,,1,,,3,1,1,23,,,,,1,Aug-20,,1,1,,,,,,9,,2,,,1,1
-,1,1,2,,,1,2,,,2,1,,,1,31,,,,1,,,,113,7,,,1,4,1,,,1,1,,,,1,,2,3,3,25,,1,,,,Jul-20,1,,2,,1,,1,1,11,,2,,,,1
-1,1,,1,,,,1,3,,,,,,,63,1,,1,1,,1,,175,10,,,3,3,6,,1,2,4,1,,,2,1,,4,5,29,1,,,,1,Jun-20,2,5,5,,,1,,,12,,1,,1,1,
-2,1,,,,,4,4,,,,,,2,,38,,,1,2,,,,167,7,,,,,2,,1,2,4,1,2,,2,,2,3,2,39,1,1,,,5,May-20,,6,8,,1,,,2,20,1,,,,,1
-,,,2,,,2,1,,,1,,,2,,34,,1,1,1,,,,142,2,,,3,,3,1,,,3,2,,,,,1,1,1,63,,,1,,3,Apr-20,1,3,,,,,,,8,,,,,,1
-,,,,,,,,,,1,,,,,6,,,,,,,,19,1,,,,,,,,1,,,,,,,,,,5,,,,,,Mar-20,,1,,,,,,,3,1,,,,,
-,,,,,,,,,,,,,,,4,,,,,,,,12,,,1,,,,,,,,,,,,,,,,5,,,,,,Feb-20,,,,,,,,,2,,,,,,
+pharmacology and therapeutics,infectious diseases,respiratory medicine,hematology,evolutionary biology,health economics,bioengineering,health systems and quality improvement,neurology,rheumatology,geriatric medicine,anesthesia,physiology,nephrology,radiology and imaging,month,Total,genetic and genomic medicine,bioinformatics,microbiology,molecular biology,pathology,biophysics,addiction medicine,ophthalmology,transplantation,urology,pediatrics,sexual and reproductive health,primary care research,immunology,hiv aids,genetics,zoology,psychiatry and clinical psychology,allergy and immunology,public and global health,systems biology,obstetrics and gynecology,oncology,developmental biology,nursing,scientific communication and education,orthopedics,health policy,biochemistry,health informatics,cardiovascular medicine,emergency medicine,medical education,epidemiology,plant biology,gastroenterology,surgery,cell biology,genomics,nutrition,toxicology,occupational and environmental health,intensive care and critical care medicine,pharmacology and toxicology,dentistry and oral medicine
+1,26,,,,1,,1,,,,,,,1,Jan-21,67,1,,,,1,,,,,,,,1,,,,,3,1,2,,,,,,,,1,,,,1,,16,,,,,1,1,,4,3,,1
+,17,,,,,,,,,1,,1,,3,Dec-20,99,2,5,10,,2,,,,,,1,,1,5,,,,7,,12,,,,,,1,,,2,3,2,,1,17,,1,1,,3,,,,,1,
+,59,1,,,1,,,,,1,,,,,Nov-20,141,1,3,5,1,2,2,,,,,1,,,3,3,1,,1,1,13,1,,,,,,,4,2,2,1,,,29,,,,,,,,2,1,,
+,39,1,,1,1,1,2,,,1,,,,,Oct-20,127,1,1,9,,1,2,,,,,,,1,5,1,,,5,,8,1,,1,,,,,4,2,3,1,,1,30,1,,,,1,,,,2,,
+,39,,,,1,,1,1,,,,,,1,Sep-20,119,,,2,,,,2,,,,,1,1,1,1,,,3,2,17,,,,,,,,3,,4,,4,1,29,,1,,,,,,1,3,,
+1,29,,1,,1,,1,,,,,,,,Aug-20,100,1,1,6,2,1,1,,,,,,,,1,,,1,1,,13,,1,,1,,,1,,2,1,,2,,21,,,1,,2,,,2,4,,1
+,30,1,,,,,,2,1,,,,,1,Jul-20,125,2,2,5,3,3,2,,,1,,,,,10,,1,,2,1,11,,,,,,1,,3,6,1,3,,,26,,1,1,,2,,,1,1,1,
+,49,3,1,1,,,1,,,1,,,,,Jun-20,156,2,4,14,1,,2,1,1,,,,,,5,,1,,5,1,11,,,1,,1,,,5,3,6,1,,1,27,,,,,,1,1,2,3,,
+2,36,3,,1,1,,5,1,,1,,,,3,May-20,162,,8,6,2,,,,1,,,2,,,2,1,,,3,,13,1,1,1,,,,,5,1,5,4,1,,47,,,,1,2,,,1,1,,
+2,28,1,,2,1,,3,,,,1,,1,4,Apr-20,150,3,4,6,1,1,1,,,,,,,,1,,1,,2,,9,,1,1,,,1,,2,1,1,1,2,,58,,,,,3,,,2,5,,
+,4,,,,1,,,,,,,,,,Mar-20,16,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,1,,,,5,,,,,,,,1,,1,
+,4,,,,,,,,,,,,,,Feb-20,12,,,,,,,,,,1,,,,,,,,,,2,,,,,,,,,,,,,,5,,,,,,,,,,,
