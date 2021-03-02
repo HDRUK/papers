@@ -1,6 +1,20 @@
 [
   {
     "site": "medRxiv",
+    "doi": "10.1101/2021.02.27.21252593",
+    "date": "2021-03-01",
+    "link": "https://medrxiv.org/cgi/content/short/2021.02.27.21252593",
+    "title": "Surgical activity in England and Wales during the COVID-19 pandemic: a nationwide observational cohort study",
+    "authors": "Thomas D Dobbs; John A G Gibson; Alexander J Fowler; Tom E Abbott; Tasnin Shahid; Fatemeh Torabi; Rowena Griffiths; Ronan A Lyons; Rupert M Pearse; Iain S Whitaker",
+    "affiliations": "Swansea University Medical School; Swansea University Medical School; Queen Mary, University of London; Queen Mary University of London; Queen Mary University of London; Swansea University; Swansea University; Swansea University; Queen Mary University of London; Swansea University Medical School",
+    "abstract": "Objectives: To report the volume of surgical activity and the number of cancelled surgical procedures during the COVID-19 pandemic. Design and setting: Analysis of electronic health record data from the National Health Service (NHS) in England and Wales. Methods: We used hospital episode statistics for all adult patients undergoing surgery between 1st January 2020 and 31st December 2020. We identified surgical procedures using a previously published list of procedure codes. Procedures were stratified by urgency of surgery as defined by NHS England. We calculated the deficit of surgical activity by comparing the expected number of procedures from the years 2016-2019 with the actual number of procedures in 2020. We estimated the cumulative number of cancelled procedures by 31st December 2021 according patterns of activity in 2020. Results: The total number of surgical procedures carried out in England and Wales in 2020 was 3,102,674 compared to the predicted number of 4,671,338. This represents a 33.6% reduction in the national volume of surgical activity. There were 763,730 emergency surgical procedures (13.4% reduction), compared to 2,338,944 elective surgical procedures (38.6% reduction). The cumulative number of cancelled or postponed procedures was 1,568,664. We estimate that this will increase to 2,358,420 by 31st December 2021. Conclusions: The volume of surgical activity in England and Wales was reduced by 33.6% in 2020, resulting in over 1,568,664 cancelled operations. This deficit will continue to grow in 2021.",
+    "category": "surgery",
+    "match_type": "exact",
+    "author_similarity": 100,
+    "affiliation_similarity": 100
+  },
+  {
+    "site": "medRxiv",
     "doi": "10.1101/2021.02.23.21251975",
     "date": "2021-02-25",
     "link": "https://medrxiv.org/cgi/content/short/2021.02.23.21251975",
