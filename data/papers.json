@@ -1054,23 +1054,6 @@
     "urls": "doi:https://doi.org/10.1038/s41598-019-53454-1; html:https://europepmc.org/articles/PMC6874647; pdf:https://europepmc.org/articles/PMC6874647?pdf=render"
   },
   {
-    "id": "33577558",
-    "doi": "https://doi.org/10.1371/journal.pmed.1003497",
-    "title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study.",
-    "authorString": "Alsallakh MA, Rodgers SE, Lyons RA, Sheikh A, Davies GA.",
-    "authorAffiliations": "",
-    "journalTitle": "PLoS medicine",
-    "pubYear": "2021",
-    "date": "2021-02-12",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.<h4>Methods and findings</h4>We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97-0.99, p-value < 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97-0.99, p-value < 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56, p-value < 0.001), more asthma-related accident and emergency (A&E) attendances (IRR = 1.27, 1.10-1.46, p-value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39-1.76, p-value < 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39-1.94, p-value < 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18-2.07, p-value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.<h4>Conclusions</h4>In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pmed.1003497; html:https://europepmc.org/articles/PMC7880491; pdf:https://europepmc.org/articles/PMC7880491?pdf=render"
-  },
-  {
     "id": "33020224",
     "doi": "https://doi.org/10.1136/heartjnl-2020-317870",
     "title": "Monitoring indirect impact of COVID-19 pandemic on services for cardiovascular diseases in the UK.",
@@ -1086,6 +1069,23 @@
     "abstract": "<h4>Objective</h4>To monitor hospital activity for presentation, diagnosis and treatment of cardiovascular diseases during the COVID-19) pandemic to inform on indirect effects.<h4>Methods</h4>Retrospective serial cross-sectional study in nine UK hospitals using hospital activity data from 28 October 2019 (pre-COVID-19) to 10 May 2020 (pre-easing of lockdown) and for the same weeks during 2018-2019. We analysed aggregate data for selected cardiovascular diseases before and during the epidemic. We produced an online visualisation tool to enable near real-time monitoring of trends.<h4>Results</h4>Across nine hospitals, total admissions and emergency department (ED) attendances decreased after lockdown (23 March 2020) by 57.9% (57.1%-58.6%) and 52.9% (52.2%-53.5%), respectively, compared with the previous year. Activity for cardiac, cerebrovascular and other vascular conditions started to decline 1-2 weeks before lockdown and fell by 31%-88% after lockdown, with the greatest reductions observed for coronary artery bypass grafts, carotid endarterectomy, aortic aneurysm repair and peripheral arterial disease procedures. Compared with before the first UK COVID-19 (31 January 2020), activity declined across diseases and specialties between the first case and lockdown (total ED attendances relative reduction (RR) 0.94, 0.93-0.95; total hospital admissions RR 0.96, 0.95-0.97) and after lockdown (attendances RR 0.63, 0.62-0.64; admissions RR 0.59, 0.57-0.60). There was limited recovery towards usual levels of some activities from mid-April 2020.<h4>Conclusions</h4>Substantial reductions in total and cardiovascular activities are likely to contribute to a major burden of indirect effects of the pandemic, suggesting they should be monitored and mitigated urgently.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/heartjnl-2020-317870; html:https://europepmc.org/articles/PMC7536637; pdf:https://europepmc.org/articles/PMC7536637?pdf=render"
+  },
+  {
+    "id": "33577558",
+    "doi": "https://doi.org/10.1371/journal.pmed.1003497",
+    "title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study.",
+    "authorString": "Alsallakh MA, Rodgers SE, Lyons RA, Sheikh A, Davies GA.",
+    "authorAffiliations": "",
+    "journalTitle": "PLoS medicine",
+    "pubYear": "2021",
+    "date": "2021-02-12",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.<h4>Methods and findings</h4>We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97-0.99, p-value < 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97-0.99, p-value < 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56, p-value < 0.001), more asthma-related accident and emergency (A&E) attendances (IRR = 1.27, 1.10-1.46, p-value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39-1.76, p-value < 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39-1.94, p-value < 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18-2.07, p-value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.<h4>Conclusions</h4>In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pmed.1003497; html:https://europepmc.org/articles/PMC7880491; pdf:https://europepmc.org/articles/PMC7880491?pdf=render"
   },
   {
     "id": "31984360",
@@ -1683,23 +1683,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2020-047101; html:https://europepmc.org/articles/PMC7817800; pdf:https://europepmc.org/articles/PMC7817800?pdf=render"
   },
   {
-    "id": "33320878",
-    "doi": "https://doi.org/10.1371/journal.pone.0243843",
-    "title": "Developing a national birth cohort for child health research using a hospital admissions database in England: The impact of changes to data collection practices.",
-    "authorString": "Zylbersztejn A, Gilbert R, Hardelid P.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2020",
-    "date": "2020-12-15",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>National birth cohorts derived from administrative health databases constitute unique resources for child health research due to whole country coverage, ongoing follow-up and linkage to other data sources. In England, a national birth cohort can be developed using Hospital Episode Statistics (HES), an administrative database covering details of all publicly funded hospital activity, including 97% of births, with longitudinal follow-up via linkage to hospital and mortality records. We present methods for developing a national birth cohort using HES and assess the impact of changes to data collection over time on coverage and completeness of linked follow-up records for children.<h4>Methods</h4>We developed a national cohort of singleton live births in 1998-2015, with information on key risk factors at birth (birth weight, gestational age, maternal age, ethnicity, area-level deprivation). We identified three changes to data collection, which could affect linkage of births to follow-up records: (1) the introduction of the \"NHS Numbers for Babies (NN4B)\", an on-line system which enabled maternity staff to request a unique healthcare patient identifier (NHS number) immediately at birth rather than at civil registration, in Q4 2002; (2) the introduction of additional data quality checks at civil registration in Q3 2009; and (3) correcting a postcode extraction error for births by the data provider in Q2 2013. We evaluated the impact of these changes on trends in two outcomes in infancy: hospital readmissions after birth (using interrupted time series analyses) and mortality rates (compared to published national statistics).<h4>Results</h4>The cohort covered 10,653,998 babies, accounting for 96% of singleton live births in England in 1998-2015. Overall, 2,077,929 infants (19.5%) had at least one hospital readmission after birth. Readmission rates declined by 0.2% percentage points per annual quarter in Q1 1998 to Q3 2002, shifted up by 6.1% percentage points (compared to the expected value based on the trend before Q4 2002) to 17.7% in Q4 2002 when NN4B was introduced, and increased by 0.1% percentage points per annual quarter thereafter. Infant mortality rates were under-reported by 16% for births in 1998-2002 and similar to published national mortality statistics for births in 2003-2015. The trends in infant readmission were not affected by changes to data collection practices in Q3 2009 and Q2 2013, but the proportion of unlinked mortality records in HES and in ONS further declined after 2009.<h4>Discussion</h4>HES can be used to develop a national birth cohort for child health research with follow-up via linkage to hospital and mortality records for children born from 2003 onwards. Re-linking births before 2003 to their follow-up records would maximise potential benefits of this rich resource, enabling studies of outcomes in adolescents with over 20 years of follow-up.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0243843; html:https://europepmc.org/articles/PMC7737962; pdf:https://europepmc.org/articles/PMC7737962?pdf=render"
-  },
-  {
     "id": "31607513",
     "doi": "https://doi.org/10.1016/j.cell.2019.08.051",
     "title": "Genome-wide Association Studies in Ancestrally Diverse Populations: Opportunities, Methods, Pitfalls, and Recommendations.",
@@ -1715,6 +1698,23 @@
     "abstract": "Genome-wide association studies (GWASs) have focused primarily on populations of European descent, but it is essential that diverse populations become better represented. Increasing diversity among study participants will advance our understanding of genetic architecture in all populations and ensure that genetic research is broadly applicable. To facilitate and promote research in multi-ancestry and admixed cohorts, we outline key methodological considerations and highlight opportunities, challenges, solutions, and areas in need of development. Despite the perception that analyzing genetic data from diverse populations is difficult, it is scientifically and ethically imperative, and there is an expanding analytical toolbox to do it well.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.cell.2019.08.051; html:https://europepmc.org/articles/PMC6939869; pdf:https://europepmc.org/articles/PMC6939869?pdf=render; doi:https://doi.org/10.1016/j.cell.2019.08.051"
+  },
+  {
+    "id": "33320878",
+    "doi": "https://doi.org/10.1371/journal.pone.0243843",
+    "title": "Developing a national birth cohort for child health research using a hospital admissions database in England: The impact of changes to data collection practices.",
+    "authorString": "Zylbersztejn A, Gilbert R, Hardelid P.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2020",
+    "date": "2020-12-15",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>National birth cohorts derived from administrative health databases constitute unique resources for child health research due to whole country coverage, ongoing follow-up and linkage to other data sources. In England, a national birth cohort can be developed using Hospital Episode Statistics (HES), an administrative database covering details of all publicly funded hospital activity, including 97% of births, with longitudinal follow-up via linkage to hospital and mortality records. We present methods for developing a national birth cohort using HES and assess the impact of changes to data collection over time on coverage and completeness of linked follow-up records for children.<h4>Methods</h4>We developed a national cohort of singleton live births in 1998-2015, with information on key risk factors at birth (birth weight, gestational age, maternal age, ethnicity, area-level deprivation). We identified three changes to data collection, which could affect linkage of births to follow-up records: (1) the introduction of the \"NHS Numbers for Babies (NN4B)\", an on-line system which enabled maternity staff to request a unique healthcare patient identifier (NHS number) immediately at birth rather than at civil registration, in Q4 2002; (2) the introduction of additional data quality checks at civil registration in Q3 2009; and (3) correcting a postcode extraction error for births by the data provider in Q2 2013. We evaluated the impact of these changes on trends in two outcomes in infancy: hospital readmissions after birth (using interrupted time series analyses) and mortality rates (compared to published national statistics).<h4>Results</h4>The cohort covered 10,653,998 babies, accounting for 96% of singleton live births in England in 1998-2015. Overall, 2,077,929 infants (19.5%) had at least one hospital readmission after birth. Readmission rates declined by 0.2% percentage points per annual quarter in Q1 1998 to Q3 2002, shifted up by 6.1% percentage points (compared to the expected value based on the trend before Q4 2002) to 17.7% in Q4 2002 when NN4B was introduced, and increased by 0.1% percentage points per annual quarter thereafter. Infant mortality rates were under-reported by 16% for births in 1998-2002 and similar to published national mortality statistics for births in 2003-2015. The trends in infant readmission were not affected by changes to data collection practices in Q3 2009 and Q2 2013, but the proportion of unlinked mortality records in HES and in ONS further declined after 2009.<h4>Discussion</h4>HES can be used to develop a national birth cohort for child health research with follow-up via linkage to hospital and mortality records for children born from 2003 onwards. Re-linking births before 2003 to their follow-up records would maximise potential benefits of this rich resource, enabling studies of outcomes in adolescents with over 20 years of follow-up.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0243843; html:https://europepmc.org/articles/PMC7737962; pdf:https://europepmc.org/articles/PMC7737962?pdf=render"
   },
   {
     "id": "32946551",
@@ -1904,23 +1904,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0237298; html:https://europepmc.org/articles/PMC7425844; pdf:https://europepmc.org/articles/PMC7425844?pdf=render"
   },
   {
-    "id": "33306026",
-    "doi": "https://doi.org/10.2196/23369",
-    "title": "Engagement With a Behavior Change App for Alcohol Reduction: Data Visualization for Longitudinal Observational Study.",
-    "authorString": "Bell L, Garnett C, Qian T, Perski O, Williamson E, Potts HW.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of medical Internet research",
-    "pubYear": "2020",
-    "date": "2020-12-11",
-    "isOpenAccess": "Y",
-    "keywords": "Engagement; Behavior Change; Apps; Mobile Health; Digital Health; Just-in-time Adaptive Interventions; Push Notifications; Data Visualizations; Micro-randomized Trial",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Behavior change apps can develop iteratively, where the app evolves into a complex, dynamic, or personalized intervention through cycles of research, development, and implementation. Understanding how existing users engage with an app (eg, frequency, amount, depth, and duration of use) can help guide further incremental improvements. We aim to explore how simple visualizations can provide a good understanding of temporal patterns of engagement, as usage data are often longitudinal and rich.<h4>Objective</h4>This study aims to visualize behavioral engagement with Drink Less, a behavior change app to help reduce hazardous and harmful alcohol consumption in the general adult population of the United Kingdom.<h4>Methods</h4>We explored behavioral engagement among 19,233 existing users of Drink Less. Users were included in the sample if they were from the United Kingdom; were 18 years or older; were interested in reducing their alcohol consumption; had a baseline Alcohol Use Disorders Identification Test score of 8 or above, indicative of excessive drinking; and had downloaded the app between May 17, 2017, and January 22, 2019 (615 days). Measures of when sessions begin, length of sessions, time to disengagement, and patterns of use were visualized with heat maps, timeline plots, k-modes clustering analyses, and Kaplan-Meier plots.<h4>Results</h4>The daily 11 AM notification is strongly associated with a change in engagement in the following hour; reduction in behavioral engagement over time, with 50.00% (9617/19,233) of users disengaging (defined as no use for 7 or more consecutive days) 22 days after download; identification of 3 distinct trajectories of use, namely engagers (4651/19,233, 24.18% of users), slow disengagers (3679/19,233, 19.13% of users), and fast disengagers (10,903/19,233, 56.68% of users); and limited depth of engagement with 85.076% (7,095,348/8,340,005) of screen views occurring within the Self-monitoring and Feedback module. In addition, a peak of both frequency and amount of time spent per session was observed in the evenings.<h4>Conclusions</h4>Visualizations play an important role in understanding engagement with behavior change apps. Here, we discuss how simple visualizations helped identify important patterns of engagement with Drink Less. Our visualizations of behavioral engagement suggest that the daily notification substantially impacts engagement. Furthermore, the visualizations suggest that a fixed notification policy can be effective for maintaining engagement for some users but ineffective for others. We conclude that optimizing the notification policy to target both effectiveness and engagement is a worthwhile investment. Our future goal is to both understand the causal effect of the notification on engagement and further optimize the notification policy within Drink Less by tailoring to contextual circumstances of individuals over time. Such tailoring will be informed from the findings of our micro-randomized trial (MRT), and these visualizations were useful in both gaining a better understanding of engagement and designing the MRT.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/23369; html:https://europepmc.org/articles/PMC7762688"
-  },
-  {
     "id": "29716529",
     "doi": "https://doi.org/10.1186/s12883-018-1058-8",
     "title": "Severe localised granulomatosis with polyangiitis (Wegener's granulomatosis) manifesting with extensive cranial nerve palsies and cranial diabetes insipidus: a case report and literature review.",
@@ -1936,6 +1919,23 @@
     "abstract": "<h4>Background</h4>Granulomatosis with polyangiitis (GPA,\u00a0formerly Wegener's granulomatosis) is a multisystem vasculitis of small- to medium-sized blood vessels. Cranial involvement can result in cranial nerve palsies and, rarely, pituitary infiltration.<h4>Case presentation</h4>We describe the case of a 32\u00a0year-old woman with limited but severe GPA manifesting as progressive cranial nerve palsies and pituitary dysfunction. Our patient initially presented with localised ENT involvement, but despite treatment with methotrexate, she deteriorated. Granulomatous inflammatory tissue around the skull base resulted in cavernous sinus syndrome, facial nerve palsy, palsies of cranial nerves IX-XII (Collet-Sicard syndrome), and the rare complication of cranial diabetes insipidus due to pituitary infiltration. The glossopharyngeal, vagus and accessory nerve palsies resulted in severe dysphagia and she required nasogastric tube feeding. Her neurological deficits substantially improved with treatment including high dose corticosteroid, cyclophosphamide and rituximab.<h4>Conclusions</h4>This case emphasises that serious morbidity can arise from localised cranial Wegener's granulomatosis in the absence of systemic disease. In such cases intensive induction immunosuppression is required.\u00a0Analysis of previously reported cases of pituitary involvement in GPA reveals that this rare complication predominantly affects female patients.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1186/s12883-018-1058-8; html:https://europepmc.org/articles/PMC5930853; pdf:https://europepmc.org/articles/PMC5930853?pdf=render"
+  },
+  {
+    "id": "33306026",
+    "doi": "https://doi.org/10.2196/23369",
+    "title": "Engagement With a Behavior Change App for Alcohol Reduction: Data Visualization for Longitudinal Observational Study.",
+    "authorString": "Bell L, Garnett C, Qian T, Perski O, Williamson E, Potts HW.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of medical Internet research",
+    "pubYear": "2020",
+    "date": "2020-12-11",
+    "isOpenAccess": "Y",
+    "keywords": "Engagement; Behavior Change; Apps; Mobile Health; Digital Health; Just-in-time Adaptive Interventions; Push Notifications; Data Visualizations; Micro-randomized Trial",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Behavior change apps can develop iteratively, where the app evolves into a complex, dynamic, or personalized intervention through cycles of research, development, and implementation. Understanding how existing users engage with an app (eg, frequency, amount, depth, and duration of use) can help guide further incremental improvements. We aim to explore how simple visualizations can provide a good understanding of temporal patterns of engagement, as usage data are often longitudinal and rich.<h4>Objective</h4>This study aims to visualize behavioral engagement with Drink Less, a behavior change app to help reduce hazardous and harmful alcohol consumption in the general adult population of the United Kingdom.<h4>Methods</h4>We explored behavioral engagement among 19,233 existing users of Drink Less. Users were included in the sample if they were from the United Kingdom; were 18 years or older; were interested in reducing their alcohol consumption; had a baseline Alcohol Use Disorders Identification Test score of 8 or above, indicative of excessive drinking; and had downloaded the app between May 17, 2017, and January 22, 2019 (615 days). Measures of when sessions begin, length of sessions, time to disengagement, and patterns of use were visualized with heat maps, timeline plots, k-modes clustering analyses, and Kaplan-Meier plots.<h4>Results</h4>The daily 11 AM notification is strongly associated with a change in engagement in the following hour; reduction in behavioral engagement over time, with 50.00% (9617/19,233) of users disengaging (defined as no use for 7 or more consecutive days) 22 days after download; identification of 3 distinct trajectories of use, namely engagers (4651/19,233, 24.18% of users), slow disengagers (3679/19,233, 19.13% of users), and fast disengagers (10,903/19,233, 56.68% of users); and limited depth of engagement with 85.076% (7,095,348/8,340,005) of screen views occurring within the Self-monitoring and Feedback module. In addition, a peak of both frequency and amount of time spent per session was observed in the evenings.<h4>Conclusions</h4>Visualizations play an important role in understanding engagement with behavior change apps. Here, we discuss how simple visualizations helped identify important patterns of engagement with Drink Less. Our visualizations of behavioral engagement suggest that the daily notification substantially impacts engagement. Furthermore, the visualizations suggest that a fixed notification policy can be effective for maintaining engagement for some users but ineffective for others. We conclude that optimizing the notification policy to target both effectiveness and engagement is a worthwhile investment. Our future goal is to both understand the causal effect of the notification on engagement and further optimize the notification policy within Drink Less by tailoring to contextual circumstances of individuals over time. Such tailoring will be informed from the findings of our micro-randomized trial (MRT), and these visualizations were useful in both gaining a better understanding of engagement and designing the MRT.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/23369; html:https://europepmc.org/articles/PMC7762688"
   },
   {
     "id": "32665523",
@@ -3757,23 +3757,6 @@
     "urls": "doi:https://doi.org/10.1093/pubmed/fdz172"
   },
   {
-    "id": "33453763",
-    "doi": "https://doi.org/10.1016/s2468-1253(21)00005-4",
-    "title": "Impact of the COVID-19 pandemic on the detection and management of colorectal cancer in England: a population-based study.",
-    "authorString": "Morris EJA, Goldacre R, Spata E, Mafham M, Finan PJ, Shelton J, Richards M, Spencer K, Emberson J, Hollings S, Curnow P, Gair D, Sebag-Montefiore D, Cunningham C, Rutter MD, Nicholson BD, Rashbass J, Landray M, Collins R, Casadei B, Baigent C.",
-    "authorAffiliations": "",
-    "journalTitle": "The lancet. Gastroenterology & hepatology",
-    "pubYear": "2021",
-    "date": "2021-01-15",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>There are concerns that the COVID-19 pandemic has had a negative effect on cancer care but there is little direct evidence to quantify any effect. This study aims to investigate the impact of the COVID-19 pandemic on the detection and management of colorectal cancer in England.<h4>Methods</h4>Data were extracted from four population-based datasets spanning NHS England (the National Cancer Cancer Waiting Time Monitoring, Monthly Diagnostic, Secondary Uses Service Admitted Patient Care and the National Radiotherapy datasets) for all referrals, colonoscopies, surgical procedures, and courses of rectal radiotherapy from Jan 1, 2019, to Oct 31, 2020, related to colorectal cancer in England. Differences in patterns of care were investigated between 2019 and 2020. Percentage reductions in monthly numbers and proportions were calculated.<h4>Findings</h4>As compared to the monthly average in 2019, in April, 2020, there was a 63% (95% CI 53-71) reduction (from 36\u2008274 to 13\u2008440) in the monthly number of 2-week referrals for suspected cancer and a 92% (95% CI 89-95) reduction in the number of colonoscopies (from 46\u2008441 to 3484). Numbers had just recovered by October, 2020. This resulted in a 22% (95% CI 8-34) relative reduction in the number of cases referred for treatment (from a monthly average of 2781 in 2019 to 2158 referrals in April, 2020). By October, 2020, the monthly rate had returned to 2019 levels but did not exceed it, suggesting that, from April to October, 2020, over 3500 fewer people had been diagnosed and treated for colorectal cancer in England than would have been expected. There was also a 31% (95% CI 19-42) relative reduction in the numbers receiving surgery in April, 2020, and a lower proportion of laparoscopic and a greater proportion of stoma-forming procedures, relative to the monthly average in 2019. By October, 2020, laparoscopic surgery and stoma rates were similar to 2019 levels. For rectal cancer, there was a 44% (95% CI 17-76) relative increase in the use of neoadjuvant radiotherapy in April, 2020, relative to the monthly average in 2019, due to greater use of short-course regimens. Although in June, 2020, there was a drop in the use of short-course regimens, rates remained above 2019 levels until October, 2020.<h4>Interpretation</h4>The COVID-19 pandemic has led to a sustained reduction in the number of people referred, diagnosed, and treated for colorectal cancer. By October, 2020, achievement of care pathway targets had returned to 2019 levels, albeit with smaller volumes of patients and with modifications to usual practice. As pressure grows in the NHS due to the second wave of COVID-19, urgent action is needed to address the growing burden of undetected and untreated colorectal cancer in England.<h4>Funding</h4>Cancer Research UK, the Medical Research Council, Public Health England, Health Data Research UK, NHS Digital, and the National Institute for Health Research Oxford Biomedical Research Centre.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S2468-1253(21)00005-4; html:https://europepmc.org/articles/PMC7808901; pdf:https://europepmc.org/articles/PMC7808901?pdf=render"
-  },
-  {
     "id": "32065794",
     "doi": "https://doi.org/10.3233/jad-191163",
     "title": "Working Towards a Blood-Derived Gene Expression Biomarker Specific for Alzheimer's Disease.",
@@ -3789,6 +3772,23 @@
     "abstract": "<h4>Background</h4>The typical approach to identify blood-derived gene expression signatures as a biomarker for Alzheimer's disease (AD) have relied on training classification models using AD and healthy controls only. This may inadvertently result in the identification of markers for general illness rather than being disease-specific.<h4>Objective</h4>Investigate whether incorporating additional related disorders in the classification model development process can lead to the discovery of an AD-specific gene expression signature.<h4>Methods</h4>Two types of XGBoost classification models were developed. The first used 160 AD and 127 healthy controls and the second used the same 160 AD with 6,318 upsampled mixed controls consisting of Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis, bipolar disorder, schizophrenia, coronary artery disease, rheumatoid arthritis, chronic obstructive pulmonary disease, and cognitively healthy subjects. Both classification models were evaluated in an independent cohort consisting of 127 AD and 687 mixed controls.<h4>Results</h4>The AD versus healthy control models resulted in an average 48.7% sensitivity (95% CI\u200a=\u200a34.7-64.6), 41.9% specificity (95% CI\u200a=\u200a26.8-54.3), 13.6% PPV (95% CI\u200a=\u200a9.9-18.5), and 81.1% NPV (95% CI\u200a=\u200a73.3-87.7). In contrast, the mixed control models resulted in an average of 40.8% sensitivity (95% CI\u200a=\u200a27.5-52.0), 95.3% specificity (95% CI\u200a=\u200a93.3-97.1), 61.4% PPV (95% CI\u200a=\u200a53.8-69.6), and 89.7% NPV (95% CI\u200a=\u200a87.8-91.4).<h4>Conclusions</h4>This early work demonstrates the value of incorporating additional related disorders into the classification model developmental process, which can result in models with improved ability to distinguish AD from a heterogeneous aging population. However, further improvement to the sensitivity of the test is still required.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3233/JAD-191163; html:https://europepmc.org/articles/PMC7175937; pdf:https://europepmc.org/articles/PMC7175937?pdf=render"
+  },
+  {
+    "id": "33453763",
+    "doi": "https://doi.org/10.1016/s2468-1253(21)00005-4",
+    "title": "Impact of the COVID-19 pandemic on the detection and management of colorectal cancer in England: a population-based study.",
+    "authorString": "Morris EJA, Goldacre R, Spata E, Mafham M, Finan PJ, Shelton J, Richards M, Spencer K, Emberson J, Hollings S, Curnow P, Gair D, Sebag-Montefiore D, Cunningham C, Rutter MD, Nicholson BD, Rashbass J, Landray M, Collins R, Casadei B, Baigent C.",
+    "authorAffiliations": "",
+    "journalTitle": "The lancet. Gastroenterology & hepatology",
+    "pubYear": "2021",
+    "date": "2021-01-15",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>There are concerns that the COVID-19 pandemic has had a negative effect on cancer care but there is little direct evidence to quantify any effect. This study aims to investigate the impact of the COVID-19 pandemic on the detection and management of colorectal cancer in England.<h4>Methods</h4>Data were extracted from four population-based datasets spanning NHS England (the National Cancer Cancer Waiting Time Monitoring, Monthly Diagnostic, Secondary Uses Service Admitted Patient Care and the National Radiotherapy datasets) for all referrals, colonoscopies, surgical procedures, and courses of rectal radiotherapy from Jan 1, 2019, to Oct 31, 2020, related to colorectal cancer in England. Differences in patterns of care were investigated between 2019 and 2020. Percentage reductions in monthly numbers and proportions were calculated.<h4>Findings</h4>As compared to the monthly average in 2019, in April, 2020, there was a 63% (95% CI 53-71) reduction (from 36\u2008274 to 13\u2008440) in the monthly number of 2-week referrals for suspected cancer and a 92% (95% CI 89-95) reduction in the number of colonoscopies (from 46\u2008441 to 3484). Numbers had just recovered by October, 2020. This resulted in a 22% (95% CI 8-34) relative reduction in the number of cases referred for treatment (from a monthly average of 2781 in 2019 to 2158 referrals in April, 2020). By October, 2020, the monthly rate had returned to 2019 levels but did not exceed it, suggesting that, from April to October, 2020, over 3500 fewer people had been diagnosed and treated for colorectal cancer in England than would have been expected. There was also a 31% (95% CI 19-42) relative reduction in the numbers receiving surgery in April, 2020, and a lower proportion of laparoscopic and a greater proportion of stoma-forming procedures, relative to the monthly average in 2019. By October, 2020, laparoscopic surgery and stoma rates were similar to 2019 levels. For rectal cancer, there was a 44% (95% CI 17-76) relative increase in the use of neoadjuvant radiotherapy in April, 2020, relative to the monthly average in 2019, due to greater use of short-course regimens. Although in June, 2020, there was a drop in the use of short-course regimens, rates remained above 2019 levels until October, 2020.<h4>Interpretation</h4>The COVID-19 pandemic has led to a sustained reduction in the number of people referred, diagnosed, and treated for colorectal cancer. By October, 2020, achievement of care pathway targets had returned to 2019 levels, albeit with smaller volumes of patients and with modifications to usual practice. As pressure grows in the NHS due to the second wave of COVID-19, urgent action is needed to address the growing burden of undetected and untreated colorectal cancer in England.<h4>Funding</h4>Cancer Research UK, the Medical Research Council, Public Health England, Health Data Research UK, NHS Digital, and the National Institute for Health Research Oxford Biomedical Research Centre.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S2468-1253(21)00005-4; html:https://europepmc.org/articles/PMC7808901; pdf:https://europepmc.org/articles/PMC7808901?pdf=render"
   },
   {
     "id": "31744503",
@@ -4029,23 +4029,6 @@
     "urls": "doi:https://doi.org/10.1186/s12916-020-01754-z; html:https://europepmc.org/articles/PMC7487816; pdf:https://europepmc.org/articles/PMC7487816?pdf=render"
   },
   {
-    "id": "33653287",
-    "doi": "https://doi.org/10.1186/s12875-021-01384-1",
-    "title": "A cross-sectional study reporting concussion exposure, assessment and management in Western Australian general practice.",
-    "authorString": "Thomas E, Chih H, Gabbe B, Fitzgerald M, Cowen G.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC family practice",
-    "pubYear": "2021",
-    "date": "2021-03-02",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>General Practitioners (GPs) may be called upon to assess patients who have sustained a concussion despite limited information being available at this assessment. Information relating to how concussion is actually being assessed and managed in General Practice is scarce. This study aimed to identify characteristics of current Western Australian (WA) GP exposure to patients with concussion, factors associated with GPs' knowledge of concussion, confidence of GPs in diagnosing and managing patients with concussion, typical referral practices and familiarity of GPs with guidelines.<h4>Methods</h4>In this cross-sectional study, GPs in WA were recruited via the RACGP WA newsletter and shareGP and the consented GPs completed an electronic survey. Associations were performed using Chi-squared tests or Fisher's Exact test.<h4>Results</h4>Sixty-six GPs in WA responded to the survey (response rate\u2009=\u20091.7%). Demographics, usual practice, knowledge, confidence, identification of prolonged recovery as well as guideline and resource awareness of GPs who practised in regional and metropolitan areas were comparable (p\u2009>\u20090.05). Characteristics of GPs were similar between those who identified all symptoms of concussion and distractors correctly and those who did not (p\u2009>\u20090.05). However, 84% of the respondents who had never heard of concussion guidelines were less likely to answer all symptoms and distractors correctly (p\u2009=\u20090.039). Whilst 78% of the GPs who were confident in their diagnoses had heard of guidelines (p\u2009=\u20090.029), confidence in managing concussion was not significantly associated with GPs exposure to guidelines. It should be noted that none of the respondents correctly identified signs of concussion and excluded the distractors.<h4>Conclusions</h4>Knowledge surrounding concussion guidelines, diagnosis and management varied across GPs in WA. Promotion of available concussion guidelines may assist GPs who lack confidence in making a diagnosis. The lack of association between GPs exposure to guidelines and confidence managing concussion highlights that concussion management may be an area where GPs could benefit from additional education and support.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1186/s12875-021-01384-1; html:https://europepmc.org/articles/PMC7927406; pdf:https://europepmc.org/articles/PMC7927406?pdf=render"
-  },
-  {
     "id": "33434193",
     "doi": "https://doi.org/10.1371/journal.pmed.1003487",
     "title": "Accelerometer measured physical activity and the incidence of cardiovascular disease: Evidence from the UK Biobank cohort study.",
@@ -4061,6 +4044,23 @@
     "abstract": "<h4>Background</h4>Higher levels of physical activity (PA) are associated with a lower risk of cardiovascular disease (CVD). However, uncertainty exists on whether the inverse relationship between PA and incidence of CVD is greater at the highest levels of PA. Past studies have mostly relied on self-reported evidence from questionnaire-based PA, which is crude and cannot capture all PA undertaken. We investigated the association between accelerometer-measured moderate, vigorous, and total PA and incident CVD.<h4>Methods and findings</h4>We obtained accelerometer-measured moderate-intensity and vigorous-intensity physical activities and total volume of PA, over a 7-day period in 2013-2015, for 90,211 participants without prior or concurrent CVD in the UK Biobank cohort. Participants in the lowest category of total PA smoked more, had higher body mass index and C-reactive protein, and were diagnosed with hypertension. PA was associated with 3,617 incident CVD cases during 440,004 person-years of follow-up (median (interquartile range [IQR]): 5.2 (1.2) years) using Cox regression models. We found a linear dose-response relationship for PA, whether measured as moderate-intensity, vigorous-intensity, or as total volume, with risk of incident of CVD. Hazard ratios (HRs) and 95% confidence intervals for increasing quarters of the PA distribution relative to the lowest fourth were for moderate-intensity PA: 0.71 (0.65, 0.77), 0.59 (0.54, 0.65), and 0.46 (0.41, 0.51); for vigorous-intensity PA: 0.70 (0.64, 0.77), 0.54 (0.49,0.59), and 0.41 (0.37,0.46); and for total volume of PA: 0.73 (0.67, 0.79), 0.63 (0.57, 0.69), and 0.47 (0.43, 0.52). We took account of potential confounders but unmeasured confounding remains a possibility, and while removal of early deaths did not affect the estimated HRs, we cannot completely dismiss the likelihood that reverse causality has contributed to the findings. Another possible limitation of this work is the quantification of PA intensity-levels based on methods validated in relatively small studies.<h4>Conclusions</h4>In this study, we found no evidence of a threshold for the inverse association between objectively measured moderate, vigorous, and total PA with CVD. Our findings suggest that PA is not only associated with lower risk for of CVD, but the greatest benefit is seen for those who are active at the highest level.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pmed.1003487; html:https://europepmc.org/articles/PMC7802951; pdf:https://europepmc.org/articles/PMC7802951?pdf=render"
+  },
+  {
+    "id": "33653287",
+    "doi": "https://doi.org/10.1186/s12875-021-01384-1",
+    "title": "A cross-sectional study reporting concussion exposure, assessment and management in Western Australian general practice.",
+    "authorString": "Thomas E, Chih H, Gabbe B, Fitzgerald M, Cowen G.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC family practice",
+    "pubYear": "2021",
+    "date": "2021-03-02",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>General Practitioners (GPs) may be called upon to assess patients who have sustained a concussion despite limited information being available at this assessment. Information relating to how concussion is actually being assessed and managed in General Practice is scarce. This study aimed to identify characteristics of current Western Australian (WA) GP exposure to patients with concussion, factors associated with GPs' knowledge of concussion, confidence of GPs in diagnosing and managing patients with concussion, typical referral practices and familiarity of GPs with guidelines.<h4>Methods</h4>In this cross-sectional study, GPs in WA were recruited via the RACGP WA newsletter and shareGP and the consented GPs completed an electronic survey. Associations were performed using Chi-squared tests or Fisher's Exact test.<h4>Results</h4>Sixty-six GPs in WA responded to the survey (response rate\u2009=\u20091.7%). Demographics, usual practice, knowledge, confidence, identification of prolonged recovery as well as guideline and resource awareness of GPs who practised in regional and metropolitan areas were comparable (p\u2009>\u20090.05). Characteristics of GPs were similar between those who identified all symptoms of concussion and distractors correctly and those who did not (p\u2009>\u20090.05). However, 84% of the respondents who had never heard of concussion guidelines were less likely to answer all symptoms and distractors correctly (p\u2009=\u20090.039). Whilst 78% of the GPs who were confident in their diagnoses had heard of guidelines (p\u2009=\u20090.029), confidence in managing concussion was not significantly associated with GPs exposure to guidelines. It should be noted that none of the respondents correctly identified signs of concussion and excluded the distractors.<h4>Conclusions</h4>Knowledge surrounding concussion guidelines, diagnosis and management varied across GPs in WA. Promotion of available concussion guidelines may assist GPs who lack confidence in making a diagnosis. The lack of association between GPs exposure to guidelines and confidence managing concussion highlights that concussion management may be an area where GPs could benefit from additional education and support.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1186/s12875-021-01384-1; html:https://europepmc.org/articles/PMC7927406; pdf:https://europepmc.org/articles/PMC7927406?pdf=render"
   },
   {
     "id": "33623985",
@@ -4301,23 +4301,6 @@
     "urls": "doi:https://doi.org/10.1002/bimj.201900041"
   },
   {
-    "id": "33306713",
-    "doi": "https://doi.org/10.1371/journal.pone.0243383",
-    "title": "Health, educational and employment outcomes among children treated for a skin disorder: Scotland-wide retrospective record linkage cohort study of 766,244 children.",
-    "authorString": "Fleming M, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2020",
-    "date": "2020-12-11",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>To compare health, educational and employment outcomes of schoolchildren receiving medication for a skin disorder with peers.<h4>Methods</h4>This retrospective population cohort study linked eight Scotland-wide databases, covering dispensed prescriptions, hospital admissions, maternity records, death certificates, annual pupil census, school examinations, school absences/exclusions and unemployment to investigate educational (absence, exclusion, special educational need, academic attainment), employment, and health (admissions and mortality) outcomes of 766,244 children attending local authority run primary, secondary and special schools in Scotland between 2009 and 2013.<h4>Results</h4>After adjusting for sociodemographic and maternity confounders the 130,087 (17.0%) children treated for a skin disorder had increased hospitalisation, particularly within one year of commencing treatment (IRR 1.38, 95% CI 1.35-1.41, p<0.001) and mortality (HR 1.50, 95% CI 1.18-1.90, p<0.001). They had greater special educational need (OR 1.19, 95% CI 1.17-1.21, p<0.001) and more frequent absences from school (IRR 1.07, 95% CI 1.06-1.08, p<0.001) but did not exhibit poorer exam attainment or increased post-school unemployment. The associations remained after further adjustment for comorbid chronic conditions.<h4>Conclusions</h4>Despite increased hospitalisation, school absenteeism, and special educational need, children treated for a skin disorder did not have poorer exam attainment or employment outcomes. Whilst findings relating to educational and employment outcomes are reassuring, the association with increased risk of mortality is alarming and merits further investigation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0243383; html:https://europepmc.org/articles/PMC7732076; pdf:https://europepmc.org/articles/PMC7732076?pdf=render"
-  },
-  {
     "id": "31984563",
     "doi": "https://doi.org/10.1111/jce.14368",
     "title": "Early recurrences of atrial tachyarrhythmias post pulmonary vein isolation.",
@@ -4333,6 +4316,23 @@
     "abstract": "<h4>Aims</h4>To investigate the significance of early recurrence (ER) of atrial tachyarrhythmias after pulmonary vein isolation (PVI) on the development of late recurrence (LR) and to redefine the blanking period during which an ER is considered nonspecific.<h4>Methods</h4>Data of 713 patients undergoing their first PVI for paroxysmal or persistent atrial fibrillation between January 2012 and December 2017 were included. All patients were followed-up for 12 months according to clinical and outpatient routine and were screened for any atrial tachyarrhythmia lasting >30 seconds occurring during the first 3 months postablation (ER) and after the 3 months blanking period (LR).<h4>Results</h4>Patients with ER compared to those without ER had significantly more LR (74.5% vs 16.5% vs, P\u2009<\u2009.001). The occurrence of ER during the first, second and third months showed increasing LR rates of 35.2%, 67.9%, and 94.8%, respectively (P\u2009<\u2009.001). Receiver operator characteristic analysis revealed a blanking period of 46 days with the highest sensitivity (68.1%) and specificity (96.5%). Later timing and longer time span of ER were independent predictors for LR in multivariable analysis.<h4>Conclusion</h4>ER is a strong predictor for LR. Our study advocates a shortening of the post-PVI blanking period followed by a \"gray zone\" up to 3 months where individualized therapeutic decisions based on additional risk factors should be considered. We suggest that the ER time span might serve as such a predictor identifying patients at the highest risk for LR.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/jce.14368"
+  },
+  {
+    "id": "33306713",
+    "doi": "https://doi.org/10.1371/journal.pone.0243383",
+    "title": "Health, educational and employment outcomes among children treated for a skin disorder: Scotland-wide retrospective record linkage cohort study of 766,244 children.",
+    "authorString": "Fleming M, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2020",
+    "date": "2020-12-11",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>To compare health, educational and employment outcomes of schoolchildren receiving medication for a skin disorder with peers.<h4>Methods</h4>This retrospective population cohort study linked eight Scotland-wide databases, covering dispensed prescriptions, hospital admissions, maternity records, death certificates, annual pupil census, school examinations, school absences/exclusions and unemployment to investigate educational (absence, exclusion, special educational need, academic attainment), employment, and health (admissions and mortality) outcomes of 766,244 children attending local authority run primary, secondary and special schools in Scotland between 2009 and 2013.<h4>Results</h4>After adjusting for sociodemographic and maternity confounders the 130,087 (17.0%) children treated for a skin disorder had increased hospitalisation, particularly within one year of commencing treatment (IRR 1.38, 95% CI 1.35-1.41, p<0.001) and mortality (HR 1.50, 95% CI 1.18-1.90, p<0.001). They had greater special educational need (OR 1.19, 95% CI 1.17-1.21, p<0.001) and more frequent absences from school (IRR 1.07, 95% CI 1.06-1.08, p<0.001) but did not exhibit poorer exam attainment or increased post-school unemployment. The associations remained after further adjustment for comorbid chronic conditions.<h4>Conclusions</h4>Despite increased hospitalisation, school absenteeism, and special educational need, children treated for a skin disorder did not have poorer exam attainment or employment outcomes. Whilst findings relating to educational and employment outcomes are reassuring, the association with increased risk of mortality is alarming and merits further investigation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0243383; html:https://europepmc.org/articles/PMC7732076; pdf:https://europepmc.org/articles/PMC7732076?pdf=render"
   },
   {
     "id": "32717063",
@@ -6256,23 +6256,6 @@
     "urls": "doi:https://doi.org/10.1161/STROKEAHA.120.031659; html:https://europepmc.org/articles/PMC7834661; pdf:https://europepmc.org/articles/PMC7834661?pdf=render"
   },
   {
-    "id": "33472714",
-    "doi": "https://doi.org/10.1017/s1368980021000197",
-    "title": "Diet and risk of gastro-oesophageal reflux disease in the Melbourne Collaborative Cohort Study.",
-    "authorString": "Wang SE, Hodge AM, Dashti SG, Dixon-Suen SC, Mitchell H, Thomas RJ, Williamson EM, Makalic E, Boussioutas A, Haydon AM, Giles GG, Milne RL, Kendall BJ, English DR.",
-    "authorAffiliations": "",
-    "journalTitle": "Public health nutrition",
-    "pubYear": "2021",
-    "date": "2021-01-21",
-    "isOpenAccess": "N",
-    "keywords": "Fat; Diet; Prospective Cohort Study; Gastro-oesophageal Reflux Disease; Carbonated Beverages",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Objective</h4>To examine associations between diet and risk of developing gastro-oesophageal reflux disease (GERD).<h4>Design</h4>Prospective cohort with a median follow-up of 15\u00b78 years. Baseline diet was measured using a FFQ. GERD was defined as self-reported current or history of daily heartburn or acid regurgitation beginning at least 2 years after baseline. Sex-specific logistic regressions were performed to estimate OR for GERD associated with diet quality scores and intakes of nutrients, food groups and individual foods and beverages. The effect of substituting saturated fat for monounsaturated or polyunsaturated fat on GERD risk was examined.<h4>Setting</h4>Melbourne, Australia.<h4>Participants</h4>A cohort of 20 926 participants (62 % women) aged 40-59 years at recruitment between 1990 and 1994.<h4>Results</h4>For men, total fat intake was associated with increased risk of GERD (OR 1\u00b705 per 5 g/d; 95 % CI 1\u00b701, 1\u00b709; P = 0\u00b7016), whereas total carbohydrate (OR 0\u00b789 per 30 g/d; 95 % CI 0\u00b782, 0\u00b798; P = 0\u00b7010) and starch intakes (OR 0\u00b784 per 30 g/d; 95 % CI 0\u00b775, 0\u00b794; P = 0\u00b7005) were associated with reduced risk. Nutrients were not associated with risk for women. For both sexes, substituting saturated fat for polyunsaturated or monounsaturated fat did not change risk. For both sexes, fish, chicken, cruciferous vegetables and carbonated beverages were associated with increased risk, whereas total fruit and citrus were associated with reduced risk. No association was observed with diet quality scores.<h4>Conclusions</h4>Diet is a possible risk factor for GERD, but food considered as triggers of GERD symptoms might not necessarily contribute to disease development. Potential differential associations for men and women warrant further investigation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1017/S1368980021000197"
-  },
-  {
     "id": "31500613",
     "doi": "https://doi.org/10.1186/s12911-019-0908-7",
     "title": "A validated natural language processing algorithm for brain imaging phenotypes from radiology reports in UK electronic health records.",
@@ -6288,6 +6271,23 @@
     "abstract": "<h4>Background</h4>Manual coding of phenotypes in brain radiology reports is time consuming. We developed a natural language processing (NLP) algorithm to enable automatic identification of brain imaging in radiology reports performed in routine clinical practice in the UK National Health Service (NHS).<h4>Methods</h4>We used anonymized text brain imaging reports from a cohort study of stroke/TIA patients and from a regional hospital to develop and test an NLP algorithm. Two experts marked up text in 1692 reports for 24 cerebrovascular and other neurological phenotypes. We developed and tested a rule-based NLP algorithm first within the cohort study, and further evaluated it in the reports from the regional hospital.<h4>Results</h4>The agreement between expert readers was excellent (Cohen's \u03ba =0.93) in both datasets. In the final test dataset (n\u00a0=\u2009700) in unseen regional hospital reports, the algorithm had very good performance for a report of any ischaemic stroke [sensitivity 89% (95% CI:81-94); positive predictive value (PPV) 85% (76-90); specificity 100% (95% CI:0.99-1.00)]; any haemorrhagic stroke [sensitivity 96% (95% CI: 80-99), PPV 72% (95% CI:55-84); specificity 100% (95% CI:0.99-1.00)]; brain tumours [sensitivity 96% (CI:87-99); PPV 84% (73-91); specificity: 100% (95% CI:0.99-1.00)] and cerebral small vessel disease and cerebral atrophy (sensitivity, PPV and specificity all >\u200997%). We obtained few reports of subarachnoid haemorrhage, microbleeds or subdural haematomas. In 110,695 reports from NHS Tayside, atrophy (n\u00a0=\u200928,757, 26%), small vessel disease (15,015, 14%) and old, deep ischaemic strokes (10,636, 10%) were the commonest findings.<h4>Conclusions</h4>An NLP algorithm can be developed in UK NHS radiology records to allow identification of cohorts of patients with important brain imaging phenotypes at a scale that would otherwise not be possible.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1186/s12911-019-0908-7; html:https://europepmc.org/articles/PMC6734359; pdf:https://europepmc.org/articles/PMC6734359?pdf=render"
+  },
+  {
+    "id": "33472714",
+    "doi": "https://doi.org/10.1017/s1368980021000197",
+    "title": "Diet and risk of gastro-oesophageal reflux disease in the Melbourne Collaborative Cohort Study.",
+    "authorString": "Wang SE, Hodge AM, Dashti SG, Dixon-Suen SC, Mitchell H, Thomas RJ, Williamson EM, Makalic E, Boussioutas A, Haydon AM, Giles GG, Milne RL, Kendall BJ, English DR.",
+    "authorAffiliations": "",
+    "journalTitle": "Public health nutrition",
+    "pubYear": "2021",
+    "date": "2021-01-21",
+    "isOpenAccess": "N",
+    "keywords": "Fat; Diet; Prospective Cohort Study; Gastro-oesophageal Reflux Disease; Carbonated Beverages",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Objective</h4>To examine associations between diet and risk of developing gastro-oesophageal reflux disease (GERD).<h4>Design</h4>Prospective cohort with a median follow-up of 15\u00b78 years. Baseline diet was measured using a FFQ. GERD was defined as self-reported current or history of daily heartburn or acid regurgitation beginning at least 2 years after baseline. Sex-specific logistic regressions were performed to estimate OR for GERD associated with diet quality scores and intakes of nutrients, food groups and individual foods and beverages. The effect of substituting saturated fat for monounsaturated or polyunsaturated fat on GERD risk was examined.<h4>Setting</h4>Melbourne, Australia.<h4>Participants</h4>A cohort of 20 926 participants (62 % women) aged 40-59 years at recruitment between 1990 and 1994.<h4>Results</h4>For men, total fat intake was associated with increased risk of GERD (OR 1\u00b705 per 5 g/d; 95 % CI 1\u00b701, 1\u00b709; P = 0\u00b7016), whereas total carbohydrate (OR 0\u00b789 per 30 g/d; 95 % CI 0\u00b782, 0\u00b798; P = 0\u00b7010) and starch intakes (OR 0\u00b784 per 30 g/d; 95 % CI 0\u00b775, 0\u00b794; P = 0\u00b7005) were associated with reduced risk. Nutrients were not associated with risk for women. For both sexes, substituting saturated fat for polyunsaturated or monounsaturated fat did not change risk. For both sexes, fish, chicken, cruciferous vegetables and carbonated beverages were associated with increased risk, whereas total fruit and citrus were associated with reduced risk. No association was observed with diet quality scores.<h4>Conclusions</h4>Diet is a possible risk factor for GERD, but food considered as triggers of GERD symptoms might not necessarily contribute to disease development. Potential differential associations for men and women warrant further investigation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1017/S1368980021000197"
   },
   {
     "id": "33516523",
@@ -6545,23 +6545,6 @@
     "urls": "doi:https://doi.org/10.2196/16400; html:https://europepmc.org/articles/PMC7163416"
   },
   {
-    "id": "33325834",
-    "doi": "https://doi.org/10.2196/23530",
-    "title": "Cystic Fibrosis Point of Personalized Detection (CFPOPD): An Interactive Web Application.",
-    "authorString": "Wolfe C, Pestian T, Gecili E, Su W, Keogh RH, Pestian JP, Seid M, Diggle PJ, Ziady A, Clancy JP, Grossoehme DH, Szczesniak RD, Brokamp C.",
-    "authorAffiliations": "",
-    "journalTitle": "JMIR medical informatics",
-    "pubYear": "2020",
-    "date": "2020-12-16",
-    "isOpenAccess": "Y",
-    "keywords": "Chronic disease; Clinical Decision Support; Medical Monitoring; Clinical Decision Rules; Application Programming Interface",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Despite steady gains in life expectancy, individuals with cystic fibrosis (CF) lung disease still experience rapid pulmonary decline throughout their clinical course, which can ultimately end in respiratory failure. Point-of-care tools for accurate and timely information regarding the risk of rapid decline is essential for clinical decision support.<h4>Objective</h4>This study aims to translate a novel algorithm for earlier, more accurate prediction of rapid lung function decline in patients with CF into an interactive web-based application that can be integrated within electronic health record systems, via collaborative development with clinicians.<h4>Methods</h4>Longitudinal clinical history, lung function measurements, and time-invariant characteristics were obtained for 30,879 patients with CF who were followed in the US Cystic Fibrosis Foundation Patient Registry (2003-2015). We iteratively developed the application using the R Shiny framework and by conducting a qualitative study with care provider focus groups (N=17).<h4>Results</h4>A clinical conceptual model and 4 themes were identified through coded feedback from application users: (1) ambiguity in rapid decline, (2) clinical utility, (3) clinical significance, and (4) specific suggested revisions. These themes were used to revise our application to the currently released version, available online for exploration. This study has advanced the application's potential prognostic utility for monitoring individuals with CF lung disease. Further application development will incorporate additional clinical characteristics requested by the users and also a more modular layout that can be useful for care provider and family interactions.<h4>Conclusions</h4>Our framework for creating an interactive and visual analytics platform enables generalized development of applications to synthesize, model, and translate electronic health data, thereby enhancing clinical decision support and improving care and health outcomes for chronic diseases and disorders. A prospective implementation study is necessary to evaluate this tool's effectiveness regarding increased communication, enhanced shared decision-making, and improved clinical outcomes for patients with CF.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/23530; html:https://europepmc.org/articles/PMC7773511"
-  },
-  {
     "id": "31282950",
     "doi": "https://doi.org/10.1001/jamaneurol.2019.1812",
     "title": "Association Between Idiopathic Intracranial Hypertension and Risk of Cardiovascular Diseases in Women in the United Kingdom.",
@@ -6577,6 +6560,23 @@
     "abstract": "<h4>Importance</h4>Cardiovascular disease (CVD) risk has not been previously evaluated in a large matched cohort study in idiopathic intracranial hypertension (IIH).<h4>Objectives</h4>To estimate the risk of composite cardiovascular events, heart failure, ischemic heart disease, stroke/transient ischemic attack (TIA), type 2 diabetes, and hypertension in women with idiopathic intracranial hypertension and compare it with the risk in women, matched on body mass index (BMI) and age, without the condition; and to evaluate the prevalence and incidence of IIH.<h4>Design, setting, and participants</h4>This population-based matched controlled cohort study used 28 years of data, from January 1, 1990, to January 17, 2018, from The Health Improvement Network (THIN), an anonymized, nationally representative electronic medical records database in the United Kingdom. All female patients aged 16 years or older were eligible for inclusion. Female patients with IIH (n\u2009=\u20092760) were included and randomly matched with up to 10 control patients (n\u2009=\u200927\u202f125) by BMI and age.<h4>Main outcomes and measures</h4>Adjusted hazard ratios (aHRs) of cardiovascular outcomes were calculated using Cox regression models. The primary outcome was a composite of any CVD (heart failure, ischemic heart disease, and stroke/TIA), and the secondary outcomes were each CVD outcome, type 2 diabetes, and hypertension.<h4>Results</h4>In total, 2760 women with IIH and 27\u202f125 women without IIH were included. Age and BMI were similar between the 2 groups, with a median (interquartile range) age of 32.1 (25.6-42.0) years in the exposed group and 32.1 (25.7-42.1) years in the control group; in the exposed group 1728 women (62.6%) were obese, and in the control group 16514 women (60.9%) were obese. Higher absolute risks for all cardiovascular outcomes were observed in women with IIH compared with control patients. The aHRs were as follows: composite cardiovascular events, 2.10 (95% CI, 1.61-2.74; P\u2009<\u2009.001); heart failure, 1.97 (95% CI, 1.16-3.37; P\u2009=\u2009.01); ischemic heart disease, 1.94 (95% CI, 1.27-2.94; P\u2009=\u2009.002); stroke/TIA, 2.27 (95% CI, 1.61-3.21; P\u2009<\u2009.001); type 2 diabetes, 1.30 (95% CI, 1.07-1.57; P\u2009=\u2009.009); and hypertension, 1.55 (95% CI, 1.30-1.84; P\u2009<\u2009.001). The incidence of IIH in female patients more than tripled between 2005 and 2017, from 2.5 to 9.3 per 100\u202f000 person-years. Similarly, IIH prevalence increased in the same period, from 26 to 79 per 100\u202f000 women. Incidence increased markedly with BMI higher than 30.<h4>Conclusions and relevance</h4>Idiopathic intracranial hypertension in women appeared to be associated with a 2-fold increase in CVD risk; change in patient care to modify risk factors for CVD may reduce long-term morbidity for women with IIH and warrants further evaluation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1001/jamaneurol.2019.1812; html:https://europepmc.org/articles/PMC6618853"
+  },
+  {
+    "id": "33325834",
+    "doi": "https://doi.org/10.2196/23530",
+    "title": "Cystic Fibrosis Point of Personalized Detection (CFPOPD): An Interactive Web Application.",
+    "authorString": "Wolfe C, Pestian T, Gecili E, Su W, Keogh RH, Pestian JP, Seid M, Diggle PJ, Ziady A, Clancy JP, Grossoehme DH, Szczesniak RD, Brokamp C.",
+    "authorAffiliations": "",
+    "journalTitle": "JMIR medical informatics",
+    "pubYear": "2020",
+    "date": "2020-12-16",
+    "isOpenAccess": "Y",
+    "keywords": "Chronic disease; Clinical Decision Support; Medical Monitoring; Clinical Decision Rules; Application Programming Interface",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Despite steady gains in life expectancy, individuals with cystic fibrosis (CF) lung disease still experience rapid pulmonary decline throughout their clinical course, which can ultimately end in respiratory failure. Point-of-care tools for accurate and timely information regarding the risk of rapid decline is essential for clinical decision support.<h4>Objective</h4>This study aims to translate a novel algorithm for earlier, more accurate prediction of rapid lung function decline in patients with CF into an interactive web-based application that can be integrated within electronic health record systems, via collaborative development with clinicians.<h4>Methods</h4>Longitudinal clinical history, lung function measurements, and time-invariant characteristics were obtained for 30,879 patients with CF who were followed in the US Cystic Fibrosis Foundation Patient Registry (2003-2015). We iteratively developed the application using the R Shiny framework and by conducting a qualitative study with care provider focus groups (N=17).<h4>Results</h4>A clinical conceptual model and 4 themes were identified through coded feedback from application users: (1) ambiguity in rapid decline, (2) clinical utility, (3) clinical significance, and (4) specific suggested revisions. These themes were used to revise our application to the currently released version, available online for exploration. This study has advanced the application's potential prognostic utility for monitoring individuals with CF lung disease. Further application development will incorporate additional clinical characteristics requested by the users and also a more modular layout that can be useful for care provider and family interactions.<h4>Conclusions</h4>Our framework for creating an interactive and visual analytics platform enables generalized development of applications to synthesize, model, and translate electronic health data, thereby enhancing clinical decision support and improving care and health outcomes for chronic diseases and disorders. A prospective implementation study is necessary to evaluate this tool's effectiveness regarding increased communication, enhanced shared decision-making, and improved clinical outcomes for patients with CF.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/23530; html:https://europepmc.org/articles/PMC7773511"
   },
   {
     "id": "31479767",
@@ -7123,23 +7123,6 @@
     "urls": "doi:https://doi.org/10.1002/ppul.24314; html:https://europepmc.org/articles/PMC6617805; pdf:https://europepmc.org/articles/PMC6617805?pdf=render"
   },
   {
-    "id": "33436814",
-    "doi": "https://doi.org/10.1038/s41598-020-80457-0",
-    "title": "A natural language processing approach for identifying temporal disease onset information from mental healthcare text.",
-    "authorString": "Viani N, Botelle R, Kerwin J, Yin L, Patel R, Stewart R, Velupillai S.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2021",
-    "date": "2021-01-12",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Receiving timely and appropriate treatment is crucial for better health outcomes, and research on the contribution of specific variables is essential. In the mental health domain, an important research variable is the date of psychosis symptom onset, as longer delays in treatment are associated with worse intervention outcomes. The growing adoption of electronic health records (EHRs) within mental health services provides an invaluable opportunity to study this problem at scale retrospectively. However, disease onset information is often only available in open text fields, requiring natural language processing (NLP) techniques for automated analyses. Since this variable can be documented at different points during a patient's care, NLP methods that model clinical and temporal associations are needed. We address the identification of psychosis onset by: 1) manually annotating a corpus of mental health EHRs with disease onset mentions, 2) modelling the underlying NLP problem as a paragraph classification approach, and 3) combining multiple onset paragraphs at the patient level to generate a ranked list of likely disease onset dates. For 22/31 test patients (71%) the correct onset date was found among the top-3 NLP predictions. The proposed approach was also applied at scale, allowing an onset date to be estimated for 2483 patients.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-80457-0; html:https://europepmc.org/articles/PMC7804184; pdf:https://europepmc.org/articles/PMC7804184?pdf=render"
-  },
-  {
     "id": "30862657",
     "doi": "https://doi.org/10.2337/dc18-2004",
     "title": "Risk of Incident Obstructive Sleep Apnea Among Patients With Type 2 Diabetes.",
@@ -7155,6 +7138,23 @@
     "abstract": "<h4>Objective</h4>This study compared the incidence of obstructive sleep apnea (OSA) in patients with and without type 2 diabetes and investigated risk factors for OSA in patients with type 2 diabetes.<h4>Research design and methods</h4>A retrospective cohort study was performed to compare OSA incidence between adult patients with and without type 2 diabetes matched for age, sex, and BMI. Patients with a prevalent OSA diagnosis were excluded. The study cohort was derived from The Health Improvement Network (THIN), a U.K. primary care database, from 1 January 2005 to 31 December 2017.<h4>Results</h4>There were 3,110 (0.88%) and 5,968 (0.46%) incident OSA cases identified in the 360,250 exposed and 1,296,489 unexposed patient cohorts, respectively. Adjusted incidence rate ratio (aIRR) of OSA in patients with type 2 diabetes compared with those without was 1.48 (95% CI 1.42-1.55; <i>P</i> < 0.001). In a multivariate regression analysis of patients with type 2 diabetes, significant predictors of OSA were diabetes-related foot disease (1.23 [1.06-1.42]; <i>P</i> = 0.005), being prescribed insulin in the last 60 days (1.58 [1.42-1.75]; <i>P</i> < 0.001), male sex (2.27 [2.09-2.46]; <i>P</i> < 0.001), being overweight (2.02 [1.54-2.64]; <i>P</i> < 0.001) or obese (8.29 [6.42-10.69]; <i>P</i> < 0.001), heart failure (1.41 [1.18-1.70]; <i>P</i> < 0.001), ischemic heart disease (1.22 [1.11-1.34]; <i>P</i> < 0.001), atrial fibrillation (1.23 [1.04-1.46]; <i>P</i> = 0.015), hypertension (1.32 [1.23-1.43]; <i>P</i> < 0.001), and depression (1.75 [1.61-1.91]; <i>P</i> < 0.001).<h4>Conclusions</h4>When considered alongside previous evidence, this study indicates that the association between type 2 diabetes and OSA is bidirectional. In addition to known predictors of OSA, diabetes-related foot disease and insulin treatment were identified as risk factors in patients with type 2 diabetes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.2337/dc18-2004"
+  },
+  {
+    "id": "33436814",
+    "doi": "https://doi.org/10.1038/s41598-020-80457-0",
+    "title": "A natural language processing approach for identifying temporal disease onset information from mental healthcare text.",
+    "authorString": "Viani N, Botelle R, Kerwin J, Yin L, Patel R, Stewart R, Velupillai S.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2021",
+    "date": "2021-01-12",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Receiving timely and appropriate treatment is crucial for better health outcomes, and research on the contribution of specific variables is essential. In the mental health domain, an important research variable is the date of psychosis symptom onset, as longer delays in treatment are associated with worse intervention outcomes. The growing adoption of electronic health records (EHRs) within mental health services provides an invaluable opportunity to study this problem at scale retrospectively. However, disease onset information is often only available in open text fields, requiring natural language processing (NLP) techniques for automated analyses. Since this variable can be documented at different points during a patient's care, NLP methods that model clinical and temporal associations are needed. We address the identification of psychosis onset by: 1) manually annotating a corpus of mental health EHRs with disease onset mentions, 2) modelling the underlying NLP problem as a paragraph classification approach, and 3) combining multiple onset paragraphs at the patient level to generate a ranked list of likely disease onset dates. For 22/31 test patients (71%) the correct onset date was found among the top-3 NLP predictions. The proposed approach was also applied at scale, allowing an onset date to be estimated for 2483 patients.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-80457-0; html:https://europepmc.org/articles/PMC7804184; pdf:https://europepmc.org/articles/PMC7804184?pdf=render"
   },
   {
     "id": "33090454",
@@ -8041,23 +8041,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0217158; html:https://europepmc.org/articles/PMC6548370; pdf:https://europepmc.org/articles/PMC6548370?pdf=render"
   },
   {
-    "id": "32724860",
-    "doi": "https://doi.org/10.12688/wellcomeopenres.15651.2",
-    "title": "Using a knowledge exchange event to assess study participants' attitudes to research in a rapidly evolving research context.",
-    "authorString": "Beange I, Kirkham EJ, Fletcher-Watson S, Iveson MH, Lawrie SM, Batty GD, Boardman JP, Deary IJ, Black C, Porteous DJ, McIntosh AM.",
-    "authorAffiliations": "",
-    "journalTitle": "Wellcome open research",
-    "pubYear": "2020",
-    "date": "2020-08-28",
-    "isOpenAccess": "Y",
-    "keywords": "Health; Cohort; Scotland; Data Linkage; Public Engagement; Opinion; Knowledge Exchange; Big Data; Data Science; Guthrie",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Background:</b> The UK hosts some of the world's longest-running longitudinal cohort studies, which make repeated observations of their participants and use these data to explore health outcomes. An alternative method for data collection is record linkage; the linking together of electronic health and administrative records. Applied nationally, this could provide unrivalled opportunities to follow a large number of people in perpetuity. However, public attitudes to the use of data in research are currently unclear. Here we report on an event where we collected attitudes towards recent opportunities and controversies within health data science. <b>Methods:</b> The event was attended by ~250 individuals (cohort members and their guests), who had been invited through the offices of their participating cohort studies. There were a series of presentations describing key research results and the audience participated in 15 multiple-choice questions using interactive voting pads. <b>Results:</b> Our participants showed a high level of trust in researchers (87% scoring them 4/5 or 5/5) and doctors (81%); but less trust in commercial companies (35%). They supported the idea of researchers using information from both neonatal blood spots (Guthrie spots) (97% yes) and from electronic health records (95% yes). Our respondents were willing to wear devices like a 'Fit-bit' (88% agreed) or take a brain scan that might predict later mental illness (73%). However, they were less willing to take a new drug for research purposes (45%). They were keen to encourage others to take part in research; whether that be offering the opportunity to pregnant mothers (97% agreed) or extending invitations to their own children and grandchildren (98%). <b>Conclusions:</b> Our participants were broadly supportive of research access to data, albeit less supportive when commercial interests were involved. Public engagement events that facilitate two-way interactions can influence and support future research and public engagement efforts.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15651.2; html:https://europepmc.org/articles/PMC7361507; pdf:https://europepmc.org/articles/PMC7361507?pdf=render"
-  },
-  {
     "id": "29966429",
     "doi": "https://doi.org/10.1177/2047487318785228",
     "title": "Clinically recorded heart rate and incidence of 12 coronary, cardiac, cerebrovascular and peripheral arterial diseases in 233,970 men and women: A linked electronic health record study.",
@@ -8073,6 +8056,23 @@
     "abstract": "Background In healthy population cohorts, resting heart rate above 90 bpm is associated with mortality from coronary heart disease, but it is not clear whether associations are present at lower heart rates or whether these associations differ between women. Methods The CALIBER resource of linked electronic health records from primary care, hospitalisations, myocardial infarction registry and cause-specific mortality in the UK was used to assess associations between resting heart rate and 12 fatal and non-fatal coronary, cardiac, cerebral and peripheral vascular cardiovascular diseases and death using Cox proportional hazard models. Results Among 233,970 patients, 29,690 fatal and non-fatal events occurred. Fully adjusted models showed that resting heart rate was not associated in men or women with cerebrovascular events. In men a resting heart rate of 70-79 bpm (29.1% of all men) versus less than 60 bpm was associated with an increased risk of heart failure (hazard ratio (HR) 1.65, 95% confidence interval (CI) 1.26-2.16), unheralded coronary death (HR 1.65, 95% CI 1.13-2.41), total cardiovascular events (HR 1.22, 95% CI 1.15-1.28) and all-cause mortality (HR 1.39, 95% CI 1.22-1.58). Women with a higher resting heart rate level of 80-89 bpm versus 60 bpm had a higher risk of total cardiovascular disease events (HR 1.17, 95% CI 1.07-1.24) and all-cause mortality (HR 1.21, 95% CI 1.07-1.35) compared to a resting heart rate less than 60 bpm. The risk was also present at higher heart rates (>90 bpm) for heart failure and sudden cardiac death. Conclusions A resting heart rate that clinicians currently consider as 'normal' in the general population is specifically associated with the incidence of certain major cardiovascular diseases and death, with the risk starting at lower resting heart rate levels in men compared to women. Further research is required to evaluate whether interventions to lower resting heart rate are warranted to prevent disease. The study is registered at: clinicaltrials.gov (ID: NCT01947361).",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1177/2047487318785228"
+  },
+  {
+    "id": "32724860",
+    "doi": "https://doi.org/10.12688/wellcomeopenres.15651.2",
+    "title": "Using a knowledge exchange event to assess study participants' attitudes to research in a rapidly evolving research context.",
+    "authorString": "Beange I, Kirkham EJ, Fletcher-Watson S, Iveson MH, Lawrie SM, Batty GD, Boardman JP, Deary IJ, Black C, Porteous DJ, McIntosh AM.",
+    "authorAffiliations": "",
+    "journalTitle": "Wellcome open research",
+    "pubYear": "2020",
+    "date": "2020-08-28",
+    "isOpenAccess": "Y",
+    "keywords": "Health; Cohort; Scotland; Data Linkage; Public Engagement; Opinion; Knowledge Exchange; Big Data; Data Science; Guthrie",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Background:</b> The UK hosts some of the world's longest-running longitudinal cohort studies, which make repeated observations of their participants and use these data to explore health outcomes. An alternative method for data collection is record linkage; the linking together of electronic health and administrative records. Applied nationally, this could provide unrivalled opportunities to follow a large number of people in perpetuity. However, public attitudes to the use of data in research are currently unclear. Here we report on an event where we collected attitudes towards recent opportunities and controversies within health data science. <b>Methods:</b> The event was attended by ~250 individuals (cohort members and their guests), who had been invited through the offices of their participating cohort studies. There were a series of presentations describing key research results and the audience participated in 15 multiple-choice questions using interactive voting pads. <b>Results:</b> Our participants showed a high level of trust in researchers (87% scoring them 4/5 or 5/5) and doctors (81%); but less trust in commercial companies (35%). They supported the idea of researchers using information from both neonatal blood spots (Guthrie spots) (97% yes) and from electronic health records (95% yes). Our respondents were willing to wear devices like a 'Fit-bit' (88% agreed) or take a brain scan that might predict later mental illness (73%). However, they were less willing to take a new drug for research purposes (45%). They were keen to encourage others to take part in research; whether that be offering the opportunity to pregnant mothers (97% agreed) or extending invitations to their own children and grandchildren (98%). <b>Conclusions:</b> Our participants were broadly supportive of research access to data, albeit less supportive when commercial interests were involved. Public engagement events that facilitate two-way interactions can influence and support future research and public engagement efforts.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.12688/wellcomeopenres.15651.2; html:https://europepmc.org/articles/PMC7361507; pdf:https://europepmc.org/articles/PMC7361507?pdf=render"
   },
   {
     "id": "31145509",
@@ -9095,23 +9095,6 @@
     "urls": "doi:https://doi.org/10.1038/s41598-019-44907-8; html:https://europepmc.org/articles/PMC6554413; pdf:https://europepmc.org/articles/PMC6554413?pdf=render"
   },
   {
-    "id": "33185739",
-    "doi": "https://doi.org/10.1007/s00395-020-00828-6",
-    "title": "Functional investigation of the coronary artery disease gene SVEP1.",
-    "authorString": "Winkler MJ, M\u00fcller P, Sharifi AM, Wobst J, Winter H, Mokry M, Ma L, van der Laan SW, Pang S, Miritsch B, Hinterdobler J, Werner J, Stiller B, G\u00fcldener U, Webb TR, Asselbergs FW, Bj\u00f6rkegren JLM, Maegdefessel L, Schunkert H, Sager HB, Kessler T.",
-    "authorAffiliations": "",
-    "journalTitle": "Basic research in cardiology",
-    "pubYear": "2020",
-    "date": "2020-11-13",
-    "isOpenAccess": "Y",
-    "keywords": "Genetics; Atherosclerosis; coronary artery disease; Svep1",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "A missense variant of the sushi, von Willebrand factor type A, EGF and pentraxin domain containing protein 1 (SVEP1) is genome-wide significantly associated with coronary artery disease. The mechanisms how SVEP1 impacts atherosclerosis are not known. We found endothelial cells (EC) and vascular smooth muscle cells to represent the major cellular source of SVEP1 in plaques. Plaques were larger in atherosclerosis-prone Svep1 haploinsufficient (ApoE<sup>-/-</sup>Svep1<sup>+/-</sup>) compared to Svep1 wild-type mice (ApoE<sup>-/-</sup>Svep1<sup>+/+</sup>) and ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice displayed elevated plaque neutrophil, Ly6C<sup>high</sup> monocyte, and macrophage numbers. We assessed how leukocytes accumulated more inside plaques in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice and found enhanced leukocyte recruitment from blood into plaques. In vitro, we examined how SVEP1 deficiency promotes leukocyte recruitment and found elevated expression of the leukocyte attractant chemokine (C-X-C motif) ligand 1 (CXCL1) in EC after incubation with missense compared to wild-type SVEP1. Increasing wild-type SVEP1 levels silenced endothelial CXCL1 release. In line, plasma Cxcl1 levels were elevated in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice. Our studies reveal an atheroprotective role of SVEP1. Deficiency of wild-type Svep1 increased endothelial CXCL1 expression leading to enhanced recruitment of proinflammatory leukocytes from blood to plaque. Consequently, elevated vascular inflammation resulted in enhanced plaque progression in Svep1 deficiency.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s00395-020-00828-6; html:https://europepmc.org/articles/PMC7666586; pdf:https://europepmc.org/articles/PMC7666586?pdf=render"
-  },
-  {
     "id": "31478583",
     "doi": "https://doi.org/10.1002/ejhf.1615",
     "title": "Association between beta-blocker use and mortality/morbidity in older patients with heart failure with reduced ejection fraction. A propensity score-matched analysis from the Swedish Heart Failure Registry.",
@@ -9127,6 +9110,23 @@
     "abstract": "BACKGROUND:Beta-blockers reduce mortality and morbidity in heart failure (HF) with reduced ejection fraction (HFrEF). However, patients older than 80\u2009years are poorly represented in randomized controlled trials. We assessed the association between beta-blocker use and outcomes in HFrEF patients aged \u226580\u2009years. METHODS AND RESULTS:We included patients with an ejection fraction <40% and aged \u226580\u2009years from the Swedish HF Registry. The association between beta-blocker use, all-cause mortality and cardiovascular (CV) mortality/HF hospitalization was assessed by Cox proportional hazard models in a 1:1 propensity score-matched cohort. To assess consistency, the same analyses were performed in a positive control cohort with age <80\u2009years. A negative control outcome analysis was run using hospitalization for cancer as endpoint. Of 6562 patients aged \u226580\u2009years, 5640 (86%) received beta-blockers. In the matched cohort including 1732 patients, beta-blocker use was associated with a significant reduction in the risk of all-cause mortality [hazard ratio (HR) 0.89, 95% confidence interval (CI) 0.79-0.99]. Reduction in CV mortality/HF hospitalization was not significant (HR 0.94, 95% CI 0.85-1.05) due to the lack of association with HF hospitalization, whereas CV death was significantly reduced. After adjustment rather than matching for the propensity score in the overall cohort, beta-blocker use was associated with reduced risk of all outcomes. In patients aged <80\u2009years, use of beta-blockers was associated with reduced risk of all-cause death (HR 0.79, 95% CI 0.68-0.92) and of the composite outcome (HR 0.88, 95% CI 0.77-0.99). CONCLUSIONS:In HFrEF patients \u226580\u2009years of age, use of beta-blockers was high and was associated with improved all-cause and CV survival.",
     "laySummary": "This study looked at 6562 people with severe heart failure and whether there was an association between taking beta-blockers (a drug to control heart rate) and heart disease. They used a national Swedish registry of patients with heart failure and compared those who were taking beta blockers (866 patients) to those not taking beta blockers (866 patients). The study found that patients who were taking beta blockers tended also to have lower risk of heart complications and were more likely to survive.",
     "urls": "doi:https://doi.org/10.1002/ejhf.1615"
+  },
+  {
+    "id": "33185739",
+    "doi": "https://doi.org/10.1007/s00395-020-00828-6",
+    "title": "Functional investigation of the coronary artery disease gene SVEP1.",
+    "authorString": "Winkler MJ, M\u00fcller P, Sharifi AM, Wobst J, Winter H, Mokry M, Ma L, van der Laan SW, Pang S, Miritsch B, Hinterdobler J, Werner J, Stiller B, G\u00fcldener U, Webb TR, Asselbergs FW, Bj\u00f6rkegren JLM, Maegdefessel L, Schunkert H, Sager HB, Kessler T.",
+    "authorAffiliations": "",
+    "journalTitle": "Basic research in cardiology",
+    "pubYear": "2020",
+    "date": "2020-11-13",
+    "isOpenAccess": "Y",
+    "keywords": "Genetics; Atherosclerosis; coronary artery disease; Svep1",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "A missense variant of the sushi, von Willebrand factor type A, EGF and pentraxin domain containing protein 1 (SVEP1) is genome-wide significantly associated with coronary artery disease. The mechanisms how SVEP1 impacts atherosclerosis are not known. We found endothelial cells (EC) and vascular smooth muscle cells to represent the major cellular source of SVEP1 in plaques. Plaques were larger in atherosclerosis-prone Svep1 haploinsufficient (ApoE<sup>-/-</sup>Svep1<sup>+/-</sup>) compared to Svep1 wild-type mice (ApoE<sup>-/-</sup>Svep1<sup>+/+</sup>) and ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice displayed elevated plaque neutrophil, Ly6C<sup>high</sup> monocyte, and macrophage numbers. We assessed how leukocytes accumulated more inside plaques in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice and found enhanced leukocyte recruitment from blood into plaques. In vitro, we examined how SVEP1 deficiency promotes leukocyte recruitment and found elevated expression of the leukocyte attractant chemokine (C-X-C motif) ligand 1 (CXCL1) in EC after incubation with missense compared to wild-type SVEP1. Increasing wild-type SVEP1 levels silenced endothelial CXCL1 release. In line, plasma Cxcl1 levels were elevated in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice. Our studies reveal an atheroprotective role of SVEP1. Deficiency of wild-type Svep1 increased endothelial CXCL1 expression leading to enhanced recruitment of proinflammatory leukocytes from blood to plaque. Consequently, elevated vascular inflammation resulted in enhanced plaque progression in Svep1 deficiency.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s00395-020-00828-6; html:https://europepmc.org/articles/PMC7666586; pdf:https://europepmc.org/articles/PMC7666586?pdf=render"
   },
   {
     "id": "33075408",
@@ -10778,23 +10778,6 @@
     "urls": "doi:https://doi.org/10.1093/cvr/cvz015"
   },
   {
-    "id": "33478953",
-    "doi": "https://doi.org/10.1136/annrheumdis-2020-219517",
-    "title": "Use of non-steroidal anti-inflammatory drugs and risk of death from COVID-19: an OpenSAFELY cohort analysis based on two cohorts.",
-    "authorString": "Wong AY, MacKenna B, Morton CE, Schultze A, Walker AJ, Bhaskaran K, Brown JP, Rentsch CT, Williamson E, Drysdale H, Croker R, Bacon S, Hulme W, Bates C, Curtis HJ, Mehrkar A, Evans D, Inglesby P, Cockburn J, McDonald HI, Tomlinson L, Mathur R, Wing K, Forbes H, Eggo RM, Parry J, Hester F, Harper S, Evans SJ, Smeeth L, Douglas IJ, Goldacre B, OpenSAFELY Collaborative.",
-    "authorAffiliations": "",
-    "journalTitle": "Annals of the rheumatic diseases",
-    "pubYear": "2021",
-    "date": "2021-01-21",
-    "isOpenAccess": "Y",
-    "keywords": "Arthritis; Rheumatoid; Osteoarthritis; epidemiology; Covid-19",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Objectives</h4>To assess the association between routinely prescribed non-steroidal anti-inflammatory drugs (NSAIDs) and deaths from COVID-19 using OpenSAFELY, a secure analytical platform.<h4>Methods</h4>We conducted two cohort studies from 1 March to 14 June 2020. Working on behalf of National Health Service England, we used routine clinical data in England linked to death data. In study 1, we identified people with an NSAID prescription in the last 3 years from the general population. In study 2, we identified people with rheumatoid arthritis/osteoarthritis. We defined exposure as current NSAID prescription within the 4 months before 1 March 2020. We used Cox regression to estimate HRs for COVID-19 related death in people currently prescribed NSAIDs, compared with those not currently prescribed NSAIDs, accounting for age, sex, comorbidities, other medications and geographical region.<h4>Results</h4>In study 1, we included 536 423 current NSAID users and 1 927 284 non-users in the general population. We observed no evidence of difference in risk of COVID-19 related death associated with current use (HR 0.96, 95% CI 0.80 to 1.14) in the multivariable-adjusted model. In study 2, we included 1 708 781 people with rheumatoid arthritis/osteoarthritis, of whom 175 495 (10%) were current NSAID users. In the multivariable-adjusted model, we observed a lower risk of COVID-19 related death (HR 0.78, 95% CI 0.64 to 0.94) associated with current use of NSAID versus non-use.<h4>Conclusions</h4>We found no evidence of a harmful effect of routinely prescribed NSAIDs on COVID-19 related deaths. Risks of COVID-19 do not need to influence decisions about the routine therapeutic use of NSAIDs.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/annrheumdis-2020-219517; html:https://europepmc.org/articles/PMC7823433; pdf:https://europepmc.org/articles/PMC7823433?pdf=render"
-  },
-  {
     "id": "31382511",
     "doi": "https://doi.org/10.3390/toxins11080454",
     "title": "Indoxyl Sulfate Stimulates Angiogenesis by Regulating Reactive Oxygen Species Production via CYP1B1.",
@@ -10810,6 +10793,23 @@
     "abstract": "Indoxyl sulfate (IS) is an accumulative protein-bound uremic toxin found in patients with kidney disease. It is reported that IS impairs the vascular endothelium, but a comprehensive overview of all mechanisms active in IS-injury currently remains lacking. Here we performed RNA sequencing in human umbilical vein endothelial cells (HUVECs) after IS or control medium treatment and identified 1293 genes that were affected in a IS-induced response. Gene enrichment analysis highlighted pathways involved in altered vascular formation and cell metabolism. We confirmed these transcriptome profiles at the functional level by demonstrating decreased viability and increased cell senescence in response to IS treatment. In line with the additional pathways highlighted by the transcriptome analysis, we further could demonstrate that IS exposure of HUVECs promoted tubule formation as shown by the increase in total tubule length in a 3D HUVECs/pericytes co-culture assay. Notably, the pro-angiogenic response of IS and increased ROS production were abolished when <i>CYP1B1</i>, one of the main target genes that was highly upregulated by IS, was silenced. This observation indicates IS-induced ROS in endothelial cells is <i>CYP1B1</i>-dependent. Taken together, our findings demonstrate that IS promotes angiogenesis and <i>CYP1B1</i> is an important factor in IS-activated angiogenic response.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/toxins11080454; html:https://europepmc.org/articles/PMC6723868; pdf:https://europepmc.org/articles/PMC6723868?pdf=render"
+  },
+  {
+    "id": "33478953",
+    "doi": "https://doi.org/10.1136/annrheumdis-2020-219517",
+    "title": "Use of non-steroidal anti-inflammatory drugs and risk of death from COVID-19: an OpenSAFELY cohort analysis based on two cohorts.",
+    "authorString": "Wong AY, MacKenna B, Morton CE, Schultze A, Walker AJ, Bhaskaran K, Brown JP, Rentsch CT, Williamson E, Drysdale H, Croker R, Bacon S, Hulme W, Bates C, Curtis HJ, Mehrkar A, Evans D, Inglesby P, Cockburn J, McDonald HI, Tomlinson L, Mathur R, Wing K, Forbes H, Eggo RM, Parry J, Hester F, Harper S, Evans SJ, Smeeth L, Douglas IJ, Goldacre B, OpenSAFELY Collaborative.",
+    "authorAffiliations": "",
+    "journalTitle": "Annals of the rheumatic diseases",
+    "pubYear": "2021",
+    "date": "2021-01-21",
+    "isOpenAccess": "Y",
+    "keywords": "Arthritis; Rheumatoid; Osteoarthritis; epidemiology; Covid-19",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Objectives</h4>To assess the association between routinely prescribed non-steroidal anti-inflammatory drugs (NSAIDs) and deaths from COVID-19 using OpenSAFELY, a secure analytical platform.<h4>Methods</h4>We conducted two cohort studies from 1 March to 14 June 2020. Working on behalf of National Health Service England, we used routine clinical data in England linked to death data. In study 1, we identified people with an NSAID prescription in the last 3 years from the general population. In study 2, we identified people with rheumatoid arthritis/osteoarthritis. We defined exposure as current NSAID prescription within the 4 months before 1 March 2020. We used Cox regression to estimate HRs for COVID-19 related death in people currently prescribed NSAIDs, compared with those not currently prescribed NSAIDs, accounting for age, sex, comorbidities, other medications and geographical region.<h4>Results</h4>In study 1, we included 536 423 current NSAID users and 1 927 284 non-users in the general population. We observed no evidence of difference in risk of COVID-19 related death associated with current use (HR 0.96, 95% CI 0.80 to 1.14) in the multivariable-adjusted model. In study 2, we included 1 708 781 people with rheumatoid arthritis/osteoarthritis, of whom 175 495 (10%) were current NSAID users. In the multivariable-adjusted model, we observed a lower risk of COVID-19 related death (HR 0.78, 95% CI 0.64 to 0.94) associated with current use of NSAID versus non-use.<h4>Conclusions</h4>We found no evidence of a harmful effect of routinely prescribed NSAIDs on COVID-19 related deaths. Risks of COVID-19 do not need to influence decisions about the routine therapeutic use of NSAIDs.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/annrheumdis-2020-219517; html:https://europepmc.org/articles/PMC7823433; pdf:https://europepmc.org/articles/PMC7823433?pdf=render"
   },
   {
     "id": "33444539",
@@ -11407,23 +11407,6 @@
     "urls": "doi:https://doi.org/10.1016/j.yebeh.2020.107196"
   },
   {
-    "id": "32553130",
-    "doi": "https://doi.org/10.1016/s2214-109x(20)30264-3",
-    "title": "Global, regional, and national estimates of the population at increased risk of severe COVID-19 due to underlying health conditions in 2020: a modelling study.",
-    "authorString": "Clark A, Jit M, Warren-Gash C, Guthrie B, Wang HHX, Mercer SW, Sanderson C, McKee M, Troeger C, Ong KL, Checchi F, Perel P, Joseph S, Gibbs HP, Banerjee A, Eggo RM, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 working group.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Global health",
-    "pubYear": "2020",
-    "date": "2020-06-15",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>The risk of severe COVID-19 if an individual becomes infected is known to be higher in older individuals and those with underlying health conditions. Understanding the number of individuals at increased risk of severe COVID-19 and how this varies between countries should inform the design of possible strategies to shield or vaccinate those at highest risk.<h4>Methods</h4>We estimated the number of individuals at increased risk of severe disease (defined as those with at least one condition listed as \"at increased risk of severe COVID-19\" in current guidelines) by age (5-year age groups), sex, and country for 188 countries using prevalence data from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2017 and UN population estimates for 2020. The list of underlying conditions relevant to COVID-19 was determined by mapping the conditions listed in GBD 2017 to those listed in guidelines published by WHO and public health agencies in the UK and the USA. We analysed data from two large multimorbidity studies to determine appropriate adjustment factors for clustering and multimorbidity. To help interpretation of the degree of risk among those at increased risk, we also estimated the number of individuals at high risk (defined as those that would require hospital admission if infected) using age-specific infection-hospitalisation ratios for COVID-19 estimated for mainland China and making adjustments to reflect country-specific differences in the prevalence of underlying conditions and frailty. We assumed males were twice at likely as females to be at high risk. We also calculated the number of individuals without an underlying condition that could be considered at increased risk because of their age, using minimum ages from 50 to 70 years. We generated uncertainty intervals (UIs) for our estimates by running low and high scenarios using the lower and upper 95% confidence limits for country population size, disease prevalences, multimorbidity fractions, and infection-hospitalisation ratios, and plausible low and high estimates for the degree of clustering, informed by multimorbidity studies.<h4>Findings</h4>We estimated that 1\u00b77 billion (UI 1\u00b70-2\u00b74) people, comprising 22% (UI 15-28) of the global population, have at least one underlying condition that puts them at increased risk of severe COVID-19 if infected (ranging from <5% of those younger than 20 years to >66% of those aged 70 years or older). We estimated that 349 million (186-787) people (4% [3-9] of the global population) are at high risk of severe COVID-19 and would require hospital admission if infected (ranging from <1% of those younger than 20 years to approximately 20% of those aged 70 years or older). We estimated 6% (3-12) of males to be at high risk compared with 3% (2-7) of females. The share of the population at increased risk was highest in countries with older populations, African countries with high HIV/AIDS prevalence, and small island nations with high diabetes prevalence. Estimates of the number of individuals at increased risk were most sensitive to the prevalence of chronic kidney disease, diabetes, cardiovascular disease, and chronic respiratory disease.<h4>Interpretation</h4>About one in five individuals worldwide could be at increased risk of severe COVID-19, should they become infected, due to underlying health conditions, but this risk varies considerably by age. Our estimates are uncertain, and focus on underlying conditions rather than other risk factors such as ethnicity, socioeconomic deprivation, and obesity, but provide a starting point for considering the number of individuals that might need to be shielded or vaccinated as the global pandemic unfolds.<h4>Funding</h4>UK Department for International Development, Wellcome Trust, Health Data Research UK, Medical Research Council, and National Institute for Health Research.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S2214-109X(20)30264-3; html:https://europepmc.org/articles/PMC7295519"
-  },
-  {
     "id": "31462703",
     "doi": "https://doi.org/10.1038/s41435-019-0082-z",
     "title": "Elevated risk of invasive group A streptococcal disease and host genetic variation in the human leucocyte antigen locus.",
@@ -11439,6 +11422,23 @@
     "abstract": "Invasive group A streptococcal (GAS) disease is uncommon but carries a high case-fatality rate relative to other infectious diseases. Given the ubiquity of mild GAS infections, it remains unclear why healthy individuals will occasionally develop life-threatening infections, raising the possibility of host genetic predisposition. Here, we present the results of a case-control study including 43 invasive GAS cases and 1540 controls. Using HLA imputation and linear mixed models, we find each copy of the HLA-DQA1*01:03 allele associates with a twofold increased risk of disease (odds ratio 2.3, 95% confidence interval 1.3-4.4, P\u2009=\u20090.009), an association which persists with classical HLA typing of a subset of cases and analysis with an alternative large control dataset with validated HLA data. Moreover, we propose the association is driven by the allele itself rather than the background haplotype. Overall this finding provides impetus for further investigation of the immunogenetic basis of this devastating bacterial disease.",
     "laySummary": "This article presents a case-control study to investigate why healthy individuals develop life-threatening infections caused by GAS which is a particularly invasive infectious disease. They conclude that further research into the genetics behind this invasive disease may help bring about much needed progess in the development of treatments and vaccinations for the same.",
     "urls": "doi:https://doi.org/10.1038/s41435-019-0082-z; html:https://europepmc.org/articles/PMC7039814; pdf:https://europepmc.org/articles/PMC7039814?pdf=render"
+  },
+  {
+    "id": "32553130",
+    "doi": "https://doi.org/10.1016/s2214-109x(20)30264-3",
+    "title": "Global, regional, and national estimates of the population at increased risk of severe COVID-19 due to underlying health conditions in 2020: a modelling study.",
+    "authorString": "Clark A, Jit M, Warren-Gash C, Guthrie B, Wang HHX, Mercer SW, Sanderson C, McKee M, Troeger C, Ong KL, Checchi F, Perel P, Joseph S, Gibbs HP, Banerjee A, Eggo RM, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 working group.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Global health",
+    "pubYear": "2020",
+    "date": "2020-06-15",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>The risk of severe COVID-19 if an individual becomes infected is known to be higher in older individuals and those with underlying health conditions. Understanding the number of individuals at increased risk of severe COVID-19 and how this varies between countries should inform the design of possible strategies to shield or vaccinate those at highest risk.<h4>Methods</h4>We estimated the number of individuals at increased risk of severe disease (defined as those with at least one condition listed as \"at increased risk of severe COVID-19\" in current guidelines) by age (5-year age groups), sex, and country for 188 countries using prevalence data from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) 2017 and UN population estimates for 2020. The list of underlying conditions relevant to COVID-19 was determined by mapping the conditions listed in GBD 2017 to those listed in guidelines published by WHO and public health agencies in the UK and the USA. We analysed data from two large multimorbidity studies to determine appropriate adjustment factors for clustering and multimorbidity. To help interpretation of the degree of risk among those at increased risk, we also estimated the number of individuals at high risk (defined as those that would require hospital admission if infected) using age-specific infection-hospitalisation ratios for COVID-19 estimated for mainland China and making adjustments to reflect country-specific differences in the prevalence of underlying conditions and frailty. We assumed males were twice at likely as females to be at high risk. We also calculated the number of individuals without an underlying condition that could be considered at increased risk because of their age, using minimum ages from 50 to 70 years. We generated uncertainty intervals (UIs) for our estimates by running low and high scenarios using the lower and upper 95% confidence limits for country population size, disease prevalences, multimorbidity fractions, and infection-hospitalisation ratios, and plausible low and high estimates for the degree of clustering, informed by multimorbidity studies.<h4>Findings</h4>We estimated that 1\u00b77 billion (UI 1\u00b70-2\u00b74) people, comprising 22% (UI 15-28) of the global population, have at least one underlying condition that puts them at increased risk of severe COVID-19 if infected (ranging from <5% of those younger than 20 years to >66% of those aged 70 years or older). We estimated that 349 million (186-787) people (4% [3-9] of the global population) are at high risk of severe COVID-19 and would require hospital admission if infected (ranging from <1% of those younger than 20 years to approximately 20% of those aged 70 years or older). We estimated 6% (3-12) of males to be at high risk compared with 3% (2-7) of females. The share of the population at increased risk was highest in countries with older populations, African countries with high HIV/AIDS prevalence, and small island nations with high diabetes prevalence. Estimates of the number of individuals at increased risk were most sensitive to the prevalence of chronic kidney disease, diabetes, cardiovascular disease, and chronic respiratory disease.<h4>Interpretation</h4>About one in five individuals worldwide could be at increased risk of severe COVID-19, should they become infected, due to underlying health conditions, but this risk varies considerably by age. Our estimates are uncertain, and focus on underlying conditions rather than other risk factors such as ethnicity, socioeconomic deprivation, and obesity, but provide a starting point for considering the number of individuals that might need to be shielded or vaccinated as the global pandemic unfolds.<h4>Funding</h4>UK Department for International Development, Wellcome Trust, Health Data Research UK, Medical Research Council, and National Institute for Health Research.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S2214-109X(20)30264-3; html:https://europepmc.org/articles/PMC7295519"
   },
   {
     "id": "30524708",
