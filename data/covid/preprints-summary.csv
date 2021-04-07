@@ -1,16 +1,16 @@
-ophthalmology,surgery,cardiovascular medicine,biochemistry,microbiology,dentistry and oral medicine,geriatric medicine,health economics,respiratory medicine,psychiatry and clinical psychology,month,intensive care and critical care medicine,molecular biology,immunology,pediatrics,oncology,hiv aids,infectious diseases,radiology and imaging,emergency medicine,primary care research,public and global health,systems biology,occupational and environmental health,genetic and genomic medicine,genomics,obstetrics and gynecology,health policy,Total,bioinformatics,health informatics,health systems and quality improvement,epidemiology
-,,,,,,,,,,Apr-21,,,,,,,1,,,,,,,,,,,1,,,,
-,1,,1,,,2,,,1,Mar-21,,,,1,,,16,1,,,4,,,1,,,,36,,2,,6
-,,1,,,,,1,,,Feb-21,,,,,,,7,,,,1,,,,,,,17,,1,1,5
-,,,,,1,1,,,1,Jan-21,1,,1,,,,8,,,1,3,,,,,,,22,,,1,4
-,,2,,1,,,,,2,Dec-20,,,,,,,4,,,1,3,,,,2,,,23,,3,1,4
-,,,,,,,,,,Nov-20,,,1,,,,13,,,,5,,,,,,1,28,1,1,,6
-,,,1,,,1,,,3,Oct-20,1,,1,,1,,12,,,1,,1,,,,,1,31,1,1,,6
-,,,,,,,,,2,Sep-20,1,,,,,1,8,,3,1,3,,,,,,,26,,1,,6
-,,,,,,,,,,Aug-20,,1,,,,,12,,2,,2,,1,1,,1,,27,,,1,6
-,,1,,,,,,1,1,Jul-20,1,,1,,,,8,,,,4,,,,1,,,27,,,,9
-1,,1,,,,,,1,4,Jun-20,3,,1,,1,,10,,,,3,,,,,,1,36,1,1,1,7
-,,2,,,,1,1,1,,May-20,1,,,,1,,9,,,,8,,1,,,,,35,1,1,,8
-,,,,,,,,,,Apr-20,,,,,,,5,,,,1,,,2,1,,,17,,,1,7
-,,,,,,,,,,Mar-20,,,,,,,1,,,,3,,,,,,,8,,,,4
-,,,,,,,,,,Feb-20,,,,,,,1,,,,2,,,,,,,7,,,,4
+health informatics,oncology,ophthalmology,health policy,epidemiology,neurology,biochemistry,bioinformatics,respiratory medicine,obstetrics and gynecology,pediatrics,public and global health,genetic and genomic medicine,hiv aids,surgery,geriatric medicine,psychiatry and clinical psychology,cardiovascular medicine,primary care research,microbiology,dentistry and oral medicine,immunology,health systems and quality improvement,month,emergency medicine,molecular biology,health economics,infectious diseases,Total,intensive care and critical care medicine,radiology and imaging,occupational and environmental health,genomics,systems biology
+,,,,,,,,,,,,,,,,,,,,,,,Apr-21,,,,1,1,,,,,
+2,,,,6,1,1,,,,1,5,1,,1,2,1,,,,,,,Mar-21,,,,16,38,,1,,,
+1,,,,8,,,,,,,1,,,1,,,1,,,,,1,Feb-21,,,1,7,21,,,,,
+,,,1,4,,,,,,,3,,,,1,1,,1,,1,1,1,Jan-21,,,,8,23,1,,,,
+2,,,,4,,,,,,,3,,,,,2,2,1,1,,,1,Dec-20,,,,4,22,,,,2,
+1,,,1,5,,,1,,,,5,,,,,,,,,,1,,Nov-20,,,,13,27,,,,,
+1,1,,1,6,,1,1,,,,,,,,,2,,1,,,1,,Oct-20,,,,12,29,1,,,,1
+1,,,,6,,,,,,,3,,1,,,1,,1,,,,,Sep-20,3,,,8,25,1,,,,
+,,,,6,,,,,1,,2,1,,,,,,,,,,,Aug-20,2,1,,11,25,,,1,,
+,,,,8,,,,1,,,3,,,,,1,1,,,,1,,Jul-20,,,,7,24,1,,,1,
+1,1,1,1,7,,,1,1,,,3,,,,1,4,1,,,,1,1,Jun-20,,,,9,36,3,,,,
+1,1,,,7,,,1,1,,,9,,,,1,,2,,,,,,May-20,,,1,10,36,1,,1,,
+,,,,7,,,,,,,1,2,,,,,,,,,,1,Apr-20,,,,6,18,,,,1,
+,,,,4,,,,,,,3,,,,,,,,,,,,Mar-20,,,,1,8,,,,,
+,,,,4,,,,,,,2,,,,,,,,,,,,Feb-20,,,,1,7,,,,,
