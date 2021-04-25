@@ -1,16 +1,16 @@
-health policy,public and global health,psychiatry and clinical psychology,neurology,primary care research,infectious diseases,oncology,bioinformatics,health economics,month,genomics,health systems and quality improvement,obstetrics and gynecology,genetic and genomic medicine,immunology,intensive care and critical care medicine,Total,microbiology,occupational and environmental health,health informatics,pediatrics,dentistry and oral medicine,surgery,respiratory medicine,allergy and immunology,radiology and imaging,cardiovascular medicine,hiv aids,molecular biology,epidemiology,emergency medicine,systems biology,ophthalmology,biochemistry,geriatric medicine
-,1,1,,1,5,,,,Apr-21,,,,,,,14,1,2,1,,,,,1,,,,,1,,,,,
-,5,1,1,,17,,,,Mar-21,,,,1,,,38,,,2,1,,1,,,1,,,,5,,,,1,2
-,,,,,6,,,1,Feb-21,,1,,,,,19,,,1,,,1,,,,1,,,8,,,,,
-1,3,1,,1,8,,,,Jan-21,,1,,,1,1,22,,,,,1,,,,,,,,3,,,,,1
-,3,1,,1,3,,,,Dec-20,2,,,,,,20,1,,3,,,,,,,2,,,4,,,,,
-1,4,,,,13,,1,,Nov-20,,,,,1,,27,,,1,,,,,,,,,,6,,,,,
-1,,3,,1,11,1,1,,Oct-20,,,,,1,1,30,,,1,,,,,,,,,,6,,1,,1,1
-,3,2,,1,8,,,,Sep-20,,,,,,1,26,,,1,,,,,,,,1,,6,3,,,,
-,2,,,,12,,,,Aug-20,,1,1,1,,,27,,1,,,,,,,,,,1,6,2,,,,
-,4,1,,,8,,,,Jul-20,1,,,,1,1,28,,,,,,,1,,,1,,,10,,,,,
-1,3,4,,,10,1,1,,Jun-20,,1,,,1,3,37,,,1,,,,1,,,1,,,7,,,1,,1
-,8,,,,10,,1,1,May-20,,,,,,1,35,,1,1,,,,1,,,2,,,8,,,,,1
-,1,,,,7,,,,Apr-20,1,1,,2,,,18,,,,,,,,,,,,,6,,,,,
-,3,,,,1,,,,Mar-20,,,,,,,8,,,,,,,,,,,,,4,,,,,
-,2,,,,1,,,,Feb-20,,,,,,,7,,,,,,,,,,,,,4,,,,,
+infectious diseases,ophthalmology,molecular biology,cardiovascular medicine,respiratory medicine,health policy,occupational and environmental health,genomics,hiv aids,immunology,health economics,month,obstetrics and gynecology,systems biology,microbiology,health informatics,pediatrics,intensive care and critical care medicine,biochemistry,oncology,health systems and quality improvement,neurology,emergency medicine,psychiatry and clinical psychology,bioinformatics,geriatric medicine,primary care research,dentistry and oral medicine,allergy and immunology,Total,surgery,radiology and imaging,public and global health,epidemiology,genetic and genomic medicine
+5,,,,,,2,,,,,Apr-21,,,1,1,,,,,,,,1,,,1,,1,14,,,1,1,
+17,,,,,,,,,,,Mar-21,,,,2,1,,1,,,1,,1,,2,,,,39,1,1,5,6,1
+7,,,1,,,,,,,1,Feb-21,,,,1,,,,,1,,,,,,,,,21,1,,1,8,
+7,,,,,1,,,,1,,Jan-21,,,,,,1,,,1,,,1,,1,1,1,,22,,,3,4,
+4,,,2,,,,2,,,,Dec-20,,,1,3,,,,,1,,,2,,,1,,,23,,,3,4,
+13,,,,,1,,,,,,Nov-20,,,,1,,,,,,,,,1,,,,,26,,,4,6,
+11,,,,,1,,,,1,,Oct-20,,1,,1,,1,1,1,,,,2,1,1,1,,,29,,,,6,
+8,,,,,,,,1,,,Sep-20,,,,1,,1,,,,,3,2,,,1,,,26,,,3,6,
+12,,1,,,,1,,,,,Aug-20,1,,,,,,,,1,,2,,,,,,,27,,,2,6,1
+7,,,1,1,,,1,,1,,Jul-20,,,,,,1,,,,,,1,,,,,,26,,,4,9,
+10,1,,1,1,1,,,,1,,Jun-20,,,,1,,3,,1,1,,,4,1,1,,,,37,,,3,7,
+10,,,2,1,,1,,,,1,May-20,,,,1,,1,,1,,,,,1,1,,,,37,,,9,8,
+6,,,,,,,1,,,,Apr-20,,,,,,,,,1,,,,,,,,,18,,,1,7,2
+1,,,,,,,,,,,Mar-20,,,,,,,,,,,,,,,,,,8,,,3,4,
+1,,,,,,,,,,,Feb-20,,,,,,,,,,,,,,,,,,7,,,2,4,
