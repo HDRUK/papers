@@ -1,16 +1,17 @@
-bioinformatics,public and global health,surgery,psychiatry and clinical psychology,health systems and quality improvement,epidemiology,immunology,month,biochemistry,radiology and imaging,allergy and immunology,neurology,oncology,systems biology,hiv aids,genomics,health policy,primary care research,obstetrics and gynecology,intensive care and critical care medicine,Total,pediatrics,cardiovascular medicine,microbiology,infectious diseases,geriatric medicine,health informatics,health economics,emergency medicine,dentistry and oral medicine,respiratory medicine,ophthalmology,genetic and genomic medicine,occupational and environmental health
-,1,,1,1,4,,Apr-21,,,1,,,,,,,1,,,20,,,1,7,,1,,,,,,,2
-,4,1,1,,6,,Mar-21,1,1,,1,,,,,,,,,37,1,,,16,2,2,,,,,,1,
-,1,1,,1,8,,Feb-21,,,,,,,,,,,,,21,,1,,7,,1,1,,,,,,
-,3,,1,1,4,1,Jan-21,,,,,,,,,1,1,,1,23,,,,8,1,,,,1,,,,
-,3,,2,1,4,,Dec-20,,,,,,,,2,,1,,,23,,2,1,4,,3,,,,,,,
-1,4,,,,6,1,Nov-20,,,,,,,,,1,,,,27,,,,13,,1,,,,,,,
-1,,,3,,6,1,Oct-20,1,,,,1,1,,,1,1,,1,31,,,,12,1,1,,,,,,,
-,3,,2,,6,,Sep-20,,,,,,,1,,,1,,1,25,,,,7,,1,,3,,,,,
-,2,,,1,6,,Aug-20,,,,,,,,,,,1,,25,,,,11,,,,2,,,,1,1
-,3,,1,,10,1,Jul-20,,,,,,,,1,,,,1,27,,1,,8,,,,,,1,,,
-1,3,,3,1,7,1,Jun-20,,,,,1,,,,1,,,3,36,,1,,10,1,1,,,,1,1,,
-,9,,,,8,,May-20,,,,,1,,,,,,,1,36,,2,,10,1,1,1,,,1,,,1
-,1,,,1,7,,Apr-20,,,,,,,,1,,,,,19,,,,7,,,,,,,,2,
-,3,,,,3,,Mar-20,,,,,,,,,,,,,7,,,,1,,,,,,,,,
-,2,,,,4,,Feb-20,,,,,,,,,,,,,7,,,,1,,,,,,,,,
+oncology,Total,microbiology,epidemiology,public and global health,biochemistry,health economics,geriatric medicine,obstetrics and gynecology,ophthalmology,health informatics,respiratory medicine,health policy,molecular biology,surgery,month,psychiatry and clinical psychology,genetic and genomic medicine,intensive care and critical care medicine,radiology and imaging,primary care research,neurology,immunology,emergency medicine,systems biology,genomics,hiv aids,pediatrics,occupational and environmental health,cardiovascular medicine,allergy and immunology,bioinformatics,health systems and quality improvement,dentistry and oral medicine,infectious diseases
+,1,,1,,,,,,,,,,,,May-21,,,,,,,,,,,,,,,,,,,
+,20,1,4,1,,,,,,1,,,,,Apr-21,1,,,,1,,,,,,,,2,,1,,1,,7
+,39,,6,5,1,,2,,,2,,,,1,Mar-21,1,1,,1,,1,,,,,,1,,,,,,,17
+,21,,8,1,,1,,,,1,,,,1,Feb-21,,,,,,,,,,,,,,1,,,1,,7
+,21,,3,3,,,1,,,,,1,,,Jan-21,1,,1,,1,,1,,,,,,,,,,1,1,7
+,22,1,4,3,,,,,,2,,,,,Dec-20,2,,,,1,,,,,2,,,,2,,,1,,4
+,26,,5,5,,,,,,1,,1,,,Nov-20,,,,,,,1,,,,,,,,,1,,,12
+1,31,,6,,1,,1,,,1,,1,,,Oct-20,3,,1,,1,,1,,1,,,,,,,1,,,12
+,26,,6,3,,,,,,1,,,,,Sep-20,2,,1,,1,,,3,,,1,,,,,,,,8
+,26,,6,2,,,,1,,,,,1,,Aug-20,,1,,,,,,2,,,,,1,,,,1,,11
+,27,,10,4,,,,,,,1,,,,Jul-20,1,,1,,,,1,,,1,,,,1,,,,,7
+1,37,,7,3,,,1,,1,1,1,1,,,Jun-20,4,,3,,,,1,,,,,,,1,,1,1,,10
+1,36,,8,9,,1,1,,,1,1,,,,May-20,,,1,,,,,,,,,,1,2,,1,,,9
+,18,,6,1,,,,,,,,,,,Apr-20,,2,,,,,,,,1,,,,,,,1,,7
+,8,,4,3,,,,,,,,,,,Mar-20,,,,,,,,,,,,,,,,,,,1
+,7,,4,2,,,,,,,,,,,Feb-20,,,,,,,,,,,,,,,,,,,1
