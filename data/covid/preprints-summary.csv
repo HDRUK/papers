@@ -1,18 +1,18 @@
-month,allergy and immunology,hiv aids,molecular biology,dermatology,oncology,psychiatry and clinical psychology,health economics,respiratory medicine,neurology,bioinformatics,cardiovascular medicine,genetic and genomic medicine,biochemistry,systems biology,epidemiology,health systems and quality improvement,dentistry and oral medicine,surgery,geriatric medicine,health informatics,ophthalmology,intensive care and critical care medicine,obstetrics and gynecology,public and global health,genomics,microbiology,primary care research,radiology and imaging,Total,health policy,emergency medicine,infectious diseases,immunology,pediatrics,occupational and environmental health
-Jun-21,1,,,,,1,,,,,,,,,4,1,,,,,,1,,1,,,,,12,,,1,,1,1
-May-21,,,,1,,1,,,,,,1,,,11,,,,,1,,,,1,,,,,24,,,8,,,
-Apr-21,1,,,,,1,,,,,,,,,4,1,,,,,,,,1,,1,1,,19,,,7,,,2
-Mar-21,,,,,,1,,,1,,,1,,,6,,,1,2,2,,,,4,,,,1,35,,,15,,1,
-Feb-21,,,,,,,1,,,,1,,,,7,1,,1,,1,,,,1,,,,,20,,,7,,,
-Jan-21,,,,,,1,,,,,,,,,4,1,1,,1,,,1,,3,,,1,,23,1,,8,1,,
-Dec-20,,,,,,2,,,,,2,,,,4,1,,,,3,,,,2,2,1,1,,22,,,4,,,
-Nov-20,,,,,,,,,,1,,,,,6,,,,,1,,,,5,,,,,27,1,,12,1,,
-Oct-20,,,,,1,3,,,,1,,,1,1,6,,,,1,1,,1,,,,,1,,30,1,,11,1,,
-Sep-20,,1,,,,2,,,,,,,,,6,,,,,1,,1,,3,,1,1,,26,,3,7,,,
-Aug-20,,,1,,,,,,,,,1,,,5,1,,,,,,,1,2,,,,,25,,2,11,,,1
-Jul-20,,,,,,1,,,,,1,,,,10,,,,,,,1,,4,1,,,,27,,,8,1,,
-Jun-20,,,,,1,4,,1,,1,1,,,,6,1,,,1,1,1,3,,3,,,,,35,1,,9,1,,
-May-20,,,,,1,,1,1,,1,2,,,,8,,,,1,1,,1,,9,,,,,37,,,10,,,1
-Apr-20,,,,,,,,,,,,2,,,7,1,,,,,,,,1,1,,,,19,,,7,,,
-Mar-20,,,,,,,,,,,,,,,4,,,,,,,,,3,,,,,8,,,1,,,
-Feb-20,,,,,,,,,,,,,,,4,,,,,,,,,2,,,,,7,,,1,,,
+Total,infectious diseases,health informatics,dermatology,occupational and environmental health,genetic and genomic medicine,primary care research,hiv aids,oncology,molecular biology,public and global health,health systems and quality improvement,epidemiology,radiology and imaging,psychiatry and clinical psychology,neurology,geriatric medicine,month,health policy,ophthalmology,genomics,respiratory medicine,obstetrics and gynecology,systems biology,immunology,pediatrics,biochemistry,emergency medicine,cardiovascular medicine,health economics,dentistry and oral medicine,bioinformatics,allergy and immunology,microbiology,surgery,intensive care and critical care medicine
+15,2,,,1,,,,,,2,1,4,,1,1,,Jun-21,,,,,,,,1,,,,,,,1,,,1
+24,8,1,1,,1,,,,,1,,11,,1,,,May-21,,,,,,,,,,,,,,,,,,
+19,7,,,2,,1,,,,1,1,4,,1,,,Apr-21,,,,,,,,,,,,,,,1,1,,
+35,15,2,,,1,,,,,4,,6,1,1,1,2,Mar-21,,,,,,,,1,,,,,,,,,1,
+20,7,1,,,,,,,,1,1,7,,,,,Feb-21,,,,,,,,,,,1,1,,,,,1,
+22,7,,,,,1,,,,3,1,4,,1,,1,Jan-21,1,,,,,,1,,,,,,1,,,,,1
+23,4,3,,,,1,,,,3,1,4,,2,,,Dec-20,,,2,,,,,,,,2,,,,,1,,
+26,13,1,,,,,,,,4,,6,,,,,Nov-20,1,,,,,,,,,,,,,1,,,,
+29,11,1,,,,1,,1,,,,6,,2,,1,Oct-20,1,,,,,1,1,,1,,,,,1,,,,1
+27,8,1,,,,1,1,,,3,,6,,2,,,Sep-20,,,,,,,,,,3,,,,,,1,,1
+27,12,,,1,1,,,,1,2,1,6,,,,,Aug-20,,,,,1,,,,,2,,,,,,,,
+26,7,,,,,,,,,4,,9,,1,,,Jul-20,,,1,1,,,1,,,,1,,,,,,,1
+37,10,1,,,,,,1,,3,1,7,,4,,1,Jun-20,1,1,,1,,,1,,,,1,,,1,,,,3
+37,10,1,,1,,,,1,,9,,8,,,,1,May-20,,,,1,,,,,,,2,1,,1,,,,1
+18,6,,,,2,,,,,1,1,7,,,,,Apr-20,,,1,,,,,,,,,,,,,,,
+8,1,,,,,,,,,3,,4,,,,,Mar-20,,,,,,,,,,,,,,,,,,
+7,1,,,,,,,,,2,,4,,,,,Feb-20,,,,,,,,,,,,,,,,,,
