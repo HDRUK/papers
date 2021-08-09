@@ -166,7 +166,7 @@ def main():
   # retrieve papers with author affiliation or funding acknowledgement to HDR-UK
   papers = retrieve_papers(query=HDRUK_PAPERS_QUERY, data=[])
   data, header = format_data(papers)
-  data = get_dois_from_pmcids(data)
+  # data = get_dois_from_pmcids(data)
   export_csv(data, header, 'data/papers.csv')
   export_json(data, 'data/papers.json')
   
