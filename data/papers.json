@@ -842,7 +842,7 @@
     "pubYear": "2021",
     "date": "2021-07-15",
     "isOpenAccess": "N",
-    "keywords": "Infectious diseases; epidemiology; Public Health; Covid-19; Respiratory Medicine; Health Service Research; Long Covid; Post-Covid-19 Syndrome; Persistent Covid-19 Symptoms",
+    "keywords": "Infectious diseases; epidemiology; Public Health; Respiratory Medicine; Health Service Research; Covid-19; Long Covid; Post-Covid-19 Syndrome; Persistent Covid-19 Symptoms",
     "nationalPriorities": "",
     "healthCategories": "",
     "abstract": "Globally, there are now over 160 million confirmed cases of COVID-19 and more than 3 million deaths. While the majority of infected individuals recover, a significant proportion continue to experience symptoms and complications after their acute illness. Patients with 'long COVID' experience a wide range of physical and mental/psychological symptoms. Pooled prevalence data showed the 10 most prevalent reported symptoms were fatigue, shortness of breath, muscle pain, joint pain, headache, cough, chest pain, altered smell, altered taste and diarrhoea. Other common symptoms were cognitive impairment, memory loss, anxiety and sleep disorders. Beyond symptoms and complications, people with long COVID often reported impaired quality of life, mental health and employment issues. These individuals may require multidisciplinary care involving the long-term monitoring of symptoms, to identify potential complications, physical rehabilitation, mental health and social services support. Resilient healthcare systems are needed to ensure efficient and effective responses to future health challenges.",
@@ -1445,23 +1445,6 @@
     "urls": ""
   },
   {
-    "id": "33521768",
-    "doi": "https://doi.org/10.1016/s2666-7568(20)30011-8",
-    "title": "Tackling immunosenescence to improve COVID-19 outcomes and vaccine response in older adults.",
-    "authorString": "Cox LS, Bellantuono I, Lord JM, Sapey E, Mannick JB, Partridge L, Gordon AL, Steves CJ, Witham MD.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Healthy longevity",
-    "pubYear": "2020",
-    "date": "2020-11-09",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S2666-7568(20)30011-8; html:https://europepmc.org/articles/PMC7834195; pdf:https://europepmc.org/articles/PMC7834195?pdf=render"
-  },
-  {
     "id": "34108714",
     "doi": "https://doi.org/10.1038/s41591-021-01408-4",
     "title": "First-dose ChAdOx1 and BNT162b2 COVID-19 vaccines and thrombocytopenic, thromboembolic and hemorrhagic events in Scotland.",
@@ -1477,6 +1460,23 @@
     "abstract": "Reports of ChAdOx1 vaccine-associated thrombocytopenia and vascular adverse events have led to some countries restricting its use. Using a national prospective cohort, we estimated associations between exposure to first-dose ChAdOx1 or BNT162b2 vaccination and hematological and vascular adverse events using a nested incident-matched case-control study and a confirmatory self-controlled case series (SCCS) analysis. An association was found between ChAdOx1 vaccination and idiopathic thrombocytopenic purpura (ITP) (0-27 d after vaccination; adjusted rate ratio (aRR) = 5.77, 95% confidence interval (CI), 2.41-13.83), with an estimated incidence of 1.13 (0.62-1.63) cases per 100,000 doses. An SCCS analysis confirmed that this was unlikely due to bias (RR\u2009=\u20091.98 (1.29-3.02)). There was also an increased risk for arterial thromboembolic events (aRR = 1.22, 1.12-1.34) 0-27 d after vaccination, with an SCCS RR of 0.97 (0.93-1.02). For hemorrhagic events 0-27 d after vaccination, the aRR was 1.48 (1.12-1.96), with an SCCS RR of 0.95 (0.82-1.11). A first dose of ChAdOx1 was found to be associated with small increased risks of ITP, with suggestive evidence of an increased risk of arterial thromboembolic and hemorrhagic events. The attenuation of effect found in the SCCS analysis means that there is the potential for overestimation of the reported results, which might indicate the presence of some residual confounding or confounding by indication. Public health authorities should inform their jurisdictions of these relatively small increased risks associated with ChAdOx1. No positive associations were seen between BNT162b2 and thrombocytopenic, thromboembolic and hemorrhagic events.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41591-021-01408-4; html:https://europepmc.org/articles/PMC8282499; pdf:https://europepmc.org/articles/PMC8282499?pdf=render"
+  },
+  {
+    "id": "33521768",
+    "doi": "https://doi.org/10.1016/s2666-7568(20)30011-8",
+    "title": "Tackling immunosenescence to improve COVID-19 outcomes and vaccine response in older adults.",
+    "authorString": "Cox LS, Bellantuono I, Lord JM, Sapey E, Mannick JB, Partridge L, Gordon AL, Steves CJ, Witham MD.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Healthy longevity",
+    "pubYear": "2020",
+    "date": "2020-11-09",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S2666-7568(20)30011-8; html:https://europepmc.org/articles/PMC7834195; pdf:https://europepmc.org/articles/PMC7834195?pdf=render"
   },
   {
     "id": "33634927",
@@ -1785,23 +1785,6 @@
     "urls": "doi:https://doi.org/10.1093/ageing/afaa207; html:https://europepmc.org/articles/PMC7546151; pdf:https://europepmc.org/articles/PMC7546151?pdf=render"
   },
   {
-    "id": "34104901",
-    "doi": "https://doi.org/10.1016/s2666-7568(21)00093-3",
-    "title": "Incidence of SARS-CoV-2 infection according to baseline antibody status in staff and residents of 100 long-term care facilities (VIVALDI): a prospective cohort study.",
-    "authorString": "Krutikov M, Palmer T, Tut G, Fuller C, Shrotri M, Williams H, Davies D, Irwin-Singer A, Robson J, Hayward A, Moss P, Copas A, Shallcross L.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Healthy longevity",
-    "pubYear": "2021",
-    "date": "2021-06-03",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>SARS-CoV-2 infection represents a major challenge for long-term care facilities (LTCFs) and many residents and staff are seropositive following persistent outbreaks. We aimed to investigate the association between the SARS-CoV-2 antibody status at baseline and subsequent infection in this population.<h4>Methods</h4>We did a prospective cohort study of SARS-CoV-2 infection in staff (aged <65 years) and residents (aged >65 years) at 100 LTCFs in England between Oct 1, 2020, and Feb 1, 2021. Blood samples were collected between June and November, 2020, at baseline, and 2 and 4 months thereafter and tested for IgG antibodies to SARS-CoV-2 nucleocapsid and spike proteins. PCR testing for SARS-CoV-2 was done weekly in staff and monthly in residents. Cox regression was used to estimate hazard ratios (HRs) of a PCR-positive test by baseline antibody status, adjusted for age and sex, and stratified by LTCF.<h4>Findings</h4>682 residents from 86 LCTFs and 1429 staff members from 97 LTCFs met study inclusion criteria. At baseline, IgG antibodies to nucleocapsid were detected in 226 (33%) of 682 residents and 408 (29%) of 1429 staff members. 93 (20%) of 456 residents who were antibody-negative at baseline had a PCR-positive test (infection rate 0\u00b7054 per month at risk) compared with four (2%) of 226 residents who were antibody-positive at baseline (0\u00b7007 per month at risk). 111 (11%) of 1021 staff members who were antibody-negative at baseline had PCR-positive tests (0\u00b7042 per month at risk) compared with ten (2%) of 408 staff members who were antibody-positive staff at baseline (0\u00b7009 per month at risk). The risk of PCR-positive infection was higher for residents who were antibody-negative at baseline than residents who were antibody-positive at baseline (adjusted HR [aHR] 0\u00b715, 95% CI 0\u00b705-0\u00b744, p=0\u00b70006), and the risk of a PCR-positive infection was also higher for staff who were antibody-negative at baseline compared with staff who were antibody-positive at baseline (aHR 0\u00b739, 0\u00b719-0\u00b782; p=0\u00b7012). 12 of 14 reinfected participants had available data on symptoms, and 11 of these participants were symptomatic. Antibody titres to spike and nucleocapsid proteins were comparable in PCR-positive and PCR-negative cases.<h4>Interpretation</h4>The presence of IgG antibodies to nucleocapsid protein was associated with substantially reduced risk of reinfection in staff and residents for up to 10 months after primary infection.<h4>Funding</h4>UK Government Department of Health and Social Care.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S2666-7568(21)00093-3; html:https://europepmc.org/articles/PMC8175048; pdf:https://europepmc.org/articles/PMC8175048?pdf=render"
-  },
-  {
     "id": "32301135",
     "doi": "https://doi.org/10.1111/opo.12685",
     "title": "Delayed attendance at routine eye examinations is associated with increased probability of general practitioner referral: a record linkage study in Northern Ireland.",
@@ -1817,6 +1800,23 @@
     "abstract": "<h4>Purpose</h4>To investigate relationships between health and socio-economic status with delayed attendance at routine eye examinations and risk of subsequent general practitioner (GP) referral in Northern Ireland.<h4>Methods</h4>We constructed a cohort of 132\u00a0046 community dwelling individuals aged \u226560\u00a0years, drawing contextual information from the 2011 Northern Ireland Census. Using linked administrative records of routine eye examinations between 2009 and 2014, we calculated 311\u00a0999 examination intervals. Multinomial models were used to estimate associations between contextual factors and examination interval (classified into three groups: early recall, on-time, delayed attendance). Associations between examination interval and referral risk were estimated using logistic regression.<h4>Results</h4>Delayed attendance was recorded for 129\u00a0857 (41.6%) examination intervals, 53\u00a0759 (17.2%) delayed by \u22656\u00a0months. Female sex, poor general or mental health were each associated with delay, as were longer distances to optometry services among those aged \u226570\u00a0years (longest vs shortest: Relative Risk Ratio\u00a0=\u00a01.21 [1.14, 1.28]). Low income and residence in social housing were associated with reduced delay risk. There were 3347 (3.5%) and 11\u00a0401 (5.3%) GP referrals in the 60-69 and \u226570\u00a0years age groups respectively. Delayed attendance was associated with increased referral risk in both groups (Odds Ratios: 60-69\u00a0years\u00a0=\u00a01.30 [1.04, 1.61]; \u226570\u00a0years\u00a0=\u00a01.07 [1.01, 1.13]).<h4>Conclusions</h4>Poor health and longer distances to optometry services were associated with delayed attendance at routine eye examinations but low income was not. Delayed attendance was associated with increased GP referral risk, indicative of missed opportunities to detect potentially serious eye conditions.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/opo.12685"
+  },
+  {
+    "id": "34104901",
+    "doi": "https://doi.org/10.1016/s2666-7568(21)00093-3",
+    "title": "Incidence of SARS-CoV-2 infection according to baseline antibody status in staff and residents of 100 long-term care facilities (VIVALDI): a prospective cohort study.",
+    "authorString": "Krutikov M, Palmer T, Tut G, Fuller C, Shrotri M, Williams H, Davies D, Irwin-Singer A, Robson J, Hayward A, Moss P, Copas A, Shallcross L.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Healthy longevity",
+    "pubYear": "2021",
+    "date": "2021-06-03",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>SARS-CoV-2 infection represents a major challenge for long-term care facilities (LTCFs) and many residents and staff are seropositive following persistent outbreaks. We aimed to investigate the association between the SARS-CoV-2 antibody status at baseline and subsequent infection in this population.<h4>Methods</h4>We did a prospective cohort study of SARS-CoV-2 infection in staff (aged <65 years) and residents (aged >65 years) at 100 LTCFs in England between Oct 1, 2020, and Feb 1, 2021. Blood samples were collected between June and November, 2020, at baseline, and 2 and 4 months thereafter and tested for IgG antibodies to SARS-CoV-2 nucleocapsid and spike proteins. PCR testing for SARS-CoV-2 was done weekly in staff and monthly in residents. Cox regression was used to estimate hazard ratios (HRs) of a PCR-positive test by baseline antibody status, adjusted for age and sex, and stratified by LTCF.<h4>Findings</h4>682 residents from 86 LCTFs and 1429 staff members from 97 LTCFs met study inclusion criteria. At baseline, IgG antibodies to nucleocapsid were detected in 226 (33%) of 682 residents and 408 (29%) of 1429 staff members. 93 (20%) of 456 residents who were antibody-negative at baseline had a PCR-positive test (infection rate 0\u00b7054 per month at risk) compared with four (2%) of 226 residents who were antibody-positive at baseline (0\u00b7007 per month at risk). 111 (11%) of 1021 staff members who were antibody-negative at baseline had PCR-positive tests (0\u00b7042 per month at risk) compared with ten (2%) of 408 staff members who were antibody-positive staff at baseline (0\u00b7009 per month at risk). The risk of PCR-positive infection was higher for residents who were antibody-negative at baseline than residents who were antibody-positive at baseline (adjusted HR [aHR] 0\u00b715, 95% CI 0\u00b705-0\u00b744, p=0\u00b70006), and the risk of a PCR-positive infection was also higher for staff who were antibody-negative at baseline compared with staff who were antibody-positive at baseline (aHR 0\u00b739, 0\u00b719-0\u00b782; p=0\u00b7012). 12 of 14 reinfected participants had available data on symptoms, and 11 of these participants were symptomatic. Antibody titres to spike and nucleocapsid proteins were comparable in PCR-positive and PCR-negative cases.<h4>Interpretation</h4>The presence of IgG antibodies to nucleocapsid protein was associated with substantially reduced risk of reinfection in staff and residents for up to 10 months after primary infection.<h4>Funding</h4>UK Government Department of Health and Social Care.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S2666-7568(21)00093-3; html:https://europepmc.org/articles/PMC8175048; pdf:https://europepmc.org/articles/PMC8175048?pdf=render"
   },
   {
     "id": "30474191",
@@ -3502,23 +3502,6 @@
     "urls": "doi:https://doi.org/10.1093/cid/ciab159"
   },
   {
-    "id": "33615277",
-    "doi": "https://doi.org/10.1016/j.xpro.2021.100334",
-    "title": "Massive expansion and cryopreservation of functional human induced pluripotent stem cell-derived cardiomyocytes.",
-    "authorString": "Maas RGC, Lee S, Harakalova M, Snijders Blok CJB, Goodyer WR, Hjortnaes J, Doevendans PAFM, Van Laake LW, van der Velden J, Asselbergs FW, Wu JC, Sluijter JPG, Wu SM, Buikema JW.",
-    "authorAffiliations": "",
-    "journalTitle": "STAR protocols",
-    "pubYear": "2021",
-    "date": "2021-02-09",
-    "isOpenAccess": "Y",
-    "keywords": "Cell differentiation; Cell culture; Stem Cells",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Since the discovery of human induced pluripotent stem cells (hiPSCs), numerous strategies have been established to efficiently derive cardiomyocytes from hiPSCs (hiPSC-CMs). Here, we describe a cost-effective strategy for the subsequent massive expansion (>250-fold) of high-purity hiPSC-CMs relying on two aspects: removal of cell-cell contacts and small-molecule inhibition with CHIR99021. The protocol maintains CM functionality, allows cryopreservation, and the cells can be used in downstream assays such as disease modeling, drug and toxicity screening, and cell therapy. For complete details on the use and execution of this protocol, please refer to Buikema (2020).",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.xpro.2021.100334; html:https://europepmc.org/articles/PMC7881265; pdf:https://europepmc.org/articles/PMC7881265?pdf=render"
-  },
-  {
     "id": "32651323",
     "doi": "https://doi.org/10.3233/jad-200338",
     "title": "Alzheimer's Disease Susceptibility Gene Apolipoprotein E (APOE) and Blood Biomarkers in UK Biobank (N\u200a=\u200a395,769).",
@@ -3551,6 +3534,23 @@
     "abstract": "<h4>Background</h4>Congenital anomalies are a major cause of co-morbidity in children. Diagnostic code lists are increasingly used to identify congenital anomalies in administrative health records. Evidence is lacking on comparability of these code lists.<h4>Objectives</h4>To compare prevalence of congenital anomalies and prognostic outcomes for children with congenital anomalies identified in administrative health records using three different code lists.<h4>Methods</h4>We developed national cohorts of singleton livebirths in England (n\u00a0=\u00a07\u00a0354\u00a0363, 2003-2014) and Scotland (n\u00a0=\u00a0493\u00a0556, 2003-2011). Children with congenital anomalies were identified if congenital anomaly diagnosis was recorded at birth, during subsequent hospital admission or as cause of death before 2\u00a0years old. We used three code lists: the EUROCAT list for congenital anomaly surveillance in Europe; the Hardelid list developed to identify children with chronic conditions (including congenital anomalies) admitted to hospital in England; and the Feudtner list developed to indicate children with complex chronic conditions (including congenital anomalies) admitted to hospitals in the United States. We compared prevalence, and risks of postnatal hospital readmission and death according to each code list in England and Scotland.<h4>Results</h4>Prevalence of congenital anomalies was highest using the EUROCAT list (4.1% of livebirths in England, 3.7% in Scotland), followed by Hardelid (3.1% and 3.0% of livebirths, respectively) and Feudtner (1.8% and 1.5% of livebirths, respectively). 67.2%-73.3% of children with congenital anomalies in England and 65.2%-77.0% in Scotland had at least one postnatal hospital admission across the three code lists; mortality ranged between 42.6-75.4 and 41.5-88.7 deaths per 1000 births in England Scotland, respectively. The risk of these adverse outcomes was highest using Feudtner and lowest using EUROCAT code lists.<h4>Conclusions</h4>The prevalence of congenital anomalies varied by congenital anomaly code list, over time and between countries, reflecting in part differences in hospital coding practices and admission thresholds. As a minimum, researchers using administrative health data to study congenital anomalies should report sensitivity analyses using different code lists.",
     "laySummary": "This study identifies children born with congenital anomalies from administrative health data. The the prevalence of congenital anomalies and prognostic outcomes for children with congenital anomalies are compared using three different code lists. The study found that the prevalence of congenital anomalies varied by code list, over time and between countries. This reflects differences in hospital coding practices and admission thresholds.",
     "urls": "doi:https://doi.org/10.1111/ppe.12627; html:https://europepmc.org/articles/PMC7003968; pdf:https://europepmc.org/articles/PMC7003968?pdf=render"
+  },
+  {
+    "id": "33615277",
+    "doi": "https://doi.org/10.1016/j.xpro.2021.100334",
+    "title": "Massive expansion and cryopreservation of functional human induced pluripotent stem cell-derived cardiomyocytes.",
+    "authorString": "Maas RGC, Lee S, Harakalova M, Snijders Blok CJB, Goodyer WR, Hjortnaes J, Doevendans PAFM, Van Laake LW, van der Velden J, Asselbergs FW, Wu JC, Sluijter JPG, Wu SM, Buikema JW.",
+    "authorAffiliations": "",
+    "journalTitle": "STAR protocols",
+    "pubYear": "2021",
+    "date": "2021-02-09",
+    "isOpenAccess": "Y",
+    "keywords": "Cell differentiation; Cell culture; Stem Cells",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Since the discovery of human induced pluripotent stem cells (hiPSCs), numerous strategies have been established to efficiently derive cardiomyocytes from hiPSCs (hiPSC-CMs). Here, we describe a cost-effective strategy for the subsequent massive expansion (>250-fold) of high-purity hiPSC-CMs relying on two aspects: removal of cell-cell contacts and small-molecule inhibition with CHIR99021. The protocol maintains CM functionality, allows cryopreservation, and the cells can be used in downstream assays such as disease modeling, drug and toxicity screening, and cell therapy. For complete details on the use and execution of this protocol, please refer to Buikema (2020).",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.xpro.2021.100334; html:https://europepmc.org/articles/PMC7881265; pdf:https://europepmc.org/articles/PMC7881265?pdf=render"
   },
   {
     "id": "32864476",
@@ -4386,23 +4386,6 @@
     "urls": "doi:https://doi.org/10.1016/j.neucom.2018.04.087; html:https://europepmc.org/articles/PMC7086459"
   },
   {
-    "id": "31109684",
-    "doi": "https://doi.org/10.1016/j.injury.2019.05.004",
-    "title": "Agreement between medical record and administrative coding of common comorbidities in orthopaedic trauma patients.",
-    "authorString": "Daly S, Nguyen TQ, Gabbe BJ, Braaf S, Simpson P, Ekegren CL.",
-    "authorAffiliations": "",
-    "journalTitle": "Injury",
-    "pubYear": "2019",
-    "date": "2019-05-08",
-    "isOpenAccess": "N",
-    "keywords": "Trauma; Comorbidity; Agreement; Orthopaedic; Icd-10-am",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "OBJECTIVE:To i) quantify the agreement between comorbidities documented within medical records and an orthopaedic trauma dataset; and ii) compare agreement between these sources before and after the introduction of new comorbidity coding rules in Australian hospitals. STUDY DESIGN AND SETTING:A random sample of adult (\u2265 16 years) orthopaedic trauma patients (n\u2009=\u2009400) were extracted from the Victorian Orthopaedic Trauma Outcomes Registry (VOTOR). Diagnoses of obesity, arthritis, diabetes and cardiac conditions documented within patients' medical records were compared to ICD-10-AM comorbidity codes (provided by hospitals) for the same admission. Agreement was calculated (Cohen's kappa) before and after the introduction of new coding rules. RESULTS:All comorbidities had the same or higher prevalence in medical record data compared to coded data. Kappa values ranged from <0.001 (poor agreement) for coronary artery disease to 0.94 (excellent agreement) for type 2 diabetes. There was improvement in agreement between sources for most conditions following the introduction of new coding rules. CONCLUSION:There has been improvement in the coding of certain comorbidities since the introduction of new coding rules, suggesting that, since 2015, administrative data has improved capacity to capture patients' comorbidity profiles. Consideration must be taken when using the ICD-10-AM data due to its limitations.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.injury.2019.05.004"
-  },
-  {
     "id": "31671849",
     "doi": "https://doi.org/10.3390/ijerph16214178",
     "title": "Associations between the Home Physical Environment and Children's Home-Based Physical Activity and Sitting.",
@@ -4418,6 +4401,23 @@
     "abstract": "It is important to understand the correlates of children's physical activity (PA) and sitting at home, where children spend significant time. The home social environment has an important influence; however, much less is known about the home physical environment. Therefore, the study aimed to assess relationships between the physical environment and children's sitting and PA at home. In total, 235 child-parent dyads were included in the analyses. Children spent 67% of their time at home sitting. Linear regression analyses examined associations between physical home environmental factors obtained via an audit and children's (55% girl, 10.2 \u00b1 0.7) objective PA and sitting at home. Following adjustment for socio-demographics and social environmental factors, an open plan living area (OPLA), musical instrument accessibility and availability, and perceived house size were negatively and positively associated, whereas media equipment accessibility and availability was positively and negatively associated with sitting and standing, respectively. Additionally, an OPLA was positively associated with total and moderate-to-vigorous PA. Furthermore, sitting breaks were positively associated with objective garden size and negatively associated with digital TV. The physical home environment may have an important influence on children's sitting, standing and PA at home; therefore, interventions that target this environment are needed.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/ijerph16214178; html:https://europepmc.org/articles/PMC6862192; pdf:https://europepmc.org/articles/PMC6862192?pdf=render"
+  },
+  {
+    "id": "31109684",
+    "doi": "https://doi.org/10.1016/j.injury.2019.05.004",
+    "title": "Agreement between medical record and administrative coding of common comorbidities in orthopaedic trauma patients.",
+    "authorString": "Daly S, Nguyen TQ, Gabbe BJ, Braaf S, Simpson P, Ekegren CL.",
+    "authorAffiliations": "",
+    "journalTitle": "Injury",
+    "pubYear": "2019",
+    "date": "2019-05-08",
+    "isOpenAccess": "N",
+    "keywords": "Trauma; Comorbidity; Agreement; Orthopaedic; Icd-10-am",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "OBJECTIVE:To i) quantify the agreement between comorbidities documented within medical records and an orthopaedic trauma dataset; and ii) compare agreement between these sources before and after the introduction of new comorbidity coding rules in Australian hospitals. STUDY DESIGN AND SETTING:A random sample of adult (\u2265 16 years) orthopaedic trauma patients (n\u2009=\u2009400) were extracted from the Victorian Orthopaedic Trauma Outcomes Registry (VOTOR). Diagnoses of obesity, arthritis, diabetes and cardiac conditions documented within patients' medical records were compared to ICD-10-AM comorbidity codes (provided by hospitals) for the same admission. Agreement was calculated (Cohen's kappa) before and after the introduction of new coding rules. RESULTS:All comorbidities had the same or higher prevalence in medical record data compared to coded data. Kappa values ranged from <0.001 (poor agreement) for coronary artery disease to 0.94 (excellent agreement) for type 2 diabetes. There was improvement in agreement between sources for most conditions following the introduction of new coding rules. CONCLUSION:There has been improvement in the coding of certain comorbidities since the introduction of new coding rules, suggesting that, since 2015, administrative data has improved capacity to capture patients' comorbidity profiles. Consideration must be taken when using the ICD-10-AM data due to its limitations.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.injury.2019.05.004"
   },
   {
     "id": "31789939",
@@ -4556,23 +4556,6 @@
     "urls": "doi:https://doi.org/10.3390/ijerph17176139; html:https://europepmc.org/articles/PMC7504024; pdf:https://europepmc.org/articles/PMC7504024?pdf=render"
   },
   {
-    "id": "33986429",
-    "doi": "https://doi.org/10.1038/s41598-021-89743-x",
-    "title": "Predicting sex from retinal fundus photographs using automated deep learning.",
-    "authorString": "Korot E, Pontikos N, Liu X, Wagner SK, Faes L, Huemer J, Balaskas K, Denniston AK, Khawaja A, Keane PA.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2021",
-    "date": "2021-05-13",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Deep learning may transform health care, but model development has largely been dependent on availability of advanced technical expertise. Herein we present the development of a deep learning model by clinicians without coding, which predicts reported sex from retinal fundus photographs. A model was trained on 84,743 retinal fundus photos from the UK Biobank dataset. External validation was performed on 252 fundus photos from a tertiary ophthalmic referral center. For internal validation, the area under the receiver operating characteristic curve (AUROC) of the code free deep learning (CFDL) model was 0.93. Sensitivity, specificity, positive predictive value (PPV) and accuracy (ACC) were 88.8%, 83.6%, 87.3% and 86.5%, and for external validation were 83.9%, 72.2%, 78.2% and 78.6% respectively. Clinicians are currently unaware of distinct retinal feature variations between males and females, highlighting the importance of model explainability for this task. The model performed significantly worse when foveal pathology was present in the external validation dataset, ACC: 69.4%, compared to 85.4% in healthy eyes, suggesting the fovea is a salient region for model performance OR (95% CI): 0.36 (0.19, 0.70) p\u2009=\u20090.0022. Automated machine learning (AutoML) may enable clinician-driven automated discovery of novel insights and disease biomarkers.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-021-89743-x; html:https://europepmc.org/articles/PMC8119673; pdf:https://europepmc.org/articles/PMC8119673?pdf=render"
-  },
-  {
     "id": "30848519",
     "doi": "https://doi.org/10.1111/dme.13945",
     "title": "Impact of glycaemic control on fracture risk in 5368 people with newly diagnosed Type 1 diabetes: a time-dependent analysis.",
@@ -4588,6 +4571,23 @@
     "abstract": "<h4>Aims</h4>To assess whether glycaemic control is associated with a lifelong increased risk of fracture in people with newly diagnosed Type 1 diabetes.<h4>Methods</h4>People with newly diagnosed Type 1 diabetes between 1 January 1995 and 10 May 2016 were identified in The Health Improvement Network database. Longitudinal HbA<sub>1c</sub> measurements from diagnosis to fracture or study end or loss to follow-up were collected. A Cox proportional hazards model with HbA<sub>1c</sub> included as a time-dependent variable was fitted to these data.<h4>Results</h4>Some 5368 people with newly diagnosed Type 1 diabetes were included. The estimated adjusted hazard ratio (aHR) for HbA<sub>1c</sub> was statistically significant [aHR 1.007; 95% confidence interval (CI) 1.002-1.011 (mmol/mol) and aHR 1.07; 95% CI 1.03-1.12 (%)]. An incremental higher risk of fracture was observed with increasing levels of HbA<sub>1c</sub> .<h4>Conclusions</h4>In people with newly diagnosed Type 1 diabetes, higher HbA<sub>1c</sub> is associated with an increased risk for fractures.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/dme.13945"
+  },
+  {
+    "id": "33986429",
+    "doi": "https://doi.org/10.1038/s41598-021-89743-x",
+    "title": "Predicting sex from retinal fundus photographs using automated deep learning.",
+    "authorString": "Korot E, Pontikos N, Liu X, Wagner SK, Faes L, Huemer J, Balaskas K, Denniston AK, Khawaja A, Keane PA.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2021",
+    "date": "2021-05-13",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Deep learning may transform health care, but model development has largely been dependent on availability of advanced technical expertise. Herein we present the development of a deep learning model by clinicians without coding, which predicts reported sex from retinal fundus photographs. A model was trained on 84,743 retinal fundus photos from the UK Biobank dataset. External validation was performed on 252 fundus photos from a tertiary ophthalmic referral center. For internal validation, the area under the receiver operating characteristic curve (AUROC) of the code free deep learning (CFDL) model was 0.93. Sensitivity, specificity, positive predictive value (PPV) and accuracy (ACC) were 88.8%, 83.6%, 87.3% and 86.5%, and for external validation were 83.9%, 72.2%, 78.2% and 78.6% respectively. Clinicians are currently unaware of distinct retinal feature variations between males and females, highlighting the importance of model explainability for this task. The model performed significantly worse when foveal pathology was present in the external validation dataset, ACC: 69.4%, compared to 85.4% in healthy eyes, suggesting the fovea is a salient region for model performance OR (95% CI): 0.36 (0.19, 0.70) p\u2009=\u20090.0022. Automated machine learning (AutoML) may enable clinician-driven automated discovery of novel insights and disease biomarkers.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-021-89743-x; html:https://europepmc.org/articles/PMC8119673; pdf:https://europepmc.org/articles/PMC8119673?pdf=render"
   },
   {
     "id": "32935062",
@@ -5729,23 +5729,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ijid.2020.12.006; html:https://europepmc.org/articles/PMC7725132; pdf:https://europepmc.org/articles/PMC7725132?pdf=render"
   },
   {
-    "id": "33201485",
-    "doi": "https://doi.org/10.1007/s12471-020-01517-8",
-    "title": "ONCOR: design of the Dutch cardio-oncology registry.",
-    "authorString": "Kamphuis JAM, Linschoten M, Cramer MJ, Alsemgeest F, van Kessel DJW, Urgel K, Post MC, Manintveld OC, Hassing HC, Liesting C, Wardeh AJ, Olde Bijvank EGM, Schaap J, Stevense-den Boer AM, Doevendans PA, Asselbergs FW, Teske AJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
-    "pubYear": "2021",
-    "date": "2020-11-17",
-    "isOpenAccess": "Y",
-    "keywords": "Research Design; Registries; Cardio-oncology",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>The relative new subspecialty 'cardio-oncology' was established to meet the growing demand for an interdisciplinary approach to the management of cancer therapy-related cardiovascular adverse events. In recent years, specialised cardio-oncology services have been implemented worldwide, which all strive to improve the cardiovascular health of cancer patients. However, limited data are currently available on the outcomes and experiences of these specialised services, and optimal strategies for cardio-oncological care have not been established.<h4>Aim</h4>The ONCOR registry has been created for prospective data collection and evaluation of cardio-oncological care in daily practice.<h4>Methods</h4>Dutch hospitals using a\u00a0standardised cardio-oncology care pathway are included in this national, multicentre, observational cohort study. All patients visiting these cardio-oncology services are eligible for study inclusion. Data collection at baseline consists of the (planned) cancer treatment and the cardiovascular risk profile, which are used to estimate the cardiotoxic risk. Information regarding invasive and noninvasive tests is collected during the time patients receive cardio-oncological care. Outcome data consist of the incidence of cardiovascular complications and major adverse cardiac events, and the impact of these events on the oncological treatment.<h4>Discussion</h4>Outcomes of the ONCOR registry may aid in gaining more insight into the incidence of cancer therapy-related cardiovascular complications. The registry facilitates research on mechanisms of cardiovascular complications and on diagnostic, prognostic and therapeutic strategies. In addition, it provides a\u00a0platform for future (interventional) studies. Centres with cardio-oncology services that are interested in contributing to the ONCOR registry are hereby invited to participate.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s12471-020-01517-8; html:https://europepmc.org/articles/PMC8062648; pdf:https://europepmc.org/articles/PMC8062648?pdf=render"
-  },
-  {
     "id": "33222494",
     "doi": "https://doi.org/10.1177/2048872620974605",
     "title": "Cardiac complications in patients hospitalised with COVID-19.",
@@ -5761,6 +5744,23 @@
     "abstract": "<h4>Aims</h4>To determine the frequency and pattern of cardiac complications in patients hospitalised with coronavirus disease (COVID-19).<h4>Methods and results</h4>CAPACITY-COVID is an international patient registry established to determine the role of cardiovascular disease in the COVID-19 pandemic. In this registry, data generated during routine clinical practice are collected in a standardised manner for patients with a (highly suspected) severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection requiring hospitalisation. For the current analysis, consecutive patients with laboratory confirmed COVID-19 registered between 28 March and 3 July 2020 were included. Patients were followed for the occurrence of cardiac complications and pulmonary embolism from admission to discharge. In total, 3011 patients were included, of which 1890 (62.8%) were men. The median age was 67 years (interquartile range 56-76); 937 (31.0%) patients had a history of cardiac disease, with pre-existent coronary artery disease being most common (<i>n</i>=463, 15.4%). During hospitalisation, 595 (19.8%) patients died, including 16 patients (2.7%) with cardiac causes. Cardiac complications were diagnosed in 349 (11.6%) patients, with atrial fibrillation (<i>n</i>=142, 4.7%) being most common. The incidence of other cardiac complications was 1.8% for heart failure (<i>n</i>=55), 0.5% for acute coronary syndrome (<i>n</i>=15), 0.5% for ventricular arrhythmia (<i>n</i>=14), 0.1% for bacterial endocarditis (<i>n</i>=4) and myocarditis (<i>n</i>=3), respectively, and 0.03% for pericarditis (<i>n</i>=1). Pulmonary embolism was diagnosed in 198 (6.6%) patients.<h4>Conclusion</h4>This large study among 3011 hospitalised patients with COVID-19 shows that the incidence of cardiac complications during hospital admission is low, despite a frequent history of cardiovascular disease. Long-term cardiac outcomes and the role of pre-existing cardiovascular disease in COVID-19 outcome warrants further investigation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1177/2048872620974605; html:https://europepmc.org/articles/PMC7734244; pdf:https://europepmc.org/articles/PMC7734244?pdf=render"
+  },
+  {
+    "id": "33201485",
+    "doi": "https://doi.org/10.1007/s12471-020-01517-8",
+    "title": "ONCOR: design of the Dutch cardio-oncology registry.",
+    "authorString": "Kamphuis JAM, Linschoten M, Cramer MJ, Alsemgeest F, van Kessel DJW, Urgel K, Post MC, Manintveld OC, Hassing HC, Liesting C, Wardeh AJ, Olde Bijvank EGM, Schaap J, Stevense-den Boer AM, Doevendans PA, Asselbergs FW, Teske AJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation",
+    "pubYear": "2021",
+    "date": "2020-11-17",
+    "isOpenAccess": "Y",
+    "keywords": "Research Design; Registries; Cardio-oncology",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>The relative new subspecialty 'cardio-oncology' was established to meet the growing demand for an interdisciplinary approach to the management of cancer therapy-related cardiovascular adverse events. In recent years, specialised cardio-oncology services have been implemented worldwide, which all strive to improve the cardiovascular health of cancer patients. However, limited data are currently available on the outcomes and experiences of these specialised services, and optimal strategies for cardio-oncological care have not been established.<h4>Aim</h4>The ONCOR registry has been created for prospective data collection and evaluation of cardio-oncological care in daily practice.<h4>Methods</h4>Dutch hospitals using a\u00a0standardised cardio-oncology care pathway are included in this national, multicentre, observational cohort study. All patients visiting these cardio-oncology services are eligible for study inclusion. Data collection at baseline consists of the (planned) cancer treatment and the cardiovascular risk profile, which are used to estimate the cardiotoxic risk. Information regarding invasive and noninvasive tests is collected during the time patients receive cardio-oncological care. Outcome data consist of the incidence of cardiovascular complications and major adverse cardiac events, and the impact of these events on the oncological treatment.<h4>Discussion</h4>Outcomes of the ONCOR registry may aid in gaining more insight into the incidence of cancer therapy-related cardiovascular complications. The registry facilitates research on mechanisms of cardiovascular complications and on diagnostic, prognostic and therapeutic strategies. In addition, it provides a\u00a0platform for future (interventional) studies. Centres with cardio-oncology services that are interested in contributing to the ONCOR registry are hereby invited to participate.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s12471-020-01517-8; html:https://europepmc.org/articles/PMC8062648; pdf:https://europepmc.org/articles/PMC8062648?pdf=render"
   },
   {
     "id": "33437953",
@@ -7208,23 +7208,6 @@
     "urls": "doi:https://doi.org/10.1038/s41591-019-0665-2; html:https://europepmc.org/articles/PMC6922049; pdf:https://europepmc.org/articles/PMC6922049?pdf=render; doi:https://doi.org/10.1038/s41591-019-0665-2"
   },
   {
-    "id": "31699727",
-    "doi": "https://doi.org/10.1136/bmjopen-2019-030882",
-    "title": "Optical coherence tomography (OCT) in unconscious and systemically unwell patients using a mobile OCT device: a pilot study.",
-    "authorString": "Liu X, Kale AU, Capewell N, Talbot N, Ahmed S, Keane PA, Mollan S, Belli A, Blanch RJ, Veenith T, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2019",
-    "date": "2019-11-07",
-    "isOpenAccess": "Y",
-    "keywords": "optical coherence tomography; Optical Coherence Tomography Angiography; Adult Intensive & Critical Care",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Objective</h4>This study aims to evaluate the feasibility of retinal imaging in critical care using a novel mobile optical coherence tomography (OCT) device. The Heidelberg SPECTRALIS FLEX module (Heidelberg Engineering, Heidelberg, Germany) is an OCT unit with a boom arm, enabling ocular OCT assessment in less mobile patients.<h4>Design</h4>We undertook an evaluation of the feasibility of using the SPECTRALIS FLEX for undertaking ocular OCT images in unconscious and critically ill patients.<h4>Setting</h4>This study was conducted in the critical care unit of a large tertiary referral unit in the United Kingdom.<h4>Participants</h4>13 systemically unwell patients admitted to the critical care unit were purposively sampled to enable evaluation in patients with a range of clinical states.<h4>Outcome measures</h4>The primary outcome was the feasibility of acquiring clinically interpretable OCT scans on a consecutive series of patients. The standardised scanning protocol included macula-focused OCT, OCT optic nerve head (ONH), OCT angiography (OCTA) of the macula and ONH OCTA.<h4>Results</h4>OCT images from 13 patients were attempted. The success rates of each scan type are 84% for OCT macula, 76% for OCT ONH, 56% for OCTA macula and 36% for OCTA ONH. The overall mean success rate of scans per patient was 64% (95% CI 46% to 81%). Clinicians reported clinical value in 100% scans which were successfully obtained, including both ruling in and ruling out relevant ocular complications such as corneal thinning, macular oedema and optic disc swelling. The most common causes of failure to achieve clinically interpretable scans were inadequately sustained OCT alignment in delirious patients and a compromised ocular surface due to corneal exposure.<h4>Conclusions</h4>This prospective evaluation indicates the feasibility and potential clinical value of the SPECTRALIS FLEX OCT system on the critical care unit. Portable OCT systems have the potential to bring instrument-based ophthalmic assessment to critically ill patients, enabling detection and micron-level monitoring of ocular complications.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-030882; html:https://europepmc.org/articles/PMC6858135; pdf:https://europepmc.org/articles/PMC6858135?pdf=render"
-  },
-  {
     "id": "31504409",
     "doi": "https://doi.org/10.1093/eurheartj/ehz587",
     "title": "The relation between systemic inflammation and incident cancer in patients with stable cardiovascular disease: a cohort study.",
@@ -7240,6 +7223,23 @@
     "abstract": "<h4>Aims</h4>Low-grade inflammation, measured by elevated plasma concentrations of high-sensitive C-reactive protein (CRP), is a risk factor for cardiovascular disease (CVD). There is evidence that low-grade inflammation is also related to a higher risk of cancer. The present prospective cohort study evaluates the relation between low-grade systemic inflammation and risk of cancer in patients with stable CVD.<h4>Methods and results</h4>In total, 7178 patients with stable CVD and plasma CRP levels \u226410\u2009mg/L were included. Data were linked to the Dutch national cancer registry. Cox regression models were fitted to study the relation between CRP and incident CVD and cancer. After a median follow-up time of 8.3\u2009years (interquartile range 4.6-12.3) 1072 incident cancer diagnoses were observed. C-reactive protein concentration was related to total cancer [hazard ratio (HR) 1.35; 95% confidence interval (CI) 1.10-1.65] comparing last quintile to first quintile of CRP. Especially lung cancer, independent of histopathological subtype, was related to CRP (HR 3.39; 95% CI 2.02-5.69 comparing last to first quintile of CRP). Incidence of epithelial neoplasms and especially squamous cell neoplasms were related to CRP concentration, irrespective of anatomical location. Sensitivity analyses after excluding patients with a cancer diagnosis within 1, 2, and 5 years of follow-up showed similar results. No effect modification was observed by smoking status or time since smoking cessation (P-values for interaction > 0.05).<h4>Conclusion</h4>Chronic systemic low-grade inflammation, measured by CRP levels \u226410\u2009mg/L, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD. The relation between inflammation and incident cancer is seen in former and current smokers and is uncertain in never smokers.",
     "laySummary": "Inflammation is a risk factor for cardiovascular disease (CVD) and is linked with a higher risk of cancer. This study investigates the relationship between inflammation and risk of cancer in patients with stable CVD. The study reports that low-grade inflammation, is a risk factor for incident cancer, markedly lung cancer, in patients with stable CVD.",
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz587; html:https://europepmc.org/articles/PMC6925382; pdf:https://europepmc.org/articles/PMC6925382?pdf=render"
+  },
+  {
+    "id": "31699727",
+    "doi": "https://doi.org/10.1136/bmjopen-2019-030882",
+    "title": "Optical coherence tomography (OCT) in unconscious and systemically unwell patients using a mobile OCT device: a pilot study.",
+    "authorString": "Liu X, Kale AU, Capewell N, Talbot N, Ahmed S, Keane PA, Mollan S, Belli A, Blanch RJ, Veenith T, Denniston AK.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2019",
+    "date": "2019-11-07",
+    "isOpenAccess": "Y",
+    "keywords": "optical coherence tomography; Optical Coherence Tomography Angiography; Adult Intensive & Critical Care",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Objective</h4>This study aims to evaluate the feasibility of retinal imaging in critical care using a novel mobile optical coherence tomography (OCT) device. The Heidelberg SPECTRALIS FLEX module (Heidelberg Engineering, Heidelberg, Germany) is an OCT unit with a boom arm, enabling ocular OCT assessment in less mobile patients.<h4>Design</h4>We undertook an evaluation of the feasibility of using the SPECTRALIS FLEX for undertaking ocular OCT images in unconscious and critically ill patients.<h4>Setting</h4>This study was conducted in the critical care unit of a large tertiary referral unit in the United Kingdom.<h4>Participants</h4>13 systemically unwell patients admitted to the critical care unit were purposively sampled to enable evaluation in patients with a range of clinical states.<h4>Outcome measures</h4>The primary outcome was the feasibility of acquiring clinically interpretable OCT scans on a consecutive series of patients. The standardised scanning protocol included macula-focused OCT, OCT optic nerve head (ONH), OCT angiography (OCTA) of the macula and ONH OCTA.<h4>Results</h4>OCT images from 13 patients were attempted. The success rates of each scan type are 84% for OCT macula, 76% for OCT ONH, 56% for OCTA macula and 36% for OCTA ONH. The overall mean success rate of scans per patient was 64% (95% CI 46% to 81%). Clinicians reported clinical value in 100% scans which were successfully obtained, including both ruling in and ruling out relevant ocular complications such as corneal thinning, macular oedema and optic disc swelling. The most common causes of failure to achieve clinically interpretable scans were inadequately sustained OCT alignment in delirious patients and a compromised ocular surface due to corneal exposure.<h4>Conclusions</h4>This prospective evaluation indicates the feasibility and potential clinical value of the SPECTRALIS FLEX OCT system on the critical care unit. Portable OCT systems have the potential to bring instrument-based ophthalmic assessment to critically ill patients, enabling detection and micron-level monitoring of ocular complications.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-030882; html:https://europepmc.org/articles/PMC6858135; pdf:https://europepmc.org/articles/PMC6858135?pdf=render"
   },
   {
     "id": "31787481",
