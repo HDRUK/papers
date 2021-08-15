@@ -136,6 +136,23 @@
     "urls": "doi:https://doi.org/10.23889/ijpds.v5i1.1128; html:https://europepmc.org/articles/PMC7480324; pdf:https://europepmc.org/articles/PMC7480324?pdf=render"
   },
   {
+    "id": "34385524",
+    "doi": "https://doi.org/10.1038/s41598-021-95802-0",
+    "title": "Multimorbidity prediction using link prediction.",
+    "authorString": "Aziz F, Cardoso VR, Bravo-Merodio L, Russ D, Pendleton SC, Williams JA, Acharjee A, Gkoutos GV.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2021",
+    "date": "2021-08-12",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Multimorbidity, frequently associated with aging, can be operationally defined as the presence of two or more chronic conditions. Predicting the likelihood of a patient with multimorbidity to develop a further particular disease in the future is one of the key challenges in multimorbidity research. In this paper we are using a network-based approach to analyze multimorbidity data and develop methods for predicting diseases that a patient is likely to develop. The multimorbidity data is represented using a temporal bipartite network whose nodes represent patients and diseases and a link between these nodes indicates that the patient has been diagnosed with the disease. Disease prediction then is reduced to a problem of predicting those missing links in the network that are likely to appear in the future. We develop a novel link prediction method for static bipartite network and validate the performance of the method on benchmark datasets. By using a probabilistic framework, we then report on the development of a method for predicting future links in the network, where links are labelled with a time-stamp. We apply the proposed method to three different multimorbidity datasets and report its performance measured by different performance metrics including AUC, Precision, Recall, and F-Score.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-021-95802-0"
+  },
+  {
     "id": "34376975",
     "doi": "https://doi.org/10.1177/11779322211035921",
     "title": "Cloud Computing Enabled Big Multi-Omics Data Analytics.",
@@ -272,23 +289,6 @@
     "urls": "doi:https://doi.org/10.1002/cnm.3267"
   },
   {
-    "id": "31783849",
-    "doi": "https://doi.org/10.1186/s12911-019-0953-2",
-    "title": "Developing a standardised approach to the aggregation of inpatient episodes into person-based spells in all specialties and psychiatric specialties.",
-    "authorString": "Rees S, Akbari A, Collins H, Lee SC, Marchant A, Rees A, Thayer D, Wang T, Wood S, John A.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC medical informatics and decision making",
-    "pubYear": "2019",
-    "date": "2019-11-29",
-    "isOpenAccess": "Y",
-    "keywords": "Data Quality; Data Linkage; Electronic Healthcare Record; Spells; Routine Health Data; Hospital Inpatient Episodes",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Electronic health record (EHR) data are available for research in all UK nations and cross-nation comparative studies are becoming more common. All UK inpatient EHRs are based around episodes, but episode-based analysis may not sufficiently capture the patient journey. There is no UK-wide method for aggregating episodes into standardised person-based spells. This study identifies two data quality issues affecting the creation of person-based spells, and tests four methods to create these spells, for implementation across all UK nations.<h4>Methods</h4>Welsh inpatient EHRs from 2013 to 2017 were analysed. Phase one described two data quality issues; transfers of care and episode sequencing. Phase two compared four methods for creating person spells. Measures were mean length of stay (LOS, expressed in days) and number of episodes per person spell for each method.<h4>Results</h4>3.5% of total admissions were transfers-in and 3.1% of total discharges were transfers-out. 68.7% of total transfers-in and 48.7% of psychiatric transfers-in had an identifiable preceding transfer-out, and 78.2% of total transfers-out and 59.0% of psychiatric transfers-out had an identifiable subsequent transfer-in. 0.2% of total episodes and 4.0% of psychiatric episodes overlapped with at least one other episode of any specialty. Method one (no evidence of transfer required; overlapping episodes grouped together) resulted in the longest mean LOS (4.0\u2009days for all specialties; 48.5\u2009days for psychiatric specialties) and the fewest single episode person spells (82.4% of all specialties; 69.7% for psychiatric specialties). Method three (evidence of transfer required; overlapping episodes separated) resulted in the shortest mean LOS (3.7\u2009days for all specialties; 45.8\u2009days for psychiatric specialties) and the most single episode person spells; (86.9% for all specialties; 86.3% for psychiatric specialties).<h4>Conclusions</h4>Transfers-in appear better recorded than transfers-out. Transfer coding is incomplete, particularly for psychiatric specialties. The proportion of episodes that overlap is small but psychiatric episodes are disproportionately affected. The most successful method for grouping episodes into person spells aggregated overlapping episodes and required no evidence of transfer from admission source/method or discharge destination codes. The least successful method treated overlapping episodes as distinct and required transfer coding. The impact of all four methods was greater for psychiatric specialties.",
-    "laySummary": "Rees et al used a Welsh database to examine inpatient episode/transfer coding coding for psychiatric patients. They identified deficiencies in the existing coding system for psychitatrics transfers and unexplained coding mistakes/problems, then they presesnt several different methods for constructing the inpatient spell to improve coding and avoid misclassification.",
-    "urls": "doi:https://doi.org/10.1186/s12911-019-0953-2; html:https://europepmc.org/articles/PMC6884917; pdf:https://europepmc.org/articles/PMC6884917?pdf=render"
-  },
-  {
     "id": "31469943",
     "doi": "https://doi.org/10.1002/cnm.3255",
     "title": "Computational instantaneous wave-free ratio (IFR) for patient-specific coronary artery stenoses using 1D network models.",
@@ -304,6 +304,23 @@
     "abstract": "In this work, we estimate the diagnostic threshold of the instantaneous wave-free ratio (iFR) through the use of a one-dimensional haemodynamic framework. To this end, we first compared the computed fractional flow reserve (cFFR) predicted from a 1D computational framework with invasive clinical measurements. The framework shows excellent promise and utilises minimal patient data from a cohort of 52 patients with a total of 66 stenoses. The diagnostic accuracy of the cFFR model was 75.76%, with a sensitivity of 71.43%, a specificity of 77.78%, a positive predictive value of 60%, and a negative predictive value of 85.37%. The validated model was then used to estimate the diagnostic threshold of iFR. The model determined a quadratic relationship between cFFR and the ciFR. The iFR diagnostic threshold was determined to be 0.8910 from a receiver operating characteristic curve that is in the range of 0.89 to 0.9 that is normally reported in clinical studies.",
     "laySummary": "This study aimed to measure how well an algorithm using data from non-invasive tests was able to predict early signs of heart disease.",
     "urls": "doi:https://doi.org/10.1002/cnm.3255; html:https://europepmc.org/articles/PMC7003475; pdf:https://europepmc.org/articles/PMC7003475?pdf=render"
+  },
+  {
+    "id": "31783849",
+    "doi": "https://doi.org/10.1186/s12911-019-0953-2",
+    "title": "Developing a standardised approach to the aggregation of inpatient episodes into person-based spells in all specialties and psychiatric specialties.",
+    "authorString": "Rees S, Akbari A, Collins H, Lee SC, Marchant A, Rees A, Thayer D, Wang T, Wood S, John A.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC medical informatics and decision making",
+    "pubYear": "2019",
+    "date": "2019-11-29",
+    "isOpenAccess": "Y",
+    "keywords": "Data Quality; Data Linkage; Electronic Healthcare Record; Spells; Routine Health Data; Hospital Inpatient Episodes",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Electronic health record (EHR) data are available for research in all UK nations and cross-nation comparative studies are becoming more common. All UK inpatient EHRs are based around episodes, but episode-based analysis may not sufficiently capture the patient journey. There is no UK-wide method for aggregating episodes into standardised person-based spells. This study identifies two data quality issues affecting the creation of person-based spells, and tests four methods to create these spells, for implementation across all UK nations.<h4>Methods</h4>Welsh inpatient EHRs from 2013 to 2017 were analysed. Phase one described two data quality issues; transfers of care and episode sequencing. Phase two compared four methods for creating person spells. Measures were mean length of stay (LOS, expressed in days) and number of episodes per person spell for each method.<h4>Results</h4>3.5% of total admissions were transfers-in and 3.1% of total discharges were transfers-out. 68.7% of total transfers-in and 48.7% of psychiatric transfers-in had an identifiable preceding transfer-out, and 78.2% of total transfers-out and 59.0% of psychiatric transfers-out had an identifiable subsequent transfer-in. 0.2% of total episodes and 4.0% of psychiatric episodes overlapped with at least one other episode of any specialty. Method one (no evidence of transfer required; overlapping episodes grouped together) resulted in the longest mean LOS (4.0\u2009days for all specialties; 48.5\u2009days for psychiatric specialties) and the fewest single episode person spells (82.4% of all specialties; 69.7% for psychiatric specialties). Method three (evidence of transfer required; overlapping episodes separated) resulted in the shortest mean LOS (3.7\u2009days for all specialties; 45.8\u2009days for psychiatric specialties) and the most single episode person spells; (86.9% for all specialties; 86.3% for psychiatric specialties).<h4>Conclusions</h4>Transfers-in appear better recorded than transfers-out. Transfer coding is incomplete, particularly for psychiatric specialties. The proportion of episodes that overlap is small but psychiatric episodes are disproportionately affected. The most successful method for grouping episodes into person spells aggregated overlapping episodes and required no evidence of transfer from admission source/method or discharge destination codes. The least successful method treated overlapping episodes as distinct and required transfer coding. The impact of all four methods was greater for psychiatric specialties.",
+    "laySummary": "Rees et al used a Welsh database to examine inpatient episode/transfer coding coding for psychiatric patients. They identified deficiencies in the existing coding system for psychitatrics transfers and unexplained coding mistakes/problems, then they presesnt several different methods for constructing the inpatient spell to improve coding and avoid misclassification.",
+    "urls": "doi:https://doi.org/10.1186/s12911-019-0953-2; html:https://europepmc.org/articles/PMC6884917; pdf:https://europepmc.org/articles/PMC6884917?pdf=render"
   },
   {
     "id": "34164795",
@@ -825,7 +842,7 @@
     "pubYear": "2020",
     "date": "2020-08-01",
     "isOpenAccess": "Y",
-    "keywords": "Ageing; Data Linkage; Older People; Electronic Health Records; Health Informatics; Big Data",
+    "keywords": "Ageing; Data Linkage; Older People; Health Informatics; Electronic Health Records; Big Data",
     "nationalPriorities": "Improving Public Health",
     "healthCategories": "",
     "abstract": "The past three decades have seen a steady increase in the availability of routinely collected health and social care data and the processing power to analyse it. These developments represent a major opportunity for ageing research, especially with the integration of different datasets across traditional boundaries of health and social care, for prognostic research and novel evaluations of interventions with representative populations of older people. However, there are considerable challenges in using routine data at the level of coding, data analysis and in the application of findings to everyday care. New Horizons in applying routine data to investigate novel questions in ageing research require a collaborative approach between clinicians, data scientists, biostatisticians, epidemiologists and trial methodologists. This requires building capacity for the next generation of research leaders in this important area. There is a need to develop consensus code lists and standardised, validated algorithms for common conditions and outcomes that are relevant for older people to maximise the potential of routine data research in this group. Lastly, we must help drive the application of routine data to improve the care of older people, through the development of novel methods for evaluation of interventions using routine data infrastructure. We believe that harnessing routine data can help address knowledge gaps for older people living with multiple conditions and frailty, and design interventions and pathways of care to address the complex health issues we face in caring for older people.",
@@ -1751,6 +1768,23 @@
     "urls": "doi:https://doi.org/10.23889/ijpds.v5i1.1121; html:https://europepmc.org/articles/PMC7473277; pdf:https://europepmc.org/articles/PMC7473277?pdf=render"
   },
   {
+    "id": "34386668",
+    "doi": "https://doi.org/10.1016/j.ekir.2021.05.031",
+    "title": "Impact of Using Risk-Based Stratification on Referral of Patients With Chronic Kidney Disease From Primary Care to Specialist Care in the United Kingdom.",
+    "authorString": "Bhachu HK, Cockwell P, Subramanian A, Adderley NJ, Gokhale K, Fenton A, Kyte D, Nirantharakumar K, Calvert M.",
+    "authorAffiliations": "",
+    "journalTitle": "Kidney international reports",
+    "pubYear": "2021",
+    "date": "2021-06-01",
+    "isOpenAccess": "N",
+    "keywords": "Cross-sectional study; Chronic Kidney Disease; Guidelines; Disease Progression; Patient Referral; Kidney Failure Risk Equation",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Introduction</h4>The externally validated Kidney Failure Risk Equation (KFRE) for predicting risk of end-stage renal disease (ESRD) has been developed, but its potential impact in a population on referrals for patients with chronic kidney disease (CKD) from primary to specialty nephrology care is not known.<h4>Methods</h4>A cross-sectional population-based study of individuals in United Kingdom primary care registered in The Health Improvement Network database was conducted. National Institute of Health and Care Excellence (NICE) 2014 CKD guidelines <i>versus</i> the 4-variable KFRE set at a >3% risk of ESRD at 5 years were applied to patients identified with CKD stage 3-5 between January 1, 2016, and March 31,\u00a02017.<h4>Results</h4>In all, 39,476 (36.6%) of 107,962 adults with CKD stage 3-5 had a urine albumin:creatinine ratio (ACR) available and entered into the primary analysis. Of that, 7566 (19.2%) patients fulfilled NICE criteria for referral, 2386 (31.5%) of whom had a\u00a0\u22643% 5-year risk of ESRD. Also 8663 (21.9%) patients had a >3% 5-year risk of ESRD, 3483 (40.2%) of whom did not fulfill NICE criteria; this represents 8.8% of the primary population. By using the KFRE threshold rather than NICE criteria for referral, 5869 patients (14.9% of the primary analysis population) would have been reallocated between primary and specialist care. Imputational analysis was used for missing ACR measurements and showed similar results.<h4>Conclusions</h4>A risk-based referral approach would lead to a substantial reallocation of patients between primary care and specialist nephrology care with only a small increase in numbers eligible, ensuring those at higher risk of progression are identified.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.ekir.2021.05.031"
+  },
+  {
     "id": "PMC8343777",
     "doi": "https://doi.org/",
     "title": "Impact of Using Risk-Based Stratification on Referral of Patients With Chronic Kidney Disease From Primary Care to Specialist Care in the United Kingdom",
@@ -1819,23 +1853,6 @@
     "urls": "doi:https://doi.org/10.1016/S2666-7568(21)00093-3; html:https://europepmc.org/articles/PMC8175048; pdf:https://europepmc.org/articles/PMC8175048?pdf=render"
   },
   {
-    "id": "31984360",
-    "doi": "https://doi.org/10.1093/jamiaopen/ooz009",
-    "title": "Annotating and detecting phenotypic information for chronic obstructive pulmonary disease.",
-    "authorString": "Ju M, Short AD, Thompson P, Bakerly ND, Gkoutos GV, Tsaprouni L, Ananiadou S.",
-    "authorAffiliations": "",
-    "journalTitle": "JAMIA open",
-    "pubYear": "2019",
-    "date": "2019-04-26",
-    "isOpenAccess": "Y",
-    "keywords": "Phenotype; Information Extraction; Natural Language Processing; chronic obstructive pulmonary disease; Text Mining",
-    "nationalPriorities": "The Human Phenome",
-    "healthCategories": "",
-    "abstract": "Objectives:Chronic obstructive pulmonary disease (COPD) phenotypes cover a range of lung abnormalities. To allow text mining methods to identify pertinent and potentially complex information about these phenotypes from textual data, we have developed a novel annotated corpus, which we use to train a neural network-based named entity recognizer to detect fine-grained COPD phenotypic information. Materials and methods:Since COPD phenotype descriptions often mention other concepts within them (proteins, treatments, etc.), our corpus annotations include both outermost phenotype descriptions and concepts nested within them. Our neural layered bidirectional long short-term memory conditional random field (BiLSTM-CRF) network firstly recognizes nested mentions, which are fed into subsequent BiLSTM-CRF layers, to help to recognize enclosing phenotype mentions. Results:Our corpus of 30 full papers (available at: http://www.nactem.ac.uk/COPD) is annotated by experts with 27\u00a0030 phenotype-related concept mentions, most of which are automatically linked to UMLS Metathesaurus concepts. When trained using the corpus, our BiLSTM-CRF network outperforms other popular approaches in recognizing detailed phenotypic information. Discussion:Information extracted by our method can facilitate efficient location and exploration of detailed information about phenotypes, for example, those specifically concerning reactions to treatments. Conclusion:The importance of our corpus for developing methods to extract fine-grained information about COPD phenotypes is demonstrated through its successful use to train a layered BiLSTM-CRF network to extract phenotypic information at various levels of granularity. The minimal human intervention needed for training should permit ready adaption to extracting phenotypic information about other diseases.",
-    "laySummary": "COPD is linked with a number of lung abnormalities. This study has developed a computer algorithm to extract information about these abnormalities.",
-    "urls": "doi:https://doi.org/10.1093/jamiaopen/ooz009; html:https://europepmc.org/articles/PMC6951876; pdf:https://europepmc.org/articles/PMC6951876?pdf=render"
-  },
-  {
     "id": "32951042",
     "doi": "https://doi.org/10.1093/ageing/afaa207",
     "title": "The impact of COVID-19 on adjusted mortality risk in care homes for older adults in Wales, UK: a retrospective population-based cohort study for mortality in 2016-2020.",
@@ -1868,6 +1885,23 @@
     "abstract": "<h4>Purpose</h4>To investigate relationships between health and socio-economic status with delayed attendance at routine eye examinations and risk of subsequent general practitioner (GP) referral in Northern Ireland.<h4>Methods</h4>We constructed a cohort of 132\u00a0046 community dwelling individuals aged \u226560\u00a0years, drawing contextual information from the 2011 Northern Ireland Census. Using linked administrative records of routine eye examinations between 2009 and 2014, we calculated 311\u00a0999 examination intervals. Multinomial models were used to estimate associations between contextual factors and examination interval (classified into three groups: early recall, on-time, delayed attendance). Associations between examination interval and referral risk were estimated using logistic regression.<h4>Results</h4>Delayed attendance was recorded for 129\u00a0857 (41.6%) examination intervals, 53\u00a0759 (17.2%) delayed by \u22656\u00a0months. Female sex, poor general or mental health were each associated with delay, as were longer distances to optometry services among those aged \u226570\u00a0years (longest vs shortest: Relative Risk Ratio\u00a0=\u00a01.21 [1.14, 1.28]). Low income and residence in social housing were associated with reduced delay risk. There were 3347 (3.5%) and 11\u00a0401 (5.3%) GP referrals in the 60-69 and \u226570\u00a0years age groups respectively. Delayed attendance was associated with increased referral risk in both groups (Odds Ratios: 60-69\u00a0years\u00a0=\u00a01.30 [1.04, 1.61]; \u226570\u00a0years\u00a0=\u00a01.07 [1.01, 1.13]).<h4>Conclusions</h4>Poor health and longer distances to optometry services were associated with delayed attendance at routine eye examinations but low income was not. Delayed attendance was associated with increased GP referral risk, indicative of missed opportunities to detect potentially serious eye conditions.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/opo.12685"
+  },
+  {
+    "id": "31984360",
+    "doi": "https://doi.org/10.1093/jamiaopen/ooz009",
+    "title": "Annotating and detecting phenotypic information for chronic obstructive pulmonary disease.",
+    "authorString": "Ju M, Short AD, Thompson P, Bakerly ND, Gkoutos GV, Tsaprouni L, Ananiadou S.",
+    "authorAffiliations": "",
+    "journalTitle": "JAMIA open",
+    "pubYear": "2019",
+    "date": "2019-04-26",
+    "isOpenAccess": "Y",
+    "keywords": "Phenotype; Information Extraction; Natural Language Processing; chronic obstructive pulmonary disease; Text Mining",
+    "nationalPriorities": "The Human Phenome",
+    "healthCategories": "",
+    "abstract": "Objectives:Chronic obstructive pulmonary disease (COPD) phenotypes cover a range of lung abnormalities. To allow text mining methods to identify pertinent and potentially complex information about these phenotypes from textual data, we have developed a novel annotated corpus, which we use to train a neural network-based named entity recognizer to detect fine-grained COPD phenotypic information. Materials and methods:Since COPD phenotype descriptions often mention other concepts within them (proteins, treatments, etc.), our corpus annotations include both outermost phenotype descriptions and concepts nested within them. Our neural layered bidirectional long short-term memory conditional random field (BiLSTM-CRF) network firstly recognizes nested mentions, which are fed into subsequent BiLSTM-CRF layers, to help to recognize enclosing phenotype mentions. Results:Our corpus of 30 full papers (available at: http://www.nactem.ac.uk/COPD) is annotated by experts with 27\u00a0030 phenotype-related concept mentions, most of which are automatically linked to UMLS Metathesaurus concepts. When trained using the corpus, our BiLSTM-CRF network outperforms other popular approaches in recognizing detailed phenotypic information. Discussion:Information extracted by our method can facilitate efficient location and exploration of detailed information about phenotypes, for example, those specifically concerning reactions to treatments. Conclusion:The importance of our corpus for developing methods to extract fine-grained information about COPD phenotypes is demonstrated through its successful use to train a layered BiLSTM-CRF network to extract phenotypic information at various levels of granularity. The minimal human intervention needed for training should permit ready adaption to extracting phenotypic information about other diseases.",
+    "laySummary": "COPD is linked with a number of lung abnormalities. This study has developed a computer algorithm to extract information about these abnormalities.",
+    "urls": "doi:https://doi.org/10.1093/jamiaopen/ooz009; html:https://europepmc.org/articles/PMC6951876; pdf:https://europepmc.org/articles/PMC6951876?pdf=render"
   },
   {
     "id": "33820530",
@@ -2210,23 +2244,6 @@
     "urls": "doi:https://doi.org/10.1097/SLA.0000000000004904"
   },
   {
-    "id": "33842409",
-    "doi": "https://doi.org/10.3389/fped.2021.630036",
-    "title": "Microtia: A Data Linkage Study of Epidemiology and Implications for Service Delivery.",
-    "authorString": "Jovic TH, Gibson JAG, Griffiths R, Dobbs TD, Akbari A, Wilson-Jones N, Costello R, Evans P, Cooper M, Key S, Lyons R, Whitaker IS.",
-    "authorAffiliations": "",
-    "journalTitle": "Frontiers in pediatrics",
-    "pubYear": "2021",
-    "date": "2021-03-26",
-    "isOpenAccess": "Y",
-    "keywords": "epidemiology; congenital; Otology; Reconstructive Surgery; Microtia",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Introduction:</b> Previous studies of microtia epidemiology globally have demonstrated significant geographical and ethnic variation, cited broadly as affecting 3-5 in 10,000 live births. The aim of this study was to determine the incidence of microtia in a largely homogeneous ethnic population in the United Kingdom (Wales) and to identify factors, such as distance and socioeconomic status, which may influence the access to surgical intervention. <b>Materials and Methods:</b> A retrospective cohort study was conducted using data linkage to identify patients born between 2000 and 2018 with a diagnosis of microtia. Microtia incidence was calculated using annual and geographic birth rates. Surgical operation codes were used to classify patients into those that had no surgery, autologous reconstruction or prosthetic reconstruction. Sociodemographic attributes were compared using descriptive statistics to determine differences in access to each type of surgical intervention. <b>Results:</b> A total of 101 patients were identified, 64.4% were male and the median age was 12 (8-16). The mean annual incidence was 2.13 microtia cases per 10,000 births over the 19-year study period. Both temporal and geographic variation was noted. The majority of patients undergoing surgery opted for autologous reconstruction (72.9%) at a median age of 9 (7-10) compared to 7 (5-8) for prosthetic reconstruction. Autologous reconstruction had a higher median number of surgeries (2, 1-3) than prosthetic (1.5, 1-2) and a higher median socioeconomic status of 3 (2-4) compared to 2 (1-4) for the prosthetic cohort. There were no statistically significant differences in the distance traveled for surgery. <b>Discussion:</b> This study highlights a role for data linkage in epidemiological analyses and provides a revised incidence of microtia in Wales. Although the majority of patients opted for autologous reconstruction, demographic disparities in socioeconomic status warrant further investigation, emphasizing the importance of striving for equity in accessibility to surgical intervention.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3389/fped.2021.630036; html:https://europepmc.org/articles/PMC8033003; pdf:https://europepmc.org/articles/PMC8033003?pdf=render"
-  },
-  {
     "id": "32249120",
     "doi": "https://doi.org/10.1016/j.schres.2020.03.044",
     "title": "Area deprivation, urbanicity, severe mental illness and social drift - A population-based linkage study using routinely collected primary and secondary care data.",
@@ -2242,6 +2259,23 @@
     "abstract": "We investigated whether associations between area deprivation, urbanicity and elevated risk of severe mental illnesses (SMIs, including schizophrenia and bipolar disorder) is accounted for by social drift or social causation. We extracted primary and secondary care electronic health records from 2004 to 2015 from a population of 3.9 million. We identified prevalent and incident individuals with SMIs and their level of deprivation and urbanicity using the Welsh Index of Multiple Deprivation (WIMD) and urban/rural indicator. The presence of social drift was determined by whether odds ratios (ORs) from logistic regression is greater than the incidence rate ratios (IRRs) from Poisson regression. Additionally, we performed longitudinal analysis to measure the proportion of change in deprivation level and rural/urban residence 10\u00a0years after an incident diagnosis of SMI and compared it to the general population using standardised rate ratios (SRRs). Prevalence and incidence of SMIs were significantly associated with deprivation and urbanicity (all ORs and IRRs significantly >1). ORs and IRRs were similar across all conditions and cohorts (ranging from 1.1 to 1.4). Results from the longitudinal analysis showed individuals with SMIs are more likely to move compared to the general population. However, they did not preferentially move to more deprived or urban areas. There was little evidence of downward social drift over a 10-year period. These findings have implications for the allocation of resources, service configuration and access to services in deprived communities, as well as, for broader public health interventions addressing poverty, and social and environmental contexts.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.schres.2020.03.044"
+  },
+  {
+    "id": "33842409",
+    "doi": "https://doi.org/10.3389/fped.2021.630036",
+    "title": "Microtia: A Data Linkage Study of Epidemiology and Implications for Service Delivery.",
+    "authorString": "Jovic TH, Gibson JAG, Griffiths R, Dobbs TD, Akbari A, Wilson-Jones N, Costello R, Evans P, Cooper M, Key S, Lyons R, Whitaker IS.",
+    "authorAffiliations": "",
+    "journalTitle": "Frontiers in pediatrics",
+    "pubYear": "2021",
+    "date": "2021-03-26",
+    "isOpenAccess": "Y",
+    "keywords": "epidemiology; congenital; Otology; Reconstructive Surgery; Microtia",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Introduction:</b> Previous studies of microtia epidemiology globally have demonstrated significant geographical and ethnic variation, cited broadly as affecting 3-5 in 10,000 live births. The aim of this study was to determine the incidence of microtia in a largely homogeneous ethnic population in the United Kingdom (Wales) and to identify factors, such as distance and socioeconomic status, which may influence the access to surgical intervention. <b>Materials and Methods:</b> A retrospective cohort study was conducted using data linkage to identify patients born between 2000 and 2018 with a diagnosis of microtia. Microtia incidence was calculated using annual and geographic birth rates. Surgical operation codes were used to classify patients into those that had no surgery, autologous reconstruction or prosthetic reconstruction. Sociodemographic attributes were compared using descriptive statistics to determine differences in access to each type of surgical intervention. <b>Results:</b> A total of 101 patients were identified, 64.4% were male and the median age was 12 (8-16). The mean annual incidence was 2.13 microtia cases per 10,000 births over the 19-year study period. Both temporal and geographic variation was noted. The majority of patients undergoing surgery opted for autologous reconstruction (72.9%) at a median age of 9 (7-10) compared to 7 (5-8) for prosthetic reconstruction. Autologous reconstruction had a higher median number of surgeries (2, 1-3) than prosthetic (1.5, 1-2) and a higher median socioeconomic status of 3 (2-4) compared to 2 (1-4) for the prosthetic cohort. There were no statistically significant differences in the distance traveled for surgery. <b>Discussion:</b> This study highlights a role for data linkage in epidemiological analyses and provides a revised incidence of microtia in Wales. Although the majority of patients opted for autologous reconstruction, demographic disparities in socioeconomic status warrant further investigation, emphasizing the importance of striving for equity in accessibility to surgical intervention.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3389/fped.2021.630036; html:https://europepmc.org/articles/PMC8033003; pdf:https://europepmc.org/articles/PMC8033003?pdf=render"
   },
   {
     "id": "33072403",
@@ -3026,23 +3060,6 @@
     "urls": "doi:https://doi.org/10.3390/genes11111326; html:https://europepmc.org/articles/PMC7697406; pdf:https://europepmc.org/articles/PMC7697406?pdf=render"
   },
   {
-    "id": "34032955",
-    "doi": "https://doi.org/10.1007/s11136-021-02876-4",
-    "title": "Health status after penetrating major trauma in Victoria, Australia: a registry-based cohort study.",
-    "authorString": "Giummarra MJ, Dipnall JF, Gibson G, Beck B, Gabbe BJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
-    "pubYear": "2021",
-    "date": "2021-05-25",
-    "isOpenAccess": "N",
-    "keywords": "Recovery; Health Status; Health-related Quality Of Life; Gunshot Wounds; Penetrating Trauma; Stab Wounds",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Purpose</h4>As few studies have examined long-term health after penetrating injury, this population-based registry study sought to assess health outcomes up to 24\u00a0months post-injury.<h4>Methods</h4>Major trauma patients with penetrating trauma (2009-2017) were included from the Victorian State Trauma Registry (N\u2009=\u20091,067; 102 died, 208 were lost to follow-up). The EQ-5D-3L was used to measure health status at 6, 12 and 24-months. Mixed linear and logistic regressions were used to examine predictors of summary scores, and problems versus no problems on each health dimension.<h4>Results</h4>Average health status summary scores were 0.70 (sd\u2009=\u20090.26) at 6 and 12\u00a0months, and 0.72 (sd\u2009=\u20090.26) at 24\u00a0months post-injury. Prevalence of problems was consistent over time: mobility (24-26%), self-care (17-20%), usual activities (47-50%), pain/discomfort (44-49%), and anxiety/depression (54-56%). Lower health status and reporting problems was associated with middle-older age, female sex, unemployment; pre-injury disability, comorbid conditions;\u00a0and assault and firearm injury versus cutting/piercing.<h4>Conclusion</h4>Problems with usual activities, pain/discomfort and anxiety or depression are common after penetrating major trauma. Risk factor screening in hospital could be used to identify people at risk of poor health outcomes, and to link people at risk with services in hospital or early post-discharge to improve\u00a0their longer-term health outcomes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s11136-021-02876-4"
-  },
-  {
     "id": "31329239",
     "doi": "https://doi.org/10.1093/jamia/ocz105",
     "title": "UK phenomics platform for developing and validating electronic health record phenotypes: CALIBER.",
@@ -3058,6 +3075,23 @@
     "abstract": "<h4>Objective</h4>Electronic health records (EHRs) are a rich source of information on human diseases, but the information is variably structured, fragmented, curated using different coding systems, and collected for purposes other than medical research. We describe an approach for developing, validating, and sharing reproducible phenotypes from national structured EHR in the United Kingdom with applications for translational research.<h4>Materials and methods</h4>We implemented a rule-based phenotyping framework, with up to 6 approaches of validation. We applied our framework to a sample of 15 million individuals in a national EHR data source (population-based primary care, all ages) linked to hospitalization and death records in England. Data comprised continuous measurements (for example, blood pressure; medication information; coded diagnoses, symptoms, procedures, and referrals), recorded using 5 controlled clinical terminologies: (1) read (primary care, subset of SNOMED-CT [Systematized Nomenclature of Medicine Clinical Terms]), (2) International Classification of Diseases-Ninth Revision and Tenth Revision (secondary care diagnoses and cause of mortality), (3) Office of Population Censuses and Surveys Classification of Surgical Operations and Procedures, Fourth Revision (hospital surgical procedures), and (4) DM+D prescription codes.<h4>Results</h4>Using the CALIBER phenotyping framework, we created algorithms for 51 diseases, syndromes, biomarkers, and lifestyle risk factors and provide up to 6 validation approaches. The EHR phenotypes are curated in the open-access CALIBER Portal (https://www.caliberresearch.org/portal) and have been used by 40 national and international research groups in 60 peer-reviewed publications.<h4>Conclusions</h4>We describe a UK EHR phenomics approach within the CALIBER EHR data platform with initial evidence of validity and use, as an important step toward international use of UK EHR data for health research.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/jamia/ocz105; html:https://europepmc.org/articles/PMC6857510; pdf:https://europepmc.org/articles/PMC6857510?pdf=render"
+  },
+  {
+    "id": "34032955",
+    "doi": "https://doi.org/10.1007/s11136-021-02876-4",
+    "title": "Health status after penetrating major trauma in Victoria, Australia: a registry-based cohort study.",
+    "authorString": "Giummarra MJ, Dipnall JF, Gibson G, Beck B, Gabbe BJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+    "pubYear": "2021",
+    "date": "2021-05-25",
+    "isOpenAccess": "N",
+    "keywords": "Recovery; Health Status; Health-related Quality Of Life; Gunshot Wounds; Penetrating Trauma; Stab Wounds",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Purpose</h4>As few studies have examined long-term health after penetrating injury, this population-based registry study sought to assess health outcomes up to 24\u00a0months post-injury.<h4>Methods</h4>Major trauma patients with penetrating trauma (2009-2017) were included from the Victorian State Trauma Registry (N\u2009=\u20091,067; 102 died, 208 were lost to follow-up). The EQ-5D-3L was used to measure health status at 6, 12 and 24-months. Mixed linear and logistic regressions were used to examine predictors of summary scores, and problems versus no problems on each health dimension.<h4>Results</h4>Average health status summary scores were 0.70 (sd\u2009=\u20090.26) at 6 and 12\u00a0months, and 0.72 (sd\u2009=\u20090.26) at 24\u00a0months post-injury. Prevalence of problems was consistent over time: mobility (24-26%), self-care (17-20%), usual activities (47-50%), pain/discomfort (44-49%), and anxiety/depression (54-56%). Lower health status and reporting problems was associated with middle-older age, female sex, unemployment; pre-injury disability, comorbid conditions;\u00a0and assault and firearm injury versus cutting/piercing.<h4>Conclusion</h4>Problems with usual activities, pain/discomfort and anxiety or depression are common after penetrating major trauma. Risk factor screening in hospital could be used to identify people at risk of poor health outcomes, and to link people at risk with services in hospital or early post-discharge to improve\u00a0their longer-term health outcomes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s11136-021-02876-4"
   },
   {
     "id": "33240510",
@@ -4250,6 +4284,23 @@
     "urls": "doi:https://doi.org/10.1038/s41598-019-54849-w; html:https://europepmc.org/articles/PMC6906499; pdf:https://europepmc.org/articles/PMC6906499?pdf=render"
   },
   {
+    "id": "32991065",
+    "doi": "https://doi.org/10.1111/dom.14203",
+    "title": "Sodium-glucose co-transporter-2 inhibitors and susceptibility to COVID-19: A population-based retrospective cohort study.",
+    "authorString": "Sainsbury C, Wang J, Gokhale K, Acosta-Mena D, Dhalla S, Byne N, Chandan JS, Anand A, Cooper J, Okoth K, Subramanian A, Bangash MN, Taverner T, Hanif W, Ghosh S, Narendran P, Cheng KK, Marshall T, Gkoutos G, Toulis K, Thomas N, Tahrani A, Adderley NJ, Haroon S, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "Diabetes, obesity & metabolism",
+    "pubYear": "2021",
+    "date": "2020-10-19",
+    "isOpenAccess": "Y",
+    "keywords": "Type 2 diabetes; Dpp-4 Inhibitor; Pharmaco-epidemiology; Sglt2 Inhibitor; Antidiabetic Drug",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Sodium-glucose co-transporter-2 (SGLT2) inhibitors are widely prescribed in people with type 2 diabetes. We aimed to investigate whether SGLT2 inhibitor prescription is associated with COVID-19, when compared with an active comparator. We performed a propensity-score-matched cohort study with active comparators and a negative control outcome in a large UK-based primary care dataset. Participants prescribed SGLT2 inhibitors (n = 9948) and a comparator group prescribed dipeptidyl peptidase-4 (DPP-4) inhibitors (n = 14\u2009917) were followed up from January 30 to July 27, 2020. The primary outcome was confirmed or clinically suspected COVID-19. The incidence rate of COVID-19 was 19.7/1000 person-years among users of SGLT2 inhibitors and 24.7/1000 person-years among propensity-score-matched users of DPP-4 inhibitors. The adjusted hazard ratio was 0.92 (95% confidence interval 0.66 to 1.29), and there was no evidence of residual confounding in the negative control analysis. We did not observe an increased risk of COVID-19 in primary care amongst those prescribed SGLT2 inhibitors compared to DPP-4 inhibitors, suggesting that clinicians may safely use these agents in the everyday care of people with type 2 diabetes during the COVID-19 pandemic.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/dom.14203; html:https://europepmc.org/articles/PMC7537530; pdf:https://europepmc.org/articles/PMC7537530?pdf=render"
+  },
+  {
     "id": "32103533",
     "doi": "https://doi.org/10.1002/sim.8503",
     "title": "Propensity scores using missingness pattern information: a practical guide.",
@@ -4265,23 +4316,6 @@
     "abstract": "Electronic health records are a valuable data source for investigating health-related questions, and propensity score analysis has become an increasingly popular approach to address confounding bias in such investigations. However, because electronic health records are typically routinely recorded as part of standard clinical care, there are often missing values, particularly for potential confounders. In our motivating study-using electronic health records to investigate the effect of renin-angiotensin system blockers on the risk of acute kidney injury-two key confounders, ethnicity and chronic kidney disease stage, have 59% and 53% missing data, respectively. The missingness pattern approach (MPA), a variant of the missing indicator approach, has been proposed as a method for handling partially observed confounders in propensity score analysis. In the MPA, propensity scores are estimated separately for each missingness pattern present in the data. Although the assumptions underlying the validity of the MPA are stated in the literature, it can be difficult in practice to assess their plausibility. In this article, we explore the MPA's underlying assumptions by using causal diagrams to assess their plausibility in a range of simple scenarios, drawing general conclusions about situations in which they are likely to be violated. We present a framework providing practical guidance for assessing whether the MPA's assumptions are plausible in a particular setting and thus deciding when the MPA is appropriate. We apply our framework to our motivating study, showing that the MPA's underlying assumptions appear reasonable, and we demonstrate the application of MPA to this study.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/sim.8503"
-  },
-  {
-    "id": "32991065",
-    "doi": "https://doi.org/10.1111/dom.14203",
-    "title": "Sodium-glucose co-transporter-2 inhibitors and susceptibility to COVID-19: A population-based retrospective cohort study.",
-    "authorString": "Sainsbury C, Wang J, Gokhale K, Acosta-Mena D, Dhalla S, Byne N, Chandan JS, Anand A, Cooper J, Okoth K, Subramanian A, Bangash MN, Taverner T, Hanif W, Ghosh S, Narendran P, Cheng KK, Marshall T, Gkoutos G, Toulis K, Thomas N, Tahrani A, Adderley NJ, Haroon S, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "Diabetes, obesity & metabolism",
-    "pubYear": "2021",
-    "date": "2020-10-19",
-    "isOpenAccess": "Y",
-    "keywords": "Type 2 diabetes; Dpp-4 Inhibitor; Pharmaco-epidemiology; Antidiabetic Drug; Sglt2 Inhibitor",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Sodium-glucose co-transporter-2 (SGLT2) inhibitors are widely prescribed in people with type 2 diabetes. We aimed to investigate whether SGLT2 inhibitor prescription is associated with COVID-19, when compared with an active comparator. We performed a propensity-score-matched cohort study with active comparators and a negative control outcome in a large UK-based primary care dataset. Participants prescribed SGLT2 inhibitors (n = 9948) and a comparator group prescribed dipeptidyl peptidase-4 (DPP-4) inhibitors (n = 14\u2009917) were followed up from January 30 to July 27, 2020. The primary outcome was confirmed or clinically suspected COVID-19. The incidence rate of COVID-19 was 19.7/1000 person-years among users of SGLT2 inhibitors and 24.7/1000 person-years among propensity-score-matched users of DPP-4 inhibitors. The adjusted hazard ratio was 0.92 (95% confidence interval 0.66 to 1.29), and there was no evidence of residual confounding in the negative control analysis. We did not observe an increased risk of COVID-19 in primary care amongst those prescribed SGLT2 inhibitors compared to DPP-4 inhibitors, suggesting that clinicians may safely use these agents in the everyday care of people with type 2 diabetes during the COVID-19 pandemic.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/dom.14203; html:https://europepmc.org/articles/PMC7537530; pdf:https://europepmc.org/articles/PMC7537530?pdf=render"
   },
   {
     "id": "34135032",
@@ -4352,6 +4386,23 @@
     "urls": "doi:https://doi.org/10.1002/bjs.11433"
   },
   {
+    "id": "32023934",
+    "doi": "https://doi.org/10.3390/ijerph17030892",
+    "title": "Identifying Homogeneous Patterns of Injury in Paediatric Trauma Patients to Improve Risk-Adjusted Models of Mortality and Functional Outcomes.",
+    "authorString": "Dipnall JF, Gabbe BJ, Teague WJ, Beck B.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of environmental research and public health",
+    "pubYear": "2020",
+    "date": "2020-01-31",
+    "isOpenAccess": "Y",
+    "keywords": "Trauma; Injury; Paediatric; Latent Class Analysis; Risk Adjustment; Mortality, Koschi, Classes",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "injuries and accidents",
+    "abstract": "Injury is a leading cause of morbidity and mortality in the paediatric population and exhibits complex injury patterns. This study aimed to identify homogeneous groups of paediatric major trauma patients based on their profile of injury for use in mortality and functional outcomes risk-adjusted models. Data were extracted from the population-based Victorian State Trauma Registry for patients aged 0-15 years, injured 2006-2016. Four Latent Class Analysis (LCA) models with/without covariates of age/sex tested up to six possible latent classes. Five risk-adjusted models of in-hospital mortality and 6-month functional outcomes incorporated a combination of Injury Severity Score (ISS), New ISS (NISS), and LCA classes. LCA models replicated the best log-likelihood and entropy > 0.8 for all models (N = 1281). Four latent injury classes were identified: isolated head; isolated abdominal organ; multi-trauma injuries, and other injuries. The best models, in terms of goodness of fit statistics and model diagnostics, included the LCA classes and NISS. The identification of isolated head, isolated abdominal, multi-trauma and other injuries as key latent paediatric injury classes highlights areas for emphasis in planning prevention initiatives and paediatric trauma system development. Future risk-adjusted paediatric injury models that include these injury classes with the NISS when evaluating mortality and functional outcomes is recommended.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3390/ijerph17030892; html:https://europepmc.org/articles/PMC7037699; pdf:https://europepmc.org/articles/PMC7037699?pdf=render"
+  },
+  {
     "id": "33203640",
     "doi": "https://doi.org/10.1136/bmjopen-2020-043828",
     "title": "Estimated impact of the COVID-19 pandemic on cancer services and excess 1-year mortality in people with cancer and multimorbidity: near real-time data on cancer care, cancer deaths and a population-based cohort study.",
@@ -4384,23 +4435,6 @@
     "abstract": "<h4>Background</h4>People of minority ethnic backgrounds may be disproportionately affected by severe COVID-19. Whether this relates to increased infection risk, more severe disease progression, or worse in-hospital survival is unknown. The contribution of comorbidities or socioeconomic deprivation to ethnic patterning of outcomes is also unclear.<h4>Methods</h4>We conducted a case-control and a cohort study in an inner city primary and secondary care setting to examine whether ethnic background affects the risk of hospital admission with severe COVID-19 and/or in-hospital mortality. Inner city adult residents admitted to hospital with confirmed COVID-19 (<i>n</i>\u00a0=\u00a0872 cases) were compared with 3,488 matched controls randomly sampled from a primary healthcare database comprising 344,083 people residing in the same region. For the cohort study, we studied 1827 adults consecutively admitted with COVID-19. The primary exposure variable was self-defined ethnicity. Analyses were adjusted for socio-demographic and clinical variables.<h4>Findings</h4>The 872 cases comprised 48.1% Black, 33.7% White, 12.6% Mixed/Other and 5.6% Asian patients. In conditional logistic regression analyses, Black and Mixed/Other ethnicity were associated with higher admission risk than white (OR 3.12 [95% CI 2.63-3.71] and 2.97 [2.30-3.85] respectively). Adjustment for comorbidities and deprivation modestly attenuated the association (OR 2.24 [1.83-2.74] for Black, 2.70 [2.03-3.59] for Mixed/Other). Asian ethnicity was not associated with higher admission risk (adjusted OR 1.01 [0.70-1.46]). In the cohort study of 1827 patients, 455 (28.9%) died over a median (IQR) of 8 (4-16) days. Age and male sex, but not Black (adjusted HR 1.06 [0.82-1.37]) or Mixed/Other ethnicity (adjusted HR 0.72 [0.47-1.10]), were associated with in-hospital mortality. Asian ethnicity was associated with higher in-hospital mortality but with a large confidence interval (adjusted HR 1.71 [1.15-2.56]).<h4>Interpretation</h4>Black and Mixed ethnicity are independently associated with greater admission risk with COVID-19 and may be risk factors for development of severe disease, but do not affect in-hospital mortality risk. Comorbidities and socioeconomic factors only partly account for this and additional ethnicity-related factors may play a large role. The impact of COVID-19 may be different in Asians.<h4>Funding</h4>British Heart Foundation; the National Institute for Health Research; Health Data Research UK.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100574; html:https://europepmc.org/articles/PMC7545271; pdf:https://europepmc.org/articles/PMC7545271?pdf=render"
-  },
-  {
-    "id": "32023934",
-    "doi": "https://doi.org/10.3390/ijerph17030892",
-    "title": "Identifying Homogeneous Patterns of Injury in Paediatric Trauma Patients to Improve Risk-Adjusted Models of Mortality and Functional Outcomes.",
-    "authorString": "Dipnall JF, Gabbe BJ, Teague WJ, Beck B.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of environmental research and public health",
-    "pubYear": "2020",
-    "date": "2020-01-31",
-    "isOpenAccess": "Y",
-    "keywords": "Trauma; Injury; Paediatric; Latent Class Analysis; Risk Adjustment; Mortality, Koschi, Classes",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "injuries and accidents",
-    "abstract": "Injury is a leading cause of morbidity and mortality in the paediatric population and exhibits complex injury patterns. This study aimed to identify homogeneous groups of paediatric major trauma patients based on their profile of injury for use in mortality and functional outcomes risk-adjusted models. Data were extracted from the population-based Victorian State Trauma Registry for patients aged 0-15 years, injured 2006-2016. Four Latent Class Analysis (LCA) models with/without covariates of age/sex tested up to six possible latent classes. Five risk-adjusted models of in-hospital mortality and 6-month functional outcomes incorporated a combination of Injury Severity Score (ISS), New ISS (NISS), and LCA classes. LCA models replicated the best log-likelihood and entropy > 0.8 for all models (N = 1281). Four latent injury classes were identified: isolated head; isolated abdominal organ; multi-trauma injuries, and other injuries. The best models, in terms of goodness of fit statistics and model diagnostics, included the LCA classes and NISS. The identification of isolated head, isolated abdominal, multi-trauma and other injuries as key latent paediatric injury classes highlights areas for emphasis in planning prevention initiatives and paediatric trauma system development. Future risk-adjusted paediatric injury models that include these injury classes with the NISS when evaluating mortality and functional outcomes is recommended.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3390/ijerph17030892; html:https://europepmc.org/articles/PMC7037699; pdf:https://europepmc.org/articles/PMC7037699?pdf=render"
   },
   {
     "id": "32226230",
@@ -4505,23 +4539,6 @@
     "urls": "doi:https://doi.org/10.3399/bjgp20X714161; html:https://europepmc.org/articles/PMC8041293; pdf:https://europepmc.org/articles/PMC8041293?pdf=render"
   },
   {
-    "id": "32908801",
-    "doi": "https://doi.org/10.1167/tvst.9.9.38",
-    "title": "Merging Information From Infrared and Autofluorescence Fundus Images for Monitoring of Chorioretinal Atrophic Lesions.",
-    "authorString": "Ometto G, Montesano G, Sadeghi Afgeh S, Lazaridis G, Liu X, Keane PA, Crabb DP, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "Translational vision science & technology",
-    "pubYear": "2020",
-    "date": "2020-08-25",
-    "isOpenAccess": "Y",
-    "keywords": "Autofluorescence; Segmentation; infrared; Uveitis; Multimodal",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Purpose</h4>To develop a method for automated detection and progression analysis of chorioretinal atrophic lesions using the combined information of standard infrared (IR) and autofluorescence (AF) fundus images.<h4>Methods</h4>Eighteen eyes (from 16 subjects) with punctate inner choroidopathy were analyzed. Macular IR and blue AF images were acquired in all eyes with a Spectralis HRA+OCT device (Heidelberg Engineering, Heidelberg, Germany). Two clinical experts manually segmented chorioretinal lesions on the AF image. AF images were aligned to the corresponding IR. Two random forest models were trained to classify pixels of lesions, one based on the AF image only, the other based on the aligned IR-AF. The models were validated using a leave-one-out cross-validation and were tested against the manual segmentation to compare their performance. A time series from one eye was identified and used to evaluate the method based on the IR-AF in a case study.<h4>Results</h4>The method based on the AF images correctly classified 95% of the pixels (i.e., in vs. out of the lesion) with a Dice's coefficient of 0.80. The method based on the combined IR-AF correctly classified 96% of the pixels with a Dice's coefficient of 0.84.<h4>Conclusions</h4>The automated segmentation of chorioretinal lesions using IR and AF shows closer alignment to manual segmentation than the same method based on AF only. Merging information from multimodal images improves the automatic and objective segmentation of chorioretinal lesions even when based on a small dataset.<h4>Translational relevance</h4>Merged information from multimodal images improves segmentation performance of chorioretinal lesions.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1167/tvst.9.9.38; html:https://europepmc.org/articles/PMC7453042; pdf:https://europepmc.org/articles/PMC7453042?pdf=render"
-  },
-  {
     "id": "31818272",
     "doi": "https://doi.org/10.1186/s12889-019-8015-3",
     "title": "Drinking beer, wine or spirits - does it matter for inequalities in alcohol-related hospital admission? A record-linked longitudinal study in Wales.",
@@ -4539,21 +4556,21 @@
     "urls": "doi:https://doi.org/10.1186/s12889-019-8015-3; html:https://europepmc.org/articles/PMC6902530; pdf:https://europepmc.org/articles/PMC6902530?pdf=render"
   },
   {
-    "id": "32846977",
-    "doi": "https://doi.org/10.3390/ijerph17176139",
-    "title": "Agreement between the International Physical Activity Questionnaire and Accelerometry in Adults with Orthopaedic Injury.",
-    "authorString": "Veitch WG, Climie RE, Gabbe BJ, Dunstan DW, Owen N, Ekegren CL.",
+    "id": "32908801",
+    "doi": "https://doi.org/10.1167/tvst.9.9.38",
+    "title": "Merging Information From Infrared and Autofluorescence Fundus Images for Monitoring of Chorioretinal Atrophic Lesions.",
+    "authorString": "Ometto G, Montesano G, Sadeghi Afgeh S, Lazaridis G, Liu X, Keane PA, Crabb DP, Denniston AK.",
     "authorAffiliations": "",
-    "journalTitle": "International journal of environmental research and public health",
+    "journalTitle": "Translational vision science & technology",
     "pubYear": "2020",
-    "date": "2020-08-24",
+    "date": "2020-08-25",
     "isOpenAccess": "Y",
-    "keywords": "Activity; Validation; Sitting; Accelerometer; Sedentary Behaviour; Ipaq",
+    "keywords": "Autofluorescence; Segmentation; infrared; Uveitis; Multimodal",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "Orthopaedic injury can lead to decreased physical activity. Valid measures for assessing physical activity are therefore needed in this population. The aim of this study was to determine the agreement and concordance between the International Physical Activity Questionnaire-Short Form (IPAQ) and device-measured physical activity and sitting time in orthopaedic injury patients. Adults with isolated upper or lower limb fracture (<i>n</i> = 46; mean age of 40.5 years) wore two activity monitors (ActiGraph wGT3X-BT and activPAL) for 10 days, from 2 weeks post-discharge. The IPAQ was also completed for a concurrent 7-day period. Lin's concordance correlation coefficients and Bland-Altman plots were calculated to compare walking/stepping time, total METmins, and sitting time. The IPAQ overestimated device-derived walking time (mean difference = 2.34 \u00b1 7.33 h/week) and total METmins (mean difference = 767 \u00b1 1659 METmins/week) and underestimated sitting time (mean difference = -2.26 \u00b1 3.87 h/day). There was fair concordance between IPAQ-reported and device-measured walking (\u03c1 = 0.34) and sitting time (\u03c1 = 0.38) and moderate concordance between IPAQ-reported and device-measured METmins (\u03c1 = 0.43). In patients with orthopaedic injury, the IPAQ overestimates physical activity and underestimates sitting time. Higher agreement was observed in the forms of activity (walking, total PA and sitting) commonly performed by this patient group.",
+    "abstract": "<h4>Purpose</h4>To develop a method for automated detection and progression analysis of chorioretinal atrophic lesions using the combined information of standard infrared (IR) and autofluorescence (AF) fundus images.<h4>Methods</h4>Eighteen eyes (from 16 subjects) with punctate inner choroidopathy were analyzed. Macular IR and blue AF images were acquired in all eyes with a Spectralis HRA+OCT device (Heidelberg Engineering, Heidelberg, Germany). Two clinical experts manually segmented chorioretinal lesions on the AF image. AF images were aligned to the corresponding IR. Two random forest models were trained to classify pixels of lesions, one based on the AF image only, the other based on the aligned IR-AF. The models were validated using a leave-one-out cross-validation and were tested against the manual segmentation to compare their performance. A time series from one eye was identified and used to evaluate the method based on the IR-AF in a case study.<h4>Results</h4>The method based on the AF images correctly classified 95% of the pixels (i.e., in vs. out of the lesion) with a Dice's coefficient of 0.80. The method based on the combined IR-AF correctly classified 96% of the pixels with a Dice's coefficient of 0.84.<h4>Conclusions</h4>The automated segmentation of chorioretinal lesions using IR and AF shows closer alignment to manual segmentation than the same method based on AF only. Merging information from multimodal images improves the automatic and objective segmentation of chorioretinal lesions even when based on a small dataset.<h4>Translational relevance</h4>Merged information from multimodal images improves segmentation performance of chorioretinal lesions.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.3390/ijerph17176139; html:https://europepmc.org/articles/PMC7504024; pdf:https://europepmc.org/articles/PMC7504024?pdf=render"
+    "urls": "doi:https://doi.org/10.1167/tvst.9.9.38; html:https://europepmc.org/articles/PMC7453042; pdf:https://europepmc.org/articles/PMC7453042?pdf=render"
   },
   {
     "id": "30940752",
@@ -4571,6 +4588,23 @@
     "abstract": "<h4>Objective</h4>Routinely collected healthcare data are a powerful research resource but often lack detailed disease-specific information that is collected in clinical free text, for example, clinic letters. We aim to use natural language processing techniques to extract detailed clinical information from epilepsy clinic letters to enrich routinely collected data.<h4>Design</h4>We used the general architecture for text engineering (GATE) framework to build an information extraction system, ExECT (extraction of epilepsy clinical text), combining rule-based and statistical techniques. We extracted nine categories of epilepsy information in addition to clinic date and date of birth across 200 clinic letters. We compared the results of our algorithm with a manual review of the letters by an epilepsy clinician.<h4>Setting</h4>De-identified and pseudonymised epilepsy clinic letters from a Health Board serving half a million residents in Wales, UK.<h4>Results</h4>We identified 1925 items of information with overall precision, recall and F1 score of 91.4%, 81.4% and 86.1%, respectively. Precision and recall for epilepsy-specific categories were: epilepsy diagnosis (88.1%, 89.0%), epilepsy type (89.8%, 79.8%), focal seizures (96.2%, 69.7%), generalised seizures (88.8%, 52.3%), seizure frequency (86.3%-53.6%), medication (96.1%, 94.0%), CT (55.6%, 58.8%), MRI (82.4%, 68.8%) and electroencephalogram (81.5%, 75.3%).<h4>Conclusions</h4>We have built an automated clinical text extraction system that can accurately extract epilepsy information from free text in clinic letters. This can enhance routinely collected data for research in the UK. The information extracted with ExECT such as epilepsy type, seizure frequency and neurological investigations are often missing from routinely collected data. We propose that our algorithm can bridge this data gap enabling further epilepsy research opportunities. While many of the rules in our pipeline were tailored to extract epilepsy specific information, our methods can be applied to other diseases and also can be used in clinical practice to record patient information in a structured manner.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2018-023232; html:https://europepmc.org/articles/PMC6500195; pdf:https://europepmc.org/articles/PMC6500195?pdf=render"
+  },
+  {
+    "id": "32846977",
+    "doi": "https://doi.org/10.3390/ijerph17176139",
+    "title": "Agreement between the International Physical Activity Questionnaire and Accelerometry in Adults with Orthopaedic Injury.",
+    "authorString": "Veitch WG, Climie RE, Gabbe BJ, Dunstan DW, Owen N, Ekegren CL.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of environmental research and public health",
+    "pubYear": "2020",
+    "date": "2020-08-24",
+    "isOpenAccess": "Y",
+    "keywords": "Activity; Validation; Sitting; Accelerometer; Sedentary Behaviour; Ipaq",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Orthopaedic injury can lead to decreased physical activity. Valid measures for assessing physical activity are therefore needed in this population. The aim of this study was to determine the agreement and concordance between the International Physical Activity Questionnaire-Short Form (IPAQ) and device-measured physical activity and sitting time in orthopaedic injury patients. Adults with isolated upper or lower limb fracture (<i>n</i> = 46; mean age of 40.5 years) wore two activity monitors (ActiGraph wGT3X-BT and activPAL) for 10 days, from 2 weeks post-discharge. The IPAQ was also completed for a concurrent 7-day period. Lin's concordance correlation coefficients and Bland-Altman plots were calculated to compare walking/stepping time, total METmins, and sitting time. The IPAQ overestimated device-derived walking time (mean difference = 2.34 \u00b1 7.33 h/week) and total METmins (mean difference = 767 \u00b1 1659 METmins/week) and underestimated sitting time (mean difference = -2.26 \u00b1 3.87 h/day). There was fair concordance between IPAQ-reported and device-measured walking (\u03c1 = 0.34) and sitting time (\u03c1 = 0.38) and moderate concordance between IPAQ-reported and device-measured METmins (\u03c1 = 0.43). In patients with orthopaedic injury, the IPAQ overestimates physical activity and underestimates sitting time. Higher agreement was observed in the forms of activity (walking, total PA and sitting) commonly performed by this patient group.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3390/ijerph17176139; html:https://europepmc.org/articles/PMC7504024; pdf:https://europepmc.org/articles/PMC7504024?pdf=render"
   },
   {
     "id": "30928915",
@@ -4607,23 +4641,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ijcard.2020.08.030"
   },
   {
-    "id": "33986429",
-    "doi": "https://doi.org/10.1038/s41598-021-89743-x",
-    "title": "Predicting sex from retinal fundus photographs using automated deep learning.",
-    "authorString": "Korot E, Pontikos N, Liu X, Wagner SK, Faes L, Huemer J, Balaskas K, Denniston AK, Khawaja A, Keane PA.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2021",
-    "date": "2021-05-13",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Deep learning may transform health care, but model development has largely been dependent on availability of advanced technical expertise. Herein we present the development of a deep learning model by clinicians without coding, which predicts reported sex from retinal fundus photographs. A model was trained on 84,743 retinal fundus photos from the UK Biobank dataset. External validation was performed on 252 fundus photos from a tertiary ophthalmic referral center. For internal validation, the area under the receiver operating characteristic curve (AUROC) of the code free deep learning (CFDL) model was 0.93. Sensitivity, specificity, positive predictive value (PPV) and accuracy (ACC) were 88.8%, 83.6%, 87.3% and 86.5%, and for external validation were 83.9%, 72.2%, 78.2% and 78.6% respectively. Clinicians are currently unaware of distinct retinal feature variations between males and females, highlighting the importance of model explainability for this task. The model performed significantly worse when foveal pathology was present in the external validation dataset, ACC: 69.4%, compared to 85.4% in healthy eyes, suggesting the fovea is a salient region for model performance OR (95% CI): 0.36 (0.19, 0.70) p\u2009=\u20090.0022. Automated machine learning (AutoML) may enable clinician-driven automated discovery of novel insights and disease biomarkers.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-021-89743-x; html:https://europepmc.org/articles/PMC8119673; pdf:https://europepmc.org/articles/PMC8119673?pdf=render"
-  },
-  {
     "id": "30848519",
     "doi": "https://doi.org/10.1111/dme.13945",
     "title": "Impact of glycaemic control on fracture risk in 5368 people with newly diagnosed Type 1 diabetes: a time-dependent analysis.",
@@ -4641,21 +4658,21 @@
     "urls": "doi:https://doi.org/10.1111/dme.13945"
   },
   {
-    "id": "32935062",
-    "doi": "https://doi.org/10.23889/ijpds.v5i2.1383",
-    "title": "Prospective data linkage to facilitate COVID-19 trials - A call to action.",
-    "authorString": "Paprica PA, Sydes MR, McGrail KM, Morris AD, Schull MJ, Walker R.",
+    "id": "33986429",
+    "doi": "https://doi.org/10.1038/s41598-021-89743-x",
+    "title": "Predicting sex from retinal fundus photographs using automated deep learning.",
+    "authorString": "Korot E, Pontikos N, Liu X, Wagner SK, Faes L, Huemer J, Balaskas K, Denniston AK, Khawaja A, Keane PA.",
     "authorAffiliations": "",
-    "journalTitle": "International journal of population data science",
-    "pubYear": "2020",
-    "date": "2020-08-11",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2021",
+    "date": "2021-05-13",
     "isOpenAccess": "Y",
     "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "",
+    "abstract": "Deep learning may transform health care, but model development has largely been dependent on availability of advanced technical expertise. Herein we present the development of a deep learning model by clinicians without coding, which predicts reported sex from retinal fundus photographs. A model was trained on 84,743 retinal fundus photos from the UK Biobank dataset. External validation was performed on 252 fundus photos from a tertiary ophthalmic referral center. For internal validation, the area under the receiver operating characteristic curve (AUROC) of the code free deep learning (CFDL) model was 0.93. Sensitivity, specificity, positive predictive value (PPV) and accuracy (ACC) were 88.8%, 83.6%, 87.3% and 86.5%, and for external validation were 83.9%, 72.2%, 78.2% and 78.6% respectively. Clinicians are currently unaware of distinct retinal feature variations between males and females, highlighting the importance of model explainability for this task. The model performed significantly worse when foveal pathology was present in the external validation dataset, ACC: 69.4%, compared to 85.4% in healthy eyes, suggesting the fovea is a salient region for model performance OR (95% CI): 0.36 (0.19, 0.70) p\u2009=\u20090.0022. Automated machine learning (AutoML) may enable clinician-driven automated discovery of novel insights and disease biomarkers.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.23889/ijpds.v5i2.1383; html:https://europepmc.org/articles/PMC7473253; pdf:https://europepmc.org/articles/PMC7473253?pdf=render"
+    "urls": "doi:https://doi.org/10.1038/s41598-021-89743-x; html:https://europepmc.org/articles/PMC8119673; pdf:https://europepmc.org/articles/PMC8119673?pdf=render"
   },
   {
     "id": "30863860",
@@ -4673,6 +4690,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehz089"
+  },
+  {
+    "id": "32935062",
+    "doi": "https://doi.org/10.23889/ijpds.v5i2.1383",
+    "title": "Prospective data linkage to facilitate COVID-19 trials - A call to action.",
+    "authorString": "Paprica PA, Sydes MR, McGrail KM, Morris AD, Schull MJ, Walker R.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of population data science",
+    "pubYear": "2020",
+    "date": "2020-08-11",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.23889/ijpds.v5i2.1383; html:https://europepmc.org/articles/PMC7473253; pdf:https://europepmc.org/articles/PMC7473253?pdf=render"
   },
   {
     "id": "33928785",
@@ -4998,23 +5032,6 @@
     "urls": "doi:https://doi.org/10.1001/jamaneurol.2019.1812; html:https://europepmc.org/articles/PMC6618853"
   },
   {
-    "id": "33769566",
-    "doi": "https://doi.org/10.1111/bph.15459",
-    "title": "Emerging therapies and their delivery for treating age-related macular degeneration.",
-    "authorString": "Thomas CN, Sim DA, Lee WH, Alfahad N, Dick AD, Denniston AK, Hill LJ.",
-    "authorAffiliations": "",
-    "journalTitle": "British journal of pharmacology",
-    "pubYear": "2021",
-    "date": "2021-03-26",
-    "isOpenAccess": "N",
-    "keywords": "Retina; Complement; Immunotherapy; Age-related macular degeneration; Drug Delivery; Anti-vegf; Ocular Disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Age-related macular degeneration (AMD) is the most common cause of blindness in the Western world and is characterised in its latter stages by retinal cell death and neovascularisation and earlier stages with the loss of parainflammatory homeostasis. Patients with neovascular AMD (nAMD) are treated with frequent intraocular injections of anti-vascular endothelial growth factor (VEGF) therapies, which are not only unpopular with patients but carry risks of sight-threatening complications. A minority of patients are unresponsive with no alternative treatment available, and some patients who respond initially eventually develop a tolerance to treatment. New therapeutics with improved delivery methods and sustainability of clinical effects are required, in particular for non-neovascular AMD (90% of cases and no current approved treatments). There are age-related and disease-related changes that occur which can affect ocular drug delivery. Here, we review the latest emerging therapies for AMD, their delivery routes and implications for translating to clinical practice.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/bph.15459"
-  },
-  {
     "id": "32817390",
     "doi": "https://doi.org/10.1212/wnl.0000000000010463",
     "title": "Sleep, major depressive disorder, and Alzheimer disease: A Mendelian randomization study.",
@@ -5030,6 +5047,23 @@
     "abstract": "<h4>Objective</h4>To explore the causal relationships between sleep, major depressive disorder (MDD), and Alzheimer disease (AD).<h4>Methods</h4>We conducted bidirectional 2-sample Mendelian randomization analyses. Genetic associations were obtained from the largest genome-wide association studies currently available in UK Biobank (n = 446,118), Psychiatric Genomics Consortium (n = 18,759), and International Genomics of Alzheimer's Project (n = 63,926). We used the inverse variance-weighted Mendelian randomization method to estimate causal effects and weighted median and Mendelian randomization-Egger for sensitivity analyses to test for pleiotropic effects.<h4>Results</h4>We found that higher risk of AD was significantly associated with being a \"morning person\" (odds ratio [OR] 1.01, <i>p</i> = 0.001), shorter sleep duration (self-reported: \u03b2 = -0.006, <i>p</i> = 1.9 \u00d7 10<sup>-4</sup>; accelerometer based: \u03b2 = -0.015, <i>p</i> = 6.9 \u00d7 10<sup>-5</sup>), less likely to report long sleep (\u03b2 = -0.003, <i>p</i> = 7.3 \u00d7 10<sup>-7</sup>), earlier timing of the least active 5 hours (\u03b2 = -0.024, <i>p</i> = 1.7 \u00d7 10<sup>-13</sup>), and a smaller number of sleep episodes (\u03b2 = -0.025, <i>p</i> = 5.7 \u00d7 10<sup>-14</sup>) after adjustment for multiple comparisons. We also found that higher risk of AD was associated with lower risk of insomnia (OR 0.99, <i>p</i> = 7 \u00d7 10<sup>-13</sup>). However, we did not find evidence that these abnormal sleep patterns were causally related to AD or for a significant causal relationship between MDD and risk of AD.<h4>Conclusion</h4>We found that AD may causally influence sleep patterns. However, we did not find evidence supporting a causal role of disturbed sleep patterns for AD or evidence for a causal relationship between MDD and AD.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1212/WNL.0000000000010463; html:https://europepmc.org/articles/PMC7682841; pdf:https://europepmc.org/articles/PMC7682841?pdf=render"
+  },
+  {
+    "id": "33769566",
+    "doi": "https://doi.org/10.1111/bph.15459",
+    "title": "Emerging therapies and their delivery for treating age-related macular degeneration.",
+    "authorString": "Thomas CN, Sim DA, Lee WH, Alfahad N, Dick AD, Denniston AK, Hill LJ.",
+    "authorAffiliations": "",
+    "journalTitle": "British journal of pharmacology",
+    "pubYear": "2021",
+    "date": "2021-03-26",
+    "isOpenAccess": "N",
+    "keywords": "Retina; Complement; Immunotherapy; Age-related macular degeneration; Drug Delivery; Anti-vegf; Ocular Disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Age-related macular degeneration (AMD) is the most common cause of blindness in the Western world and is characterised in its latter stages by retinal cell death and neovascularisation and earlier stages with the loss of parainflammatory homeostasis. Patients with neovascular AMD (nAMD) are treated with frequent intraocular injections of anti-vascular endothelial growth factor (VEGF) therapies, which are not only unpopular with patients but carry risks of sight-threatening complications. A minority of patients are unresponsive with no alternative treatment available, and some patients who respond initially eventually develop a tolerance to treatment. New therapeutics with improved delivery methods and sustainability of clinical effects are required, in particular for non-neovascular AMD (90% of cases and no current approved treatments). There are age-related and disease-related changes that occur which can affect ocular drug delivery. Here, we review the latest emerging therapies for AMD, their delivery routes and implications for translating to clinical practice.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/bph.15459"
   },
   {
     "id": "30444743",
@@ -5134,23 +5168,6 @@
     "urls": "doi:https://doi.org/10.1038/s41746-021-00404-9; html:https://europepmc.org/articles/PMC7910461; pdf:https://europepmc.org/articles/PMC7910461?pdf=render"
   },
   {
-    "id": "32637892",
-    "doi": "https://doi.org/10.1016/j.eclinm.2020.100392",
-    "title": "The association between exposure to childhood maltreatment and the subsequent development of functional somatic and visceral pain syndromes.",
-    "authorString": "Chandan JS, Keerthy D, Zemedikun DT, Okoth K, Gokhale KM, Raza K, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "EClinicalMedicine",
-    "pubYear": "2020",
-    "date": "2020-06-06",
-    "isOpenAccess": "Y",
-    "keywords": "epidemiology; Primary Care; Childhood Maltreatment; Central Sensitivity Syndromes",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "BACKGROUND:Childhood maltreatment is a global public health issue linked to a vast mortality and morbidity burden. This study builds on current literature to explore the risk of developing central sensitivity syndromes (CSS) (consisting of somatic and visceral pain syndromes) subsequent to childhood maltreatment exposure. METHODS:A retrospective population based open cohort study using the UK primary care database, 'The Health Improvement Network,' between 1st January 1995-31st December 2018. 80,657 adult patients who had experienced childhood maltreatment or maltreatment related concerns (exposed patients) were matched to 161,314 unexposed patients by age and sex. Outcomes of interest were the development of CSS: either somatic (Fibromyalgia, chronic fatigue syndrome, temporomandibular joint disorder, chronic lower back pain, chronic headache, myofascial pain syndrome and restless leg syndrome) or visceral (Interstitial cystitis, vulvodynia, chronic prostatitis and irritable bowel syndrome) in nature. Effect sizes are presented as adjusted incidence rate ratios (aIRR) with confidence intervals (CI). Models were adjusted for the following covariates at cohort entry: age, sex, deprivation, anxiety, depression and serious mental ill health. RESULTS:The average age at cohort entry was 23.4 years and the median follow was 2.2 years. There was an increased risk of developing fibromyalgia (aIRR 2.06; 95% CI 1.71-2.48), chronic fatigue syndrome (1.47; 1.08-2.00), chronic lower back pain (1.99; 1.68-2.35), restless leg syndrome (1.82; 1.41-2.35) and irritable bowel syndrome (1.15; 1.08-1.22) when compared to the unexposed group, whereas no statistical association was seen with the development of temporomandibular joint disorder (1.00; 0.88-1.13), chronic headache (1.04; 0.59-1.86), interstitial cystitis (1.19; 0.51-2.74), vulvodynia (0.65; 0.34-1.26), chronic prostatitis (0.34; 0.07-1.77) and myofascial pain syndrome (0.88; 0.36-2.14). Outcome numbers were low, most likely, due to the rarity of visceral conditions (aside from irritable bowel syndrome). The association between a history of childhood maltreatment and CSS were mainly observed in somatic CSS. INTERPRETATION:The debilitating effects of CSS carry a substantial physical, psychological and economic burden to both the individuals who are diagnosed with them and the health services who serve them. Primary prevention approaches targeting childhood maltreatment as well as secondary preventative approaches should be considered to minimise the associated burden of CSS.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100392; html:https://europepmc.org/articles/PMC7329705; pdf:https://europepmc.org/articles/PMC7329705?pdf=render"
-  },
-  {
     "id": "32485082",
     "doi": "https://doi.org/10.1002/ejhf.1924",
     "title": "Angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers are not associated with severe COVID-19 infection in a multi-site UK acute hospital trust.",
@@ -5166,6 +5183,23 @@
     "abstract": "<h4>Aims</h4>The SARS-CoV-2 virus binds to the angiotensin-converting enzyme 2 (ACE2) receptor for cell entry. It has been suggested that angiotensin-converting enzyme inhibitors (ACEi) and angiotensin II receptor blockers (ARB), which are commonly used in patients with hypertension or diabetes and may raise tissue ACE2 levels, could increase the risk of severe COVID-19 infection.<h4>Methods and results</h4>We evaluated this hypothesis in a consecutive cohort of 1200 acute inpatients with COVID-19 at two hospitals with a multi-ethnic catchment population in London (UK). The mean age was 68\u2009\u00b1\u200917\u2009years (57% male) and 74% of patients had at least one comorbidity. Overall, 415 patients (34.6%) reached the primary endpoint of death or transfer to a critical care unit for organ support within 21\u2009days of symptom onset. A total of 399 patients (33.3%) were taking ACEi or ARB. Patients on ACEi/ARB were significantly older and had more comorbidities. The odds ratio for the primary endpoint in patients on ACEi and ARB, after adjustment for age, sex and co-morbidities, was 0.63 (95% confidence interval 0.47-0.84, P\u2009<\u20090.01).<h4>Conclusions</h4>There was no evidence for increased severity of COVID-19 in hospitalised patients on chronic treatment with ACEi or ARB. A trend towards a beneficial effect of ACEi/ARB requires further evaluation in larger meta-analyses and randomised clinical trials.",
     "laySummary": "This study aimed to determine whether or not two specific types of medication (ACE inhibitors and angiotensin-2 blockers - ACEi/ARB) used for hypertension or diabetes are associated with increased risk of severe COVID-19 infection in a sample of 1,200 inpatients (one third of whom were taking the medications under investigation) in two London hospitals. The researchers used data from electonic medical notes and electronic health records. The patients who were taking the medication were, on average, older and had more underlying health conditions than patients who were not. After accounting for these differences in patient health the researchers found that the risk of severe COVID infection was not higher for patients taking ACEi/ARB. This finding is important for patients because it suggests that they should continue to take ACEi/ARB that have been presecribed to them.",
     "urls": "doi:https://doi.org/10.1002/ejhf.1924; html:https://europepmc.org/articles/PMC7301045; pdf:https://europepmc.org/articles/PMC7301045?pdf=render"
+  },
+  {
+    "id": "32637892",
+    "doi": "https://doi.org/10.1016/j.eclinm.2020.100392",
+    "title": "The association between exposure to childhood maltreatment and the subsequent development of functional somatic and visceral pain syndromes.",
+    "authorString": "Chandan JS, Keerthy D, Zemedikun DT, Okoth K, Gokhale KM, Raza K, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "EClinicalMedicine",
+    "pubYear": "2020",
+    "date": "2020-06-06",
+    "isOpenAccess": "Y",
+    "keywords": "epidemiology; Primary Care; Childhood Maltreatment; Central Sensitivity Syndromes",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "BACKGROUND:Childhood maltreatment is a global public health issue linked to a vast mortality and morbidity burden. This study builds on current literature to explore the risk of developing central sensitivity syndromes (CSS) (consisting of somatic and visceral pain syndromes) subsequent to childhood maltreatment exposure. METHODS:A retrospective population based open cohort study using the UK primary care database, 'The Health Improvement Network,' between 1st January 1995-31st December 2018. 80,657 adult patients who had experienced childhood maltreatment or maltreatment related concerns (exposed patients) were matched to 161,314 unexposed patients by age and sex. Outcomes of interest were the development of CSS: either somatic (Fibromyalgia, chronic fatigue syndrome, temporomandibular joint disorder, chronic lower back pain, chronic headache, myofascial pain syndrome and restless leg syndrome) or visceral (Interstitial cystitis, vulvodynia, chronic prostatitis and irritable bowel syndrome) in nature. Effect sizes are presented as adjusted incidence rate ratios (aIRR) with confidence intervals (CI). Models were adjusted for the following covariates at cohort entry: age, sex, deprivation, anxiety, depression and serious mental ill health. RESULTS:The average age at cohort entry was 23.4 years and the median follow was 2.2 years. There was an increased risk of developing fibromyalgia (aIRR 2.06; 95% CI 1.71-2.48), chronic fatigue syndrome (1.47; 1.08-2.00), chronic lower back pain (1.99; 1.68-2.35), restless leg syndrome (1.82; 1.41-2.35) and irritable bowel syndrome (1.15; 1.08-1.22) when compared to the unexposed group, whereas no statistical association was seen with the development of temporomandibular joint disorder (1.00; 0.88-1.13), chronic headache (1.04; 0.59-1.86), interstitial cystitis (1.19; 0.51-2.74), vulvodynia (0.65; 0.34-1.26), chronic prostatitis (0.34; 0.07-1.77) and myofascial pain syndrome (0.88; 0.36-2.14). Outcome numbers were low, most likely, due to the rarity of visceral conditions (aside from irritable bowel syndrome). The association between a history of childhood maltreatment and CSS were mainly observed in somatic CSS. INTERPRETATION:The debilitating effects of CSS carry a substantial physical, psychological and economic burden to both the individuals who are diagnosed with them and the health services who serve them. Primary prevention approaches targeting childhood maltreatment as well as secondary preventative approaches should be considered to minimise the associated burden of CSS.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100392; html:https://europepmc.org/articles/PMC7329705; pdf:https://europepmc.org/articles/PMC7329705?pdf=render"
   },
   {
     "id": "33653753",
@@ -5440,23 +5474,6 @@
     "urls": "doi:https://doi.org/10.2196/16400; html:https://europepmc.org/articles/PMC7163416"
   },
   {
-    "id": "33516523",
-    "doi": "https://doi.org/10.1016/j.jaci.2020.12.001",
-    "title": "Atopic eczema in adulthood and mortality: UK population-based cohort study, 1998-2016.",
-    "authorString": "Silverwood RJ, Mansfield KE, Mulick A, Wong AYS, Schmidt SAJ, Roberts A, Smeeth L, Abuabara K, Langan SM.",
-    "authorAffiliations": "",
-    "journalTitle": "The Journal of allergy and clinical immunology",
-    "pubYear": "2021",
-    "date": "2021-01-27",
-    "isOpenAccess": "Y",
-    "keywords": "Activity; Mortality; Cohort study; United Kingdom; Primary Care; Atopic Eczema; Severity; Population-based; Electronic Health Care Records",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Atopic eczema affects up to 10% of adults and is becoming more common globally. Few studies have assessed whether atopic eczema increases the risk of death.<h4>Objective</h4>We aimed to determine whether adults with atopic eczema were at increased risk of death overall and by specific causes and to assess whether the risk varied by atopic eczema severity and activity.<h4>Methods</h4>The study was a population-based matched cohort study using UK primary care electronic health care records from the Clinical Practice Research Datalink with linked hospitalization data from Hospital Episode Statistics and mortality data from the Office for National Statistics from 1998 to 2016.<h4>Results</h4>A total of 526,736 patients with atopic eczema were matched to 2,567,872 individuals without atopic eczema. The median age at entry was 41.8 years, and the median follow-up time was 4.5 years. There was limited evidence of increased hazard for all-cause mortality in those with atopic eczema (hazard ratio\u00a0= 1.04; 99% CI\u00a0= 1.03-1.06), but there were somewhat stronger associations (8%-14% increased hazard) for deaths due to infectious, digestive, and genitourinary causes. Differences on the absolute scale were modest owing to low overall mortality rates. Mortality risk increased markedly with eczema severity and activity. For example, patients with severe atopic eczema had a 62% increased hazard (hazard ratio\u00a0= 1.62; 99% CI\u00a0= 1.54-1.71) for mortality compared with those without eczema, with the strongest associations for infectious, respiratory, and genitourinary causes.<h4>Conclusion</h4>The increased hazards for all-cause and cause-specific mortality were largely restricted to those with the most severe or predominantly active atopic eczema. Understanding the reasons for these increased hazards for mortality is an urgent priority.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jaci.2020.12.001; html:https://europepmc.org/articles/PMC8098860; pdf:https://europepmc.org/articles/PMC8098860?pdf=render"
-  },
-  {
     "id": "33482294",
     "doi": "https://doi.org/10.1016/j.jclinepi.2021.01.003",
     "title": "Real-time imputation of missing predictor values improved the application of prediction models in daily practice.",
@@ -5472,6 +5489,23 @@
     "abstract": "<h4>Objectives</h4>In clinical practice, many prediction models cannot be used when predictor values are missing. We, therefore, propose and evaluate methods for real-time imputation.<h4>Study design and setting</h4>We describe (i) mean imputation (where missing values are replaced by the sample mean), (ii) joint modeling imputation (JMI, where we use a multivariate normal approximation to generate patient-specific imputations), and (iii) conditional modeling imputation (CMI, where a multivariable imputation model is derived for each predictor from a population). We compared these methods in a case study evaluating the root mean squared error (RMSE) and coverage of the 95% confidence intervals (i.e., the proportion of confidence intervals that contain the true predictor value) of imputed predictor values.<h4>Results</h4>-RMSE was lowest when adopting JMI or CMI, although imputation of individual predictors did not always lead to substantial improvements as compared to mean imputation. JMI and CMI appeared particularly useful when the values of multiple predictors of the model were missing. Coverage reached the nominal level (i.e., 95%) for both CMI and JMI.<h4>Conclusion</h4>Multiple imputations using either CMI or JMI is recommended when dealing with missing predictor values in real-time settings.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jclinepi.2021.01.003"
+  },
+  {
+    "id": "33516523",
+    "doi": "https://doi.org/10.1016/j.jaci.2020.12.001",
+    "title": "Atopic eczema in adulthood and mortality: UK population-based cohort study, 1998-2016.",
+    "authorString": "Silverwood RJ, Mansfield KE, Mulick A, Wong AYS, Schmidt SAJ, Roberts A, Smeeth L, Abuabara K, Langan SM.",
+    "authorAffiliations": "",
+    "journalTitle": "The Journal of allergy and clinical immunology",
+    "pubYear": "2021",
+    "date": "2021-01-27",
+    "isOpenAccess": "Y",
+    "keywords": "Activity; Mortality; Cohort study; United Kingdom; Primary Care; Atopic Eczema; Severity; Population-based; Electronic Health Care Records",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Atopic eczema affects up to 10% of adults and is becoming more common globally. Few studies have assessed whether atopic eczema increases the risk of death.<h4>Objective</h4>We aimed to determine whether adults with atopic eczema were at increased risk of death overall and by specific causes and to assess whether the risk varied by atopic eczema severity and activity.<h4>Methods</h4>The study was a population-based matched cohort study using UK primary care electronic health care records from the Clinical Practice Research Datalink with linked hospitalization data from Hospital Episode Statistics and mortality data from the Office for National Statistics from 1998 to 2016.<h4>Results</h4>A total of 526,736 patients with atopic eczema were matched to 2,567,872 individuals without atopic eczema. The median age at entry was 41.8 years, and the median follow-up time was 4.5 years. There was limited evidence of increased hazard for all-cause mortality in those with atopic eczema (hazard ratio\u00a0= 1.04; 99% CI\u00a0= 1.03-1.06), but there were somewhat stronger associations (8%-14% increased hazard) for deaths due to infectious, digestive, and genitourinary causes. Differences on the absolute scale were modest owing to low overall mortality rates. Mortality risk increased markedly with eczema severity and activity. For example, patients with severe atopic eczema had a 62% increased hazard (hazard ratio\u00a0= 1.62; 99% CI\u00a0= 1.54-1.71) for mortality compared with those without eczema, with the strongest associations for infectious, respiratory, and genitourinary causes.<h4>Conclusion</h4>The increased hazards for all-cause and cause-specific mortality were largely restricted to those with the most severe or predominantly active atopic eczema. Understanding the reasons for these increased hazards for mortality is an urgent priority.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jaci.2020.12.001; html:https://europepmc.org/articles/PMC8098860; pdf:https://europepmc.org/articles/PMC8098860?pdf=render"
   },
   {
     "id": "33414147",
@@ -5576,23 +5610,6 @@
     "urls": "doi:https://doi.org/10.1093/burnst/tkz004; html:https://europepmc.org/articles/PMC7175773; pdf:https://europepmc.org/articles/PMC7175773?pdf=render"
   },
   {
-    "id": "33325834",
-    "doi": "https://doi.org/10.2196/23530",
-    "title": "Cystic Fibrosis Point of Personalized Detection (CFPOPD): An Interactive Web Application.",
-    "authorString": "Wolfe C, Pestian T, Gecili E, Su W, Keogh RH, Pestian JP, Seid M, Diggle PJ, Ziady A, Clancy JP, Grossoehme DH, Szczesniak RD, Brokamp C.",
-    "authorAffiliations": "",
-    "journalTitle": "JMIR medical informatics",
-    "pubYear": "2020",
-    "date": "2020-12-16",
-    "isOpenAccess": "Y",
-    "keywords": "Chronic disease; Clinical Decision Support; Medical Monitoring; Clinical Decision Rules; Application Programming Interface",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Despite steady gains in life expectancy, individuals with cystic fibrosis (CF) lung disease still experience rapid pulmonary decline throughout their clinical course, which can ultimately end in respiratory failure. Point-of-care tools for accurate and timely information regarding the risk of rapid decline is essential for clinical decision support.<h4>Objective</h4>This study aims to translate a novel algorithm for earlier, more accurate prediction of rapid lung function decline in patients with CF into an interactive web-based application that can be integrated within electronic health record systems, via collaborative development with clinicians.<h4>Methods</h4>Longitudinal clinical history, lung function measurements, and time-invariant characteristics were obtained for 30,879 patients with CF who were followed in the US Cystic Fibrosis Foundation Patient Registry (2003-2015). We iteratively developed the application using the R Shiny framework and by conducting a qualitative study with care provider focus groups (N=17).<h4>Results</h4>A clinical conceptual model and 4 themes were identified through coded feedback from application users: (1) ambiguity in rapid decline, (2) clinical utility, (3) clinical significance, and (4) specific suggested revisions. These themes were used to revise our application to the currently released version, available online for exploration. This study has advanced the application's potential prognostic utility for monitoring individuals with CF lung disease. Further application development will incorporate additional clinical characteristics requested by the users and also a more modular layout that can be useful for care provider and family interactions.<h4>Conclusions</h4>Our framework for creating an interactive and visual analytics platform enables generalized development of applications to synthesize, model, and translate electronic health data, thereby enhancing clinical decision support and improving care and health outcomes for chronic diseases and disorders. A prospective implementation study is necessary to evaluate this tool's effectiveness regarding increased communication, enhanced shared decision-making, and improved clinical outcomes for patients with CF.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/23530; html:https://europepmc.org/articles/PMC7773511"
-  },
-  {
     "id": "31702773",
     "doi": "https://doi.org/10.1093/bioinformatics/btz796",
     "title": "Model selection for metabolomics: predicting diagnosis of coronary artery disease using automated machine learning.",
@@ -5610,21 +5627,21 @@
     "urls": "doi:https://doi.org/10.1093/bioinformatics/btz796; html:https://europepmc.org/articles/PMC7703753; pdf:https://europepmc.org/articles/PMC7703753?pdf=render"
   },
   {
-    "id": "32079223",
-    "doi": "https://doi.org/10.3390/jcm9020545",
-    "title": "Quantitative Approach to Fragmented QRS in Arrhythmogenic Cardiomyopathy: From Disease towards Asymptomatic Carriers of Pathogenic Variants.",
-    "authorString": "Roudijk RW, Bosman LP, van der Heijden JF, de Bakker JMT, Hauer RNW, van Tintelen JP, Asselbergs FW, Te Riele ASJM, Loh P.",
+    "id": "33325834",
+    "doi": "https://doi.org/10.2196/23530",
+    "title": "Cystic Fibrosis Point of Personalized Detection (CFPOPD): An Interactive Web Application.",
+    "authorString": "Wolfe C, Pestian T, Gecili E, Su W, Keogh RH, Pestian JP, Seid M, Diggle PJ, Ziady A, Clancy JP, Grossoehme DH, Szczesniak RD, Brokamp C.",
     "authorAffiliations": "",
-    "journalTitle": "Journal of clinical medicine",
+    "journalTitle": "JMIR medical informatics",
     "pubYear": "2020",
-    "date": "2020-02-17",
+    "date": "2020-12-16",
     "isOpenAccess": "Y",
-    "keywords": "Genetics; Electrocardiography; ventricular arrhythmia; Sudden Cardiac Death; Fragmented Qrs; Fqrs; Arrhythmogenic Cardiomyopathy; Inherited Cardiomyopathies",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "cardiovascular",
-    "abstract": "Fragmented QRS complexes (fQRS) are common in patients with arrhythmogenic cardiomyopathy (ACM). A new method of fQRS quantification may aid early disease detection in pathogenic variant carriers and assessment of prognosis in patients with early stage ACM. Patients with definite ACM (n = 221, 66%), carriers of a pathogenic ACM-associated variant without a definite ACM diagnosis (n = 57, 17%) and control subjects (n = 58, 17%) were included. Quantitative fQRS (Q-fQRS) was defined as the total amount of deflections in the QRS complex in all 12 electrocardiography (ECG) leads. Q-fQRS was scored by a single observer and reproducibility was determined by three independent observers. Q-fQRS count was feasible with acceptable intra- and inter-observer agreement. Q-fQRS count is significantly higher in patients with definite ACM (54 \u00b1 15) and pathogenic variant carriers (55 \u00b1 10) compared to controls (35 \u00b1 5) (p < 0.001). In patients with ACM, Q-fQRS was not associated with sustained ventricular arrhythmia (p = 0.701) at baseline or during follow-up (p = 0.335). Both definite ACM patients and pathogenic variant carriers not fulfilling ACM diagnosis have a higher Q-fQRS than controls. This may indicate that increased Q-fQRS is an early sign of disease penetrance. In concealed and early stages of ACM the role of Q-fQRS for risk stratification is limited.",
+    "keywords": "Chronic disease; Clinical Decision Support; Medical Monitoring; Clinical Decision Rules; Application Programming Interface",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Despite steady gains in life expectancy, individuals with cystic fibrosis (CF) lung disease still experience rapid pulmonary decline throughout their clinical course, which can ultimately end in respiratory failure. Point-of-care tools for accurate and timely information regarding the risk of rapid decline is essential for clinical decision support.<h4>Objective</h4>This study aims to translate a novel algorithm for earlier, more accurate prediction of rapid lung function decline in patients with CF into an interactive web-based application that can be integrated within electronic health record systems, via collaborative development with clinicians.<h4>Methods</h4>Longitudinal clinical history, lung function measurements, and time-invariant characteristics were obtained for 30,879 patients with CF who were followed in the US Cystic Fibrosis Foundation Patient Registry (2003-2015). We iteratively developed the application using the R Shiny framework and by conducting a qualitative study with care provider focus groups (N=17).<h4>Results</h4>A clinical conceptual model and 4 themes were identified through coded feedback from application users: (1) ambiguity in rapid decline, (2) clinical utility, (3) clinical significance, and (4) specific suggested revisions. These themes were used to revise our application to the currently released version, available online for exploration. This study has advanced the application's potential prognostic utility for monitoring individuals with CF lung disease. Further application development will incorporate additional clinical characteristics requested by the users and also a more modular layout that can be useful for care provider and family interactions.<h4>Conclusions</h4>Our framework for creating an interactive and visual analytics platform enables generalized development of applications to synthesize, model, and translate electronic health data, thereby enhancing clinical decision support and improving care and health outcomes for chronic diseases and disorders. A prospective implementation study is necessary to evaluate this tool's effectiveness regarding increased communication, enhanced shared decision-making, and improved clinical outcomes for patients with CF.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.3390/jcm9020545; html:https://europepmc.org/articles/PMC7073517; pdf:https://europepmc.org/articles/PMC7073517?pdf=render"
+    "urls": "doi:https://doi.org/10.2196/23530; html:https://europepmc.org/articles/PMC7773511"
   },
   {
     "id": "31053412",
@@ -5642,6 +5659,23 @@
     "abstract": "<h4>Introduction</h4>Studies describing the epidemiology of severe burns (>20% total body surface area) in adults are limited despite the extensive associated morbidity and mortality. This study aimed to describe the epidemiology of severe burn injuries admitted to burn centres in Australia and New Zealand.<h4>Materials and methods</h4>Data from the Burns Registry of Australia and New Zealand (BRANZ) were used in this study. Patients were eligible for inclusion if they were admitted between August 2009 and June 2013, were adults (18-years or older), and had burns of 20% total body surface area (TBSA) or greater. Demographics, burn characteristics and in-hospital mortality risk factors were investigated using multivariable Cox proportional hazards analysis.<h4>Results</h4>There were 496 BRANZ registered patients who met the inclusion criteria. Over half of the patients were aged 18-40 years and most were male. The median (IQR) TBSA was 31 (25-47). Most (75%) patients had burns involving <50% TBSA, 58% sustained their burn injury at home, and 86% had sustained flame burns. Leisure activities, working for income and preparing food together accounted for over 48% of the activities undertaken at the time of injury. The in-hospital mortality rate was 17% and the median (IQR) length of stay was 24 (12-44) days. Seventy-two percent were admitted to an intensive care unit (ICU) and 40% of patients had an associated inhalation injury. Alcohol and/or drug involvement was suspected in 25% of cases.<h4>Conclusion</h4>This study describes the demographics, burn injury characteristics and in-hospital outcomes of severe burn injuries in adults whilst also identifying key predictors of inpatient mortality. Key findings included the over-representation of young males, intentional self-harm injuries and flame as a cause of burns and highlights high risk groups to help aid in the development of targeted prevention strategies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.burns.2019.04.006"
+  },
+  {
+    "id": "32079223",
+    "doi": "https://doi.org/10.3390/jcm9020545",
+    "title": "Quantitative Approach to Fragmented QRS in Arrhythmogenic Cardiomyopathy: From Disease towards Asymptomatic Carriers of Pathogenic Variants.",
+    "authorString": "Roudijk RW, Bosman LP, van der Heijden JF, de Bakker JMT, Hauer RNW, van Tintelen JP, Asselbergs FW, Te Riele ASJM, Loh P.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of clinical medicine",
+    "pubYear": "2020",
+    "date": "2020-02-17",
+    "isOpenAccess": "Y",
+    "keywords": "Genetics; Electrocardiography; ventricular arrhythmia; Sudden Cardiac Death; Fragmented Qrs; Fqrs; Arrhythmogenic Cardiomyopathy; Inherited Cardiomyopathies",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "cardiovascular",
+    "abstract": "Fragmented QRS complexes (fQRS) are common in patients with arrhythmogenic cardiomyopathy (ACM). A new method of fQRS quantification may aid early disease detection in pathogenic variant carriers and assessment of prognosis in patients with early stage ACM. Patients with definite ACM (n = 221, 66%), carriers of a pathogenic ACM-associated variant without a definite ACM diagnosis (n = 57, 17%) and control subjects (n = 58, 17%) were included. Quantitative fQRS (Q-fQRS) was defined as the total amount of deflections in the QRS complex in all 12 electrocardiography (ECG) leads. Q-fQRS was scored by a single observer and reproducibility was determined by three independent observers. Q-fQRS count was feasible with acceptable intra- and inter-observer agreement. Q-fQRS count is significantly higher in patients with definite ACM (54 \u00b1 15) and pathogenic variant carriers (55 \u00b1 10) compared to controls (35 \u00b1 5) (p < 0.001). In patients with ACM, Q-fQRS was not associated with sustained ventricular arrhythmia (p = 0.701) at baseline or during follow-up (p = 0.335). Both definite ACM patients and pathogenic variant carriers not fulfilling ACM diagnosis have a higher Q-fQRS than controls. This may indicate that increased Q-fQRS is an early sign of disease penetrance. In concealed and early stages of ACM the role of Q-fQRS for risk stratification is limited.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3390/jcm9020545; html:https://europepmc.org/articles/PMC7073517; pdf:https://europepmc.org/articles/PMC7073517?pdf=render"
   },
   {
     "id": "29925668",
@@ -6290,23 +6324,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0225625; html:https://europepmc.org/articles/PMC6876873; pdf:https://europepmc.org/articles/PMC6876873?pdf=render"
   },
   {
-    "id": "34321180",
-    "doi": "https://doi.org/10.1016/j.aucc.2021.05.013",
-    "title": "The impact of distance on post-ICU disability.",
-    "authorString": "D'Arcy J, Haines K, Paul E, Doherty Z, Goodwin A, Bailey M, Barrett J, Bellomo R, Bucknall T, Gabbe BJ, Higgins AM, Iwashyna TJ, Murray LJ, Myles PS, Ponsford J, Pilcher D, Udy AA, Walker C, Young M, Cooper DJJ, Hodgson CL, ICU-Recovery Investigators.",
-    "authorAffiliations": "",
-    "journalTitle": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-    "pubYear": "2021",
-    "date": "2021-07-25",
-    "isOpenAccess": "N",
-    "keywords": "Quality of life; Mechanical ventilation; Distance; Disability; Intensive Care",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Nonurban residential living is associated with adverse outcomes for a number of chronic health conditions. However, it is unclear what effect it has amongst survivors of critical illness.<h4>Objectives</h4>The purpose of this study is to determine whether patients living greater than 50 km from the treating intensive care unit (ICU) have disability outcomes at 6 months that differ from people living within 50 km.<h4>Methods</h4>This was a multicentre, prospective cohort study conducted in five metropolitan ICUs. Participants were adults admitted to the ICU, who received >24 h of mechanical ventilation and survived to hospital discharge. In a secondary analysis of these data, the cohort was dichotomised based on residential distance from the treating ICU: <50 km and \u226550 km. The primary outcome was patient-reported disability using the 12-item World Health Organization's Disability Assessment Schedule (WHODAS 2.0). This was recorded at 6 months after ICU admission by telephone interview. Secondary outcomes included health status as measured by EQ-5D-5L return to work and psychological function as measured by the Hospital Anxiety and Depression Scale (HADS). Multivariable logistic regression was used to assess the association between distance from the ICU and moderate to severe disability, adjusted for potential confounders. Variables included in the multivariable model were deemed to be clinically relevant and had baseline imbalance between groups (p < 0.10). These included marital status and hours of mechanical ventilation. Sensitivity analysis was also conducted using distance in kilometres as a continuous variable.<h4>Results</h4>A total of 262 patients were enrolled, and 169 (65%) lived within 50 km of the treating ICU and 93 (35%) lived \u226550 km from the treating ICU (interquartile range [IQR] 10-664 km). There was no difference in patient-reported disability at 6 months between patients living <50 km and those living \u226550 km (WHODAS total disability % [IQR] 10.4 [2.08-25] v 14.6 [2.08-20.8], P = 0.74). There was also no difference between groups for the six major life domains of the WHODAS. There was no difference in rates of anxiety or depression as measured by HADS score (HADS anxiety median [IQR] 4 [1-7] v 3 [1-7], P = 0.60) (HADS depression median [IQR] 3 [1-6] v 3 [1-6], P = 0.62); health status as measured by EQ-5D (mean [SD] 66.7 [20] v 69.8 [22.2], P = 0.24); or health-related unemployment (% (N) 39 [26] v 25 [29.1], P = 0.61). After adjusting for confounders, living \u226550 km from the treating ICU was not associated with increased disability (odds ratio 0.61, 95% confidence interval: 0.33-1.16; P = 0.13) CONCLUSIONS: Survivors of intensive care in Victoria, Australia, who live at least 50 km from the treating ICU did not have greater disability than people living less than 50 km at 6 months after discharge. Living 50 km or more from the treating ICU was not associated with disability, nor was it associated with anxiety or depression, health status, or unemployment due to health.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.aucc.2021.05.013"
-  },
-  {
     "id": "32811694",
     "doi": "https://doi.org/10.1016/j.burns.2020.01.005",
     "title": "Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the Burns Registry of Australia and New Zealand.",
@@ -6322,6 +6339,23 @@
     "abstract": "<h4>Background</h4>In 2009, the Burns Registry of Australia and New Zealand (BRANZ) published a set of clinical quality indicators (QIs) to monitor performance, improve quality of care, and inform and change policy. With several years of data collected since the initial development of the indicators for burns, the BRANZ QI Working Party reviewed the clinical QIs for relevance and meaning, and considered new QIs that had not been collected previously.<h4>Method</h4>Using published literature and expert opinion, the QI Working Party, consisting of multidisciplinary burn clinicians, reviewed the QIs for burn care to be included as routine data items in the BRANZ.<h4>Results</h4>In July 2016, the list of clinical QIs in the BRANZ was updated to 23 QIs/data items, covering structure, process, and outcome measures. Four QIs were removed as they were not found to be useful, nine QIs/data items were revised, and eight new QIs/data items were added as they were considered to be clinically useful.<h4>Conclusion</h4>This review outlines the changes made to the QIs collected by the BRANZ four years since their development and implementation. Ongoing refinement of the BRANZ QIs will ensure that high quality data is collected to drive improvements in clinical and patient outcomes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.burns.2020.01.005"
+  },
+  {
+    "id": "34321180",
+    "doi": "https://doi.org/10.1016/j.aucc.2021.05.013",
+    "title": "The impact of distance on post-ICU disability.",
+    "authorString": "D'Arcy J, Haines K, Paul E, Doherty Z, Goodwin A, Bailey M, Barrett J, Bellomo R, Bucknall T, Gabbe BJ, Higgins AM, Iwashyna TJ, Murray LJ, Myles PS, Ponsford J, Pilcher D, Udy AA, Walker C, Young M, Cooper DJJ, Hodgson CL, ICU-Recovery Investigators.",
+    "authorAffiliations": "",
+    "journalTitle": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
+    "pubYear": "2021",
+    "date": "2021-07-25",
+    "isOpenAccess": "N",
+    "keywords": "Quality of life; Mechanical ventilation; Distance; Disability; Intensive Care",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Nonurban residential living is associated with adverse outcomes for a number of chronic health conditions. However, it is unclear what effect it has amongst survivors of critical illness.<h4>Objectives</h4>The purpose of this study is to determine whether patients living greater than 50 km from the treating intensive care unit (ICU) have disability outcomes at 6 months that differ from people living within 50 km.<h4>Methods</h4>This was a multicentre, prospective cohort study conducted in five metropolitan ICUs. Participants were adults admitted to the ICU, who received >24 h of mechanical ventilation and survived to hospital discharge. In a secondary analysis of these data, the cohort was dichotomised based on residential distance from the treating ICU: <50 km and \u226550 km. The primary outcome was patient-reported disability using the 12-item World Health Organization's Disability Assessment Schedule (WHODAS 2.0). This was recorded at 6 months after ICU admission by telephone interview. Secondary outcomes included health status as measured by EQ-5D-5L return to work and psychological function as measured by the Hospital Anxiety and Depression Scale (HADS). Multivariable logistic regression was used to assess the association between distance from the ICU and moderate to severe disability, adjusted for potential confounders. Variables included in the multivariable model were deemed to be clinically relevant and had baseline imbalance between groups (p < 0.10). These included marital status and hours of mechanical ventilation. Sensitivity analysis was also conducted using distance in kilometres as a continuous variable.<h4>Results</h4>A total of 262 patients were enrolled, and 169 (65%) lived within 50 km of the treating ICU and 93 (35%) lived \u226550 km from the treating ICU (interquartile range [IQR] 10-664 km). There was no difference in patient-reported disability at 6 months between patients living <50 km and those living \u226550 km (WHODAS total disability % [IQR] 10.4 [2.08-25] v 14.6 [2.08-20.8], P = 0.74). There was also no difference between groups for the six major life domains of the WHODAS. There was no difference in rates of anxiety or depression as measured by HADS score (HADS anxiety median [IQR] 4 [1-7] v 3 [1-7], P = 0.60) (HADS depression median [IQR] 3 [1-6] v 3 [1-6], P = 0.62); health status as measured by EQ-5D (mean [SD] 66.7 [20] v 69.8 [22.2], P = 0.24); or health-related unemployment (% (N) 39 [26] v 25 [29.1], P = 0.61). After adjusting for confounders, living \u226550 km from the treating ICU was not associated with increased disability (odds ratio 0.61, 95% confidence interval: 0.33-1.16; P = 0.13) CONCLUSIONS: Survivors of intensive care in Victoria, Australia, who live at least 50 km from the treating ICU did not have greater disability than people living less than 50 km at 6 months after discharge. Living 50 km or more from the treating ICU was not associated with disability, nor was it associated with anxiety or depression, health status, or unemployment due to health.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.aucc.2021.05.013"
   },
   {
     "id": "31711543",
@@ -6800,23 +6834,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ophtha.2020.03.029"
   },
   {
-    "id": "33933530",
-    "doi": "https://doi.org/10.1016/j.jinf.2021.04.027",
-    "title": "Early observations on the impact of a healthcare worker COVID-19 vaccination programme at a major UK tertiary centre.",
-    "authorString": "Garvey MI, Wilkinson MAC, Holden E, Shields A, Robertson A, Richter A, Ball S.",
-    "authorAffiliations": "",
-    "journalTitle": "The Journal of infection",
-    "pubYear": "2021",
-    "date": "2021-04-29",
-    "isOpenAccess": "Y",
-    "keywords": "Vaccination; Healthcare Workers; Lateral Flow; Covid-19",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jinf.2021.04.027; html:https://europepmc.org/articles/PMC8081749; pdf:https://europepmc.org/articles/PMC8081749?pdf=render"
-  },
-  {
     "id": "32247823",
     "doi": "https://doi.org/10.1016/j.jhep.2020.03.032",
     "title": "Genome-wide and Mendelian randomisation studies of liver MRI yield insights into the pathogenesis of steatohepatitis.",
@@ -6832,6 +6849,23 @@
     "abstract": "<h4>Background & aims</h4>MRI-based corrected T1 (cT1) is a non-invasive method to grade the severity of steatohepatitis and liver fibrosis. We aimed to identify genetic variants influencing liver cT1 and use genetics to understand mechanisms underlying liver fibroinflammatory disease and its link with other metabolic traits and diseases.<h4>Methods</h4>First, we performed a genome-wide association study (GWAS) in 14,440 Europeans, with liver cT1 measures, from the UK Biobank. Second, we explored the effects of the cT1 variants on liver blood tests, and a range of metabolic traits and diseases. Third, we used Mendelian randomisation to test the causal effects of 24 predominantly metabolic traits on liver cT1 measures.<h4>Results</h4>We identified 6 independent genetic variants associated with liver cT1 that reached the GWAS significance threshold (p\u00a0<5\u00d710<sup>-8</sup>). Four of the variants (rs759359281 in SLC30A10, rs13107325 in SLC39A8, rs58542926 in TM6SF2, rs738409 in PNPLA3) were also associated with elevated aminotransferases and had variable effects on liver fat and other metabolic traits. Insulin resistance, type 2 diabetes, non-alcoholic fatty liver and body mass index were causally associated with elevated cT1, whilst favourable adiposity (instrumented by variants associated with higher adiposity but lower risk of cardiometabolic disease and lower liver fat) was found to be protective.<h4>Conclusion</h4>The association between 2 metal ion transporters and cT1 indicates an important new mechanism in steatohepatitis. Future studies are needed to determine whether interventions targeting the identified transporters might prevent liver disease in at-risk individuals.<h4>Lay summary</h4>We estimated levels of liver inflammation and scarring based on magnetic resonance imaging of 14,440 UK Biobank participants. We performed a genetic study and identified variations in 6 genes associated with levels of liver inflammation and scarring. Participants with variations in 4 of these genes also had higher levels of markers of liver cell injury in blood samples, further validating their role in liver health. Two identified genes are involved in the transport of metal ions in our body. Further investigation of these variations may lead to better detection, assessment, and/or treatment of liver inflammation and scarring.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jhep.2020.03.032; html:https://europepmc.org/articles/PMC7372222; pdf:https://europepmc.org/articles/PMC7372222?pdf=render"
+  },
+  {
+    "id": "33933530",
+    "doi": "https://doi.org/10.1016/j.jinf.2021.04.027",
+    "title": "Early observations on the impact of a healthcare worker COVID-19 vaccination programme at a major UK tertiary centre.",
+    "authorString": "Garvey MI, Wilkinson MAC, Holden E, Shields A, Robertson A, Richter A, Ball S.",
+    "authorAffiliations": "",
+    "journalTitle": "The Journal of infection",
+    "pubYear": "2021",
+    "date": "2021-04-29",
+    "isOpenAccess": "Y",
+    "keywords": "Vaccination; Healthcare Workers; Lateral Flow; Covid-19",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jinf.2021.04.027; html:https://europepmc.org/articles/PMC8081749; pdf:https://europepmc.org/articles/PMC8081749?pdf=render"
   },
   {
     "id": "33910683",
@@ -7531,23 +7565,6 @@
     "urls": "doi:https://doi.org/10.1007/s12471-019-01308-w; html:https://europepmc.org/articles/PMC6712110; pdf:https://europepmc.org/articles/PMC6712110?pdf=render"
   },
   {
-    "id": "33185739",
-    "doi": "https://doi.org/10.1007/s00395-020-00828-6",
-    "title": "Functional investigation of the coronary artery disease gene SVEP1.",
-    "authorString": "Winkler MJ, M\u00fcller P, Sharifi AM, Wobst J, Winter H, Mokry M, Ma L, van der Laan SW, Pang S, Miritsch B, Hinterdobler J, Werner J, Stiller B, G\u00fcldener U, Webb TR, Asselbergs FW, Bj\u00f6rkegren JLM, Maegdefessel L, Schunkert H, Sager HB, Kessler T.",
-    "authorAffiliations": "",
-    "journalTitle": "Basic research in cardiology",
-    "pubYear": "2020",
-    "date": "2020-11-13",
-    "isOpenAccess": "Y",
-    "keywords": "Genetics; Atherosclerosis; coronary artery disease; Svep1",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "A missense variant of the sushi, von Willebrand factor type A, EGF and pentraxin domain containing protein 1 (SVEP1) is genome-wide significantly associated with coronary artery disease. The mechanisms how SVEP1 impacts atherosclerosis are not known. We found endothelial cells (EC) and vascular smooth muscle cells to represent the major cellular source of SVEP1 in plaques. Plaques were larger in atherosclerosis-prone Svep1 haploinsufficient (ApoE<sup>-/-</sup>Svep1<sup>+/-</sup>) compared to Svep1 wild-type mice (ApoE<sup>-/-</sup>Svep1<sup>+/+</sup>) and ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice displayed elevated plaque neutrophil, Ly6C<sup>high</sup> monocyte, and macrophage numbers. We assessed how leukocytes accumulated more inside plaques in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice and found enhanced leukocyte recruitment from blood into plaques. In vitro, we examined how SVEP1 deficiency promotes leukocyte recruitment and found elevated expression of the leukocyte attractant chemokine (C-X-C motif) ligand 1 (CXCL1) in EC after incubation with missense compared to wild-type SVEP1. Increasing wild-type SVEP1 levels silenced endothelial CXCL1 release. In line, plasma Cxcl1 levels were elevated in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice. Our studies reveal an atheroprotective role of SVEP1. Deficiency of wild-type Svep1 increased endothelial CXCL1 expression leading to enhanced recruitment of proinflammatory leukocytes from blood to plaque. Consequently, elevated vascular inflammation resulted in enhanced plaque progression in Svep1 deficiency.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1007/s00395-020-00828-6; html:https://europepmc.org/articles/PMC7666586; pdf:https://europepmc.org/articles/PMC7666586?pdf=render"
-  },
-  {
     "id": "31443926",
     "doi": "https://doi.org/10.1016/s0140-6736(19)31674-5",
     "title": "Medium and long-term risks of specific cardiovascular diseases in survivors of 20 adult cancers: a population-based cohort study using multiple linked UK electronic health records databases.",
@@ -7563,6 +7580,23 @@
     "abstract": "<h4>Background</h4>The past few decades have seen substantial improvements in cancer survival, but concerns exist about long-term cardiovascular disease risk in survivors. Evidence is scarce on the risks of specific cardiovascular diseases in survivors of a wide range of cancers to inform prevention and management. In this study, we used large-scale electronic health records data from multiple linked UK databases to address these evidence gaps.<h4>Methods</h4>For this population-based cohort study, we used linked primary care, hospital, and cancer registry data from the UK Clinical Practice Research Datalink to identify cohorts of survivors of the 20 most common cancers who were 18 years or older and alive 12 months after diagnosis and controls without history of cancer, matched for age, sex, and general practice. We compared risks for a range of cardiovascular disease outcomes using crude and adjusted Cox models. We fitted interactions to investigate effect modification, and flexible parametric survival models to estimate absolute excess risks over time.<h4>Findings</h4>Between Jan 1, 1990, and Dec 31, 2015, 126\u2008120 individuals with a diagnosis of a cancer of interest still being followed up at least 1 year later were identified and matched to 630\u2008144 controls. After exclusions, 108\u2008215 cancer survivors and 523\u2008541 controls were included in the main analyses. Venous thromboembolism risk was elevated in survivors of 18 of 20 site-specific cancers compared with that of controls; adjusted hazard ratios (HRs) ranged from 1\u00b772 (95% CI 1\u00b757-1\u00b789) in patients after prostate cancer to 9\u00b772 (5\u00b750-17\u00b718) after pancreatic cancer. HRs decreased over time, but remained elevated more than 5 years after diagnosis. We observed increased risks of heart failure or cardiomyopathy in patients after ten of 20 cancers, including haematological (adjusted HR 1\u00b794, 1\u00b766-2\u00b725, with non-Hodgkin lymphoma; 1\u00b777, 1\u00b750-2\u00b709, with leukaemia; and 3\u00b729, 2\u00b759-4\u00b718, with multiple myeloma), oesophageal (1\u00b796, 1\u00b746-2\u00b764), lung (1\u00b782, 1\u00b752-2\u00b717) kidney (1\u00b773, 1\u00b738-2\u00b717) and ovarian (1\u00b759, 1\u00b719-2\u00b712). Elevated risks of arrhythmia, pericarditis, coronary artery disease, stroke, and valvular heart disease were also observed for multiple cancers, including haematological malignancies. HRs for heart failure or cardiomyopathy and venous thromboembolism were greater in patients without previous cardiovascular disease and in younger patients. However, absolute excess risks were generally greater with increasing age. Increased risks of these outcomes seemed most pronounced in patients who had received chemotherapy.<h4>Interpretation</h4>Survivors of most site-specific cancers had increased medium-term to long-term risk for one or more cardiovascular diseases compared with that for the general population, with substantial variations between cancer sites.<h4>Funding</h4>Wellcome Trust and Royal Society.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31674-5; html:https://europepmc.org/articles/PMC6857444; pdf:https://europepmc.org/articles/PMC6857444?pdf=render"
+  },
+  {
+    "id": "33185739",
+    "doi": "https://doi.org/10.1007/s00395-020-00828-6",
+    "title": "Functional investigation of the coronary artery disease gene SVEP1.",
+    "authorString": "Winkler MJ, M\u00fcller P, Sharifi AM, Wobst J, Winter H, Mokry M, Ma L, van der Laan SW, Pang S, Miritsch B, Hinterdobler J, Werner J, Stiller B, G\u00fcldener U, Webb TR, Asselbergs FW, Bj\u00f6rkegren JLM, Maegdefessel L, Schunkert H, Sager HB, Kessler T.",
+    "authorAffiliations": "",
+    "journalTitle": "Basic research in cardiology",
+    "pubYear": "2020",
+    "date": "2020-11-13",
+    "isOpenAccess": "Y",
+    "keywords": "Genetics; Atherosclerosis; coronary artery disease; Svep1",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "A missense variant of the sushi, von Willebrand factor type A, EGF and pentraxin domain containing protein 1 (SVEP1) is genome-wide significantly associated with coronary artery disease. The mechanisms how SVEP1 impacts atherosclerosis are not known. We found endothelial cells (EC) and vascular smooth muscle cells to represent the major cellular source of SVEP1 in plaques. Plaques were larger in atherosclerosis-prone Svep1 haploinsufficient (ApoE<sup>-/-</sup>Svep1<sup>+/-</sup>) compared to Svep1 wild-type mice (ApoE<sup>-/-</sup>Svep1<sup>+/+</sup>) and ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice displayed elevated plaque neutrophil, Ly6C<sup>high</sup> monocyte, and macrophage numbers. We assessed how leukocytes accumulated more inside plaques in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice and found enhanced leukocyte recruitment from blood into plaques. In vitro, we examined how SVEP1 deficiency promotes leukocyte recruitment and found elevated expression of the leukocyte attractant chemokine (C-X-C motif) ligand 1 (CXCL1) in EC after incubation with missense compared to wild-type SVEP1. Increasing wild-type SVEP1 levels silenced endothelial CXCL1 release. In line, plasma Cxcl1 levels were elevated in ApoE<sup>-/-</sup>Svep1<sup>+/-</sup> mice. Our studies reveal an atheroprotective role of SVEP1. Deficiency of wild-type Svep1 increased endothelial CXCL1 expression leading to enhanced recruitment of proinflammatory leukocytes from blood to plaque. Consequently, elevated vascular inflammation resulted in enhanced plaque progression in Svep1 deficiency.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1007/s00395-020-00828-6; html:https://europepmc.org/articles/PMC7666586; pdf:https://europepmc.org/articles/PMC7666586?pdf=render"
   },
   {
     "id": "31134468",
@@ -7667,23 +7701,6 @@
     "urls": "doi:https://doi.org/10.1136/bmj.m3164; html:https://europepmc.org/articles/PMC7490784"
   },
   {
-    "id": "33887342",
-    "doi": "https://doi.org/10.1016/j.ijcard.2021.04.029",
-    "title": "Clopidogrel in noncarriers of CYP2C19 loss-of-function alleles versus ticagrelor in elderly patients with acute coronary syndrome: A pre-specified sub analysis from the POPular Genetics and POPular Age trials CYP2C19 alleles in elderly patients.",
-    "authorString": "Claassens DMF, Gimbel ME, Bergmeijer TO, Vos GJA, Hermanides RS, van der Harst P, Barbato E, Morisco C, Tjon Joe Gin RM, de Vrey EA, Heestermans TACM, Jukema JW, von Birgelen C, Waalewijn RA, Hofma SH, den Hartog FR, Voskuil M, Van't Hof AWJ, Asselbergs FW, Mosterd A, Herrman JR, Dewilde W, Mahmoodi BK, Deneer VHM, Ten Berg JM.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of cardiology",
-    "pubYear": "2021",
-    "date": "2021-04-20",
-    "isOpenAccess": "N",
-    "keywords": "Genotyping; Myocardial infarction; CYP2C19; Pharmacogenetics; Older; P2y12",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Patients with acute coronary syndrome (ACS) who are carrying CYP2C19 loss-of-function alleles derive less benefit from clopidogrel treatment. Despite this, in elderly patients, clopidogrel might be preferred over more potent P2Y<sub>12</sub> inhibitors due to a lower bleeding risk. Whether CYP2C19 genotype-guided antiplatelet treatment in the elderly could be of benefit has not been studied specifically.<h4>Methods</h4>Patients aged 70 years and older with known CYP2C19*2 and *3 genotype were identified from the POPular Genetics and POPular Age trials. Noncarriers of loss-of-function alleles treated with clopidogrel were compared to patients, irrespective of CYP2C19 genotype, treated with ticagrelor and to clopidogrel treated carriers of loss-of-function alleles. We assessed net clinical benefit (all-cause death, myocardial infarction, stroke and Platelet Inhibition and Patient Outcomes (PLATO) major bleeding), atherothrombotic outcomes (cardiovascular death, myocardial infarction, stroke) and bleeding outcomes (PLATO major and minor bleeding).<h4>Results</h4>A total of 991 patients were assessed. There was no significant difference in net clinical benefit (17.2% vs. 15.1%, adjusted hazard ratio (adjHR) 1.05, 95% confidence interval (CI) 0.77-1.44), atherothrombotic outcomes (9.7% vs. 9.2%, adjHR 1.00, 95%CI 0.66-1.50), and bleeding outcomes (17.7% vs. 19.8%, adjHR 0.80, 95%CI 0.62-1.12) between clopidogrel in noncarriers of loss-of-function alleles and ticagrelor respectively.<h4>Conclusion</h4>In ACS patients aged 70 years and older, there was no significant difference in net clinical benefit and atherothrombotic outcomes between noncarriers of a loss-of-function allele treated with clopidogrel and patients treated with ticagrelor. The bleeding rate was numerically; though not statistically significant, lower in patients using clopidogrel.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.ijcard.2021.04.029"
-  },
-  {
     "id": "31113941",
     "doi": "https://doi.org/10.1038/s41467-019-10417-4",
     "title": "Author Correction: Towards a data-integrated cell.",
@@ -7699,6 +7716,23 @@
     "abstract": "The original version of this Article contained an error in the spelling of the author Harry Hemingway, which was incorrectly given as Harry Hemmingway. This has been corrected in both the PDF and HTML versions of the Article.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41467-019-10417-4; html:https://europepmc.org/articles/PMC6529418; pdf:https://europepmc.org/articles/PMC6529418?pdf=render"
+  },
+  {
+    "id": "33887342",
+    "doi": "https://doi.org/10.1016/j.ijcard.2021.04.029",
+    "title": "Clopidogrel in noncarriers of CYP2C19 loss-of-function alleles versus ticagrelor in elderly patients with acute coronary syndrome: A pre-specified sub analysis from the POPular Genetics and POPular Age trials CYP2C19 alleles in elderly patients.",
+    "authorString": "Claassens DMF, Gimbel ME, Bergmeijer TO, Vos GJA, Hermanides RS, van der Harst P, Barbato E, Morisco C, Tjon Joe Gin RM, de Vrey EA, Heestermans TACM, Jukema JW, von Birgelen C, Waalewijn RA, Hofma SH, den Hartog FR, Voskuil M, Van't Hof AWJ, Asselbergs FW, Mosterd A, Herrman JR, Dewilde W, Mahmoodi BK, Deneer VHM, Ten Berg JM.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of cardiology",
+    "pubYear": "2021",
+    "date": "2021-04-20",
+    "isOpenAccess": "N",
+    "keywords": "Genotyping; Myocardial infarction; CYP2C19; Pharmacogenetics; Older; P2y12",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Patients with acute coronary syndrome (ACS) who are carrying CYP2C19 loss-of-function alleles derive less benefit from clopidogrel treatment. Despite this, in elderly patients, clopidogrel might be preferred over more potent P2Y<sub>12</sub> inhibitors due to a lower bleeding risk. Whether CYP2C19 genotype-guided antiplatelet treatment in the elderly could be of benefit has not been studied specifically.<h4>Methods</h4>Patients aged 70 years and older with known CYP2C19*2 and *3 genotype were identified from the POPular Genetics and POPular Age trials. Noncarriers of loss-of-function alleles treated with clopidogrel were compared to patients, irrespective of CYP2C19 genotype, treated with ticagrelor and to clopidogrel treated carriers of loss-of-function alleles. We assessed net clinical benefit (all-cause death, myocardial infarction, stroke and Platelet Inhibition and Patient Outcomes (PLATO) major bleeding), atherothrombotic outcomes (cardiovascular death, myocardial infarction, stroke) and bleeding outcomes (PLATO major and minor bleeding).<h4>Results</h4>A total of 991 patients were assessed. There was no significant difference in net clinical benefit (17.2% vs. 15.1%, adjusted hazard ratio (adjHR) 1.05, 95% confidence interval (CI) 0.77-1.44), atherothrombotic outcomes (9.7% vs. 9.2%, adjHR 1.00, 95%CI 0.66-1.50), and bleeding outcomes (17.7% vs. 19.8%, adjHR 0.80, 95%CI 0.62-1.12) between clopidogrel in noncarriers of loss-of-function alleles and ticagrelor respectively.<h4>Conclusion</h4>In ACS patients aged 70 years and older, there was no significant difference in net clinical benefit and atherothrombotic outcomes between noncarriers of a loss-of-function allele treated with clopidogrel and patients treated with ticagrelor. The bleeding rate was numerically; though not statistically significant, lower in patients using clopidogrel.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.ijcard.2021.04.029"
   },
   {
     "id": "33415961",
@@ -8058,23 +8092,6 @@
     "urls": "doi:https://doi.org/10.1038/s41416-018-0365-6; html:https://europepmc.org/articles/PMC6354010; pdf:https://europepmc.org/articles/PMC6354010?pdf=render"
   },
   {
-    "id": "32478737",
-    "doi": "https://doi.org/10.3791/60794",
-    "title": "Implementation of a Real-Time Psychosis Risk Detection and Alerting System Based on Electronic Health Records using CogStack.",
-    "authorString": "Wang T, Oliver D, Msosa Y, Colling C, Spada G, Roguski \u0141, Folarin A, Stewart R, Roberts A, Dobson RJB, Fusar-Poli P.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of visualized experiments : JoVE",
-    "pubYear": "2020",
-    "date": "2020-05-15",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Recent studies have shown that an automated, lifespan-inclusive, transdiagnostic, and clinically based, individualized risk calculator provides a powerful system for supporting the early detection of individuals at-risk of psychosis at a large scale, by leveraging electronic health records (EHRs). This risk calculator has been externally validated twice and is undergoing feasibility testing for clinical implementation. Integration of this risk calculator in clinical routine should be facilitated by prospective feasibility studies, which are required to address pragmatic challenges, such as missing data, and the usability of this risk calculator in a real-world and routine clinical setting. Here, we present an approach for a prospective implementation of a real-time psychosis risk detection and alerting service in a real-world EHR system. This method leverages the CogStack platform, which is an open-source, lightweight, and distributed information retrieval and text extraction system. The CogStack platform incorporates a set of services that allow for full-text search of clinical data, lifespan-inclusive, real-time calculation of psychosis risk, early risk-alerting to clinicians, and the visual monitoring of patients over time. Our method includes: 1) ingestion and synchronization of data from multiple sources into the CogStack platform, 2) implementation of a risk calculator, whose algorithm was previously developed and validated, for timely computation of a patient's risk of psychosis, 3) creation of interactive visualizations and dashboards to monitor patients' health status over time, and 4) building automated alerting systems to ensure that clinicians are notified of patients at-risk, so that appropriate actions can be pursued. This is the first ever study that has developed and implemented a similar detection and alerting system in clinical routine for early detection of psychosis.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3791/60794; html:https://europepmc.org/articles/PMC7272223; pdf:https://europepmc.org/articles/PMC7272223?pdf=render; doi:https://doi.org/10.3791/60794"
-  },
-  {
     "id": "29780001",
     "doi": "https://doi.org/10.1016/s2352-3026(18)30053-x",
     "title": "Automated typing of red blood cell and platelet antigens: a whole-genome sequencing study.",
@@ -8090,6 +8107,23 @@
     "abstract": "<h4>Background</h4>There are more than 300 known red blood cell (RBC) antigens and 33 platelet antigens that differ between individuals. Sensitisation to antigens is a serious complication that can occur in prenatal medicine and after blood transfusion, particularly for patients who require multiple transfusions. Although pre-transfusion compatibility testing largely relies on serological methods, reagents are not available for many antigens. Methods based on single-nucleotide polymorphism (SNP) arrays have been used, but typing for ABO and Rh-the most important blood groups-cannot be done with SNP typing alone. We aimed to develop a novel method based on whole-genome sequencing to identify RBC and platelet antigens.<h4>Methods</h4>This whole-genome sequencing study is a subanalysis of data from patients in the whole-genome sequencing arm of the MedSeq Project randomised controlled trial (NCT01736566) with no measured patient outcomes. We created a database of molecular changes in RBC and platelet antigens and developed an automated antigen-typing algorithm based on whole-genome sequencing (bloodTyper). This algorithm was iteratively improved to address cis-trans haplotype ambiguities and homologous gene alignments. Whole-genome sequencing data from 110 MedSeq participants (30\u2008\u00d7\u2008depth) were used to initially validate bloodTyper through comparison with conventional serology and SNP methods for typing of 38 RBC antigens in 12 blood-group systems and 22 human platelet antigens. bloodTyper was further validated with whole-genome sequencing data from 200 INTERVAL trial participants (15\u2008\u00d7\u2008depth) with serological comparisons.<h4>Findings</h4>We iteratively improved bloodTyper by comparing its typing results with conventional serological and SNP typing in three rounds of testing. The initial whole-genome sequencing typing algorithm was 99\u00b75% concordant across the first 20 MedSeq genomes. Addressing discordances led to development of an improved algorithm that was 99\u00b78% concordant for the remaining 90 MedSeq genomes. Additional modifications led to the final algorithm, which was 99\u00b72% concordant across 200 INTERVAL genomes (or 99\u00b79% after adjustment for the lower depth of coverage).<h4>Interpretation</h4>By enabling more precise antigen-matching of patients with blood donors, antigen typing based on whole-genome sequencing provides a novel approach to improve transfusion outcomes with the potential to transform the practice of transfusion medicine.<h4>Funding</h4>National Human Genome Research Institute, Doris Duke Charitable Foundation, National Health Service Blood and Transplant, National Institute for Health Research, and Wellcome Trust.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S2352-3026(18)30053-X; html:https://europepmc.org/articles/PMC6438177; pdf:https://europepmc.org/articles/PMC6438177?pdf=render; doi:https://doi.org/10.1016/s2352-3026(18)30053-x"
+  },
+  {
+    "id": "32478737",
+    "doi": "https://doi.org/10.3791/60794",
+    "title": "Implementation of a Real-Time Psychosis Risk Detection and Alerting System Based on Electronic Health Records using CogStack.",
+    "authorString": "Wang T, Oliver D, Msosa Y, Colling C, Spada G, Roguski \u0141, Folarin A, Stewart R, Roberts A, Dobson RJB, Fusar-Poli P.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of visualized experiments : JoVE",
+    "pubYear": "2020",
+    "date": "2020-05-15",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Recent studies have shown that an automated, lifespan-inclusive, transdiagnostic, and clinically based, individualized risk calculator provides a powerful system for supporting the early detection of individuals at-risk of psychosis at a large scale, by leveraging electronic health records (EHRs). This risk calculator has been externally validated twice and is undergoing feasibility testing for clinical implementation. Integration of this risk calculator in clinical routine should be facilitated by prospective feasibility studies, which are required to address pragmatic challenges, such as missing data, and the usability of this risk calculator in a real-world and routine clinical setting. Here, we present an approach for a prospective implementation of a real-time psychosis risk detection and alerting service in a real-world EHR system. This method leverages the CogStack platform, which is an open-source, lightweight, and distributed information retrieval and text extraction system. The CogStack platform incorporates a set of services that allow for full-text search of clinical data, lifespan-inclusive, real-time calculation of psychosis risk, early risk-alerting to clinicians, and the visual monitoring of patients over time. Our method includes: 1) ingestion and synchronization of data from multiple sources into the CogStack platform, 2) implementation of a risk calculator, whose algorithm was previously developed and validated, for timely computation of a patient's risk of psychosis, 3) creation of interactive visualizations and dashboards to monitor patients' health status over time, and 4) building automated alerting systems to ensure that clinicians are notified of patients at-risk, so that appropriate actions can be pursued. This is the first ever study that has developed and implemented a similar detection and alerting system in clinical routine for early detection of psychosis.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3791/60794; html:https://europepmc.org/articles/PMC7272223; pdf:https://europepmc.org/articles/PMC7272223?pdf=render; doi:https://doi.org/10.3791/60794"
   },
   {
     "id": "32423943",
@@ -9172,7 +9206,7 @@
     "pubYear": "2020",
     "date": "2020-09-01",
     "isOpenAccess": "Y",
-    "keywords": "Blood; Genetics; Splicing; Hematopoiesis; Uk Biobank; Omnigenic; chromatin; Rare Disease; Polygenic Risk; Fine-mapping",
+    "keywords": "Blood; Genetics; Splicing; Hematopoiesis; chromatin; Rare Disease; Polygenic Risk; Fine-mapping; Uk Biobank; Omnigenic",
     "nationalPriorities": "",
     "healthCategories": "",
     "abstract": "Blood cells play essential roles in human health, underpinning physiological processes such as immunity, oxygen transport, and clotting, which when perturbed cause a significant global health burden. Here we integrate data from UK Biobank and a large-scale international collaborative effort, including data for 563,085 European ancestry participants, and discover 5,106 new genetic variants independently associated with 29 blood cell phenotypes covering a range of variation impacting hematopoiesis. We holistically characterize the genetic architecture of hematopoiesis, assess the relevance of the omnigenic model to blood cell phenotypes, delineate relevant hematopoietic cell states influenced by regulatory genetic variants and gene networks, identify novel splice-altering variants mediating the associations, and assess the polygenic prediction potential for blood traits and clinical disorders at the interface of complex and Mendelian genetics. These results show the power of large-scale blood cell trait GWAS to interrogate clinically meaningful variants across a wide allelic spectrum of human variation.",
@@ -9673,23 +9707,6 @@
     "urls": "doi:https://doi.org/10.1038/s41588-018-0297-3"
   },
   {
-    "id": "30224653",
-    "doi": "https://doi.org/10.1038/s41588-018-0205-x",
-    "title": "Genetic analysis of over 1 million people identifies 535 new loci associated with blood pressure traits.",
-    "authorString": "Evangelou E, Warren HR, Mosen-Ansorena D, Mifsud B, Pazoki R, Gao H, Ntritsos G, Dimou N, Cabrera CP, Karaman I, Ng FL, Evangelou M, Witkowska K, Tzanis E, Hellwege JN, Giri A, Velez Edwards DR, Sun YV, Cho K, Gaziano JM, Wilson PWF, Tsao PS, Kovesdy CP, Esko T, M\u00e4gi R, Milani L, Almgren P, Boutin T, Debette S, Ding J, Giulianini F, Holliday EG, Jackson AU, Li-Gao R, Lin WY, Luan J, Mangino M, Oldmeadow C, Prins BP, Qian Y, Sargurupremraj M, Shah N, Surendran P, Th\u00e9riault S, Verweij N, Willems SM, Zhao JH, Amouyel P, Connell J, de Mutsert R, Doney ASF, Farrall M, Menni C, Morris AD, Noordam R, Par\u00e9 G, Poulter NR, Shields DC, Stanton A, Thom S, Abecasis G, Amin N, Arking DE, Ayers KL, Barbieri CM, Batini C, Bis JC, Blake T, Bochud M, Boehnke M, Boerwinkle E, Boomsma DI, Bottinger EP, Braund PS, Brumat M, Campbell A, Campbell H, Chakravarti A, Chambers JC, Chauhan G, Ciullo M, Cocca M, Collins F, Cordell HJ, Davies G, de Borst MH, de Geus EJ, Deary IJ, Deelen J, Del Greco M F, Demirkale CY, D\u00f6rr M, Ehret GB, Elosua R, Enroth S, Erzurumluoglu AM, Ferreira T, Fr\u00e5nberg M, Franco OH, Gandin I, Gasparini P, Giedraitis V, Gieger C, Girotto G, Goel A, Gow AJ, Gudnason V, Guo X, Gyllensten U, Hamsten A, Harris TB, Harris SE, Hartman CA, Havulinna AS, Hicks AA, Hofer E, Hofman A, Hottenga JJ, Huffman JE, Hwang SJ, Ingelsson E, James A, Jansen R, Jarvelin MR, Joehanes R, Johansson \u00c5, Johnson AD, Joshi PK, Jousilahti P, Jukema JW, Jula A, K\u00e4h\u00f6nen M, Kathiresan S, Keavney BD, Khaw KT, Knekt P, Knight J, Kolcic I, Kooner JS, Koskinen S, Kristiansson K, Kutalik Z, Laan M, Larson M, Launer LJ, Lehne B, Lehtim\u00e4ki T, Liewald DCM, Lin L, Lind L, Lindgren CM, Liu Y, Loos RJF, Lopez LM, Lu Y, Lyytik\u00e4inen LP, Mahajan A, Mamasoula C, Marrugat J, Marten J, Milaneschi Y, Morgan A, Morris AP, Morrison AC, Munson PJ, Nalls MA, Nandakumar P, Nelson CP, Niiranen T, Nolte IM, Nutile T, Oldehinkel AJ, Oostra BA, O'Reilly PF, Org E, Padmanabhan S, Palmas W, Palotie A, Pattie A, Penninx BWJH, Perola M, Peters A, Polasek O, Pramstaller PP, Nguyen QT, Raitakari OT, Ren M, Rettig R, Rice K, Ridker PM, Ried JS, Riese H, Ripatti S, Robino A, Rose LM, Rotter JI, Rudan I, Ruggiero D, Saba Y, Sala CF, Salomaa V, Samani NJ, Sarin AP, Schmidt R, Schmidt H, Shrine N, Siscovick D, Smith AV, Snieder H, S\u00f5ber S, Sorice R, Starr JM, Stott DJ, Strachan DP, Strawbridge RJ, Sundstr\u00f6m J, Swertz MA, Taylor KD, Teumer A, Tobin MD, Tomaszewski M, Toniolo D, Traglia M, Trompet S, Tuomilehto J, Tzourio C, Uitterlinden AG, Vaez A, van der Most PJ, van Duijn CM, Vergnaud AC, Verwoert GC, Vitart V, V\u00f6lker U, Vollenweider P, Vuckovic D, Watkins H, Wild SH, Willemsen G, Wilson JF, Wright AF, Yao J, Zemunik T, Zhang W, Attia JR, Butterworth AS, Chasman DI, Conen D, Cucca F, Danesh J, Hayward C, Howson JMM, Laakso M, Lakatta EG, Langenberg C, Melander O, Mook-Kanamori DO, Palmer CNA, Risch L, Scott RA, Scott RJ, Sever P, Spector TD, van der Harst P, Wareham NJ, Zeggini E, Levy D, Munroe PB, Newton-Cheh C, Brown MJ, Metspalu A, Hung AM, O'Donnell CJ, Edwards TL, Psaty BM, Tzoulaki I, Barnes MR, Wain LV, Elliott P, Caulfield MJ, Million Veteran Program.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature genetics",
-    "pubYear": "2018",
-    "date": "2018-09-17",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "High blood pressure is a highly heritable and modifiable risk factor for cardiovascular disease. We report the largest genetic association study of blood pressure traits (systolic, diastolic and pulse pressure) to date in over 1 million people of European ancestry. We identify 535 novel blood pressure loci that not only offer new biological insights into blood pressure regulation but also highlight shared genetic architecture between blood pressure and lifestyle exposures. Our findings identify new biological pathways for blood pressure regulation with potential for improved cardiovascular disease prevention in the future.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41588-018-0205-x; html:https://europepmc.org/articles/PMC6284793; pdf:https://europepmc.org/articles/PMC6284793?pdf=render; doi:https://doi.org/10.1038/s41588-018-0205-x"
-  },
-  {
     "id": "31673082",
     "doi": "https://doi.org/10.1038/s41467-019-12283-6",
     "title": "Associations of autozygosity with a broad range of human phenotypes.",
@@ -9705,6 +9722,23 @@
     "abstract": "In many species, the offspring of related parents suffer reduced reproductive success, a phenomenon known as inbreeding depression. In humans, the importance of this effect has remained unclear, partly because reproduction between close relatives is both rare and frequently associated with confounding social factors. Here, using genomic inbreeding coefficients (F<sub>ROH</sub>) for >1.4 million individuals, we show that F<sub>ROH</sub> is significantly associated (p\u2009<\u20090.0005) with apparently deleterious changes in 32 out of 100 traits analysed. These changes are associated with runs of homozygosity (ROH), but not with common variant homozygosity, suggesting that genetic variants associated with inbreeding depression are predominantly rare. The effect on fertility is striking: F<sub>ROH</sub> equivalent to the offspring of first cousins is associated with a 55% decrease [95% CI 44-66%] in the odds of having children. Finally, the effects of F<sub>ROH</sub> are confirmed within full-sibling pairs, where the variation in F<sub>ROH</sub> is independent of all environmental confounding.",
     "laySummary": "This paper investigates the effect of inbreeding on fertility rates. They found that there is a striking reduction in fertility between relatives.",
     "urls": "doi:https://doi.org/10.1038/s41467-019-12283-6; html:https://europepmc.org/articles/PMC6823371; pdf:https://europepmc.org/articles/PMC6823371?pdf=render"
+  },
+  {
+    "id": "30224653",
+    "doi": "https://doi.org/10.1038/s41588-018-0205-x",
+    "title": "Genetic analysis of over 1 million people identifies 535 new loci associated with blood pressure traits.",
+    "authorString": "Evangelou E, Warren HR, Mosen-Ansorena D, Mifsud B, Pazoki R, Gao H, Ntritsos G, Dimou N, Cabrera CP, Karaman I, Ng FL, Evangelou M, Witkowska K, Tzanis E, Hellwege JN, Giri A, Velez Edwards DR, Sun YV, Cho K, Gaziano JM, Wilson PWF, Tsao PS, Kovesdy CP, Esko T, M\u00e4gi R, Milani L, Almgren P, Boutin T, Debette S, Ding J, Giulianini F, Holliday EG, Jackson AU, Li-Gao R, Lin WY, Luan J, Mangino M, Oldmeadow C, Prins BP, Qian Y, Sargurupremraj M, Shah N, Surendran P, Th\u00e9riault S, Verweij N, Willems SM, Zhao JH, Amouyel P, Connell J, de Mutsert R, Doney ASF, Farrall M, Menni C, Morris AD, Noordam R, Par\u00e9 G, Poulter NR, Shields DC, Stanton A, Thom S, Abecasis G, Amin N, Arking DE, Ayers KL, Barbieri CM, Batini C, Bis JC, Blake T, Bochud M, Boehnke M, Boerwinkle E, Boomsma DI, Bottinger EP, Braund PS, Brumat M, Campbell A, Campbell H, Chakravarti A, Chambers JC, Chauhan G, Ciullo M, Cocca M, Collins F, Cordell HJ, Davies G, de Borst MH, de Geus EJ, Deary IJ, Deelen J, Del Greco M F, Demirkale CY, D\u00f6rr M, Ehret GB, Elosua R, Enroth S, Erzurumluoglu AM, Ferreira T, Fr\u00e5nberg M, Franco OH, Gandin I, Gasparini P, Giedraitis V, Gieger C, Girotto G, Goel A, Gow AJ, Gudnason V, Guo X, Gyllensten U, Hamsten A, Harris TB, Harris SE, Hartman CA, Havulinna AS, Hicks AA, Hofer E, Hofman A, Hottenga JJ, Huffman JE, Hwang SJ, Ingelsson E, James A, Jansen R, Jarvelin MR, Joehanes R, Johansson \u00c5, Johnson AD, Joshi PK, Jousilahti P, Jukema JW, Jula A, K\u00e4h\u00f6nen M, Kathiresan S, Keavney BD, Khaw KT, Knekt P, Knight J, Kolcic I, Kooner JS, Koskinen S, Kristiansson K, Kutalik Z, Laan M, Larson M, Launer LJ, Lehne B, Lehtim\u00e4ki T, Liewald DCM, Lin L, Lind L, Lindgren CM, Liu Y, Loos RJF, Lopez LM, Lu Y, Lyytik\u00e4inen LP, Mahajan A, Mamasoula C, Marrugat J, Marten J, Milaneschi Y, Morgan A, Morris AP, Morrison AC, Munson PJ, Nalls MA, Nandakumar P, Nelson CP, Niiranen T, Nolte IM, Nutile T, Oldehinkel AJ, Oostra BA, O'Reilly PF, Org E, Padmanabhan S, Palmas W, Palotie A, Pattie A, Penninx BWJH, Perola M, Peters A, Polasek O, Pramstaller PP, Nguyen QT, Raitakari OT, Ren M, Rettig R, Rice K, Ridker PM, Ried JS, Riese H, Ripatti S, Robino A, Rose LM, Rotter JI, Rudan I, Ruggiero D, Saba Y, Sala CF, Salomaa V, Samani NJ, Sarin AP, Schmidt R, Schmidt H, Shrine N, Siscovick D, Smith AV, Snieder H, S\u00f5ber S, Sorice R, Starr JM, Stott DJ, Strachan DP, Strawbridge RJ, Sundstr\u00f6m J, Swertz MA, Taylor KD, Teumer A, Tobin MD, Tomaszewski M, Toniolo D, Traglia M, Trompet S, Tuomilehto J, Tzourio C, Uitterlinden AG, Vaez A, van der Most PJ, van Duijn CM, Vergnaud AC, Verwoert GC, Vitart V, V\u00f6lker U, Vollenweider P, Vuckovic D, Watkins H, Wild SH, Willemsen G, Wilson JF, Wright AF, Yao J, Zemunik T, Zhang W, Attia JR, Butterworth AS, Chasman DI, Conen D, Cucca F, Danesh J, Hayward C, Howson JMM, Laakso M, Lakatta EG, Langenberg C, Melander O, Mook-Kanamori DO, Palmer CNA, Risch L, Scott RA, Scott RJ, Sever P, Spector TD, van der Harst P, Wareham NJ, Zeggini E, Levy D, Munroe PB, Newton-Cheh C, Brown MJ, Metspalu A, Hung AM, O'Donnell CJ, Edwards TL, Psaty BM, Tzoulaki I, Barnes MR, Wain LV, Elliott P, Caulfield MJ, Million Veteran Program.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature genetics",
+    "pubYear": "2018",
+    "date": "2018-09-17",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "High blood pressure is a highly heritable and modifiable risk factor for cardiovascular disease. We report the largest genetic association study of blood pressure traits (systolic, diastolic and pulse pressure) to date in over 1 million people of European ancestry. We identify 535 novel blood pressure loci that not only offer new biological insights into blood pressure regulation but also highlight shared genetic architecture between blood pressure and lifestyle exposures. Our findings identify new biological pathways for blood pressure regulation with potential for improved cardiovascular disease prevention in the future.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41588-018-0205-x; html:https://europepmc.org/articles/PMC6284793; pdf:https://europepmc.org/articles/PMC6284793?pdf=render; doi:https://doi.org/10.1038/s41588-018-0205-x"
   },
   {
     "id": "32839249",
