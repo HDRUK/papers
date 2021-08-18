@@ -1496,23 +1496,6 @@
     "urls": "doi:https://doi.org/10.1038/s41591-021-01408-4; html:https://europepmc.org/articles/PMC8282499; pdf:https://europepmc.org/articles/PMC8282499?pdf=render"
   },
   {
-    "id": "33634927",
-    "doi": "https://doi.org/10.1111/ans.16649",
-    "title": "Risk factors for surgical site infections following spinal column trauma in an Australian trauma hospital.",
-    "authorString": "Baroun-Agob L, Liew S, Gabbe B.",
-    "authorAffiliations": "",
-    "journalTitle": "ANZ journal of surgery",
-    "pubYear": "2021",
-    "date": "2021-02-26",
-    "isOpenAccess": "N",
-    "keywords": "Spine; Trauma; Risk factor; Surgical Wound Infection; Orthopaedic Surgery",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>There is limited, and often conflicting, data in the literature about the prevalence and risk factors for surgical site infections (SSI) in spine surgery patients, with the majority consisting of elective spine surgery cohorts. Furthermore, there is no reported Australian data regarding rates of SSI in a spinal trauma cohort. The aim of this study is to identify factors associated with SSI following spinal column trauma.<h4>Methods</h4>Adult (16+ years) patients that underwent surgery following emergency admission for spinal trauma between January 2010 and December 2016 at a major trauma centre in Melbourne, Australia, were identified through the Victorian Orthopaedic Trauma Outcomes Registry. The presence of an SSI was confirmed from the electronic medical record. Patient and clinical factors were analysed by SSI status. Generalized Estimating Equations were used to model predictors of SSI, with a P-value <0.05 deemed significant.<h4>Results</h4>Data for 458 patients and 520 surgical wounds were collected. Twenty-six (5.7%) patients developed an SSI. Staphylococcus aureus was the most common microorganism with methicillin-sensitive S. aureus found in 46% of SSI cases. A posterior surgical approach and same site reoperation were predictors of SSI with adjusted odds ratios (95% confidence intervals) of 4.26 (1.22-14.80, P = 0.02) and 4.99 (1.10-22.58, P = 0.04), respectively.<h4>Conclusions</h4>A posterior surgical approach and same site reoperation increased the risk of SSI after spinal trauma. Further research into modifiable associations within these and other factors will help mitigate the risk of SSI and hence decrease the personal and financial costs of this potentially devastating complication.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/ans.16649"
-  },
-  {
     "id": "31912053",
     "doi": "https://doi.org/",
     "title": "Described Practices for Assessing Fluid Resuscitation in Acute Hospital Care: A Qualitative Study.",
@@ -1528,6 +1511,23 @@
     "abstract": "Fluid resuscitation is a widely-used treatment in acute and emergency medicine, however, the process used to perform a fluid assessment has never been studied. This qualitative study explored how acute physicians describe their approach to assessing for fluid resuscitation. 18 clinicians of varying grades consented to a semi-structured interview. Transcripts were coded and analysed using thematic analysis. Participants described three subtypes of assessment; screening assessment, emergency assessment and formal assessment. Whether a patient was 'sick' was key to determining which assessment they would receive. Marked heterogeneity was noted in the assessment processes, particularly regarding the use of history-taking. Further research is required to determine how the information gathered in these assessments is used to decide when fluid resuscitation is indicated.",
     "laySummary": "",
     "urls": ""
+  },
+  {
+    "id": "33634927",
+    "doi": "https://doi.org/10.1111/ans.16649",
+    "title": "Risk factors for surgical site infections following spinal column trauma in an Australian trauma hospital.",
+    "authorString": "Baroun-Agob L, Liew S, Gabbe B.",
+    "authorAffiliations": "",
+    "journalTitle": "ANZ journal of surgery",
+    "pubYear": "2021",
+    "date": "2021-02-26",
+    "isOpenAccess": "N",
+    "keywords": "Spine; Trauma; Risk factor; Surgical Wound Infection; Orthopaedic Surgery",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>There is limited, and often conflicting, data in the literature about the prevalence and risk factors for surgical site infections (SSI) in spine surgery patients, with the majority consisting of elective spine surgery cohorts. Furthermore, there is no reported Australian data regarding rates of SSI in a spinal trauma cohort. The aim of this study is to identify factors associated with SSI following spinal column trauma.<h4>Methods</h4>Adult (16+ years) patients that underwent surgery following emergency admission for spinal trauma between January 2010 and December 2016 at a major trauma centre in Melbourne, Australia, were identified through the Victorian Orthopaedic Trauma Outcomes Registry. The presence of an SSI was confirmed from the electronic medical record. Patient and clinical factors were analysed by SSI status. Generalized Estimating Equations were used to model predictors of SSI, with a P-value <0.05 deemed significant.<h4>Results</h4>Data for 458 patients and 520 surgical wounds were collected. Twenty-six (5.7%) patients developed an SSI. Staphylococcus aureus was the most common microorganism with methicillin-sensitive S. aureus found in 46% of SSI cases. A posterior surgical approach and same site reoperation were predictors of SSI with adjusted odds ratios (95% confidence intervals) of 4.26 (1.22-14.80, P = 0.02) and 4.99 (1.10-22.58, P = 0.04), respectively.<h4>Conclusions</h4>A posterior surgical approach and same site reoperation increased the risk of SSI after spinal trauma. Further research into modifiable associations within these and other factors will help mitigate the risk of SSI and hence decrease the personal and financial costs of this potentially devastating complication.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/ans.16649"
   },
   {
     "id": "34304930",
@@ -2635,23 +2635,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjhci-2020-100294; html:https://europepmc.org/articles/PMC8051388; pdf:https://europepmc.org/articles/PMC8051388?pdf=render"
   },
   {
-    "id": "34306597",
-    "doi": "https://doi.org/10.1155/2021/6663884",
-    "title": "Automatic Prediction of Recurrence of Major Cardiovascular Events: A Text Mining Study Using Chest X-Ray Reports.",
-    "authorString": "Bagheri A, Groenhof TKJ, Asselbergs FW, Haitjema S, Bots ML, Veldhuis WB, de Jong PA, Oberski DL.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of healthcare engineering",
-    "pubYear": "2021",
-    "date": "2021-07-09",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Methods</h4>We used EHR data of patients included in the Second Manifestations of ARTerial disease (SMART) study. We propose a deep learning-based multimodal architecture for our text mining pipeline that integrates neural text representation with preprocessed clinical predictors for the prediction of recurrence of major cardiovascular events in cardiovascular patients. Text preprocessing, including cleaning and stemming, was first applied to filter out the unwanted texts from X-ray radiology reports. Thereafter, text representation methods were used to numerically represent unstructured radiology reports with vectors. Subsequently, these text representation methods were added to prediction models to assess their clinical relevance. In this step, we applied logistic regression, support vector machine (SVM), multilayer perceptron neural network, convolutional neural network, long short-term memory (LSTM), and bidirectional LSTM deep neural network (BiLSTM).<h4>Results</h4>We performed various experiments to evaluate the added value of the text in the prediction of major cardiovascular events. The two main scenarios were the integration of radiology reports (1) with classical clinical predictors and (2) with only age and sex in the case of unavailable clinical predictors. In total, data of 5603 patients were used with 5-fold cross-validation to train the models. In the first scenario, the multimodal BiLSTM (MI-BiLSTM) model achieved an area under the curve (AUC) of 84.7%, misclassification rate of 14.3%, and F1 score of 83.8%. In this scenario, the SVM model, trained on clinical variables and bag-of-words representation, achieved the lowest misclassification rate of 12.2%. In the case of unavailable clinical predictors, the MI-BiLSTM model trained on radiology reports and demographic (age and sex) variables reached an AUC, F1 score, and misclassification rate of 74.5%, 70.8%, and 20.4%, respectively.<h4>Conclusions</h4>Using the case study of routine care chest X-ray radiology reports, we demonstrated the clinical relevance of integrating text features and classical predictors in our text mining pipeline for cardiovascular risk prediction. The MI-BiLSTM model with word embedding representation appeared to have a desirable performance when trained on text data integrated with the clinical variables from the SMART study. Our results mined from chest X-ray reports showed that models using text data in addition to laboratory values outperform those using only known clinical predictors.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1155/2021/6663884; html:https://europepmc.org/articles/PMC8285182; pdf:https://europepmc.org/articles/PMC8285182?pdf=render"
-  },
-  {
     "id": "34275648",
     "doi": "https://doi.org/10.1016/j.injury.2021.06.037",
     "title": "Patterns and predictors of personal responsibility attributions after major trauma.",
@@ -2667,6 +2650,23 @@
     "abstract": "<h4>Background</h4>External responsibility attributions after injury are associated with worse recovery. However, there remains limited understanding of who accepts personal responsibilityfor their injury and whether or how responsibility attributions change over time.<h4>Methods</h4>This prospective cohort study included patients who received care from recovery co-ordinators following serious injury and admission to a major trauma centre in Victoria, Australia (n=850). Self-reported personal responsibility attributions (totally, partially, not responsible, or did not know) were collected at three timepoints (admission, discharge, and six months post-injury) and linked to demographic, injury and clinical characteristics from the Victorian State Trauma Registry.<h4>Results</h4>Mixed effects multinomial analyses revealed that female sex (adjusted relative risk ratio, aRRR=3.11-4.66) and compensable injury (aRRR=7.83-15.27) were associated with reporting lower personal responsibility relative to total responsibility. Falls and motorcyclists had decreased risk of reporting lower personal responsibility than non-drivers (motor vehicle/motorcycle passengers, cyclists and pedestrians) (aRRR=0.11-0.19). More than one-third of participants changed their personal responsibility attribution within six months post-injury. Kappa analyses revealed fair to moderate agreement between the three timepoints (kappa=0.38-0.59), and Stuart-Maxwell tests showed unidirectional bias towards reporting lower levels of personal responsibility between admission and discharge (p<0.001). No demographic, health or injury characteristics predicted a change in responsibility attributions in logistic regression analyses.<h4>Conclusions</h4>Personal responsibility attributions often change over time. Therefore, responsibility attributions should not be considered static, and attributions made at different times post-injury should not be used interchangeably in research or clinical settings. Given that external responsibility attributions are associated with worse post-injury outcomes, potential interventions to optimise recovery should be prioritised for patients who predominantly report lower levels of personal responsibility, especially women and people with compensable injuries. Meanwhile, factors associated with high levels of personal responsibility highlight opportunities to implement targeted injury prevention strategies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.injury.2021.06.037"
+  },
+  {
+    "id": "34306597",
+    "doi": "https://doi.org/10.1155/2021/6663884",
+    "title": "Automatic Prediction of Recurrence of Major Cardiovascular Events: A Text Mining Study Using Chest X-Ray Reports.",
+    "authorString": "Bagheri A, Groenhof TKJ, Asselbergs FW, Haitjema S, Bots ML, Veldhuis WB, de Jong PA, Oberski DL.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of healthcare engineering",
+    "pubYear": "2021",
+    "date": "2021-07-09",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Methods</h4>We used EHR data of patients included in the Second Manifestations of ARTerial disease (SMART) study. We propose a deep learning-based multimodal architecture for our text mining pipeline that integrates neural text representation with preprocessed clinical predictors for the prediction of recurrence of major cardiovascular events in cardiovascular patients. Text preprocessing, including cleaning and stemming, was first applied to filter out the unwanted texts from X-ray radiology reports. Thereafter, text representation methods were used to numerically represent unstructured radiology reports with vectors. Subsequently, these text representation methods were added to prediction models to assess their clinical relevance. In this step, we applied logistic regression, support vector machine (SVM), multilayer perceptron neural network, convolutional neural network, long short-term memory (LSTM), and bidirectional LSTM deep neural network (BiLSTM).<h4>Results</h4>We performed various experiments to evaluate the added value of the text in the prediction of major cardiovascular events. The two main scenarios were the integration of radiology reports (1) with classical clinical predictors and (2) with only age and sex in the case of unavailable clinical predictors. In total, data of 5603 patients were used with 5-fold cross-validation to train the models. In the first scenario, the multimodal BiLSTM (MI-BiLSTM) model achieved an area under the curve (AUC) of 84.7%, misclassification rate of 14.3%, and F1 score of 83.8%. In this scenario, the SVM model, trained on clinical variables and bag-of-words representation, achieved the lowest misclassification rate of 12.2%. In the case of unavailable clinical predictors, the MI-BiLSTM model trained on radiology reports and demographic (age and sex) variables reached an AUC, F1 score, and misclassification rate of 74.5%, 70.8%, and 20.4%, respectively.<h4>Conclusions</h4>Using the case study of routine care chest X-ray radiology reports, we demonstrated the clinical relevance of integrating text features and classical predictors in our text mining pipeline for cardiovascular risk prediction. The MI-BiLSTM model with word embedding representation appeared to have a desirable performance when trained on text data integrated with the clinical variables from the SMART study. Our results mined from chest X-ray reports showed that models using text data in addition to laboratory values outperform those using only known clinical predictors.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1155/2021/6663884; html:https://europepmc.org/articles/PMC8285182; pdf:https://europepmc.org/articles/PMC8285182?pdf=render"
   },
   {
     "id": "33749694",
@@ -2771,23 +2771,6 @@
     "urls": "doi:https://doi.org/10.1186/s12916-019-1438-y; html:https://europepmc.org/articles/PMC6864929; pdf:https://europepmc.org/articles/PMC6864929?pdf=render"
   },
   {
-    "id": "34364665",
-    "doi": "https://doi.org/10.1016/j.cardfail.2021.05.012",
-    "title": "Empagliflozin in Heart Failure With Predicted Preserved Versus Reduced Ejection Fraction: Data From the EMPA-REG OUTCOME Trial.",
-    "authorString": "Savarese G, Uijl A, Lund LH, Anker SD, Asselbergs F, Fitchett D, Inzucchi SE, Koudstaal S, Ofstad AP, Schrage B, Vedin O, Wanner C, Zannad F, Zwiener I, Butler J.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of cardiac failure",
-    "pubYear": "2021",
-    "date": "2021-08-01",
-    "isOpenAccess": "N",
-    "keywords": "Type 2 diabetes mellitus; Heart Failure With Preserved Ejection Fraction; Heart Failure With Reduced Ejection Fraction; Empagliflozin; Empa-reg Outcome; Heart Failure With Mildly Reduced Ejection Fraction; Heart Failure With Mid-range Ejection Fraction",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>In the EMPA-REG OUTCOME trial, ejection fraction (EF) data were not collected. In the subpopulation with heart failure (HF), we applied a new predictive model for EF to determine the effects of empagliflozin in HF with predicted reduced (HFrEF) vs preserved (HFpEF) EF vs no HF.<h4>Methods and results</h4>We applied a validated EF predictive model based on patient baseline characteristics and treatments to categorize patients with HF as being likely to have HF with mid-range EF (HFmrEF)/HFrEF (EF <50%) or HFpEF (EF \u226550%). Cox regression was used to assess the effect of empagliflozin vs placebo on cardiovascular death/HF hospitalization (HHF), cardiovascular and all-cause mortality, and HHF in patients with predicted HFpEF, HFmrEF/HFrEF and no HF. Of 7001 EMPA-REG OUTCOME patients with data available for this analysis, 6314 (90%) had no history of HF. Of the 687 with history of HF, 479 (69.7%) were predicted to have HFmrEF/HFrEF and 208 (30.3%) to have HFpEF. Empagliflozin's treatment effect was consistent in predicted HFpEF, HFmrEF/HFrEF and no-HF for each outcome (HR [95% CI] for the primary outcome 0.60 [0.31-1.17], 0.79 [0.51-1.23], and 0.63 [0.50-0.78], respectively; P interaction\u202f=\u202f0.62).<h4>Conclusions</h4>In EMPA-REG OUTCOME, one-third of the patients with HF had predicted HFpEF. The benefits of empagliflozin on HF and mortality outcomes were consistent in nonHF, predicted HFpEF and HFmrEF/HFrEF.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.cardfail.2021.05.012"
-  },
-  {
     "id": "32282926",
     "doi": "https://doi.org/10.1111/bjd.19122",
     "title": "Partner bereavement and risk of chronic urticaria, alopecia areata and vitiligo: cohort studies in the UK and Denmark.",
@@ -2803,6 +2786,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/bjd.19122"
+  },
+  {
+    "id": "34364665",
+    "doi": "https://doi.org/10.1016/j.cardfail.2021.05.012",
+    "title": "Empagliflozin in Heart Failure With Predicted Preserved Versus Reduced Ejection Fraction: Data From the EMPA-REG OUTCOME Trial.",
+    "authorString": "Savarese G, Uijl A, Lund LH, Anker SD, Asselbergs F, Fitchett D, Inzucchi SE, Koudstaal S, Ofstad AP, Schrage B, Vedin O, Wanner C, Zannad F, Zwiener I, Butler J.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of cardiac failure",
+    "pubYear": "2021",
+    "date": "2021-08-01",
+    "isOpenAccess": "N",
+    "keywords": "Type 2 diabetes mellitus; Heart Failure With Preserved Ejection Fraction; Heart Failure With Reduced Ejection Fraction; Empagliflozin; Empa-reg Outcome; Heart Failure With Mildly Reduced Ejection Fraction; Heart Failure With Mid-range Ejection Fraction",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>In the EMPA-REG OUTCOME trial, ejection fraction (EF) data were not collected. In the subpopulation with heart failure (HF), we applied a new predictive model for EF to determine the effects of empagliflozin in HF with predicted reduced (HFrEF) vs preserved (HFpEF) EF vs no HF.<h4>Methods and results</h4>We applied a validated EF predictive model based on patient baseline characteristics and treatments to categorize patients with HF as being likely to have HF with mid-range EF (HFmrEF)/HFrEF (EF <50%) or HFpEF (EF \u226550%). Cox regression was used to assess the effect of empagliflozin vs placebo on cardiovascular death/HF hospitalization (HHF), cardiovascular and all-cause mortality, and HHF in patients with predicted HFpEF, HFmrEF/HFrEF and no HF. Of 7001 EMPA-REG OUTCOME patients with data available for this analysis, 6314 (90%) had no history of HF. Of the 687 with history of HF, 479 (69.7%) were predicted to have HFmrEF/HFrEF and 208 (30.3%) to have HFpEF. Empagliflozin's treatment effect was consistent in predicted HFpEF, HFmrEF/HFrEF and no-HF for each outcome (HR [95% CI] for the primary outcome 0.60 [0.31-1.17], 0.79 [0.51-1.23], and 0.63 [0.50-0.78], respectively; P interaction\u202f=\u202f0.62).<h4>Conclusions</h4>In EMPA-REG OUTCOME, one-third of the patients with HF had predicted HFpEF. The benefits of empagliflozin on HF and mortality outcomes were consistent in nonHF, predicted HFpEF and HFmrEF/HFrEF.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.cardfail.2021.05.012"
   },
   {
     "id": "34127232",
@@ -2975,23 +2975,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jclinepi.2021.03.025"
   },
   {
-    "id": "33956386",
-    "doi": "https://doi.org/10.1111/ceo.13943",
-    "title": "Reporting guidelines for artificial intelligence in healthcare research.",
-    "authorString": "Ibrahim H, Liu X, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "Clinical & experimental ophthalmology",
-    "pubYear": "2021",
-    "date": "2021-05-25",
-    "isOpenAccess": "N",
-    "keywords": "Artificial intelligence; Checklist; Research Report; Guidelines; Research Design; Machine Learning",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Reporting guidelines are structured tools developed using explicit methodology that specify the minimum information required by researchers when reporting a study. The use of artificial intelligence (AI) reporting guidelines that address potential sources of bias specific to studies involving AI interventions has the potential to improve the quality of AI studies, through improvements in their design and delivery, and the completeness and transparency of their reporting. With a number of guidance documents relating to AI studies emerging from different specialist societies, this Review article provides researchers with some key principles for selecting the most appropriate reporting guidelines for a study involving an AI intervention. As the main determinants of a high-quality study are contained within the methodology of the study design rather than the intervention, researchers are recommended to use reporting guidelines that are specific to the study design, and then supplement them with AI-specific guidance contained within available AI reporting guidelines.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/ceo.13943"
-  },
-  {
     "id": "31757986",
     "doi": "https://doi.org/10.1038/s41598-019-53454-1",
     "title": "Ontology-based prediction of cancer driver genes.",
@@ -3007,6 +2990,23 @@
     "abstract": "Identifying and distinguishing cancer driver genes among thousands of candidate mutations remains a major challenge. Accurate identification of driver genes and driver mutations is critical for advancing cancer research and personalizing treatment based on accurate stratification of patients. Due to inter-tumor genetic heterogeneity many driver mutations within a gene occur at low frequencies, which make it challenging to distinguish them from non-driver mutations. We have developed a novel method for identifying cancer driver genes. Our approach utilizes multiple complementary types of information, specifically cellular phenotypes, cellular locations, functions, and whole body physiological phenotypes as features. We demonstrate that our method can accurately identify known cancer driver genes and distinguish between their role in different types of cancer. In addition to confirming known driver genes, we identify several novel candidate driver genes. We demonstrate the utility of our method by validating its predictions in nasopharyngeal cancer and colorectal cancer using whole exome and whole genome sequencing.",
     "laySummary": "This study investigated which genes encourage cancer tumors to grow. The study identifies genes and distinguishes their role in different types of cancers. Their method is validated using whole exome and whole genome sequencing",
     "urls": "doi:https://doi.org/10.1038/s41598-019-53454-1; html:https://europepmc.org/articles/PMC6874647; pdf:https://europepmc.org/articles/PMC6874647?pdf=render"
+  },
+  {
+    "id": "33956386",
+    "doi": "https://doi.org/10.1111/ceo.13943",
+    "title": "Reporting guidelines for artificial intelligence in healthcare research.",
+    "authorString": "Ibrahim H, Liu X, Denniston AK.",
+    "authorAffiliations": "",
+    "journalTitle": "Clinical & experimental ophthalmology",
+    "pubYear": "2021",
+    "date": "2021-05-25",
+    "isOpenAccess": "N",
+    "keywords": "Artificial intelligence; Checklist; Research Report; Guidelines; Research Design; Machine Learning",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Reporting guidelines are structured tools developed using explicit methodology that specify the minimum information required by researchers when reporting a study. The use of artificial intelligence (AI) reporting guidelines that address potential sources of bias specific to studies involving AI interventions has the potential to improve the quality of AI studies, through improvements in their design and delivery, and the completeness and transparency of their reporting. With a number of guidance documents relating to AI studies emerging from different specialist societies, this Review article provides researchers with some key principles for selecting the most appropriate reporting guidelines for a study involving an AI intervention. As the main determinants of a high-quality study are contained within the methodology of the study design rather than the intervention, researchers are recommended to use reporting guidelines that are specific to the study design, and then supplement them with AI-specific guidance contained within available AI reporting guidelines.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/ceo.13943"
   },
   {
     "id": "33735069",
@@ -4148,23 +4148,6 @@
     "urls": "doi:https://doi.org/10.1016/S2589-7500(20)30218-1; html:https://europepmc.org/articles/PMC8183333; pdf:https://europepmc.org/articles/PMC8183333?pdf=render; doi:https://doi.org/10.1016/s2589-7500(20)30218-1"
   },
   {
-    "id": "33184391",
-    "doi": "https://doi.org/10.1038/s41598-020-76816-6",
-    "title": "Prediction of vascular aging based on smartphone acquired PPG signals.",
-    "authorString": "Dall'Olio L, Curti N, Remondini D, Safi Harb Y, Asselbergs FW, Castellani G, Uh HW.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "date": "2020-11-12",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Photoplethysmography (PPG) measured by smartphone has the potential for a large scale, non-invasive, and easy-to-use screening tool. Vascular aging is linked to increased arterial stiffness, which can be measured by PPG. We investigate the feasibility of using PPG to predict healthy vascular aging (HVA) based on two approaches: machine learning (ML) and deep learning (DL). We performed data preprocessing, including detrending, demodulating, and denoising on the raw PPG signals. For ML, ridge penalized regression has been applied to 38 features extracted from PPG, whereas for DL several convolutional neural networks (CNNs) have been applied to the whole PPG signals as input. The analysis has been conducted using the crowd-sourced Heart for Heart data. The prediction performance of ML using two features (AUC of 94.7%) - the a wave of the second derivative PPG and tpr, including four covariates, sex, height, weight, and smoking - was similar to that of the best performing CNN, 12-layer ResNet (AUC of 95.3%). Without having the heavy computational cost of DL, ML might be advantageous in finding potential biomarkers for HVA prediction. The whole workflow of the procedure is clearly described, and open software has been made available to facilitate replication of the results.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-76816-6; html:https://europepmc.org/articles/PMC7661535; pdf:https://europepmc.org/articles/PMC7661535?pdf=render"
-  },
-  {
     "id": "30659777",
     "doi": "https://doi.org/10.1111/ijpo.12505",
     "title": "Are children with clinical obesity at increased risk of inpatient hospital admissions? An analysis using linked electronic health records in the UK millennium cohort study.",
@@ -4180,6 +4163,23 @@
     "abstract": "<h4>Background</h4>Few studies have examined health service utilization of children with overweight or obesity by using linked electronic health records (EHRs).<h4>Objective/methods</h4>We analysed EHRs from 3269 children (1678 boys; 51.3% [weighted]) participating in the Millennium Cohort Study, living in Wales or Scotland at age seven whose parents consented to record linkage. We used height and weight measurements at age five to categorize children as obese (>98th centile) or overweight (>91st centile) (UK1990 clinical reference standards) and linked to hospital admissions, up to age 14\u00a0years, in the Patient Episode Database for Wales and Scottish Morbidity Records. Negative binomial regression models compared rates of inpatient admissions by weight status at age five.<h4>Results</h4>At age five, 11.5% and 6.7% of children were overweight or obese, respectively; 1221 (38%) children were subsequently admitted to hospital at least once. Admissions were not increased among children with overweight or obesity (adjusted rate ratio [RR], 95% confidence interval [CI]: 0.87, 0.68-1.10 and 1.16, 0.87-1.54, respectively).<h4>Conclusions</h4>In this nationally representative cohort of children in Wales and Scotland, those with overweight or obesity at entry to primary school did not have increased rates of hospital admissions in later childhood and early adolescence.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/ijpo.12505; html:https://europepmc.org/articles/PMC6563186; pdf:https://europepmc.org/articles/PMC6563186?pdf=render"
+  },
+  {
+    "id": "33184391",
+    "doi": "https://doi.org/10.1038/s41598-020-76816-6",
+    "title": "Prediction of vascular aging based on smartphone acquired PPG signals.",
+    "authorString": "Dall'Olio L, Curti N, Remondini D, Safi Harb Y, Asselbergs FW, Castellani G, Uh HW.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "date": "2020-11-12",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Photoplethysmography (PPG) measured by smartphone has the potential for a large scale, non-invasive, and easy-to-use screening tool. Vascular aging is linked to increased arterial stiffness, which can be measured by PPG. We investigate the feasibility of using PPG to predict healthy vascular aging (HVA) based on two approaches: machine learning (ML) and deep learning (DL). We performed data preprocessing, including detrending, demodulating, and denoising on the raw PPG signals. For ML, ridge penalized regression has been applied to 38 features extracted from PPG, whereas for DL several convolutional neural networks (CNNs) have been applied to the whole PPG signals as input. The analysis has been conducted using the crowd-sourced Heart for Heart data. The prediction performance of ML using two features (AUC of 94.7%) - the a wave of the second derivative PPG and tpr, including four covariates, sex, height, weight, and smoking - was similar to that of the best performing CNN, 12-layer ResNet (AUC of 95.3%). Without having the heavy computational cost of DL, ML might be advantageous in finding potential biomarkers for HVA prediction. The whole workflow of the procedure is clearly described, and open software has been made available to facilitate replication of the results.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-76816-6; html:https://europepmc.org/articles/PMC7661535; pdf:https://europepmc.org/articles/PMC7661535?pdf=render"
   },
   {
     "id": "31345952",
@@ -4301,23 +4301,6 @@
     "urls": "doi:https://doi.org/10.1038/s41598-019-54849-w; html:https://europepmc.org/articles/PMC6906499; pdf:https://europepmc.org/articles/PMC6906499?pdf=render"
   },
   {
-    "id": "34135032",
-    "doi": "https://doi.org/10.1136/bmjopen-2020-043906",
-    "title": "Realising the full potential of data-enabled trials in the UK: a call for action.",
-    "authorString": "Sydes MR, Barbachano Y, Bowman L, Denwood T, Farmer A, Garfield-Birkbeck S, Gibson M, Gulliford MC, Harrison DA, Hewitt C, Logue J, Navaie W, Norrie J, O'Kane M, Quint JK, Rycroft-Malone J, Sheffield J, Smeeth L, Sullivan F, Tizzard J, Walker P, Wilding J, Williamson PR, Landray M, Morris A, Walker RR, Williams HC, Valentine J, Data Enabled Trials Group Workshop Group members.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2021",
-    "date": "2021-06-16",
-    "isOpenAccess": "Y",
-    "keywords": "Clinical Trials; Health Informatics; Statistics & Research Methods",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Rationale</h4>Clinical trials are the gold standard for testing interventions. COVID-19 has further raised their public profile and emphasised the need to deliver better, faster, more efficient trials for patient benefit. Considerable overlap exists between data required for trials and data already collected routinely in electronic healthcare records (EHRs). Opportunities exist to use these in innovative ways to decrease duplication of effort and speed trial recruitment, conduct and follow-up.<h4>Approach</h4>The National Institute of Health Research (NIHR), Health Data Research UK and Clinical Practice Research Datalink co-organised a national workshop to accelerate the agenda for 'data-enabled clinical trials'. Showcasing successful examples and imagining future possibilities, the plenary talks, panel discussions, group discussions and case studies covered: design/feasibility; recruitment; conduct/follow-up; collecting benefits/harms; and analysis/interpretation.<h4>Reflection</h4>Some notable studies have successfully accessed and used EHR to identify potential recruits, support randomised trials, deliver interventions and supplement/replace trial-specific follow-up. Some outcome measures are already reliably collected; others, like safety, need detailed work to meet regulatory reporting requirements. There is a clear need for system interoperability and a 'route map' to identify and access the necessary datasets. Researchers running regulatory-facing trials must carefully consider how data quality and integrity would be assessed. An experience-sharing forum could stimulate wider adoption of EHR-based methods in trial design and execution.<h4>Discussion</h4>EHR offer opportunities to better plan clinical trials, assess patients and capture data more efficiently, reducing research waste and increasing focus on each trial's specific challenges. The short-term emphasis should be on facilitating patient recruitment and for postmarketing authorisation trials where research-relevant outcome measures are readily collectable. Sharing of case studies is encouraged. The workshop directly informed NIHR's funding call for ambitious data-enabled trials at scale. There is the opportunity for the UK to build upon existing data science capabilities to identify, recruit and monitor patients in trials at scale.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2020-043906; html:https://europepmc.org/articles/PMC8211043; pdf:https://europepmc.org/articles/PMC8211043?pdf=render"
-  },
-  {
     "id": "32991065",
     "doi": "https://doi.org/10.1111/dom.14203",
     "title": "Sodium-glucose co-transporter-2 inhibitors and susceptibility to COVID-19: A population-based retrospective cohort study.",
@@ -4333,6 +4316,23 @@
     "abstract": "Sodium-glucose co-transporter-2 (SGLT2) inhibitors are widely prescribed in people with type 2 diabetes. We aimed to investigate whether SGLT2 inhibitor prescription is associated with COVID-19, when compared with an active comparator. We performed a propensity-score-matched cohort study with active comparators and a negative control outcome in a large UK-based primary care dataset. Participants prescribed SGLT2 inhibitors (n = 9948) and a comparator group prescribed dipeptidyl peptidase-4 (DPP-4) inhibitors (n = 14\u2009917) were followed up from January 30 to July 27, 2020. The primary outcome was confirmed or clinically suspected COVID-19. The incidence rate of COVID-19 was 19.7/1000 person-years among users of SGLT2 inhibitors and 24.7/1000 person-years among propensity-score-matched users of DPP-4 inhibitors. The adjusted hazard ratio was 0.92 (95% confidence interval 0.66 to 1.29), and there was no evidence of residual confounding in the negative control analysis. We did not observe an increased risk of COVID-19 in primary care amongst those prescribed SGLT2 inhibitors compared to DPP-4 inhibitors, suggesting that clinicians may safely use these agents in the everyday care of people with type 2 diabetes during the COVID-19 pandemic.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/dom.14203; html:https://europepmc.org/articles/PMC7537530; pdf:https://europepmc.org/articles/PMC7537530?pdf=render"
+  },
+  {
+    "id": "34135032",
+    "doi": "https://doi.org/10.1136/bmjopen-2020-043906",
+    "title": "Realising the full potential of data-enabled trials in the UK: a call for action.",
+    "authorString": "Sydes MR, Barbachano Y, Bowman L, Denwood T, Farmer A, Garfield-Birkbeck S, Gibson M, Gulliford MC, Harrison DA, Hewitt C, Logue J, Navaie W, Norrie J, O'Kane M, Quint JK, Rycroft-Malone J, Sheffield J, Smeeth L, Sullivan F, Tizzard J, Walker P, Wilding J, Williamson PR, Landray M, Morris A, Walker RR, Williams HC, Valentine J, Data Enabled Trials Group Workshop Group members.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2021",
+    "date": "2021-06-16",
+    "isOpenAccess": "Y",
+    "keywords": "Clinical Trials; Health Informatics; Statistics & Research Methods",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Rationale</h4>Clinical trials are the gold standard for testing interventions. COVID-19 has further raised their public profile and emphasised the need to deliver better, faster, more efficient trials for patient benefit. Considerable overlap exists between data required for trials and data already collected routinely in electronic healthcare records (EHRs). Opportunities exist to use these in innovative ways to decrease duplication of effort and speed trial recruitment, conduct and follow-up.<h4>Approach</h4>The National Institute of Health Research (NIHR), Health Data Research UK and Clinical Practice Research Datalink co-organised a national workshop to accelerate the agenda for 'data-enabled clinical trials'. Showcasing successful examples and imagining future possibilities, the plenary talks, panel discussions, group discussions and case studies covered: design/feasibility; recruitment; conduct/follow-up; collecting benefits/harms; and analysis/interpretation.<h4>Reflection</h4>Some notable studies have successfully accessed and used EHR to identify potential recruits, support randomised trials, deliver interventions and supplement/replace trial-specific follow-up. Some outcome measures are already reliably collected; others, like safety, need detailed work to meet regulatory reporting requirements. There is a clear need for system interoperability and a 'route map' to identify and access the necessary datasets. Researchers running regulatory-facing trials must carefully consider how data quality and integrity would be assessed. An experience-sharing forum could stimulate wider adoption of EHR-based methods in trial design and execution.<h4>Discussion</h4>EHR offer opportunities to better plan clinical trials, assess patients and capture data more efficiently, reducing research waste and increasing focus on each trial's specific challenges. The short-term emphasis should be on facilitating patient recruitment and for postmarketing authorisation trials where research-relevant outcome measures are readily collectable. Sharing of case studies is encouraged. The workshop directly informed NIHR's funding call for ambitious data-enabled trials at scale. There is the opportunity for the UK to build upon existing data science capabilities to identify, recruit and monitor patients in trials at scale.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2020-043906; html:https://europepmc.org/articles/PMC8211043; pdf:https://europepmc.org/articles/PMC8211043?pdf=render"
   },
   {
     "id": "33036417",
@@ -4539,6 +4539,23 @@
     "urls": "doi:https://doi.org/10.3399/bjgp20X714161; html:https://europepmc.org/articles/PMC8041293; pdf:https://europepmc.org/articles/PMC8041293?pdf=render"
   },
   {
+    "id": "34396190",
+    "doi": "https://doi.org/10.1016/j.jaccao.2019.09.007",
+    "title": "Cancer Therapy-Related Cardiac\u00a0Dysfunction of Nonanthracycline\u00a0Chemotherapeutics: What Is the Evidence?",
+    "authorString": "Kamphuis JAM, Linschoten M, Cramer MJ, Gort EH, van Rhenen A, Asselbergs FW, Doevendans PA, Teske AJ.",
+    "authorAffiliations": "",
+    "journalTitle": "JACC. CardioOncology",
+    "pubYear": "2019",
+    "date": "2019-12-17",
+    "isOpenAccess": "N",
+    "keywords": "Cardiomyopathy; Heart Failure; Risk Prediction; Fda, Food And Drug Administration; Hf, Heart Failure; Mmc, Mitomycin C; Alkylating Therapy; Ctrcd, Cancer Therapy\u2013Related Cardiac Dysfunction",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Cancer therapy-related cardiac dysfunction (CTRCD) is one of the most concerning cardiovascular side effects of cancer treatment. Important reviews within the field of cardio-oncology have described various agents to be associated with a high risk of CTRCD, including mitomycin C, ifosfamide, vincristine, cyclophosphamide, and clofarabine. The aim of this study was to provide insight into the data on which these incidence rates are based. We observed that the reported cardiotoxicity of mitomycin C and ifosfamide is based on studies in which most patients received anthracyclines, complicating the interpretation of their association with CTRCD. The high incidence of vincristine-induced cardiotoxicity is based on an incorrect interpretation of a single study. Incidence rates of clofarabine remain uncertain due to a lack of cardiac screening in clinical trials. The administration of high-dose cyclophosphamide (>1.5 g/m<sup>2</sup>/day) is associated with a high incidence of CTRCD. Based on our findings, a critical re-evaluation of the cardiotoxicity of these agents is warranted.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jaccao.2019.09.007"
+  },
+  {
     "id": "32908801",
     "doi": "https://doi.org/10.1167/tvst.9.9.38",
     "title": "Merging Information From Infrared and Autofluorescence Fundus Images for Monitoring of Chorioretinal Atrophic Lesions.",
@@ -4571,23 +4588,6 @@
     "abstract": "BACKGROUND:Alcohol-related harm has been found to be higher in disadvantaged groups, despite similar alcohol consumption to advantaged groups. This is known as the alcohol harm paradox. Beverage type is reportedly socioeconomically patterned but has not been included in longitudinal studies investigating record-linked alcohol consumption and harm. We aimed to investigate whether and to what extent consumption by beverage type, BMI, smoking and other factors explain inequalities in alcohol-related harm. METHODS:11,038 respondents to the Welsh Health Survey answered questions on their health and lifestyle. Responses were record-linked to wholly attributable alcohol-related hospital admissions (ARHA) eight years before the survey month and until the end of 2016 within the Secure Anonymised Information Linkage (SAIL) Databank. We used survival analysis, specifically multi-level and multi-failure Cox mixed effects models, to calculate the hazard ratios of ARHA. In adjusted models we included the number of units consumed by beverage type and other factors, censoring for death or moving out of Wales. RESULTS:People living in more deprived areas had a higher risk of admission (HR 1.75; 95% CI 1.23-2.48) compared to less deprived. Adjustment for the number of units by type of alcohol consumed only reduced the risk of ARHA for more deprived areas by 4% (HR 1.72; 95% CI 1.21-2.44), whilst adding smoking and BMI reduced these inequalities by 35.7% (HR 1.48; 95% CI 1.01-2.17). These social patterns were similar for individual-level social class, employment, housing tenure and highest qualification. Inequalities were further reduced by including either health status (16.6%) or mental health condition (5%). Unit increases of spirits drunk were positively associated with increasing risk of ARHA (HR 1.06; 95% CI 1.01-1.12), higher than for other drink types. CONCLUSIONS:Although consumption by beverage type was socioeconomically patterned, it did not help explain inequalities in alcohol-related harm. Smoking and BMI explained around a third of inequalities, but lower socioeconomic groups had a persistently higher risk of (multiple) ARHA. Comorbidities also explained a further proportion of inequalities and need further investigation, including the contribution of specific conditions. The increased harms from consumption of stronger alcoholic beverages may inform public health policy.",
     "laySummary": "This longitudinal study investigated whether and to what extent consumption by beverage type, BMI, smoking and other factors explained inequalities in alcohol-related hospital admission (ARHA). Using statistical analysis methods, it was found that people living in more deprived areas had a higher risk of ARHA compared to less deprived. Smokers and people currently being treated for mental illness had higher risk of ARHA, while BMI appeared to be slightly protective. ",
     "urls": "doi:https://doi.org/10.1186/s12889-019-8015-3; html:https://europepmc.org/articles/PMC6902530; pdf:https://europepmc.org/articles/PMC6902530?pdf=render"
-  },
-  {
-    "id": "PMC8352343",
-    "doi": "https://doi.org/",
-    "title": "Prediction of Lifetime and 10-Year Risk of Cancer in Individual Patients With Established Cardiovascular Disease",
-    "authorString": "van \u2019t Klooster C, Ridker P, Cook N, Aerts J, Westerink J, Asselbergs F, van der Graaf Y, Visseren F, UCC-SMART Study Group.",
-    "authorAffiliations": "",
-    "journalTitle": "JACC. CardioOncology",
-    "pubYear": "2020",
-    "date": "2020-08-28",
-    "isOpenAccess": "Y",
-    "keywords": "Lung cancer; Colorectal Cancer; Risk Prediction; Crp, C-reactive Protein; Sd, Standard Deviation; Cvd, Cardiovascular Disease; Ci, Confidence Interval; Aic, Akaike\u2019s Information Criterion",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4> Cardiovascular disease (CVD) and cancer share many common risk factors; patients with CVD also may be at risk of developing cancer. <h4>Objectives</h4> The aim of this study was to derive and externally validate prediction models for the estimation of lifetime and 10-year risk for total, colorectal, and lung cancer in patients with established CVD. <h4>Methods</h4> Data from patients with established CVD from the UCC-SMART cohort (N\u00a0=\u00a07,280) were used for model development, and from the CANTOS trial (N\u00a0=\u00a09,322) for model validation. Predictors were selected based on previously published cancer risk scores, clinical availability, and presence in the derivation dataset. Fine and Gray competing risk-adjusted lifetime models were developed for the outcomes total, colorectal, and lung cancer. <h4>Results</h4> Selected predictors were age, sex, smoking, weight, height, alcohol use, antiplatelet use, diabetes, and C-reactive protein. External calibration for the 4-year risk of lung, colorectal, and total cancer was reasonable in our models, as was discrimination with C-statistics of 0.74, 0.64, and 0.63, respectively. Median predicted lifetime and 10-year risks in CANTOS were 26% (range 1% to 52%) and 13% (range 1% to 31%) for total cancer; 4% (range 0% to 13%) and 2% (range 0% to 6%) for colorectal cancer; and 5% (range 0% to 37%) and 2% (range 0% to 24%) for lung cancer. <h4>Conclusions</h4> Lifetime and 10-year risk of total, colorectal, and lung cancer can be estimated reasonably well in patients with established CVD with readily available clinical predictors. With additional study, these tools could be used in clinical practice to further aid in the emphasis of healthy lifestyle changes and to guide thresholds for targeted diagnostics and screening. Central Illustration",
-    "laySummary": "",
-    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8352343/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8352343/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC8352343; pdf:https://europepmc.org/articles/PMC8352343?pdf=render"
   },
   {
     "id": "33986429",
@@ -4673,23 +4673,6 @@
     "abstract": "<h4>Introduction</h4>Anatomical injury as measured by the AIS often accounts for only a small proportion of variability in outcomes after injury. The predictive Functional Capacity Index (FCI) appended to the 2008 AIS claims to provide a widely available method of predicting 12-month function following injury.<h4>Objectives</h4>To determine the extent to which AIS-based and FCI-based scoring is able to add to a simple predictive model of 12-month function following severe injury.<h4>Methods</h4>Adult trauma patients were drawn from the population-based Victorian State Trauma Registry. Major trauma and severely injured orthopaedic trauma patients were followed up via telephone interview including Glasgow Outcome Scale-Extended, the EQ-5D-3L and return to work status. A battery of AIS-based and FCI-based scores, and a simple count of AIS-coded injuries were added in turn to a base model using age and gender.<h4>Results</h4>A total of 20\u2009813 patients survived to 12 months and had at least one functional outcome recorded, representing 85% follow-up. Predictions using the base model varied substantially across outcome measures. Irrespective of the method used to classify the severity of injury, adding injury severity to the model significantly, but only slightly improved model fit. Across the outcomes evaluated, no method of injury severity assessment consistently outperformed any other.<h4>Conclusions</h4>Anatomical injury is a predictor of trauma outcome. However, injury severity as described by the FCI does not consistently improve discrimination, or even provide the best discrimination compared with AIS-based severity scores or a simple injury count.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/injuryprev-2018-043085"
-  },
-  {
-    "id": "PMC8352330",
-    "doi": "https://doi.org/",
-    "title": "Cancer Therapy-Related Cardiac\u00a0Dysfunction of Nonanthracycline\u00a0Chemotherapeutics : What Is the Evidence?",
-    "authorString": "Kamphuis J, Linschoten M, Cramer M, Gort E, van Rhenen A, Asselbergs F, Doevendans P, Teske A.",
-    "authorAffiliations": "",
-    "journalTitle": "JACC. CardioOncology",
-    "pubYear": "2019",
-    "date": "2019-12-01",
-    "isOpenAccess": "Y",
-    "keywords": "Cardiomyopathy; Heart Failure; Risk Prediction; Fda, Food And Drug Administration; Hf, Heart Failure; Mmc, Mitomycin C; Alkylating Therapy; Ctrcd, Cancer Therapy\u2013Related Cardiac Dysfunction",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Cancer therapy\u2013related cardiac dysfunction (CTRCD) is one of the most concerning cardiovascular side effects of cancer treatment. Important reviews within the field of cardio-oncology have described various agents to be associated with a high risk of CTRCD, including mitomycin C, ifosfamide, vincristine, cyclophosphamide, and clofarabine. The aim of this study was to provide insight into the data on which these incidence rates are based. We observed that the reported cardiotoxicity of mitomycin C and ifosfamide is based on studies in which most patients received anthracyclines, complicating the interpretation of their association with CTRCD. The high incidence of vincristine-induced cardiotoxicity is based on an incorrect interpretation of a single study. Incidence rates of clofarabine remain uncertain due to a lack of cardiac screening in clinical trials. The administration of high-dose cyclophosphamide (>1.5 g/m2/day) is associated with a high incidence of CTRCD. Based on our findings, a critical re-evaluation of the cardiotoxicity of these agents is warranted. Central Illustration  Highlights \u2022 CTRCD is one of the most concerning cardiovascular side effects of anticancer treatment.\u2022 Mitomycin C, ifosfamide, cyclophosphamide, clofarabine, and vincristine are frequently recognized as being highly cardiotoxic, causing CTRCD in\u00a0\u226510% of patients.\u2022 This primer provides insight into the data upon which the CTRCD incidence rates of these agents have been based.\u2022 A critical re-evaluation of CTRCD rates is necessary because these numbers have been based on data in which most patients received prior or concurrent treatment with other cardiotoxic drugs, including anthracyclines.\u2022 Systematic reviews, meta-analyses, consistent and detailed reporting of cardiovascular toxicity, and international registries are of pivotal importance to establish the cardiotoxicity profile of these chemotherapeutics.",
-    "laySummary": "",
-    "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8352330/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8352330/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC8352330; pdf:https://europepmc.org/articles/PMC8352330?pdf=render"
   },
   {
     "id": "30863860",
@@ -4862,23 +4845,6 @@
     "urls": "doi:https://doi.org/10.1111/bcp.14458"
   },
   {
-    "id": "33888728",
-    "doi": "https://doi.org/10.1038/s41598-021-86331-x",
-    "title": "A multidimensional measure of polypharmacy for older adults using the Health and Retirement Study.",
-    "authorString": "Carr E, Federman A, Dzahini O, Dobson RJ, Bendayan R.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2021",
-    "date": "2021-04-22",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Polypharmacy is commonly defined based on the number of medications taken concurrently using standard cut-offs, but several studies have highlighted the need for a multidimensional assessment. We developed a multidimensional measure of polypharmacy and compared with standard cut-offs. Data were extracted for 2141 respondents of the 2007 Prescription Drug Survey, a sub-study of the Health Retirement Study. Latent classes were identified based on multiple indicators of polypharmacy, including quantity, temporality and risk profile. A four-class model was selected based on fit statistics and clinical interpretability: 'High risk, long-term' (Class 1), 'Low risk, long-term' (Class 2), 'High risk, short-term' (Class 3), and 'High risk for drug interactions, medium-term, regular' (Class 4). Classes differed regarding sex, cohabitation, disability and multimorbidity. Participants in the 'low risk' class tended to be male, cohabitating, and reported fewer health conditions, compared to 'high risk' classes. Polypharmacy classes were compared to standard cut-offs (5+ or 9+ medications) in terms of overlap and mortality risk. The three 'high risk' classes overlapped with the groups concurrently taking 5+ and 9+ medications per month. However, the multidimensional measure further differentiated individuals in terms of risk profile and temporality of medication taking, thus offering a richer assessment of polypharmacy.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-021-86331-x; html:https://europepmc.org/articles/PMC8062687; pdf:https://europepmc.org/articles/PMC8062687?pdf=render"
-  },
-  {
     "id": "31363735",
     "doi": "https://doi.org/10.1093/hmg/ddz187",
     "title": "Towards clinical utility of polygenic risk scores.",
@@ -4894,6 +4860,23 @@
     "abstract": "Prediction of disease risk is an essential part of preventative medicine, often guiding clinical management. Risk prediction typically includes risk factors such as age, sex, family history of disease and lifestyle (e.g. smoking status); however, in recent years, there has been increasing interest to include genomic information into risk models. Polygenic risk scores (PRS) aggregate the effects of many genetic variants across the human genome into a single score and have recently been shown to have predictive value for multiple common diseases. In this review, we summarize the potential use cases for seven common diseases (breast cancer, prostate cancer, coronary artery disease, obesity, type 1 diabetes, type 2 diabetes and Alzheimer's disease) where PRS has or could have clinical utility. PRS analysis for these diseases frequently revolved around (i) risk prediction performance of a PRS alone and in combination with other non-genetic risk factors, (ii) estimation of lifetime risk trajectories, (iii) the independent information of PRS and family history of disease or monogenic mutations and (iv) estimation of the value of adding a PRS to specific clinical risk prediction scenarios. We summarize open questions regarding PRS usability, ancestry bias and transferability, emphasizing the need for the next wave of studies to focus on the implementation and health-economic value of PRS testing. In conclusion, it is becoming clear that PRS have value in disease risk prediction and there are multiple areas where this may have clinical utility.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/hmg/ddz187"
+  },
+  {
+    "id": "33888728",
+    "doi": "https://doi.org/10.1038/s41598-021-86331-x",
+    "title": "A multidimensional measure of polypharmacy for older adults using the Health and Retirement Study.",
+    "authorString": "Carr E, Federman A, Dzahini O, Dobson RJ, Bendayan R.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2021",
+    "date": "2021-04-22",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Polypharmacy is commonly defined based on the number of medications taken concurrently using standard cut-offs, but several studies have highlighted the need for a multidimensional assessment. We developed a multidimensional measure of polypharmacy and compared with standard cut-offs. Data were extracted for 2141 respondents of the 2007 Prescription Drug Survey, a sub-study of the Health Retirement Study. Latent classes were identified based on multiple indicators of polypharmacy, including quantity, temporality and risk profile. A four-class model was selected based on fit statistics and clinical interpretability: 'High risk, long-term' (Class 1), 'Low risk, long-term' (Class 2), 'High risk, short-term' (Class 3), and 'High risk for drug interactions, medium-term, regular' (Class 4). Classes differed regarding sex, cohabitation, disability and multimorbidity. Participants in the 'low risk' class tended to be male, cohabitating, and reported fewer health conditions, compared to 'high risk' classes. Polypharmacy classes were compared to standard cut-offs (5+ or 9+ medications) in terms of overlap and mortality risk. The three 'high risk' classes overlapped with the groups concurrently taking 5+ and 9+ medications per month. However, the multidimensional measure further differentiated individuals in terms of risk profile and temporality of medication taking, thus offering a richer assessment of polypharmacy.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-021-86331-x; html:https://europepmc.org/articles/PMC8062687; pdf:https://europepmc.org/articles/PMC8062687?pdf=render"
   },
   {
     "id": "32743489",
@@ -4981,23 +4964,6 @@
     "urls": "doi:https://doi.org/10.1098/rsob.200121; html:https://europepmc.org/articles/PMC7574545; pdf:https://europepmc.org/articles/PMC7574545?pdf=render"
   },
   {
-    "id": "32908283",
-    "doi": "https://doi.org/10.1038/s41591-020-1034-x",
-    "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension.",
-    "authorString": "Liu X, Cruz Rivera S, Moher D, Calvert MJ, Denniston AK, SPIRIT-AI and CONSORT-AI Working Group.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature medicine",
-    "pubYear": "2020",
-    "date": "2020-09-09",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The CONSORT 2010 statement provides minimum guidelines for reporting randomized trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trials evaluating interventions with an AI component. It was developed in parallel with its companion statement for clinical trial protocols: SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 29 candidate items, which were assessed by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a two-day consensus meeting (31 stakeholders) and refined through a checklist pilot (34 participants). The CONSORT-AI extension includes 14 new items that were considered sufficiently important for AI interventions that they should be routinely reported in addition to the core CONSORT 2010 items. CONSORT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention is integrated, the handling of inputs and outputs of the AI intervention, the human-AI interaction and provision of an analysis of error cases. CONSORT-AI will help promote transparency and completeness in reporting clinical trials for AI interventions. It will assist editors and peer reviewers, as well as the general readership, to understand, interpret and critically appraise the quality of clinical trial design and risk of bias in the reported outcomes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41591-020-1034-x; html:https://europepmc.org/articles/PMC7598943; pdf:https://europepmc.org/articles/PMC7598943?pdf=render"
-  },
-  {
     "id": "31353050",
     "doi": "https://doi.org/10.1016/s0140-6736(19)31359-5",
     "title": "Eligibility and subsequent burden of cardiovascular disease of four strategies for blood pressure-lowering treatment: a retrospective cohort study.",
@@ -5013,6 +4979,23 @@
     "abstract": "<h4>Background</h4>Worldwide treatment recommendations for lowering blood pressure continue to be guided predominantly by blood pressure thresholds, despite strong evidence that the benefits of blood pressure reduction are observed in patients across the blood pressure spectrum. In this study, we aimed to investigate the implications of alternative strategies for offering blood pressure treatment, using the UK as an illustrative example.<h4>Methods</h4>We did a retrospective cohort study in primary care patients aged 30-79 years without cardiovascular disease, using data from the UK's Clinical Practice Research Datalink linked to Hospital Episode Statistics and Office for National Statistics mortality. We assessed and compared four different strategies to determine eligibility for treatment: using 2011 UK National Institute for Health and Care Excellence (NICE) guideline, or proposed 2019 NICE guideline, or blood pressure alone (threshold \u2265140/90 mm Hg), or predicted 10-year cardiovascular risk alone (QRISK2 score \u226510%). Patients were followed up until the earliest occurrence of a cardiovascular disease diagnosis, death, or end of follow-up period (March 31, 2016). For each strategy, we estimated the proportion of patients eligible for treatment and number of cardiovascular events that could be prevented with treatment. We then estimated eligibility and number of events that would occur during 10 years in the UK general population.<h4>Findings</h4>Between Jan 1, 2011, and March 31, 2016, 1\u2008222\u2008670 patients in the cohort were followed up for a median of 4\u00b73 years (IQR 2\u00b75-5\u00b72). 271\u2008963 (22\u00b72%) patients were eligible for treatment under the 2011 NICE guideline, 327\u2008429 (26\u00b78%) under the proposed 2019 NICE guideline, 481\u2008859 (39\u00b74%) on the basis of a blood pressure threshold of 140/90 mm Hg or higher, and 357\u2008840 (29\u00b73%) on the basis of a QRISK2 threshold of 10% or higher. During follow-up, 32\u2008183 patients were diagnosed with cardiovascular disease (overall rate 7\u00b71 per 1000 person-years, 95% CI 7\u00b70-7\u00b72). Cardiovascular event rates in patients eligible for each strategy were 15\u00b72 per 1000 person-years (95% CI 15\u00b70-15\u00b75) under the 2011 NICE guideline, 14\u00b79 (14\u00b77-15\u00b71) under the proposed 2019 NICE guideline, 11\u00b74 (11\u00b73-11\u00b76) with blood pressure threshold alone, and 16\u00b79 (16\u00b77-17\u00b71) with QRISK2 threshold alone. Scaled to the UK population, we estimated that 233\u2008152 events would be avoided under the 2011 NICE guideline (28 patients needed to treat for 10 years to avoid one event), 270\u2008233 under the 2019 NICE guideline (29 patients), 301\u2008523 using a blood pressure threshold (38 patients), and 322\u2008921 using QRISK2 threshold (27 patients).<h4>Interpretation</h4>A cardiovascular risk-based strategy (QRISK2 \u226510%) could prevent over a third more cardiovascular disease events than the 2011 NICE guideline and a fifth more than the 2019 NICE guideline, with similar efficiency regarding number treated per event avoided.<h4>Funding</h4>National Institute for Health Research.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S0140-6736(19)31359-5; html:https://europepmc.org/articles/PMC6717081"
+  },
+  {
+    "id": "32908283",
+    "doi": "https://doi.org/10.1038/s41591-020-1034-x",
+    "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension.",
+    "authorString": "Liu X, Cruz Rivera S, Moher D, Calvert MJ, Denniston AK, SPIRIT-AI and CONSORT-AI Working Group.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature medicine",
+    "pubYear": "2020",
+    "date": "2020-09-09",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The CONSORT 2010 statement provides minimum guidelines for reporting randomized trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trials evaluating interventions with an AI component. It was developed in parallel with its companion statement for clinical trial protocols: SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 29 candidate items, which were assessed by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a two-day consensus meeting (31 stakeholders) and refined through a checklist pilot (34 participants). The CONSORT-AI extension includes 14 new items that were considered sufficiently important for AI interventions that they should be routinely reported in addition to the core CONSORT 2010 items. CONSORT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention is integrated, the handling of inputs and outputs of the AI intervention, the human-AI interaction and provision of an analysis of error cases. CONSORT-AI will help promote transparency and completeness in reporting clinical trials for AI interventions. It will assist editors and peer reviewers, as well as the general readership, to understand, interpret and critically appraise the quality of clinical trial design and risk of bias in the reported outcomes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41591-020-1034-x; html:https://europepmc.org/articles/PMC7598943; pdf:https://europepmc.org/articles/PMC7598943?pdf=render"
   },
   {
     "id": "32623924",
@@ -5066,23 +5049,6 @@
     "urls": "doi:https://doi.org/10.1212/WNL.0000000000010463; html:https://europepmc.org/articles/PMC7682841; pdf:https://europepmc.org/articles/PMC7682841?pdf=render"
   },
   {
-    "id": "33769566",
-    "doi": "https://doi.org/10.1111/bph.15459",
-    "title": "Emerging therapies and their delivery for treating age-related macular degeneration.",
-    "authorString": "Thomas CN, Sim DA, Lee WH, Alfahad N, Dick AD, Denniston AK, Hill LJ.",
-    "authorAffiliations": "",
-    "journalTitle": "British journal of pharmacology",
-    "pubYear": "2021",
-    "date": "2021-03-26",
-    "isOpenAccess": "N",
-    "keywords": "Retina; Complement; Immunotherapy; Age-related macular degeneration; Drug Delivery; Anti-vegf; Ocular Disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Age-related macular degeneration (AMD) is the most common cause of blindness in the Western world and is characterised in its latter stages by retinal cell death and neovascularisation and earlier stages with the loss of parainflammatory homeostasis. Patients with neovascular AMD (nAMD) are treated with frequent intraocular injections of anti-vascular endothelial growth factor (VEGF) therapies, which are not only unpopular with patients but carry risks of sight-threatening complications. A minority of patients are unresponsive with no alternative treatment available, and some patients who respond initially eventually develop a tolerance to treatment. New therapeutics with improved delivery methods and sustainability of clinical effects are required, in particular for non-neovascular AMD (90% of cases and no current approved treatments). There are age-related and disease-related changes that occur which can affect ocular drug delivery. Here, we review the latest emerging therapies for AMD, their delivery routes and implications for translating to clinical practice.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/bph.15459"
-  },
-  {
     "id": "30444743",
     "doi": "https://doi.org/10.1097/ccm.0000000000003424",
     "title": "Risk Factors for 1-Year Mortality and Hospital Utilization Patterns in Critical Care Survivors: A Retrospective, Observational, Population-Based Data Linkage Study.",
@@ -5098,6 +5064,23 @@
     "abstract": "<h4>Objectives</h4>Clear understanding of the long-term consequences of critical care survivorship is essential. We investigated the care process and individual factors associated with long-term mortality among ICU survivors and explored hospital use in this group.<h4>Design</h4>Population-based data linkage study using the Secure Anonymised Information Linkage databank.<h4>Setting</h4>All ICUs between 2006 and 2013 in Wales, United Kingdom.<h4>Patients</h4>We identified 40,631 patients discharged alive from Welsh adult ICUs.<h4>Interventions</h4>None.<h4>Measurements and main results</h4>Primary outcome was 365-day survival. The secondary outcomes were 30- and 90-day survival and hospital utilization in the 365 days following ICU discharge. Kaplan-Meier curves were plotted to compare survival rates. Cox proportional hazards regression models were used to determine risk factors of mortality. Seven-thousand eight-hundred eighty-three patients (19.4%) died during the 1-year follow-up period. In the multivariable Cox regression analysis, advanced age and comorbidities were significant determinants of long-term mortality. Expedited discharge due to ICU bed shortage was associated with higher risk. The rate of hospitalization in the year prior to the critical care admission was 28 hospitalized days/1,000 d; post critical care was 88 hospitalized days/1,000 d for those who were still alive; and 57 hospitalized days/1,000 d and 412 hospitalized days/1,000 d for those who died by the end of the study, respectively.<h4>Conclusions</h4>One in five ICU survivors die within 1 year, with advanced age and comorbidity being significant predictors of outcome, leading to high resource use. Care process factors indicating high system stress were associated with increased risk. More detailed understanding is needed on the effects of the potentially modifiable factors to optimize service delivery and improve long-term outcomes of the critically ill.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1097/CCM.0000000000003424; html:https://europepmc.org/articles/PMC6330072; pdf:https://europepmc.org/articles/PMC6330072?pdf=render; doi:https://doi.org/10.1097/ccm.0000000000003424"
+  },
+  {
+    "id": "33769566",
+    "doi": "https://doi.org/10.1111/bph.15459",
+    "title": "Emerging therapies and their delivery for treating age-related macular degeneration.",
+    "authorString": "Thomas CN, Sim DA, Lee WH, Alfahad N, Dick AD, Denniston AK, Hill LJ.",
+    "authorAffiliations": "",
+    "journalTitle": "British journal of pharmacology",
+    "pubYear": "2021",
+    "date": "2021-03-26",
+    "isOpenAccess": "N",
+    "keywords": "Retina; Complement; Immunotherapy; Age-related macular degeneration; Drug Delivery; Anti-vegf; Ocular Disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Age-related macular degeneration (AMD) is the most common cause of blindness in the Western world and is characterised in its latter stages by retinal cell death and neovascularisation and earlier stages with the loss of parainflammatory homeostasis. Patients with neovascular AMD (nAMD) are treated with frequent intraocular injections of anti-vascular endothelial growth factor (VEGF) therapies, which are not only unpopular with patients but carry risks of sight-threatening complications. A minority of patients are unresponsive with no alternative treatment available, and some patients who respond initially eventually develop a tolerance to treatment. New therapeutics with improved delivery methods and sustainability of clinical effects are required, in particular for non-neovascular AMD (90% of cases and no current approved treatments). There are age-related and disease-related changes that occur which can affect ocular drug delivery. Here, we review the latest emerging therapies for AMD, their delivery routes and implications for translating to clinical practice.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/bph.15459"
   },
   {
     "id": "31500613",
@@ -5321,23 +5304,6 @@
     "urls": "doi:https://doi.org/10.1016/S2589-7500(21)00017-0; html:https://europepmc.org/articles/PMC7985613; pdf:https://europepmc.org/articles/PMC7985613?pdf=render"
   },
   {
-    "id": "32321827",
-    "doi": "https://doi.org/10.1073/pnas.1912957117",
-    "title": "Testing for dependence on tree structures.",
-    "authorString": "Behr M, Ansari MA, Munk A, Holmes C.",
-    "authorAffiliations": "",
-    "journalTitle": "Proceedings of the National Academy of Sciences of the United States of America",
-    "pubYear": "2020",
-    "date": "2020-04-22",
-    "isOpenAccess": "Y",
-    "keywords": "Hypothesis Testing; Change-point Detection; Tree Structures; Subgroup Detection",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Tree structures, showing hierarchical relationships and the latent structures between samples, are ubiquitous in genomic and biomedical sciences. A common question in many studies is whether there is an association between a response variable measured on each sample and the latent group structure represented by some given tree. Currently, this is addressed on an ad hoc basis, usually requiring the user to decide on an appropriate number of clusters to prune out of the tree to be tested against the response variable. Here, we present a statistical method with statistical guarantees that tests for association between the response variable and a fixed tree structure across all levels of the tree hierarchy with high power while accounting for the overall false positive error rate. This enhances the robustness and reproducibility of such findings.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1073/pnas.1912957117; html:https://europepmc.org/articles/PMC7211961; pdf:https://europepmc.org/articles/PMC7211961?pdf=render"
-  },
-  {
     "id": "31312209",
     "doi": "https://doi.org/10.3389/fgene.2019.00567",
     "title": "Use of Pharmacogenetic Drugs by the Dutch Population.",
@@ -5353,6 +5319,23 @@
     "abstract": "<h4>Introduction</h4>The Dutch Pharmacogenetics Working Group (DPWG) indicated a list of actionable genotypes that affect patients' response to more 50 drugs; these drugs which show variable effects based on patients' genetic traits were named as pharmacogenetics (PGX) drugs. Preemptive genetic testing before using these drugs may protect certain patients from serious adverse reactions and could help in avoiding treatment failures. The objectives of this study include identifying the rate of PGX drug usage among Dutch population, estimating the level of users who carry the actionable genotypes and determining the main genes involved in drug's effect variability.<h4>Methods</h4>Usage of PGX drugs over 2011-2017 by the insured population (an average of 11.4 million) in outpatient clinics in Netherlands was obtained from the publically available GIP databank. The data of 45 drugs were analyzed and their interactions with selected pharmacogenes were estimated. Frequency of actionable genotypes of 249 Dutch parents was obtained from the public database: Genome of Netherlands (GoNL), to identify the pattern of genetic characteristics of Dutch population.<h4>Results</h4>Over a 7 year period, 51.3 million exposures of patients to PGX drugs were reported with an average of 5.3 exposures per each drug user. One quarterof the exposures (12.4 million) are predicted to be experienced by individuals with actionable genotypes (risky exposures). Up to 60% of the risky exposures (around 7.5 million) were related to drugs metabolized by CYP2D6. SLCO1B1, and CYP2C19 were also identified among the top genes affecting response of drugs users (involved in about 22 and 12.4% of the risky exposures, respectively). Cardiovascular medications were the top prescribed PGX drug class (43%), followed by gastroenterology (29%) and psychiatry/neurology medications (15%). Women use more PGX drugs than men (55.8 vs. 44.2%, respectively) with the majority (84%) of users in both sexes are above 45 years.<h4>Conclusion</h4>PGX drugs are commonly used in Netherlands. Preemptive panel testing for CYP2D6, SLCO1B1, and CYP2C19 only could be useful to predict 95% of vulnerable patients' exposures to PGX drugs. Future studies to assess the economic impact of preemptive panel testing on patients of older age are suggested.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3389/fgene.2019.00567; html:https://europepmc.org/articles/PMC6614185; pdf:https://europepmc.org/articles/PMC6614185?pdf=render"
+  },
+  {
+    "id": "32321827",
+    "doi": "https://doi.org/10.1073/pnas.1912957117",
+    "title": "Testing for dependence on tree structures.",
+    "authorString": "Behr M, Ansari MA, Munk A, Holmes C.",
+    "authorAffiliations": "",
+    "journalTitle": "Proceedings of the National Academy of Sciences of the United States of America",
+    "pubYear": "2020",
+    "date": "2020-04-22",
+    "isOpenAccess": "Y",
+    "keywords": "Hypothesis Testing; Change-point Detection; Tree Structures; Subgroup Detection",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Tree structures, showing hierarchical relationships and the latent structures between samples, are ubiquitous in genomic and biomedical sciences. A common question in many studies is whether there is an association between a response variable measured on each sample and the latent group structure represented by some given tree. Currently, this is addressed on an ad hoc basis, usually requiring the user to decide on an appropriate number of clusters to prune out of the tree to be tested against the response variable. Here, we present a statistical method with statistical guarantees that tests for association between the response variable and a fixed tree structure across all levels of the tree hierarchy with high power while accounting for the overall false positive error rate. This enhances the robustness and reproducibility of such findings.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1073/pnas.1912957117; html:https://europepmc.org/articles/PMC7211961; pdf:https://europepmc.org/articles/PMC7211961?pdf=render"
   },
   {
     "id": "32285648",
@@ -5644,23 +5627,6 @@
     "urls": "doi:https://doi.org/10.5694/mja2.50143"
   },
   {
-    "id": "32346541",
-    "doi": "https://doi.org/10.1093/burnst/tkz004",
-    "title": "Predictors of itch and pain in the 12 months following burn injury: results from the Burns Registry of Australia and New Zealand (BRANZ) Long-Term Outcomes Project.",
-    "authorString": "Tracy LM, Edgar DW, Schrale R, Cleland H, Gabbe BJ, BRANZ Adult Long-Term Outcomes Pilot Project participating sites and working party.",
-    "authorAffiliations": "",
-    "journalTitle": "Burns & trauma",
-    "pubYear": "2020",
-    "date": "2020-02-27",
-    "isOpenAccess": "Y",
-    "keywords": "Australia; Pain; New Zealand; Cohort study; Outcomes; Predictor; Itch; Burn Registry",
-    "nationalPriorities": "Better Care",
-    "healthCategories": "injuries and accidents",
-    "abstract": "Background:Itch and pain are common complaints of patients with burn injuries. This study aimed to describe the prevalence and predictors of itch and moderate to severe pain in the first 12\u00a0months following a burn injury, and determine the association between itch, moderate to severe pain, work-related outcomes, and health-related quality of life following a burn injury. Methods:Burn patients aged 18\u00a0years and older were recruited from five Australian specialist burn units. Patients completed the 36-item Short Form Health Survey Version 2 (SF-36 V2), the Sickness Impact Profile (SIP) work scale, and a specially developed questionnaire relating to itch at 1, 6, and 12 months post-injury. Moderate to severe pain was defined as a score less than 40 on the bodily pain domain of the SF-36 V2. Multivariate mixed-effects regression models were used to identify patient and burn injury predictors of itch and moderate to severe pain. Results:Three hundred and twenty-eight patients were included. The prevalence of itch decreased from 50% at 1 month to 27% at 12 months. Similarly, the prevalence of moderate to severe pain decreased from 23% at 1 month to 13% at 12 months. Compared to patients aged 18-34, the adjusted odds of experiencing any itch were 59% (95% CI: 0.20, 0.82) and 55% (95% CI: 0.22, 0.91) lower for patients aged between 35 and 49 and \u2265\u200950\u00a0years, respectively. Compared to patients aged 18-34, the adjusted odds of experiencing moderate to severe pain were 3.12 (95% CI: 1.35, 7.20) and 3.42 (95% CI: 1.47, 7.93) times higher for patients aged 35-49 and\u2009\u2265\u200950\u00a0years, respectively. Conclusions:Less than 15% of patients reported moderate or severe pain at 12 months, while approximately one-quarter of the patients reported itch at the same period. The presence of moderate to severe pain was associated with a greater negative impact on health-related quality of life and work outcomes compared to itch. Further research is needed to improve our ability to identify patients at higher risk of persistent itch and pain who would benefit from targeted review and intervention studies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/burnst/tkz004; html:https://europepmc.org/articles/PMC7175773; pdf:https://europepmc.org/articles/PMC7175773?pdf=render"
-  },
-  {
     "id": "31053412",
     "doi": "https://doi.org/10.1016/j.burns.2019.04.006",
     "title": "Severe burns in Australian and New Zealand adults: Epidemiology and burn centre care.",
@@ -5676,6 +5642,23 @@
     "abstract": "<h4>Introduction</h4>Studies describing the epidemiology of severe burns (>20% total body surface area) in adults are limited despite the extensive associated morbidity and mortality. This study aimed to describe the epidemiology of severe burn injuries admitted to burn centres in Australia and New Zealand.<h4>Materials and methods</h4>Data from the Burns Registry of Australia and New Zealand (BRANZ) were used in this study. Patients were eligible for inclusion if they were admitted between August 2009 and June 2013, were adults (18-years or older), and had burns of 20% total body surface area (TBSA) or greater. Demographics, burn characteristics and in-hospital mortality risk factors were investigated using multivariable Cox proportional hazards analysis.<h4>Results</h4>There were 496 BRANZ registered patients who met the inclusion criteria. Over half of the patients were aged 18-40 years and most were male. The median (IQR) TBSA was 31 (25-47). Most (75%) patients had burns involving <50% TBSA, 58% sustained their burn injury at home, and 86% had sustained flame burns. Leisure activities, working for income and preparing food together accounted for over 48% of the activities undertaken at the time of injury. The in-hospital mortality rate was 17% and the median (IQR) length of stay was 24 (12-44) days. Seventy-two percent were admitted to an intensive care unit (ICU) and 40% of patients had an associated inhalation injury. Alcohol and/or drug involvement was suspected in 25% of cases.<h4>Conclusion</h4>This study describes the demographics, burn injury characteristics and in-hospital outcomes of severe burn injuries in adults whilst also identifying key predictors of inpatient mortality. Key findings included the over-representation of young males, intentional self-harm injuries and flame as a cause of burns and highlights high risk groups to help aid in the development of targeted prevention strategies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.burns.2019.04.006"
+  },
+  {
+    "id": "32346541",
+    "doi": "https://doi.org/10.1093/burnst/tkz004",
+    "title": "Predictors of itch and pain in the 12 months following burn injury: results from the Burns Registry of Australia and New Zealand (BRANZ) Long-Term Outcomes Project.",
+    "authorString": "Tracy LM, Edgar DW, Schrale R, Cleland H, Gabbe BJ, BRANZ Adult Long-Term Outcomes Pilot Project participating sites and working party.",
+    "authorAffiliations": "",
+    "journalTitle": "Burns & trauma",
+    "pubYear": "2020",
+    "date": "2020-02-27",
+    "isOpenAccess": "Y",
+    "keywords": "Australia; Pain; New Zealand; Cohort study; Outcomes; Predictor; Itch; Burn Registry",
+    "nationalPriorities": "Better Care",
+    "healthCategories": "injuries and accidents",
+    "abstract": "Background:Itch and pain are common complaints of patients with burn injuries. This study aimed to describe the prevalence and predictors of itch and moderate to severe pain in the first 12\u00a0months following a burn injury, and determine the association between itch, moderate to severe pain, work-related outcomes, and health-related quality of life following a burn injury. Methods:Burn patients aged 18\u00a0years and older were recruited from five Australian specialist burn units. Patients completed the 36-item Short Form Health Survey Version 2 (SF-36 V2), the Sickness Impact Profile (SIP) work scale, and a specially developed questionnaire relating to itch at 1, 6, and 12 months post-injury. Moderate to severe pain was defined as a score less than 40 on the bodily pain domain of the SF-36 V2. Multivariate mixed-effects regression models were used to identify patient and burn injury predictors of itch and moderate to severe pain. Results:Three hundred and twenty-eight patients were included. The prevalence of itch decreased from 50% at 1 month to 27% at 12 months. Similarly, the prevalence of moderate to severe pain decreased from 23% at 1 month to 13% at 12 months. Compared to patients aged 18-34, the adjusted odds of experiencing any itch were 59% (95% CI: 0.20, 0.82) and 55% (95% CI: 0.22, 0.91) lower for patients aged between 35 and 49 and \u2265\u200950\u00a0years, respectively. Compared to patients aged 18-34, the adjusted odds of experiencing moderate to severe pain were 3.12 (95% CI: 1.35, 7.20) and 3.42 (95% CI: 1.47, 7.93) times higher for patients aged 35-49 and\u2009\u2265\u200950\u00a0years, respectively. Conclusions:Less than 15% of patients reported moderate or severe pain at 12 months, while approximately one-quarter of the patients reported itch at the same period. The presence of moderate to severe pain was associated with a greater negative impact on health-related quality of life and work outcomes compared to itch. Further research is needed to improve our ability to identify patients at higher risk of persistent itch and pain who would benefit from targeted review and intervention studies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/burnst/tkz004; html:https://europepmc.org/articles/PMC7175773; pdf:https://europepmc.org/articles/PMC7175773?pdf=render"
   },
   {
     "id": "32079223",
@@ -6273,6 +6256,23 @@
     "urls": "doi:https://doi.org/10.1016/S2215-0366(19)30369-4"
   },
   {
+    "id": "34396248",
+    "doi": "https://doi.org/10.1016/j.jaccao.2020.07.001",
+    "title": "Prediction of Lifetime and 10-Year Risk of Cancer in Individual Patients With Established Cardiovascular Disease.",
+    "authorString": "van 't Klooster CC, Ridker PM, Cook NR, Aerts JGJV, Westerink J, Asselbergs FW, van der Graaf Y, Visseren FLJ, UCC-SMART Study Group.",
+    "authorAffiliations": "",
+    "journalTitle": "JACC. CardioOncology",
+    "pubYear": "2020",
+    "date": "2020-08-28",
+    "isOpenAccess": "Y",
+    "keywords": "Lung cancer; Colorectal Cancer; Risk Prediction; Crp, C-reactive Protein; Sd, Standard Deviation; Cvd, Cardiovascular Disease; Ci, Confidence Interval; Aic, Akaike\u2019s Information Criterion",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Cardiovascular disease (CVD) and cancer share many common risk factors; patients with CVD also may be at risk of developing cancer.<h4>Objectives</h4>The aim of this study was to derive and externally validate prediction models for the estimation of lifetime and 10-year risk for total, colorectal, and lung cancer in patients with established CVD.<h4>Methods</h4>Data from patients with established CVD from the UCC-SMART cohort (N\u00a0=\u00a07,280) were used for model development, and from the CANTOS trial (N\u00a0=\u00a09,322) for model validation. Predictors were selected based on previously published cancer risk scores, clinical availability, and presence in the derivation dataset. Fine and Gray competing risk-adjusted lifetime models were developed for the outcomes total, colorectal, and lung cancer.<h4>Results</h4>Selected predictors were age, sex, smoking, weight, height, alcohol use, antiplatelet use, diabetes, and C-reactive protein. External calibration for the 4-year risk of lung, colorectal, and total cancer was reasonable in our models, as was discrimination with C-statistics of 0.74, 0.64, and 0.63, respectively. Median predicted lifetime and 10-year risks in CANTOS were 26% (range 1% to 52%) and 13% (range 1% to 31%) for total cancer; 4% (range 0% to 13%) and 2% (range 0% to 6%) for colorectal cancer; and 5% (range 0% to 37%) and 2% (range 0% to 24%) for lung cancer.<h4>Conclusions</h4>Lifetime and 10-year risk of total, colorectal, and lung cancer can be estimated reasonably well in patients with established CVD with readily available clinical predictors. With additional study, these tools could be used in clinical practice to further aid in the emphasis of healthy lifestyle changes and to guide thresholds for targeted diagnostics and screening.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jaccao.2020.07.001; html:https://europepmc.org/articles/PMC8352343; pdf:https://europepmc.org/articles/PMC8352343?pdf=render"
+  },
+  {
     "id": "34328441",
     "doi": "https://doi.org/10.2196/29840",
     "title": "Predicting Depressive Symptom Severity Through Individuals' Nearby Bluetooth Device Count Data Collected by Mobile Phones: Preliminary Longitudinal Study.",
@@ -6307,23 +6307,6 @@
     "urls": "doi:https://doi.org/10.1183/13993003.01809-2020; html:https://europepmc.org/articles/PMC7331656; pdf:https://europepmc.org/articles/PMC7331656?pdf=render"
   },
   {
-    "id": "34321180",
-    "doi": "https://doi.org/10.1016/j.aucc.2021.05.013",
-    "title": "The impact of distance on post-ICU disability.",
-    "authorString": "D'Arcy J, Haines K, Paul E, Doherty Z, Goodwin A, Bailey M, Barrett J, Bellomo R, Bucknall T, Gabbe BJ, Higgins AM, Iwashyna TJ, Murray LJ, Myles PS, Ponsford J, Pilcher D, Udy AA, Walker C, Young M, Cooper DJJ, Hodgson CL, ICU-Recovery Investigators.",
-    "authorAffiliations": "",
-    "journalTitle": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-    "pubYear": "2021",
-    "date": "2021-07-25",
-    "isOpenAccess": "N",
-    "keywords": "Quality of life; Mechanical ventilation; Distance; Disability; Intensive Care",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Nonurban residential living is associated with adverse outcomes for a number of chronic health conditions. However, it is unclear what effect it has amongst survivors of critical illness.<h4>Objectives</h4>The purpose of this study is to determine whether patients living greater than 50 km from the treating intensive care unit (ICU) have disability outcomes at 6 months that differ from people living within 50 km.<h4>Methods</h4>This was a multicentre, prospective cohort study conducted in five metropolitan ICUs. Participants were adults admitted to the ICU, who received >24 h of mechanical ventilation and survived to hospital discharge. In a secondary analysis of these data, the cohort was dichotomised based on residential distance from the treating ICU: <50 km and \u226550 km. The primary outcome was patient-reported disability using the 12-item World Health Organization's Disability Assessment Schedule (WHODAS 2.0). This was recorded at 6 months after ICU admission by telephone interview. Secondary outcomes included health status as measured by EQ-5D-5L return to work and psychological function as measured by the Hospital Anxiety and Depression Scale (HADS). Multivariable logistic regression was used to assess the association between distance from the ICU and moderate to severe disability, adjusted for potential confounders. Variables included in the multivariable model were deemed to be clinically relevant and had baseline imbalance between groups (p < 0.10). These included marital status and hours of mechanical ventilation. Sensitivity analysis was also conducted using distance in kilometres as a continuous variable.<h4>Results</h4>A total of 262 patients were enrolled, and 169 (65%) lived within 50 km of the treating ICU and 93 (35%) lived \u226550 km from the treating ICU (interquartile range [IQR] 10-664 km). There was no difference in patient-reported disability at 6 months between patients living <50 km and those living \u226550 km (WHODAS total disability % [IQR] 10.4 [2.08-25] v 14.6 [2.08-20.8], P = 0.74). There was also no difference between groups for the six major life domains of the WHODAS. There was no difference in rates of anxiety or depression as measured by HADS score (HADS anxiety median [IQR] 4 [1-7] v 3 [1-7], P = 0.60) (HADS depression median [IQR] 3 [1-6] v 3 [1-6], P = 0.62); health status as measured by EQ-5D (mean [SD] 66.7 [20] v 69.8 [22.2], P = 0.24); or health-related unemployment (% (N) 39 [26] v 25 [29.1], P = 0.61). After adjusting for confounders, living \u226550 km from the treating ICU was not associated with increased disability (odds ratio 0.61, 95% confidence interval: 0.33-1.16; P = 0.13) CONCLUSIONS: Survivors of intensive care in Victoria, Australia, who live at least 50 km from the treating ICU did not have greater disability than people living less than 50 km at 6 months after discharge. Living 50 km or more from the treating ICU was not associated with disability, nor was it associated with anxiety or depression, health status, or unemployment due to health.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.aucc.2021.05.013"
-  },
-  {
     "id": "31492797",
     "doi": "https://doi.org/10.1136/bmjopen-2019-032165",
     "title": "Evaluation of the impact of the GRACE risk score on the management and outcome of patients hospitalised with non-ST elevation acute coronary syndrome in the UK: protocol of the UKGRIS cluster-randomised registry-based trial.",
@@ -6339,6 +6322,23 @@
     "abstract": "INTRODUCTION:For non-ST-segment elevation acute coronary syndrome (NSTEACS) there is a gap between the use of class I guideline recommended therapies and clinical practice. The Global Registry of Acute Coronary Events (GRACE) risk score is recommended in international guidelines for the risk stratification of NSTEACS, but its impact on adherence to guideline-indicated treatments and reducing adverse clinical outcomes is unknown. The objective of the UK GRACE Risk Score Intervention Study (UKGRIS) trial is to assess the effectiveness of the GRACE risk score tool and associated treatment recommendations on the use of guideline-indicated care and clinical outcomes. METHODS AND ANALYSIS:The UKGRIS, a parallel-group cluster randomised registry-based controlled trial, will allocate hospitals in a 1:1 ratio to manage NSTEACS by standard care or according to the GRACE risk score and associated international guidelines. UKGRIS will recruit a minimum of 3000 patients from at least 30 English National Health Service hospitals and collect healthcare data from national electronic health records. The co-primary endpoints are the use of guideline-indicated therapies, and the composite of cardiovascular death, non-fatal myocardial infarction, new onset heart failure hospitalisation or cardiovascular readmission at 12 months. Secondary endpoints include duration of inpatient hospital stay over 12 months, EQ-5D-5L responses and utilities, unscheduled revascularisation and the components of the composite endpoint over 12 months follow-up. ETHICS AND DISSEMINATION:The study has ethical approval (North East - Tyne & Wear South Research Ethics Committee reference: 14/NE/1180). Findings will be announced at relevant conferences and published in peer-reviewed journals in line with the funder's open access policy. TRIAL REGISTRATION NUMBER:ISRCTN29731761; Pre-results.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjopen-2019-032165; html:https://europepmc.org/articles/PMC6731819; pdf:https://europepmc.org/articles/PMC6731819?pdf=render"
+  },
+  {
+    "id": "34321180",
+    "doi": "https://doi.org/10.1016/j.aucc.2021.05.013",
+    "title": "The impact of distance on post-ICU disability.",
+    "authorString": "D'Arcy J, Haines K, Paul E, Doherty Z, Goodwin A, Bailey M, Barrett J, Bellomo R, Bucknall T, Gabbe BJ, Higgins AM, Iwashyna TJ, Murray LJ, Myles PS, Ponsford J, Pilcher D, Udy AA, Walker C, Young M, Cooper DJJ, Hodgson CL, ICU-Recovery Investigators.",
+    "authorAffiliations": "",
+    "journalTitle": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
+    "pubYear": "2021",
+    "date": "2021-07-25",
+    "isOpenAccess": "N",
+    "keywords": "Quality of life; Mechanical ventilation; Distance; Disability; Intensive Care",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Nonurban residential living is associated with adverse outcomes for a number of chronic health conditions. However, it is unclear what effect it has amongst survivors of critical illness.<h4>Objectives</h4>The purpose of this study is to determine whether patients living greater than 50 km from the treating intensive care unit (ICU) have disability outcomes at 6 months that differ from people living within 50 km.<h4>Methods</h4>This was a multicentre, prospective cohort study conducted in five metropolitan ICUs. Participants were adults admitted to the ICU, who received >24 h of mechanical ventilation and survived to hospital discharge. In a secondary analysis of these data, the cohort was dichotomised based on residential distance from the treating ICU: <50 km and \u226550 km. The primary outcome was patient-reported disability using the 12-item World Health Organization's Disability Assessment Schedule (WHODAS 2.0). This was recorded at 6 months after ICU admission by telephone interview. Secondary outcomes included health status as measured by EQ-5D-5L return to work and psychological function as measured by the Hospital Anxiety and Depression Scale (HADS). Multivariable logistic regression was used to assess the association between distance from the ICU and moderate to severe disability, adjusted for potential confounders. Variables included in the multivariable model were deemed to be clinically relevant and had baseline imbalance between groups (p < 0.10). These included marital status and hours of mechanical ventilation. Sensitivity analysis was also conducted using distance in kilometres as a continuous variable.<h4>Results</h4>A total of 262 patients were enrolled, and 169 (65%) lived within 50 km of the treating ICU and 93 (35%) lived \u226550 km from the treating ICU (interquartile range [IQR] 10-664 km). There was no difference in patient-reported disability at 6 months between patients living <50 km and those living \u226550 km (WHODAS total disability % [IQR] 10.4 [2.08-25] v 14.6 [2.08-20.8], P = 0.74). There was also no difference between groups for the six major life domains of the WHODAS. There was no difference in rates of anxiety or depression as measured by HADS score (HADS anxiety median [IQR] 4 [1-7] v 3 [1-7], P = 0.60) (HADS depression median [IQR] 3 [1-6] v 3 [1-6], P = 0.62); health status as measured by EQ-5D (mean [SD] 66.7 [20] v 69.8 [22.2], P = 0.24); or health-related unemployment (% (N) 39 [26] v 25 [29.1], P = 0.61). After adjusting for confounders, living \u226550 km from the treating ICU was not associated with increased disability (odds ratio 0.61, 95% confidence interval: 0.33-1.16; P = 0.13) CONCLUSIONS: Survivors of intensive care in Victoria, Australia, who live at least 50 km from the treating ICU did not have greater disability than people living less than 50 km at 6 months after discharge. Living 50 km or more from the treating ICU was not associated with disability, nor was it associated with anxiety or depression, health status, or unemployment due to health.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.aucc.2021.05.013"
   },
   {
     "id": "31481394",
@@ -6834,23 +6834,6 @@
     "urls": "doi:https://doi.org/10.1002/art.41593; html:https://europepmc.org/articles/PMC8252419; pdf:https://europepmc.org/articles/PMC8252419?pdf=render"
   },
   {
-    "id": "33933530",
-    "doi": "https://doi.org/10.1016/j.jinf.2021.04.027",
-    "title": "Early observations on the impact of a healthcare worker COVID-19 vaccination programme at a major UK tertiary centre.",
-    "authorString": "Garvey MI, Wilkinson MAC, Holden E, Shields A, Robertson A, Richter A, Ball S.",
-    "authorAffiliations": "",
-    "journalTitle": "The Journal of infection",
-    "pubYear": "2021",
-    "date": "2021-04-29",
-    "isOpenAccess": "Y",
-    "keywords": "Vaccination; Healthcare Workers; Lateral Flow; Covid-19",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jinf.2021.04.027; html:https://europepmc.org/articles/PMC8081749; pdf:https://europepmc.org/articles/PMC8081749?pdf=render"
-  },
-  {
     "id": "30928767",
     "doi": "https://doi.org/10.1016/j.evalprogplan.2019.03.002",
     "title": "Understanding the factors that influence health promotion evaluation: The development and validation of the evaluation practice analysis survey.",
@@ -6866,6 +6849,23 @@
     "abstract": "The demand for improved quality of health promotion evaluation and greater capacity to undertake evaluation is growing, yet evidence of the challenges and facilitators to evaluation practice within the health promotion field is lacking. A limited number of evaluation capacity measurement instruments have been validated in government or non-government organisations (NGO), however there is no instrument designed for health promotion organisations. This study aimed to develop and validate an Evaluation Practice Analysis Survey (EPAS) to examine evaluation practices in health promotion organisations. Qualitative interviews, existing frameworks and instruments informed the survey development. Health promotion practitioners from government agencies and NGOs completed the survey (n\u2009=\u2009169). Principal components analysis was used to determine scale structure and Cronbach's \u03b1 used to estimate internal reliability. Logistic regression was conducted to assess predictive validity of selected EPAS scale. The final survey instrument included 25 scales (125 items). The EPAS demonstrated good internal reliability (\u03b1\u2009>\u20090.7) for 23 scales. Dedicated resources and time for evaluation, leadership, organisational culture and internal support for evaluation showed promising predictive validity. The EPAS can be used to describe elements of evaluation capacity at the individual, organisational and system levels and to guide initiatives to improve evaluation practice in health promotion organisations.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.evalprogplan.2019.03.002"
+  },
+  {
+    "id": "33933530",
+    "doi": "https://doi.org/10.1016/j.jinf.2021.04.027",
+    "title": "Early observations on the impact of a healthcare worker COVID-19 vaccination programme at a major UK tertiary centre.",
+    "authorString": "Garvey MI, Wilkinson MAC, Holden E, Shields A, Robertson A, Richter A, Ball S.",
+    "authorAffiliations": "",
+    "journalTitle": "The Journal of infection",
+    "pubYear": "2021",
+    "date": "2021-04-29",
+    "isOpenAccess": "Y",
+    "keywords": "Vaccination; Healthcare Workers; Lateral Flow; Covid-19",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jinf.2021.04.027; html:https://europepmc.org/articles/PMC8081749; pdf:https://europepmc.org/articles/PMC8081749?pdf=render"
   },
   {
     "id": "33910683",
@@ -8432,23 +8432,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jclinepi.2019.11.006"
   },
   {
-    "id": "33947203",
-    "doi": "https://doi.org/10.1161/circulationaha.120.053033",
-    "title": "Evidence-Based Assessment of Genes in Dilated Cardiomyopathy.",
-    "authorString": "Jordan E, Peterson L, Ai T, Asatryan B, Bronicki L, Brown E, Celeghin R, Edwards M, Fan J, Ingles J, James CA, Jarinova O, Johnson R, Judge DP, Lahrouchi N, Lekanne Deprez RH, Lumbers RT, Mazzarotto F, Medeiros Domingo A, Miller RL, Morales A, Murray B, Peters S, Pilichou K, Protonotarios A, Semsarian C, Shah P, Syrris P, Thaxton C, van Tintelen JP, Walsh R, Wang J, Ware J, Hershberger RE.",
-    "authorAffiliations": "",
-    "journalTitle": "Circulation",
-    "pubYear": "2021",
-    "date": "2021-05-05",
-    "isOpenAccess": "Y",
-    "keywords": "Genetics; Cardiomyopathy",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Each of the cardiomyopathies, classically categorized as hypertrophic cardiomyopathy, dilated cardiomyopathy (DCM), and arrhythmogenic right ventricular cardiomyopathy, has a signature genetic theme. Hypertrophic cardiomyopathy and arrhythmogenic right ventricular cardiomyopathy are largely understood as genetic diseases of sarcomere or desmosome proteins, respectively. In contrast, >250 genes spanning >10 gene ontologies have been implicated in DCM, representing a complex and diverse genetic architecture. To clarify this, a systematic curation of evidence to establish the relationship of genes with DCM was conducted.<h4>Methods</h4>An international panel with clinical and scientific expertise in DCM genetics evaluated evidence supporting monogenic relationships of genes with idiopathic DCM. The panel used the Clinical Genome Resource semiquantitative gene-disease clinical validity classification framework with modifications for DCM genetics to classify genes into categories on the basis of the strength of currently available evidence. Representation of DCM genes on clinically available genetic testing panels was evaluated.<h4>Results</h4>Fifty-one genes with human genetic evidence were curated. Twelve genes (23%) from 8 gene ontologies were classified as having definitive (<i>BAG3</i>, <i>DES</i>, <i>FLNC</i>, <i>LMNA</i>, <i>MYH7</i>, <i>PLN</i>, <i>RBM20</i>, <i>SCN5A</i>, <i>TNNC1</i>, <i>TNNT2</i>, <i>TTN</i>) or strong (<i>DSP</i>) evidence. Seven genes (14%; <i>ACTC1</i>, <i>ACTN2</i>, <i>JPH2</i>, <i>NEXN</i>, <i>TNNI3</i>, <i>TPM1</i>, <i>VCL</i>) including 2 additional ontologies were classified as moderate evidence; these genes are likely to emerge as strong or definitive with additional evidence. Of these 19 genes, 6 were similarly classified for hypertrophic cardiomyopathy and 3 for arrhythmogenic right ventricular cardiomyopathy. Of the remaining 32 genes (63%), 25 (49%) had limited evidence, 4 (8%) were disputed, 2 (4%) had no disease relationship, and 1 (2%) was supported by animal model data only. Of the 16 evaluated clinical genetic testing panels, most definitive genes were included, but panels also included numerous genes with minimal human evidence.<h4>Conclusions</h4>In the curation of 51 genes, 19 had high evidence (12 definitive/strong, 7 moderate). It is notable that these 19 genes explain only a minority of cases, leaving the remainder of DCM genetic architecture incompletely addressed. Clinical genetic testing panels include most high-evidence genes; however, genes lacking robust evidence are also commonly included. We recommend that high-evidence DCM genes be used for clinical practice and that caution be exercised in the interpretation of variants in variable-evidence DCM genes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.120.053033; html:https://europepmc.org/articles/PMC8247549; pdf:https://europepmc.org/articles/PMC8247549?pdf=render"
-  },
-  {
     "id": "31063847",
     "doi": "https://doi.org/10.1016/j.bbi.2019.05.009",
     "title": "Transcriptomic analysis of probable asymptomatic and symptomatic alzheimer brains.",
@@ -8464,6 +8447,23 @@
     "abstract": "Individuals with intact cognition and neuropathology consistent with Alzheimer's disease (AD) are referred to as asymptomatic AD (AsymAD). These individuals are highly likely to develop AD, yet transcriptomic changes in the brain which might reveal mechanisms for their AD vulnerability are currently unknown. Entorhinal cortex, frontal cortex, temporal cortex and cerebellum tissue from 27 control, 33 AsymAD and 52 AD human brains were microarray expression profiled. Differential expression analysis identified a significant increase of transcriptomic activity in the frontal cortex of AsymAD subjects, suggesting fundamental changes in AD may initially begin within the frontal cortex region prior to AD diagnosis. Co-expression analysis identified an overactivation of the brain \"glutamate-glutamine cycle\", and disturbances in the brain energy pathways in both AsymAD and AD subjects, while the connectivity of key hub genes in this network indicates a shift from an already increased cell proliferation in AsymAD subjects to stress response and removal of amyloidogenic proteins in AD subjects. This study provides new insight into the earliest biological changes occurring in the brain prior to the manifestation of clinical AD symptoms and provides new potential therapeutic targets for early disease intervention.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.bbi.2019.05.009"
+  },
+  {
+    "id": "33947203",
+    "doi": "https://doi.org/10.1161/circulationaha.120.053033",
+    "title": "Evidence-Based Assessment of Genes in Dilated Cardiomyopathy.",
+    "authorString": "Jordan E, Peterson L, Ai T, Asatryan B, Bronicki L, Brown E, Celeghin R, Edwards M, Fan J, Ingles J, James CA, Jarinova O, Johnson R, Judge DP, Lahrouchi N, Lekanne Deprez RH, Lumbers RT, Mazzarotto F, Medeiros Domingo A, Miller RL, Morales A, Murray B, Peters S, Pilichou K, Protonotarios A, Semsarian C, Shah P, Syrris P, Thaxton C, van Tintelen JP, Walsh R, Wang J, Ware J, Hershberger RE.",
+    "authorAffiliations": "",
+    "journalTitle": "Circulation",
+    "pubYear": "2021",
+    "date": "2021-05-05",
+    "isOpenAccess": "Y",
+    "keywords": "Genetics; Cardiomyopathy",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Each of the cardiomyopathies, classically categorized as hypertrophic cardiomyopathy, dilated cardiomyopathy (DCM), and arrhythmogenic right ventricular cardiomyopathy, has a signature genetic theme. Hypertrophic cardiomyopathy and arrhythmogenic right ventricular cardiomyopathy are largely understood as genetic diseases of sarcomere or desmosome proteins, respectively. In contrast, >250 genes spanning >10 gene ontologies have been implicated in DCM, representing a complex and diverse genetic architecture. To clarify this, a systematic curation of evidence to establish the relationship of genes with DCM was conducted.<h4>Methods</h4>An international panel with clinical and scientific expertise in DCM genetics evaluated evidence supporting monogenic relationships of genes with idiopathic DCM. The panel used the Clinical Genome Resource semiquantitative gene-disease clinical validity classification framework with modifications for DCM genetics to classify genes into categories on the basis of the strength of currently available evidence. Representation of DCM genes on clinically available genetic testing panels was evaluated.<h4>Results</h4>Fifty-one genes with human genetic evidence were curated. Twelve genes (23%) from 8 gene ontologies were classified as having definitive (<i>BAG3</i>, <i>DES</i>, <i>FLNC</i>, <i>LMNA</i>, <i>MYH7</i>, <i>PLN</i>, <i>RBM20</i>, <i>SCN5A</i>, <i>TNNC1</i>, <i>TNNT2</i>, <i>TTN</i>) or strong (<i>DSP</i>) evidence. Seven genes (14%; <i>ACTC1</i>, <i>ACTN2</i>, <i>JPH2</i>, <i>NEXN</i>, <i>TNNI3</i>, <i>TPM1</i>, <i>VCL</i>) including 2 additional ontologies were classified as moderate evidence; these genes are likely to emerge as strong or definitive with additional evidence. Of these 19 genes, 6 were similarly classified for hypertrophic cardiomyopathy and 3 for arrhythmogenic right ventricular cardiomyopathy. Of the remaining 32 genes (63%), 25 (49%) had limited evidence, 4 (8%) were disputed, 2 (4%) had no disease relationship, and 1 (2%) was supported by animal model data only. Of the 16 evaluated clinical genetic testing panels, most definitive genes were included, but panels also included numerous genes with minimal human evidence.<h4>Conclusions</h4>In the curation of 51 genes, 19 had high evidence (12 definitive/strong, 7 moderate). It is notable that these 19 genes explain only a minority of cases, leaving the remainder of DCM genetic architecture incompletely addressed. Clinical genetic testing panels include most high-evidence genes; however, genes lacking robust evidence are also commonly included. We recommend that high-evidence DCM genes be used for clinical practice and that caution be exercised in the interpretation of variants in variable-evidence DCM genes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.120.053033; html:https://europepmc.org/articles/PMC8247549; pdf:https://europepmc.org/articles/PMC8247549?pdf=render"
   },
   {
     "id": "31641117",
@@ -8534,23 +8534,6 @@
     "urls": "doi:https://doi.org/10.1056/NEJMoa1907096"
   },
   {
-    "id": "33813844",
-    "doi": "https://doi.org/10.1161/hypertensionaha.120.16534",
-    "title": "Relationship Between Blood Pressure and Incident Cardiovascular Disease: Linear and Nonlinear Mendelian Randomization Analyses.",
-    "authorString": "Malik R, Georgakis MK, Vujkovic M, Damrauer SM, Elliott P, Karhunen V, Giontella A, Fava C, Hellwege JN, Shuey MM, Edwards TL, Rogne T, \u00c5svold BO, Brumpton BM, Burgess S, Dichgans M, Gill D.",
-    "authorAffiliations": "",
-    "journalTitle": "Hypertension (Dallas, Tex. : 1979)",
-    "pubYear": "2021",
-    "date": "2021-04-05",
-    "isOpenAccess": "Y",
-    "keywords": "Hypertension; Blood pressure; Stroke; coronary artery disease; Primary Prevention",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "[Figure: see text].",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/HYPERTENSIONAHA.120.16534; html:https://europepmc.org/articles/PMC8115430; pdf:https://europepmc.org/articles/PMC8115430?pdf=render"
-  },
-  {
     "id": "31539079",
     "doi": "https://doi.org/10.1001/jamanetworkopen.2019.11970",
     "title": "Association of Untargeted Urinary Metabolomics and Lung Cancer Risk Among Never-Smoking Women in China.",
@@ -8566,6 +8549,23 @@
     "abstract": "<h4>Importance</h4>Chinese women have the highest rate of lung cancer among female never-smokers in the world, and the etiology is poorly understood.<h4>Objective</h4>To assess the association between metabolomics and lung cancer risk among never-smoking women.<h4>Design, setting, and participants</h4>This nested case-control study included 275 never-smoking female patients with lung cancer and 289 never-smoking cancer-free control participants from the prospective Shanghai Women's Health Study recruited from December 28, 1996, to May 23, 2000. Validated food frequency questionnaires were used for the collection of dietary information. Metabolomic analysis was conducted from November 13, 2015, to January 6, 2016. Data analysis was conducted from January 6, 2016, to November 29, 2018.<h4>Exposures</h4>Untargeted ultra-high-performance liquid chromatography-tandem mass spectrometry and nuclear magnetic resonance metabolomic profiles were characterized using prediagnosis urine samples. A total of 39\u202f416 metabolites were measured.<h4>Main outcomes and measures</h4>Incident lung cancer.<h4>Results</h4>Among the 564 women, those who developed lung cancer (275 participants; median [interquartile range] age, 61.0 [52-65] years) and those who did not develop lung cancer (289 participants; median [interquartile range] age, 62.0 [53-66] years) at follow-up (median [interquartile range] follow-up, 10.9 [9.0-11.7] years) were similar in terms of their secondhand smoke exposure, history of respiratory diseases, and body mass index. A peak metabolite, identified as 5-methyl-2-furoic acid, was significantly associated with lower lung cancer risk (odds ratio, 0.57 [95% CI, 0.46-0.72]; P\u2009<\u2009.001; false discovery rate\u2009=\u20090.039). Furthermore, this peak was weakly correlated with self-reported dietary soy intake (\u03c1\u2009=\u20090.21; P\u2009<\u2009.001). Increasing tertiles of this metabolite were associated with lower lung cancer risk (in comparison with first tertile, odds ratio for second tertile, 0.52 [95% CI, 0.34-0.80]; and odds ratio for third tertile, 0.46 [95% CI, 0.30-0.70]), and the association was consistent across different histological subtypes and follow-up times. Additionally, metabolic pathway analysis found several systemic biological alterations that were associated with lung cancer risk, including 1-carbon metabolism, nucleotide metabolism, oxidative stress, and inflammation.<h4>Conclusions and relevance</h4>This prospective study of the untargeted urinary metabolome and lung cancer among never-smoking women in China provides support for the hypothesis that soy-based metabolites are associated with lower lung cancer risk in never-smoking women and suggests that biological processes linked to air pollution may be associated with higher lung cancer risk in this population.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1001/jamanetworkopen.2019.11970; html:https://europepmc.org/articles/PMC6755532"
+  },
+  {
+    "id": "33813844",
+    "doi": "https://doi.org/10.1161/hypertensionaha.120.16534",
+    "title": "Relationship Between Blood Pressure and Incident Cardiovascular Disease: Linear and Nonlinear Mendelian Randomization Analyses.",
+    "authorString": "Malik R, Georgakis MK, Vujkovic M, Damrauer SM, Elliott P, Karhunen V, Giontella A, Fava C, Hellwege JN, Shuey MM, Edwards TL, Rogne T, \u00c5svold BO, Brumpton BM, Burgess S, Dichgans M, Gill D.",
+    "authorAffiliations": "",
+    "journalTitle": "Hypertension (Dallas, Tex. : 1979)",
+    "pubYear": "2021",
+    "date": "2021-04-05",
+    "isOpenAccess": "Y",
+    "keywords": "Hypertension; Blood pressure; Stroke; coronary artery disease; Primary Prevention",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "[Figure: see text].",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/HYPERTENSIONAHA.120.16534; html:https://europepmc.org/articles/PMC8115430; pdf:https://europepmc.org/articles/PMC8115430?pdf=render"
   },
   {
     "id": "31479767",
