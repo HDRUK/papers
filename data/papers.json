@@ -255,23 +255,6 @@
     "urls": "doi:https://doi.org/10.2337/db20-0895"
   },
   {
-    "id": "32723851",
-    "doi": "https://doi.org/10.1136/bmjhci-2019-100122",
-    "title": "HDR UK supporting mobilising computable biomedical knowledge in the UK.",
-    "authorString": "Sebire NJ, Cake C, Morris AD.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ health & care informatics",
-    "pubYear": "2020",
-    "date": "2020-07-01",
-    "isOpenAccess": "Y",
-    "keywords": "Health care; Medical Informatics; Information Systems",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Computable biomedical knowledge (CBK) represents an evolving area of health informatics, with potential for rapid translational patient benefit. Health Data Research UK (HDR UK) is the national Institute for Health Data Science, whose aim is to unite the UK's health data to enable discoveries that improve people's lives. The three main components include the UK HDR Alliance of data custodians, committed to making health data available for research and innovation purposes for public benefit while ensuring safe use of data and building public trust, the HDR Hubs, as centres of expertise for curating data and providing expert domain-specific services, and the HDR Innovation Gateway ('Gateway'), providing discovery, accessibility, security and interoperability services. To support CBK developments, HDR UK is encouraging use of open data standards for research purposes, with guidance around areas in which standards are emerging, aims to work closely with the international CBK community to support initiatives and aid with evaluation and collaboration, and has established a phenomics workstream to create a national platform for dissemination of machine readable and computable phenotypical algorithms to reduce duplication of effort and improve reproducibility in clinical studies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100122; html:https://europepmc.org/articles/PMC7388881; pdf:https://europepmc.org/articles/PMC7388881?pdf=render"
-  },
-  {
     "id": "31799783",
     "doi": "https://doi.org/10.1002/cnm.3267",
     "title": "Personalising cardiovascular network models in pregnancy: A two-tiered parameter estimation approach.",
@@ -306,23 +289,6 @@
     "urls": "doi:https://doi.org/10.1161/JAHA.119.012812; html:https://europepmc.org/articles/PMC6898825; pdf:https://europepmc.org/articles/PMC6898825?pdf=render"
   },
   {
-    "id": "31783849",
-    "doi": "https://doi.org/10.1186/s12911-019-0953-2",
-    "title": "Developing a standardised approach to the aggregation of inpatient episodes into person-based spells in all specialties and psychiatric specialties.",
-    "authorString": "Rees S, Akbari A, Collins H, Lee SC, Marchant A, Rees A, Thayer D, Wang T, Wood S, John A.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC medical informatics and decision making",
-    "pubYear": "2019",
-    "date": "2019-11-29",
-    "isOpenAccess": "Y",
-    "keywords": "Data Quality; Data Linkage; Electronic Healthcare Record; Spells; Routine Health Data; Hospital Inpatient Episodes",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Electronic health record (EHR) data are available for research in all UK nations and cross-nation comparative studies are becoming more common. All UK inpatient EHRs are based around episodes, but episode-based analysis may not sufficiently capture the patient journey. There is no UK-wide method for aggregating episodes into standardised person-based spells. This study identifies two data quality issues affecting the creation of person-based spells, and tests four methods to create these spells, for implementation across all UK nations.<h4>Methods</h4>Welsh inpatient EHRs from 2013 to 2017 were analysed. Phase one described two data quality issues; transfers of care and episode sequencing. Phase two compared four methods for creating person spells. Measures were mean length of stay (LOS, expressed in days) and number of episodes per person spell for each method.<h4>Results</h4>3.5% of total admissions were transfers-in and 3.1% of total discharges were transfers-out. 68.7% of total transfers-in and 48.7% of psychiatric transfers-in had an identifiable preceding transfer-out, and 78.2% of total transfers-out and 59.0% of psychiatric transfers-out had an identifiable subsequent transfer-in. 0.2% of total episodes and 4.0% of psychiatric episodes overlapped with at least one other episode of any specialty. Method one (no evidence of transfer required; overlapping episodes grouped together) resulted in the longest mean LOS (4.0\u2009days for all specialties; 48.5\u2009days for psychiatric specialties) and the fewest single episode person spells (82.4% of all specialties; 69.7% for psychiatric specialties). Method three (evidence of transfer required; overlapping episodes separated) resulted in the shortest mean LOS (3.7\u2009days for all specialties; 45.8\u2009days for psychiatric specialties) and the most single episode person spells; (86.9% for all specialties; 86.3% for psychiatric specialties).<h4>Conclusions</h4>Transfers-in appear better recorded than transfers-out. Transfer coding is incomplete, particularly for psychiatric specialties. The proportion of episodes that overlap is small but psychiatric episodes are disproportionately affected. The most successful method for grouping episodes into person spells aggregated overlapping episodes and required no evidence of transfer from admission source/method or discharge destination codes. The least successful method treated overlapping episodes as distinct and required transfer coding. The impact of all four methods was greater for psychiatric specialties.",
-    "laySummary": "Rees et al used a Welsh database to examine inpatient episode/transfer coding coding for psychiatric patients. They identified deficiencies in the existing coding system for psychitatrics transfers and unexplained coding mistakes/problems, then they presesnt several different methods for constructing the inpatient spell to improve coding and avoid misclassification.",
-    "urls": "doi:https://doi.org/10.1186/s12911-019-0953-2; html:https://europepmc.org/articles/PMC6884917; pdf:https://europepmc.org/articles/PMC6884917?pdf=render"
-  },
-  {
     "id": "31469943",
     "doi": "https://doi.org/10.1002/cnm.3255",
     "title": "Computational instantaneous wave-free ratio (IFR) for patient-specific coronary artery stenoses using 1D network models.",
@@ -340,6 +306,23 @@
     "urls": "doi:https://doi.org/10.1002/cnm.3255; html:https://europepmc.org/articles/PMC7003475; pdf:https://europepmc.org/articles/PMC7003475?pdf=render"
   },
   {
+    "id": "31783849",
+    "doi": "https://doi.org/10.1186/s12911-019-0953-2",
+    "title": "Developing a standardised approach to the aggregation of inpatient episodes into person-based spells in all specialties and psychiatric specialties.",
+    "authorString": "Rees S, Akbari A, Collins H, Lee SC, Marchant A, Rees A, Thayer D, Wang T, Wood S, John A.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC medical informatics and decision making",
+    "pubYear": "2019",
+    "date": "2019-11-29",
+    "isOpenAccess": "Y",
+    "keywords": "Data Quality; Data Linkage; Electronic Healthcare Record; Spells; Routine Health Data; Hospital Inpatient Episodes",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Electronic health record (EHR) data are available for research in all UK nations and cross-nation comparative studies are becoming more common. All UK inpatient EHRs are based around episodes, but episode-based analysis may not sufficiently capture the patient journey. There is no UK-wide method for aggregating episodes into standardised person-based spells. This study identifies two data quality issues affecting the creation of person-based spells, and tests four methods to create these spells, for implementation across all UK nations.<h4>Methods</h4>Welsh inpatient EHRs from 2013 to 2017 were analysed. Phase one described two data quality issues; transfers of care and episode sequencing. Phase two compared four methods for creating person spells. Measures were mean length of stay (LOS, expressed in days) and number of episodes per person spell for each method.<h4>Results</h4>3.5% of total admissions were transfers-in and 3.1% of total discharges were transfers-out. 68.7% of total transfers-in and 48.7% of psychiatric transfers-in had an identifiable preceding transfer-out, and 78.2% of total transfers-out and 59.0% of psychiatric transfers-out had an identifiable subsequent transfer-in. 0.2% of total episodes and 4.0% of psychiatric episodes overlapped with at least one other episode of any specialty. Method one (no evidence of transfer required; overlapping episodes grouped together) resulted in the longest mean LOS (4.0\u2009days for all specialties; 48.5\u2009days for psychiatric specialties) and the fewest single episode person spells (82.4% of all specialties; 69.7% for psychiatric specialties). Method three (evidence of transfer required; overlapping episodes separated) resulted in the shortest mean LOS (3.7\u2009days for all specialties; 45.8\u2009days for psychiatric specialties) and the most single episode person spells; (86.9% for all specialties; 86.3% for psychiatric specialties).<h4>Conclusions</h4>Transfers-in appear better recorded than transfers-out. Transfer coding is incomplete, particularly for psychiatric specialties. The proportion of episodes that overlap is small but psychiatric episodes are disproportionately affected. The most successful method for grouping episodes into person spells aggregated overlapping episodes and required no evidence of transfer from admission source/method or discharge destination codes. The least successful method treated overlapping episodes as distinct and required transfer coding. The impact of all four methods was greater for psychiatric specialties.",
+    "laySummary": "Rees et al used a Welsh database to examine inpatient episode/transfer coding coding for psychiatric patients. They identified deficiencies in the existing coding system for psychitatrics transfers and unexplained coding mistakes/problems, then they presesnt several different methods for constructing the inpatient spell to improve coding and avoid misclassification.",
+    "urls": "doi:https://doi.org/10.1186/s12911-019-0953-2; html:https://europepmc.org/articles/PMC6884917; pdf:https://europepmc.org/articles/PMC6884917?pdf=render"
+  },
+  {
     "id": "34164795",
     "doi": "https://doi.org/10.1007/s40801-021-00256-5",
     "title": "Associations Between Anticholinergic Medication Exposure and Adverse Health Outcomes in Older People with Frailty: A Systematic Review and Meta-analysis.",
@@ -355,6 +338,23 @@
     "abstract": "<h4>Introduction</h4>There are robust associations between use of anticholinergic medicines and adverse effects in older people. However, the nature of these associations for older people living with frailty is yet to be established.<h4>Objectives</h4>The aims were to identify and investigate associations between anticholinergics and adverse outcomes in older people living with frailty and to investigate whether exposure is associated with greater risks according to frailty status.<h4>Methods</h4>MEDLINE, CINAHL, EMBASE, Cochrane Database of Systematic Reviews, Web of Science and PsycINFO were searched to 1 August 2019. Observational studies reporting associations between anticholinergics and outcomes in older adults (average age \u2265\u00a065 years) that reported frailty using validated measures were included. Primary outcomes were physical impairment, cognitive dysfunction, and change in frailty status. Risk of bias was evaluated using the Cochrane Risk of Bias In Non-randomised Studies of Interventions (ROBINS-I) tool. Meta-analysis was undertaken where appropriate.<h4>Results</h4>Thirteen studies (21,516 participants) were included (ten community, one residential aged-care facility and two hospital studies). Observed associations included reduced ability for chair standing, slower gait speeds, poorer physical performance, increased risk of falls and mortality. Conflicting results were reported for grip strength, timed up and go test, cognition and activities of daily living. No associations were observed for transitions between frailty states, psychological wellbeing or benzodiazepine-related adverse reactions. There was no clear evidence of differences in risks according to frailty status.<h4>Conclusions</h4>Anticholinergics are associated with adverse outcomes in older people living with frailty; however, the literature has significant methodological limitations. There is insufficient evidence to suggest greater risks based on frailty, and there is an urgent need to evaluate this further in well-designed studies stratifying by frailty.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1007/s40801-021-00256-5"
+  },
+  {
+    "id": "32723851",
+    "doi": "https://doi.org/10.1136/bmjhci-2019-100122",
+    "title": "HDR UK supporting mobilising computable biomedical knowledge in the UK.",
+    "authorString": "Sebire NJ, Cake C, Morris AD.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ health & care informatics",
+    "pubYear": "2020",
+    "date": "2020-07-01",
+    "isOpenAccess": "Y",
+    "keywords": "Health care; Medical Informatics; Information Systems",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Computable biomedical knowledge (CBK) represents an evolving area of health informatics, with potential for rapid translational patient benefit. Health Data Research UK (HDR UK) is the national Institute for Health Data Science, whose aim is to unite the UK's health data to enable discoveries that improve people's lives. The three main components include the UK HDR Alliance of data custodians, committed to making health data available for research and innovation purposes for public benefit while ensuring safe use of data and building public trust, the HDR Hubs, as centres of expertise for curating data and providing expert domain-specific services, and the HDR Innovation Gateway ('Gateway'), providing discovery, accessibility, security and interoperability services. To support CBK developments, HDR UK is encouraging use of open data standards for research purposes, with guidance around areas in which standards are emerging, aims to work closely with the international CBK community to support initiatives and aid with evaluation and collaboration, and has established a phenomics workstream to create a national platform for dissemination of machine readable and computable phenotypical algorithms to reduce duplication of effort and improve reproducibility in clinical studies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100122; html:https://europepmc.org/articles/PMC7388881; pdf:https://europepmc.org/articles/PMC7388881?pdf=render"
   },
   {
     "id": "32873607",
@@ -519,7 +519,7 @@
     "pubYear": "2021",
     "date": "2021-05-15",
     "isOpenAccess": "Y",
-    "keywords": "ramp; Disaster; Start; Military Medicine; Major Incident; Triage; Injury Severity Score; Mass Casualty; Major Trauma; Prehospital Medicine; Life-saving Intervention; Careflight; Jumpstart; Bcd Triage Sieve; Mimms; Mptt-24; Mstart",
+    "keywords": "ramp; Disaster; Start; Military Medicine; Major Incident; Triage; Injury Severity Score; Mass Casualty; Major Trauma; Prehospital Medicine; Mstart; Life-saving Intervention; Careflight; Jumpstart; Bcd Triage Sieve; Mimms; Mptt-24",
     "nationalPriorities": "",
     "healthCategories": "",
     "abstract": "<h4>Background</h4>Natural disasters, conflict, and terrorism are major global causes of death and disability. Central to the healthcare response is triage, vital to ensure the right care is provided to the right patient at the right time. The ideal triage tool has high sensitivity for the highest priority (P1) patients with acceptably low over-triage. This study compared the performance of major incident triage tools in predicting P1 casualty status in adults in the prospective UK Trauma Audit and Research Network (TARN) registry.<h4>Methods</h4>TARN patients aged 16+ years (January 2008-December 2017) were included. Ten existing triage tools were applied using patients' first recorded pre-hospital physiology. Patients were subsequently assigned triage categories (P1, P2, P3, Expectant or Dead) based on pre-defined, intervention-based criteria. Tool performance was assessed by comparing tool-predicted and intervention-based priority status.<h4>Findings</h4>195,709 patients were included; mortality was 7\u00b70% (n=13,601); median Injury Severity Score (ISS) was 9 (IQR 9-17); 97\u00b71% sustained blunt injuries. 22,144 (11\u00b73%) patients fulfilled intervention-based criteria for P1 status, exhibiting higher mortality (12\u00b78% <i>vs.</i> 5\u00b70%, p<0.001), increased intensive care requirement (52\u00b74% <i>vs</i> 5\u00b70%, p<0.001), and more severe injuries (median ISS 21\u00a0<i>vs</i> 9, p<0.001) compared with P2 patients.In 16-64 year olds, the highest performing tool was the Battlefield Casualty Drills (BCD) Triage Sieve (Prediction of P1 status: 70\u00b74% sensitivity, over-triage 70\u00b79%, area under the receiver operating curve (AUC) 0\u00b7068 [95%CI 0\u00b7676-0\u00b7684]). The UK National Ambulance Resilience Unit (NARU) Triage Sieve had sensitivity of 44\u00b79%; over-triage 56\u00b74%; AUC 0\u00b7666 (95%CI 0\u00b7662-0\u00b7670). All tools performed poorly amongst the elderly (65+ years).<h4>Interpretation</h4>The BCD Triage Sieve performed best in this nationally representative population; we recommend it supersede the NARU Triage Sieve as the UK primary major incident triage tool. Validated triage category definitions are recommended for appraising future major incidents.<h4>Funding</h4>This study is funded by the National Institute for Health Research (NIHR) Surgical Reconstruction and Microbiology Research Centre. GVG also acknowledges support from the MRC Heath Data Research UK (HDRUK/CFC/01). The views expressed are those of the authors and not necessarily those of the NIHR, the Department of Health and Social Care, or the Ministry of Defence.",
@@ -1343,23 +1343,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0237676; html:https://europepmc.org/articles/PMC7500586; pdf:https://europepmc.org/articles/PMC7500586?pdf=render"
   },
   {
-    "id": "32896935",
-    "doi": "https://doi.org/10.1002/cbm.2166",
-    "title": "Are Liaison and Diversion interventions in policing delivering the planned impact: A longitudinal evaluation in two constabularies?",
-    "authorString": "Kane E, Evans E, Mitsch J, Jilani T.",
-    "authorAffiliations": "",
-    "journalTitle": "Criminal behaviour and mental health : CBMH",
-    "pubYear": "2020",
-    "date": "2020-09-08",
-    "isOpenAccess": "N",
-    "keywords": "Mental health; Outcomes; Offending; Policing; Liaison & Diversion",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Liaison and Diversion (L&D) has twin objectives: improving mental health outcomes and reducing re-offending. Early diversion from police custody seems promising, but evidence of benefit is required to sustain such programmes. To test the hypothesis that contact with L&D services while in police custody would lead to improved mental health outcomes and a reduction in type and level of offending, we used a pre-post service use design. National Health Service (NHS) records in two counties were searched for evidence that patients had been involved with L&D services while in police custody during the period July 2009-December 2017. We defined January 2009-July 2014 as the pre-intervention period and any time after contact as the post-intervention period. Data from the Police National Computer were gathered for each period for these individuals, to assess their pre-post L&D contact offending histories. NHS Trust data were similarly gathered to assess their pre-post use of mental health legislation. 4,462 individuals were identified who had used L&D services in police custody. There were statistically significant reductions in the amount of offending following contact with the L&D service (whether one or two contacts), regardless of offence type. Statistically significant reductions were also observed in use of the four most commonly used legislative powers for detaining patients in hospital on mental disorder grounds, regardless of offending status (prolific/non-prolific). Our results indicate positive associations between the L&D interventions and change in offending and use of compulsory hospital detention. Whilst our research does not allow a direct causal relationship to be established in either area, the findings go beyond other impact assessments of L&D which have either been with small samples or relied only on qualitative data or expert opinion.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/cbm.2166"
-  },
-  {
     "id": "29992526",
     "doi": "https://doi.org/10.1007/s11906-018-0877-8",
     "title": "An Overview of Metabolic Phenotyping in Blood Pressure Research.",
@@ -1375,6 +1358,23 @@
     "abstract": "<h4>Purpose of the review</h4>This review presents the analytical techniques, processing and analytical steps used in metabolomics phenotyping studies, as well as the main results from epidemiological studies on the associations between metabolites and high blood pressure.<h4>Recent findings</h4>A variety of metabolomic approaches have been applied to a range of epidemiological studies to uncover the pathophysiology of high blood pressure. Several pathways have been suggested in relation to blood pressure including the possible role of the gut microflora, inflammatory, oxidative stress, and lipid pathways. Metabolic changes have also been identified associated with blood pressure lowering effects of diets high in fruits and vegetables and low in meat intake. However, the current body of literature on metabolic profiling and blood pressure is still in its infancy, not fully consistent and requires careful interpretation. Metabolic phenotyping is a promising approach to uncover metabolic pathways associated with high blood pressure and throw light into the complex pathophysiology of hypertension.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1007/s11906-018-0877-8; html:https://europepmc.org/articles/PMC6061189; pdf:https://europepmc.org/articles/PMC6061189?pdf=render"
+  },
+  {
+    "id": "32896935",
+    "doi": "https://doi.org/10.1002/cbm.2166",
+    "title": "Are Liaison and Diversion interventions in policing delivering the planned impact: A longitudinal evaluation in two constabularies?",
+    "authorString": "Kane E, Evans E, Mitsch J, Jilani T.",
+    "authorAffiliations": "",
+    "journalTitle": "Criminal behaviour and mental health : CBMH",
+    "pubYear": "2020",
+    "date": "2020-09-08",
+    "isOpenAccess": "N",
+    "keywords": "Mental health; Outcomes; Offending; Policing; Liaison & Diversion",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Liaison and Diversion (L&D) has twin objectives: improving mental health outcomes and reducing re-offending. Early diversion from police custody seems promising, but evidence of benefit is required to sustain such programmes. To test the hypothesis that contact with L&D services while in police custody would lead to improved mental health outcomes and a reduction in type and level of offending, we used a pre-post service use design. National Health Service (NHS) records in two counties were searched for evidence that patients had been involved with L&D services while in police custody during the period July 2009-December 2017. We defined January 2009-July 2014 as the pre-intervention period and any time after contact as the post-intervention period. Data from the Police National Computer were gathered for each period for these individuals, to assess their pre-post L&D contact offending histories. NHS Trust data were similarly gathered to assess their pre-post use of mental health legislation. 4,462 individuals were identified who had used L&D services in police custody. There were statistically significant reductions in the amount of offending following contact with the L&D service (whether one or two contacts), regardless of offence type. Statistically significant reductions were also observed in use of the four most commonly used legislative powers for detaining patients in hospital on mental disorder grounds, regardless of offending status (prolific/non-prolific). Our results indicate positive associations between the L&D interventions and change in offending and use of compulsory hospital detention. Whilst our research does not allow a direct causal relationship to be established in either area, the findings go beyond other impact assessments of L&D which have either been with small samples or relied only on qualitative data or expert opinion.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/cbm.2166"
   },
   {
     "id": "34007896",
@@ -1649,23 +1649,6 @@
     "urls": "doi:https://doi.org/10.1016/S1473-3099(21)00289-9; html:https://europepmc.org/articles/PMC8221738; pdf:https://europepmc.org/articles/PMC8221738?pdf=render"
   },
   {
-    "id": "33543581",
-    "doi": "https://doi.org/10.1111/ans.16578",
-    "title": "Outcomes of surgical site infections following spinal column trauma.",
-    "authorString": "Baroun-Agob L, Liew S, Gabbe B.",
-    "authorAffiliations": "",
-    "journalTitle": "ANZ journal of surgery",
-    "pubYear": "2021",
-    "date": "2021-02-05",
-    "isOpenAccess": "N",
-    "keywords": "Spine; Trauma; Surgical Wound Infection; Orthopaedic Surgery; Patient-reported Outcome Measures",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Surgical site infections (SSI) are an undesirable outcome of spinal surgery for both the patient and healthcare system. To date, few studies have investigated the impact of SSI on patient-reported and clinical outcomes. Sepsis and readmission are potential sequelae of SSI, with sepsis potentially being life threatening. This study aimed to assess the association between SSI and patient outcomes in a spinal trauma cohort.<h4>Methods</h4>Adult (16+ years) patients who underwent emergency spinal surgery due to trauma between January 2010 and December 2016 at a major trauma centre in Melbourne, Australia, were identified through the Victorian Orthopaedic Trauma Outcomes Registry. The presence of an SSI was abstracted from the electronic medical record and outcomes were compared between patients with and without an SSI. Clinical outcomes were obtained from the medical record, and patient-reported outcomes at 6 and 12\u2009months were obtained from the Victorian Orthopaedic Trauma Outcomes Registry. Chi-squared tests were used to compare patient outcomes between groups.<h4>Results</h4>Of the 458 included patients, 26 (5.7%) developed an SSI. Patient-reported outcomes at 6 and 12\u2009months were not different between the groups. An SSI was associated with sepsis (\u03c7<sup>2</sup> <sub>1</sub> = 24.20, P\u2009<\u20090.01), readmission (\u03c7<sup>2</sup> <sub>1</sub> =\u2009215.34, P <\u20090.01), revision surgery (\u03c7<sup>2</sup> <sub>1</sub> =\u2009171.21, P <\u20090.01) and removal of implants (\u03c7<sup>2</sup> <sub>1</sub> =\u20094.31, P =\u20090.04) within 12\u2009months of discharge.<h4>Conclusion</h4>These findings indicate that spine trauma SSIs are not associated with patient-reported outcomes and may not have lasting effects on patients. Larger studies are required to assess further follow-up and support our findings and possibly distinguish outcomes between superficial and deep SSI.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/ans.16578"
-  },
-  {
     "id": "34044910",
     "doi": "https://doi.org/10.1016/bs.acc.2020.08.002",
     "title": "Translational biomarkers in the era of precision medicine.",
@@ -1681,6 +1664,23 @@
     "abstract": "In this chapter we discuss the past, present and future of clinical biomarker development. We explore the advent of new technologies, paving the way in which health, medicine and disease is understood. This review includes the identification of physicochemical assays, current regulations, the development and reproducibility of clinical trials, as well as, the revolution of omics technologies and state-of-the-art integration and analysis approaches.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/bs.acc.2020.08.002"
+  },
+  {
+    "id": "33543581",
+    "doi": "https://doi.org/10.1111/ans.16578",
+    "title": "Outcomes of surgical site infections following spinal column trauma.",
+    "authorString": "Baroun-Agob L, Liew S, Gabbe B.",
+    "authorAffiliations": "",
+    "journalTitle": "ANZ journal of surgery",
+    "pubYear": "2021",
+    "date": "2021-02-05",
+    "isOpenAccess": "N",
+    "keywords": "Spine; Trauma; Surgical Wound Infection; Orthopaedic Surgery; Patient-reported Outcome Measures",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Surgical site infections (SSI) are an undesirable outcome of spinal surgery for both the patient and healthcare system. To date, few studies have investigated the impact of SSI on patient-reported and clinical outcomes. Sepsis and readmission are potential sequelae of SSI, with sepsis potentially being life threatening. This study aimed to assess the association between SSI and patient outcomes in a spinal trauma cohort.<h4>Methods</h4>Adult (16+ years) patients who underwent emergency spinal surgery due to trauma between January 2010 and December 2016 at a major trauma centre in Melbourne, Australia, were identified through the Victorian Orthopaedic Trauma Outcomes Registry. The presence of an SSI was abstracted from the electronic medical record and outcomes were compared between patients with and without an SSI. Clinical outcomes were obtained from the medical record, and patient-reported outcomes at 6 and 12\u2009months were obtained from the Victorian Orthopaedic Trauma Outcomes Registry. Chi-squared tests were used to compare patient outcomes between groups.<h4>Results</h4>Of the 458 included patients, 26 (5.7%) developed an SSI. Patient-reported outcomes at 6 and 12\u2009months were not different between the groups. An SSI was associated with sepsis (\u03c7<sup>2</sup> <sub>1</sub> = 24.20, P\u2009<\u20090.01), readmission (\u03c7<sup>2</sup> <sub>1</sub> =\u2009215.34, P <\u20090.01), revision surgery (\u03c7<sup>2</sup> <sub>1</sub> =\u2009171.21, P <\u20090.01) and removal of implants (\u03c7<sup>2</sup> <sub>1</sub> =\u20094.31, P =\u20090.04) within 12\u2009months of discharge.<h4>Conclusion</h4>These findings indicate that spine trauma SSIs are not associated with patient-reported outcomes and may not have lasting effects on patients. Larger studies are required to assess further follow-up and support our findings and possibly distinguish outcomes between superficial and deep SSI.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/ans.16578"
   },
   {
     "id": "33503030",
@@ -1836,6 +1836,23 @@
     "urls": "doi:https://doi.org/10.1093/ageing/afaa207; html:https://europepmc.org/articles/PMC7546151; pdf:https://europepmc.org/articles/PMC7546151?pdf=render"
   },
   {
+    "id": "30474191",
+    "doi": "https://doi.org/10.1111/dme.13870",
+    "title": "Utility of HbA<sub>1c</sub> assessment in people with diabetes awaiting liver transplantation.",
+    "authorString": "Bhattacharjee D, Vracar S, Round RA, Nightingale PG, Williams JA, Gkoutos GV, Stratton IM, Parker R, Luzio SD, Webber J, Manley SE, Roberts GA, Ghosh S.",
+    "authorAffiliations": "",
+    "journalTitle": "Diabetic medicine : a journal of the British Diabetic Association",
+    "pubYear": "2019",
+    "date": "2019-04-30",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "The Human Phenome",
+    "healthCategories": "",
+    "abstract": "<h4>Aims</h4>To investigate the relationship between HbA<sub>1c</sub> and glucose in people with co-existing liver disease and diabetes awaiting transplant, and in those with diabetes but no liver disease.<h4>Methods</h4>HbA<sub>1c</sub> and random plasma glucose data were collected for 125 people with diabetes without liver disease and for 29 people awaiting liver transplant with diabetes and cirrhosis. Cirrhosis was caused by non-alcoholic fatty liver disease, hepatitis C, alcoholic liver disease, hereditary haemochromatosis, polycystic liver/kidneys, cryptogenic/non-cirrhotic portal hypertension and \u03b1-1-antitrypsin-related disease.<h4>Results</h4>The median (interquartile range) age of the diabetes with cirrhosis group was 55 (49-63) years compared to 60 (50-71) years (P=0.13) in the group without cirrhosis. In the diabetes with cirrhosis group there were 21 men (72%) compared with 86 men (69%) in the group with diabetes and no cirrhosis (P=0.82). Of the group with diabetes and cirrhosis, 27 people (93%) were of white European ethnicity, two (7%) were South Asian and none was of Afro-Caribbean/other ethnicity compared with 94 (75%), 16 (13%), 10 (8%)/5 (4%), respectively, in the group with diabetes and no cirrhosis (P=0.20). Median (interquartile range) HbA<sub>1c</sub> was 41 (32-56) mmol/mol [5.9 (5.1-7.3)%] vs 61 (52-70) mmol/mol [7.7 (6.9-8.6)%] (P<0.001), respectively, in the diabetes with cirrhosis group vs the diabetes without cirrhosis group. The glucose concentrations were 8.4 (7.0-11.2) mmol/l vs\u00a07.3 (5.2-11.5) mmol/l (P=0.17). HbA<sub>1c</sub> was depressed by 20 mmol/mol (1.8%; P<0.001) in 28 participants with cirrhosis but elevated by 28 mmol/mol (2.6%) in the participant with \u03b1-1-antitrypsin disorder. Those with cirrhosis and depressed HbA<sub>1c</sub> had fewer larger erythrocytes, and higher red cell distribution width and reticulocyte count. This was reflected in the positive association of glucose with mean cell volume (r=0.39) and haemoglobin level (r=0.49) and the negative association for HbA<sub>1c</sub> (r=-0.28 and r=-0.26, respectively) in the diabetes group with cirrhosis.<h4>Conclusion</h4>HbA<sub>1c</sub> is not an appropriate test for blood glucose in people with cirrhosis and diabetes awaiting transplant as it reflects altered erythrocyte presentation.",
+    "laySummary": "The aim of this article was to investigate the relationship between HbA1c and glucose in patients with diabetes awaiting transplant due to a co-existing liver disease, and in those with diabetes but no liver disease. Statistical analyses results indicated that HbA1c is not an appropriate test for blood glucose in people with cirrhosis and diabetes awaiting transplant, and it might cause misdiagnosis of diabetes and inappropirate clinical care in people with cirrhotic liver disease.",
+    "urls": "doi:https://doi.org/10.1111/dme.13870; html:https://europepmc.org/articles/PMC6850030; pdf:https://europepmc.org/articles/PMC6850030?pdf=render"
+  },
+  {
     "id": "33710281",
     "doi": "https://doi.org/10.1093/ageing/afab060",
     "title": "COVID-19 infection and attributable mortality in UK care homes: cohort study using active surveillance and electronic records (March-June 2020).",
@@ -1868,23 +1885,6 @@
     "abstract": "<h4>Background</h4>SARS-CoV-2 infection represents a major challenge for long-term care facilities (LTCFs) and many residents and staff are seropositive following persistent outbreaks. We aimed to investigate the association between the SARS-CoV-2 antibody status at baseline and subsequent infection in this population.<h4>Methods</h4>We did a prospective cohort study of SARS-CoV-2 infection in staff (aged <65 years) and residents (aged >65 years) at 100 LTCFs in England between Oct 1, 2020, and Feb 1, 2021. Blood samples were collected between June and November, 2020, at baseline, and 2 and 4 months thereafter and tested for IgG antibodies to SARS-CoV-2 nucleocapsid and spike proteins. PCR testing for SARS-CoV-2 was done weekly in staff and monthly in residents. Cox regression was used to estimate hazard ratios (HRs) of a PCR-positive test by baseline antibody status, adjusted for age and sex, and stratified by LTCF.<h4>Findings</h4>682 residents from 86 LCTFs and 1429 staff members from 97 LTCFs met study inclusion criteria. At baseline, IgG antibodies to nucleocapsid were detected in 226 (33%) of 682 residents and 408 (29%) of 1429 staff members. 93 (20%) of 456 residents who were antibody-negative at baseline had a PCR-positive test (infection rate 0\u00b7054 per month at risk) compared with four (2%) of 226 residents who were antibody-positive at baseline (0\u00b7007 per month at risk). 111 (11%) of 1021 staff members who were antibody-negative at baseline had PCR-positive tests (0\u00b7042 per month at risk) compared with ten (2%) of 408 staff members who were antibody-positive staff at baseline (0\u00b7009 per month at risk). The risk of PCR-positive infection was higher for residents who were antibody-negative at baseline than residents who were antibody-positive at baseline (adjusted HR [aHR] 0\u00b715, 95% CI 0\u00b705-0\u00b744, p=0\u00b70006), and the risk of a PCR-positive infection was also higher for staff who were antibody-negative at baseline compared with staff who were antibody-positive at baseline (aHR 0\u00b739, 0\u00b719-0\u00b782; p=0\u00b7012). 12 of 14 reinfected participants had available data on symptoms, and 11 of these participants were symptomatic. Antibody titres to spike and nucleocapsid proteins were comparable in PCR-positive and PCR-negative cases.<h4>Interpretation</h4>The presence of IgG antibodies to nucleocapsid protein was associated with substantially reduced risk of reinfection in staff and residents for up to 10 months after primary infection.<h4>Funding</h4>UK Government Department of Health and Social Care.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S2666-7568(21)00093-3; html:https://europepmc.org/articles/PMC8175048; pdf:https://europepmc.org/articles/PMC8175048?pdf=render"
-  },
-  {
-    "id": "30474191",
-    "doi": "https://doi.org/10.1111/dme.13870",
-    "title": "Utility of HbA<sub>1c</sub> assessment in people with diabetes awaiting liver transplantation.",
-    "authorString": "Bhattacharjee D, Vracar S, Round RA, Nightingale PG, Williams JA, Gkoutos GV, Stratton IM, Parker R, Luzio SD, Webber J, Manley SE, Roberts GA, Ghosh S.",
-    "authorAffiliations": "",
-    "journalTitle": "Diabetic medicine : a journal of the British Diabetic Association",
-    "pubYear": "2019",
-    "date": "2019-04-30",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "The Human Phenome",
-    "healthCategories": "",
-    "abstract": "<h4>Aims</h4>To investigate the relationship between HbA<sub>1c</sub> and glucose in people with co-existing liver disease and diabetes awaiting transplant, and in those with diabetes but no liver disease.<h4>Methods</h4>HbA<sub>1c</sub> and random plasma glucose data were collected for 125 people with diabetes without liver disease and for 29 people awaiting liver transplant with diabetes and cirrhosis. Cirrhosis was caused by non-alcoholic fatty liver disease, hepatitis C, alcoholic liver disease, hereditary haemochromatosis, polycystic liver/kidneys, cryptogenic/non-cirrhotic portal hypertension and \u03b1-1-antitrypsin-related disease.<h4>Results</h4>The median (interquartile range) age of the diabetes with cirrhosis group was 55 (49-63) years compared to 60 (50-71) years (P=0.13) in the group without cirrhosis. In the diabetes with cirrhosis group there were 21 men (72%) compared with 86 men (69%) in the group with diabetes and no cirrhosis (P=0.82). Of the group with diabetes and cirrhosis, 27 people (93%) were of white European ethnicity, two (7%) were South Asian and none was of Afro-Caribbean/other ethnicity compared with 94 (75%), 16 (13%), 10 (8%)/5 (4%), respectively, in the group with diabetes and no cirrhosis (P=0.20). Median (interquartile range) HbA<sub>1c</sub> was 41 (32-56) mmol/mol [5.9 (5.1-7.3)%] vs 61 (52-70) mmol/mol [7.7 (6.9-8.6)%] (P<0.001), respectively, in the diabetes with cirrhosis group vs the diabetes without cirrhosis group. The glucose concentrations were 8.4 (7.0-11.2) mmol/l vs\u00a07.3 (5.2-11.5) mmol/l (P=0.17). HbA<sub>1c</sub> was depressed by 20 mmol/mol (1.8%; P<0.001) in 28 participants with cirrhosis but elevated by 28 mmol/mol (2.6%) in the participant with \u03b1-1-antitrypsin disorder. Those with cirrhosis and depressed HbA<sub>1c</sub> had fewer larger erythrocytes, and higher red cell distribution width and reticulocyte count. This was reflected in the positive association of glucose with mean cell volume (r=0.39) and haemoglobin level (r=0.49) and the negative association for HbA<sub>1c</sub> (r=-0.28 and r=-0.26, respectively) in the diabetes group with cirrhosis.<h4>Conclusion</h4>HbA<sub>1c</sub> is not an appropriate test for blood glucose in people with cirrhosis and diabetes awaiting transplant as it reflects altered erythrocyte presentation.",
-    "laySummary": "The aim of this article was to investigate the relationship between HbA1c and glucose in patients with diabetes awaiting transplant due to a co-existing liver disease, and in those with diabetes but no liver disease. Statistical analyses results indicated that HbA1c is not an appropriate test for blood glucose in people with cirrhosis and diabetes awaiting transplant, and it might cause misdiagnosis of diabetes and inappropirate clinical care in people with cirrhotic liver disease.",
-    "urls": "doi:https://doi.org/10.1111/dme.13870; html:https://europepmc.org/articles/PMC6850030; pdf:https://europepmc.org/articles/PMC6850030?pdf=render"
   },
   {
     "id": "33820530",
@@ -2159,23 +2159,6 @@
     "urls": "doi:https://doi.org/10.1093/cvr/cvaa233; html:https://europepmc.org/articles/PMC8152696; pdf:https://europepmc.org/articles/PMC8152696?pdf=render"
   },
   {
-    "id": "31529485",
-    "doi": "https://doi.org/10.1111/bjd.18526",
-    "title": "The association of smoking and socioeconomic status on cutaneous melanoma: a population-based, data-linkage, case-control study.",
-    "authorString": "Gibson JAG, Dobbs TD, Griffiths R, Song J, Akbari A, Whitaker S, Watkins A, Langan SM, Hutchings HA, Lyons RA, Whitaker IS.",
-    "authorAffiliations": "",
-    "journalTitle": "The British journal of dermatology",
-    "pubYear": "2020",
-    "date": "2019-12-01",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Previous studies have identified an inverse association between melanoma and smoking; however, data from population-based studies are scarce.<h4>Objectives</h4>To determine the association between smoking and socioeconomic (SES) on the risk of development of melanoma. Furthermore, we sought to determine the implications of smoking and SES on survival.<h4>Methods</h4>We conducted a population-based case-control study. Cases were identified from the Welsh Cancer Intelligence and Surveillance Unit (WCISU) during 2000-2015 and controls from the general population. Smoking and SES were obtained from data linkage with other national databases. The association of smoking status and SES on the incidence of melanoma were assessed using binary logistic regression. Multivariate survival analysis was performed on a melanoma cohort using a Cox proportional hazard model using survival as the outcome.<h4>Results</h4>During 2000-2015, 9636 patients developed melanoma. Smoking data were obtained for 7124 (73\u00b79%) of these patients. There were 26\u00a0408 controls identified from the general population. Smoking was inversely associated with melanoma incidence [odds ratio (OR) 0\u00b770,\u00a095% confidence interval (CI) 0\u00b765-0\u00b776]. Smoking was associated with an increased overall mortality [hazard ratio (HR) 1\u00b730, 95% CI 1\u00b709-1\u00b755], but not associated with melanoma-specific mortality. Patients with higher SES had an increased association with melanoma incidence (OR 1\u00b758,\u00a095% CI 1\u00b744-1\u00b773). Higher SES was associated with an increased chance of both overall (HR 0\u00b767, 95% CI 0\u00b756-0\u00b781) and disease-specific survival (HR 0\u00b769, 95% CI 0\u00b753-0\u00b790).<h4>Conclusions</h4>Our study has demonstrated that smoking appeared to be associated with reduced incidence of melanoma. Although smoking increases overall mortality, no association was observed with melanoma-specific mortality. Further work is required to determine if there is a biological mechanism underlying this relationship or an alternative explanation, such as survival bias. What's already known about this topic? Previous studies have been contradictory with both negative and positive associations between smoking and the incidence of melanoma reported. Previous studies have either been limited by publication bias because of selective reporting or underpowered. What does this study add? Our large study identified an inverse association between smoking status and melanoma incidence. Although smoking status was negatively associated with overall disease survival, no significant association was noted in melanoma-specific survival. Socioeconomic status remains closely associated with melanoma. Although higher socioeconomic populations are more likely to develop the disease, patients with lower socioeconomic status continue to have a worse prognosis.",
-    "laySummary": "This study investiages whether there is a smoking and socioeconomic status is linked to the risk of developing melanoma (a skin cancer). They used a Welsh database to find data on individuals who had melanoma and linked this data with smoking status and socioeconomic status on other national databases. They found that melanoma was less likely in those who smoked, but was associated with less chance of survival (due to health problems other than melanoma). Those in higher socioeconomic status had overall higher likelihood of survival.",
-    "urls": "doi:https://doi.org/10.1111/bjd.18526; html:https://europepmc.org/articles/PMC7383980; pdf:https://europepmc.org/articles/PMC7383980?pdf=render"
-  },
-  {
     "id": "33766511",
     "doi": "https://doi.org/10.1016/j.jid.2021.02.744",
     "title": "Raising the Bar for Randomized Trials Involving Artificial Intelligence: The SPIRIT-Artificial Intelligence and CONSORT-Artificial Intelligence Guidelines.",
@@ -2191,6 +2174,23 @@
     "abstract": "Artificial intelligence (AI)-based applications have the potential to improve the quality and efficiency of patient care in dermatology. Unique challenges in the development and validation of these technologies may limit their generalizability and real-world applicability. Before the widespread adoption of AI interventions, randomized trials should be conducted to evaluate their efficacy, safety, and cost effectiveness in clinical settings. The recent Standard Protocol Items: Recommendations for Interventional Trials-AI extension and Consolidated Standards of Reporting Trials-AI extension guidelines provide recommendations for reporting the methods and results of trials involving AI interventions. High-quality trials will provide gold standard evidence to support the adoption of AI for the benefit of patient care.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jid.2021.02.744"
+  },
+  {
+    "id": "31529485",
+    "doi": "https://doi.org/10.1111/bjd.18526",
+    "title": "The association of smoking and socioeconomic status on cutaneous melanoma: a population-based, data-linkage, case-control study.",
+    "authorString": "Gibson JAG, Dobbs TD, Griffiths R, Song J, Akbari A, Whitaker S, Watkins A, Langan SM, Hutchings HA, Lyons RA, Whitaker IS.",
+    "authorAffiliations": "",
+    "journalTitle": "The British journal of dermatology",
+    "pubYear": "2020",
+    "date": "2019-12-01",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Previous studies have identified an inverse association between melanoma and smoking; however, data from population-based studies are scarce.<h4>Objectives</h4>To determine the association between smoking and socioeconomic (SES) on the risk of development of melanoma. Furthermore, we sought to determine the implications of smoking and SES on survival.<h4>Methods</h4>We conducted a population-based case-control study. Cases were identified from the Welsh Cancer Intelligence and Surveillance Unit (WCISU) during 2000-2015 and controls from the general population. Smoking and SES were obtained from data linkage with other national databases. The association of smoking status and SES on the incidence of melanoma were assessed using binary logistic regression. Multivariate survival analysis was performed on a melanoma cohort using a Cox proportional hazard model using survival as the outcome.<h4>Results</h4>During 2000-2015, 9636 patients developed melanoma. Smoking data were obtained for 7124 (73\u00b79%) of these patients. There were 26\u00a0408 controls identified from the general population. Smoking was inversely associated with melanoma incidence [odds ratio (OR) 0\u00b770,\u00a095% confidence interval (CI) 0\u00b765-0\u00b776]. Smoking was associated with an increased overall mortality [hazard ratio (HR) 1\u00b730, 95% CI 1\u00b709-1\u00b755], but not associated with melanoma-specific mortality. Patients with higher SES had an increased association with melanoma incidence (OR 1\u00b758,\u00a095% CI 1\u00b744-1\u00b773). Higher SES was associated with an increased chance of both overall (HR 0\u00b767, 95% CI 0\u00b756-0\u00b781) and disease-specific survival (HR 0\u00b769, 95% CI 0\u00b753-0\u00b790).<h4>Conclusions</h4>Our study has demonstrated that smoking appeared to be associated with reduced incidence of melanoma. Although smoking increases overall mortality, no association was observed with melanoma-specific mortality. Further work is required to determine if there is a biological mechanism underlying this relationship or an alternative explanation, such as survival bias. What's already known about this topic? Previous studies have been contradictory with both negative and positive associations between smoking and the incidence of melanoma reported. Previous studies have either been limited by publication bias because of selective reporting or underpowered. What does this study add? Our large study identified an inverse association between smoking status and melanoma incidence. Although smoking status was negatively associated with overall disease survival, no significant association was noted in melanoma-specific survival. Socioeconomic status remains closely associated with melanoma. Although higher socioeconomic populations are more likely to develop the disease, patients with lower socioeconomic status continue to have a worse prognosis.",
+    "laySummary": "This study investiages whether there is a smoking and socioeconomic status is linked to the risk of developing melanoma (a skin cancer). They used a Welsh database to find data on individuals who had melanoma and linked this data with smoking status and socioeconomic status on other national databases. They found that melanoma was less likely in those who smoked, but was associated with less chance of survival (due to health problems other than melanoma). Those in higher socioeconomic status had overall higher likelihood of survival.",
+    "urls": "doi:https://doi.org/10.1111/bjd.18526; html:https://europepmc.org/articles/PMC7383980; pdf:https://europepmc.org/articles/PMC7383980?pdf=render"
   },
   {
     "id": "33168126",
@@ -2652,23 +2652,6 @@
     "urls": "doi:https://doi.org/10.1515/dmdi-2021-0104"
   },
   {
-    "id": "34306597",
-    "doi": "https://doi.org/10.1155/2021/6663884",
-    "title": "Automatic Prediction of Recurrence of Major Cardiovascular Events: A Text Mining Study Using Chest X-Ray Reports.",
-    "authorString": "Bagheri A, Groenhof TKJ, Asselbergs FW, Haitjema S, Bots ML, Veldhuis WB, de Jong PA, Oberski DL.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of healthcare engineering",
-    "pubYear": "2021",
-    "date": "2021-07-09",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Methods</h4>We used EHR data of patients included in the Second Manifestations of ARTerial disease (SMART) study. We propose a deep learning-based multimodal architecture for our text mining pipeline that integrates neural text representation with preprocessed clinical predictors for the prediction of recurrence of major cardiovascular events in cardiovascular patients. Text preprocessing, including cleaning and stemming, was first applied to filter out the unwanted texts from X-ray radiology reports. Thereafter, text representation methods were used to numerically represent unstructured radiology reports with vectors. Subsequently, these text representation methods were added to prediction models to assess their clinical relevance. In this step, we applied logistic regression, support vector machine (SVM), multilayer perceptron neural network, convolutional neural network, long short-term memory (LSTM), and bidirectional LSTM deep neural network (BiLSTM).<h4>Results</h4>We performed various experiments to evaluate the added value of the text in the prediction of major cardiovascular events. The two main scenarios were the integration of radiology reports (1) with classical clinical predictors and (2) with only age and sex in the case of unavailable clinical predictors. In total, data of 5603 patients were used with 5-fold cross-validation to train the models. In the first scenario, the multimodal BiLSTM (MI-BiLSTM) model achieved an area under the curve (AUC) of 84.7%, misclassification rate of 14.3%, and F1 score of 83.8%. In this scenario, the SVM model, trained on clinical variables and bag-of-words representation, achieved the lowest misclassification rate of 12.2%. In the case of unavailable clinical predictors, the MI-BiLSTM model trained on radiology reports and demographic (age and sex) variables reached an AUC, F1 score, and misclassification rate of 74.5%, 70.8%, and 20.4%, respectively.<h4>Conclusions</h4>Using the case study of routine care chest X-ray radiology reports, we demonstrated the clinical relevance of integrating text features and classical predictors in our text mining pipeline for cardiovascular risk prediction. The MI-BiLSTM model with word embedding representation appeared to have a desirable performance when trained on text data integrated with the clinical variables from the SMART study. Our results mined from chest X-ray reports showed that models using text data in addition to laboratory values outperform those using only known clinical predictors.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1155/2021/6663884; html:https://europepmc.org/articles/PMC8285182; pdf:https://europepmc.org/articles/PMC8285182?pdf=render"
-  },
-  {
     "id": "34275648",
     "doi": "https://doi.org/10.1016/j.injury.2021.06.037",
     "title": "Patterns and predictors of personal responsibility attributions after major trauma.",
@@ -2684,6 +2667,23 @@
     "abstract": "<h4>Background</h4>External responsibility attributions after injury are associated with worse recovery. However, there remains limited understanding of who accepts personal responsibilityfor their injury and whether or how responsibility attributions change over time.<h4>Methods</h4>This prospective cohort study included patients who received care from recovery co-ordinators following serious injury and admission to a major trauma centre in Victoria, Australia (n=850). Self-reported personal responsibility attributions (totally, partially, not responsible, or did not know) were collected at three timepoints (admission, discharge, and six months post-injury) and linked to demographic, injury and clinical characteristics from the Victorian State Trauma Registry.<h4>Results</h4>Mixed effects multinomial analyses revealed that female sex (adjusted relative risk ratio, aRRR=3.11-4.66) and compensable injury (aRRR=7.83-15.27) were associated with reporting lower personal responsibility relative to total responsibility. Falls and motorcyclists had decreased risk of reporting lower personal responsibility than non-drivers (motor vehicle/motorcycle passengers, cyclists and pedestrians) (aRRR=0.11-0.19). More than one-third of participants changed their personal responsibility attribution within six months post-injury. Kappa analyses revealed fair to moderate agreement between the three timepoints (kappa=0.38-0.59), and Stuart-Maxwell tests showed unidirectional bias towards reporting lower levels of personal responsibility between admission and discharge (p<0.001). No demographic, health or injury characteristics predicted a change in responsibility attributions in logistic regression analyses.<h4>Conclusions</h4>Personal responsibility attributions often change over time. Therefore, responsibility attributions should not be considered static, and attributions made at different times post-injury should not be used interchangeably in research or clinical settings. Given that external responsibility attributions are associated with worse post-injury outcomes, potential interventions to optimise recovery should be prioritised for patients who predominantly report lower levels of personal responsibility, especially women and people with compensable injuries. Meanwhile, factors associated with high levels of personal responsibility highlight opportunities to implement targeted injury prevention strategies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.injury.2021.06.037"
+  },
+  {
+    "id": "34306597",
+    "doi": "https://doi.org/10.1155/2021/6663884",
+    "title": "Automatic Prediction of Recurrence of Major Cardiovascular Events: A Text Mining Study Using Chest X-Ray Reports.",
+    "authorString": "Bagheri A, Groenhof TKJ, Asselbergs FW, Haitjema S, Bots ML, Veldhuis WB, de Jong PA, Oberski DL.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of healthcare engineering",
+    "pubYear": "2021",
+    "date": "2021-07-09",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Methods</h4>We used EHR data of patients included in the Second Manifestations of ARTerial disease (SMART) study. We propose a deep learning-based multimodal architecture for our text mining pipeline that integrates neural text representation with preprocessed clinical predictors for the prediction of recurrence of major cardiovascular events in cardiovascular patients. Text preprocessing, including cleaning and stemming, was first applied to filter out the unwanted texts from X-ray radiology reports. Thereafter, text representation methods were used to numerically represent unstructured radiology reports with vectors. Subsequently, these text representation methods were added to prediction models to assess their clinical relevance. In this step, we applied logistic regression, support vector machine (SVM), multilayer perceptron neural network, convolutional neural network, long short-term memory (LSTM), and bidirectional LSTM deep neural network (BiLSTM).<h4>Results</h4>We performed various experiments to evaluate the added value of the text in the prediction of major cardiovascular events. The two main scenarios were the integration of radiology reports (1) with classical clinical predictors and (2) with only age and sex in the case of unavailable clinical predictors. In total, data of 5603 patients were used with 5-fold cross-validation to train the models. In the first scenario, the multimodal BiLSTM (MI-BiLSTM) model achieved an area under the curve (AUC) of 84.7%, misclassification rate of 14.3%, and F1 score of 83.8%. In this scenario, the SVM model, trained on clinical variables and bag-of-words representation, achieved the lowest misclassification rate of 12.2%. In the case of unavailable clinical predictors, the MI-BiLSTM model trained on radiology reports and demographic (age and sex) variables reached an AUC, F1 score, and misclassification rate of 74.5%, 70.8%, and 20.4%, respectively.<h4>Conclusions</h4>Using the case study of routine care chest X-ray radiology reports, we demonstrated the clinical relevance of integrating text features and classical predictors in our text mining pipeline for cardiovascular risk prediction. The MI-BiLSTM model with word embedding representation appeared to have a desirable performance when trained on text data integrated with the clinical variables from the SMART study. Our results mined from chest X-ray reports showed that models using text data in addition to laboratory values outperform those using only known clinical predictors.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1155/2021/6663884; html:https://europepmc.org/articles/PMC8285182; pdf:https://europepmc.org/articles/PMC8285182?pdf=render"
   },
   {
     "id": "33749694",
@@ -2864,13 +2864,13 @@
     "journalTitle": "Diabetes care",
     "pubYear": "2021",
     "date": "2021-06-04",
-    "isOpenAccess": "N",
+    "isOpenAccess": "Y",
     "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
     "abstract": "<h4>Objective</h4>The aim of this study was to use Mendelian randomization (MR) techniques to estimate the causal relationships between genetic liability to type 2 diabetes (T2D), glycemic traits, and risk of heart failure (HF).<h4>Research design and methods</h4>Summary-level data were obtained from genome-wide association studies of T2D, insulin resistance (IR), glycated hemoglobin, fasting insulin and glucose, and HF. MR was conducted using the inverse-variance weighted method. Sensitivity analyses included the MR-Egger method, weighted median and mode methods, and multivariable MR conditioning on potential mediators.<h4>Results</h4>Genetic liability to T2D was causally related to higher risk of HF (odds ratio [OR] 1.13 per 1-log unit higher risk of T2D; 95% CI 1.11-1.14; <i>P</i> < 0.001); however, sensitivity analysis revealed evidence of directional pleiotropy. The relationship between T2D and HF was attenuated when adjusted for coronary disease, BMI, LDL cholesterol, and blood pressure in multivariable MR. Genetically instrumented higher IR was associated with higher risk of HF (OR 1.19 per 1-log unit higher risk of IR; 95% CI 1.00-1.41; <i>P</i> = 0.041). There were no notable associations identified between fasting insulin, glucose, or glycated hemoglobin and risk of HF. Genetic liability to HF was causally linked to higher risk of T2D (OR 1.49; 95% CI 1.01-2.19; <i>P</i> = 0.042), although again with evidence of pleiotropy.<h4>Conclusions</h4>These findings suggest a possible causal role of T2D and IR in HF etiology, although the presence of both bidirectional effects and directional pleiotropy highlights potential sources of bias that must be considered.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.2337/dc20-2518"
+    "urls": "doi:https://doi.org/10.2337/dc20-2518; html:https://europepmc.org/articles/PMC8323186; pdf:https://europepmc.org/articles/PMC8323186?pdf=render"
   },
   {
     "id": "34112101",
@@ -3111,23 +3111,6 @@
     "urls": "doi:https://doi.org/10.1016/S2589-7500(20)30240-5"
   },
   {
-    "id": "33182605",
-    "doi": "https://doi.org/10.3390/genes11111326",
-    "title": "Exploring the Role of Contactins across Psychological, Psychiatric and Cardiometabolic Traits within UK Biobank.",
-    "authorString": "Morris J, Leung SSY, Bailey MES, Cullen B, Ferguson A, Graham N, Johnston KJA, Lyall DM, Lyall LM, Ward J, Smith DJ, Strawbridge RJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Genes",
-    "pubYear": "2020",
-    "date": "2020-11-10",
-    "isOpenAccess": "Y",
-    "keywords": "Hypertension; Genetic variation; Type 2 diabetes; Psychiatric disorders; Single Nucleotide Polymorphisms; Gene Expression; Uk Biobank; Contactins; Cardiometabolic Diseases",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Individuals with severe mental illness have an increased risk of cardiometabolic diseases compared to the general population. Shared risk factors and medication effects explain part of this excess risk; however, there is growing evidence to suggest that shared biology (including genetic variation) is likely to contribute to comorbidity between mental and physical illness. Contactins are a family of genes involved in development of the nervous system and implicated, though genome-wide association studies, in a wide range of psychological, psychiatric and cardiometabolic conditions. Contactins are plausible candidates for shared pathology between mental and physical health. We used data from UK Biobank to systematically assess how genetic variation in contactin genes was associated with a wide range of psychological, psychiatric and cardiometabolic conditions. We also investigated whether associations for cardiometabolic and psychological traits represented the same or distinct signals and how the genetic variation might influence the measured traits. We identified: A novel genetic association between variation in <i>CNTN1</i> and current smoking; two independent signals in <i>CNTN4</i> for BMI; and demonstrated that associations between <i>CNTN5</i> and neuroticism were distinct from those between <i>CNTN5</i> and blood pressure/HbA1c. There was no evidence that the contactin genes contributed to shared aetiology between physical and mental illness.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3390/genes11111326; html:https://europepmc.org/articles/PMC7697406; pdf:https://europepmc.org/articles/PMC7697406?pdf=render"
-  },
-  {
     "id": "33956386",
     "doi": "https://doi.org/10.1111/ceo.13943",
     "title": "Reporting guidelines for artificial intelligence in healthcare research.",
@@ -3143,6 +3126,23 @@
     "abstract": "Reporting guidelines are structured tools developed using explicit methodology that specify the minimum information required by researchers when reporting a study. The use of artificial intelligence (AI) reporting guidelines that address potential sources of bias specific to studies involving AI interventions has the potential to improve the quality of AI studies, through improvements in their design and delivery, and the completeness and transparency of their reporting. With a number of guidance documents relating to AI studies emerging from different specialist societies, this Review article provides researchers with some key principles for selecting the most appropriate reporting guidelines for a study involving an AI intervention. As the main determinants of a high-quality study are contained within the methodology of the study design rather than the intervention, researchers are recommended to use reporting guidelines that are specific to the study design, and then supplement them with AI-specific guidance contained within available AI reporting guidelines.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/ceo.13943"
+  },
+  {
+    "id": "33182605",
+    "doi": "https://doi.org/10.3390/genes11111326",
+    "title": "Exploring the Role of Contactins across Psychological, Psychiatric and Cardiometabolic Traits within UK Biobank.",
+    "authorString": "Morris J, Leung SSY, Bailey MES, Cullen B, Ferguson A, Graham N, Johnston KJA, Lyall DM, Lyall LM, Ward J, Smith DJ, Strawbridge RJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Genes",
+    "pubYear": "2020",
+    "date": "2020-11-10",
+    "isOpenAccess": "Y",
+    "keywords": "Hypertension; Genetic variation; Type 2 diabetes; Psychiatric disorders; Single Nucleotide Polymorphisms; Gene Expression; Uk Biobank; Contactins; Cardiometabolic Diseases",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Individuals with severe mental illness have an increased risk of cardiometabolic diseases compared to the general population. Shared risk factors and medication effects explain part of this excess risk; however, there is growing evidence to suggest that shared biology (including genetic variation) is likely to contribute to comorbidity between mental and physical illness. Contactins are a family of genes involved in development of the nervous system and implicated, though genome-wide association studies, in a wide range of psychological, psychiatric and cardiometabolic conditions. Contactins are plausible candidates for shared pathology between mental and physical health. We used data from UK Biobank to systematically assess how genetic variation in contactin genes was associated with a wide range of psychological, psychiatric and cardiometabolic conditions. We also investigated whether associations for cardiometabolic and psychological traits represented the same or distinct signals and how the genetic variation might influence the measured traits. We identified: A novel genetic association between variation in <i>CNTN1</i> and current smoking; two independent signals in <i>CNTN4</i> for BMI; and demonstrated that associations between <i>CNTN5</i> and neuroticism were distinct from those between <i>CNTN5</i> and blood pressure/HbA1c. There was no evidence that the contactin genes contributed to shared aetiology between physical and mental illness.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3390/genes11111326; html:https://europepmc.org/articles/PMC7697406; pdf:https://europepmc.org/articles/PMC7697406?pdf=render"
   },
   {
     "id": "32352158",
@@ -3944,23 +3944,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjopen-2019-033013; html:https://europepmc.org/articles/PMC6773283; pdf:https://europepmc.org/articles/PMC6773283?pdf=render"
   },
   {
-    "id": "33144367",
-    "doi": "https://doi.org/10.3399/bjgpopen20x101109",
-    "title": "Evaluating a cardiovascular disease risk management care continuum within a learning healthcare system: a prospective cohort study.",
-    "authorString": "Groenhof TKJ, Lely AT, Haitjema S, Nathoe HM, Kortekaas MF, Asselbergs FW, Bots ML, Hollander M, UCC CVRM study group.",
-    "authorAffiliations": "",
-    "journalTitle": "BJGP open",
-    "pubYear": "2020",
-    "date": "2020-12-15",
-    "isOpenAccess": "Y",
-    "keywords": "Cardiovascular diseases; Continuity Of Patient Care; Learning Healthcare System; Cardiovascular Risk Management",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Many patients now present with multimorbidity and chronicity of disease. This means that multidisciplinary management in a care continuum, integrating primary care and hospital care services, is needed to ensure high quality care.<h4>Aim</h4>To evaluate cardiovascular risk management (CVRM) via linkage of health data sources, as an example of a multidisciplinary continuum within a learning healthcare system (LHS).<h4>Design & setting</h4>In this prospective cohort study, data were linked from the Utrecht Cardiovascular Cohort (UCC) to the Julius General Practitioners' Network (JGPN) database. UCC offers structured CVRM at referral to the University Medical Centre (UMC) Utrecht. JGPN consists of electronic health record (EHR) data from referring GPs.<h4>Method</h4>The cardiovascular risk factors were extracted for each patient 13 months before referral (JGPN), at UCC inclusion, and during 12 months follow-up (JGPN). The following areas were assessed: registration of risk factors; detection of risk factor(s) requiring treatment at UCC; communication of risk factors and actionable suggestions from the specialist to the GP; and change of management during follow-up.<h4>Results</h4>In 52% of patients, \u22651 risk factors were registered (that is, extractable from structured fields within routine care health records) before UCC. In 12%-72% of patients, risk factor(s) existed that required (change or start of) treatment at UCC inclusion. Specialist communication included the complete risk profile in 67% of letters, but lacked actionable suggestions in 86%. In 29% of patients, at least one risk factor was registered after UCC. Change in management in GP records was seen in 21%-58% of them.<h4>Conclusion</h4>Evaluation of a multidisciplinary LHS is possible via linkage of health data sources. Efforts have to be made to improve registration in primary care, as well as communication on findings and actionable suggestions for follow-up to bridge the gap in the CVRM continuum.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.3399/bjgpopen20X101109; html:https://europepmc.org/articles/PMC7880177; pdf:https://europepmc.org/articles/PMC7880177?pdf=render"
-  },
-  {
     "id": "30969971",
     "doi": "https://doi.org/10.1371/journal.pone.0213435",
     "title": "Are active children and young people at increased risk of injuries resulting in hospital admission or accident and emergency department attendance? Analysis of linked cohort and electronic hospital records in Wales and Scotland.",
@@ -3976,6 +3959,23 @@
     "abstract": "<h4>Introduction</h4>Children and young people (CYP) are encouraged to increase time spent being physically active, especially in moderate and vigorous intensity pursuits. However, there is limited evidence on the prospective association of activity levels with injuries resulting in use of hospital services. We examined the relationship between objectively-measured physical activity (PA) and subsequent injuries resulting in hospital admissions or accident and emergency department (A&E) attendances, using linked electronic hospital records (EHR) from a nationally representative prospective cohort of CYP in Wales and Scotland.<h4>Methods</h4>We analysed accelerometer-based estimates of moderate to vigorous (MVPA) and vigorous PA (VPA) from 1,585 (777 [46%] boys) seven-year-old Millennium Cohort Study members, living in Wales or Scotland, whose parents consented to linkage of cohort records to EHRs up until their 14th birthday. Negative binomial regression models adjusted by potential individual, household and area-level confounders, were fitted to estimate associations between average daily minutes of MVPA, and VPA (in 10-minute increments), and number of injury-related hospital admissions and/or A&E attendances from age nine to 14 years.<h4>Results</h4>CYP spent a median of 59.5 and 18.1 minutes in MVPA and VPA/day respectively, with boys significantly more active than girls; 47.3% of children experienced at least one injury-related admission or A&E attendance during the study period. Rates of injury-related hospital admission and/or A&E attendance were positively associated with MVPA and VPA in boys but not in girls: respective adjusted incidence rate ratios (95% CI) for boys: 1.09 (1.01, 1.17) and 1.16 (1.00, 1.34), and for girls: 0.94 (0.86, 1.03) and 0.85 (0.69, 1.04).<h4>Conclusion</h4>Boys but not girls who engage in more intense PA at age seven years are at higher risk of injury-related hospital admission or A&E attendance when aged nine to 14 years than their less active peers. This may reflect gender differences in the type and associated risks of activities undertaken. EHRs can make a useful contribution to injury surveillance and prevention if routinely augmented with information on context and setting of the injuries sustained. Injury prevention initiatives should not discourage engagement in PA and outdoor play given their over-riding health and social benefits.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1371/journal.pone.0213435; html:https://europepmc.org/articles/PMC6457613; pdf:https://europepmc.org/articles/PMC6457613?pdf=render"
+  },
+  {
+    "id": "33144367",
+    "doi": "https://doi.org/10.3399/bjgpopen20x101109",
+    "title": "Evaluating a cardiovascular disease risk management care continuum within a learning healthcare system: a prospective cohort study.",
+    "authorString": "Groenhof TKJ, Lely AT, Haitjema S, Nathoe HM, Kortekaas MF, Asselbergs FW, Bots ML, Hollander M, UCC CVRM study group.",
+    "authorAffiliations": "",
+    "journalTitle": "BJGP open",
+    "pubYear": "2020",
+    "date": "2020-12-15",
+    "isOpenAccess": "Y",
+    "keywords": "Cardiovascular diseases; Continuity Of Patient Care; Learning Healthcare System; Cardiovascular Risk Management",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Many patients now present with multimorbidity and chronicity of disease. This means that multidisciplinary management in a care continuum, integrating primary care and hospital care services, is needed to ensure high quality care.<h4>Aim</h4>To evaluate cardiovascular risk management (CVRM) via linkage of health data sources, as an example of a multidisciplinary continuum within a learning healthcare system (LHS).<h4>Design & setting</h4>In this prospective cohort study, data were linked from the Utrecht Cardiovascular Cohort (UCC) to the Julius General Practitioners' Network (JGPN) database. UCC offers structured CVRM at referral to the University Medical Centre (UMC) Utrecht. JGPN consists of electronic health record (EHR) data from referring GPs.<h4>Method</h4>The cardiovascular risk factors were extracted for each patient 13 months before referral (JGPN), at UCC inclusion, and during 12 months follow-up (JGPN). The following areas were assessed: registration of risk factors; detection of risk factor(s) requiring treatment at UCC; communication of risk factors and actionable suggestions from the specialist to the GP; and change of management during follow-up.<h4>Results</h4>In 52% of patients, \u22651 risk factors were registered (that is, extractable from structured fields within routine care health records) before UCC. In 12%-72% of patients, risk factor(s) existed that required (change or start of) treatment at UCC inclusion. Specialist communication included the complete risk profile in 67% of letters, but lacked actionable suggestions in 86%. In 29% of patients, at least one risk factor was registered after UCC. Change in management in GP records was seen in 21%-58% of them.<h4>Conclusion</h4>Evaluation of a multidisciplinary LHS is possible via linkage of health data sources. Efforts have to be made to improve registration in primary care, as well as communication on findings and actionable suggestions for follow-up to bridge the gap in the CVRM continuum.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.3399/bjgpopen20X101109; html:https://europepmc.org/articles/PMC7880177; pdf:https://europepmc.org/articles/PMC7880177?pdf=render"
   },
   {
     "id": "32345651",
@@ -4012,23 +4012,6 @@
     "urls": "doi:https://doi.org/10.1186/s12874-020-01163-z; html:https://europepmc.org/articles/PMC7694355; pdf:https://europepmc.org/articles/PMC7694355?pdf=render"
   },
   {
-    "id": "32247548",
-    "doi": "https://doi.org/10.1016/j.tips.2020.03.003",
-    "title": "Electronic Health Records to Predict Gestational Diabetes Risk.",
-    "authorString": "Mateen BA, David AL, Denaxas S.",
-    "authorAffiliations": "",
-    "journalTitle": "Trends in pharmacological sciences",
-    "pubYear": "2020",
-    "date": "2020-04-01",
-    "isOpenAccess": "N",
-    "keywords": "Artificial intelligence; Gestational Diabetes Mellitus; Machine Learning; Risk Prediction; Electronic Health Records",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Gestational diabetes mellitus is a common pregnancy complication associated with significant adverse health outcomes for both women and infants. Effective screening and early prediction tools as part of routine clinical care are needed to reduce the impact of the disease on the baby and mother. Using large-scale electronic health records, Artzi and colleagues developed and evaluated a machine learning driven tool to identify women at high and low risk of GDM. Their findings showcase how artificial intelligence approaches can potentially be embedded in clinical care to enable accurate and rapid risk stratification.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.tips.2020.03.003"
-  },
-  {
     "id": "33536532",
     "doi": "https://doi.org/10.1038/s41598-021-82459-y",
     "title": "Data-driven identification of ageing-related diseases from electronic health records.",
@@ -4044,6 +4027,23 @@
     "abstract": "Reducing the burden of late-life morbidity requires an understanding of the mechanisms of ageing-related diseases (ARDs), defined as diseases that accumulate with increasing age. This has been hampered by the lack of formal criteria to identify ARDs. Here, we present a framework to identify ARDs using two complementary methods consisting of unsupervised machine learning and actuarial techniques, which we applied to electronic health records (EHRs) from 3,009,048 individuals in England using primary care data from the Clinical Practice Research Datalink (CPRD) linked to the Hospital Episode Statistics admitted patient care dataset between 1 April 2010 and 31 March 2015 (mean age 49.7\u00a0years (s.d. 18.6), 51% female, 70% white ethnicity). We grouped 278 high-burden diseases into nine main clusters according to their patterns of disease onset, using a hierarchical agglomerative clustering algorithm. Four of these clusters, encompassing 207 diseases spanning diverse organ systems and clinical specialties, had rates of disease onset that clearly increased with chronological age. However, the ages of onset for these four clusters were strikingly different, with median age of onset 82\u00a0years (IQR 82-83) for Cluster 1, 77\u00a0years (IQR 75-77) for Cluster 2, 69\u00a0years (IQR 66-71) for Cluster 3 and 57\u00a0years (IQR 54-59) for Cluster 4. Fitting to ageing-related actuarial models confirmed that the vast majority of these 207 diseases had a high probability of being ageing-related. Cardiovascular diseases and cancers were highly represented, while benign neoplastic, skin and psychiatric conditions were largely absent from the four ageing-related clusters. Our framework identifies and clusters ARDs and can form the basis for fundamental and translational research into ageing pathways.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41598-021-82459-y; html:https://europepmc.org/articles/PMC7859412; pdf:https://europepmc.org/articles/PMC7859412?pdf=render"
+  },
+  {
+    "id": "32247548",
+    "doi": "https://doi.org/10.1016/j.tips.2020.03.003",
+    "title": "Electronic Health Records to Predict Gestational Diabetes Risk.",
+    "authorString": "Mateen BA, David AL, Denaxas S.",
+    "authorAffiliations": "",
+    "journalTitle": "Trends in pharmacological sciences",
+    "pubYear": "2020",
+    "date": "2020-04-01",
+    "isOpenAccess": "N",
+    "keywords": "Artificial intelligence; Gestational Diabetes Mellitus; Machine Learning; Risk Prediction; Electronic Health Records",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Gestational diabetes mellitus is a common pregnancy complication associated with significant adverse health outcomes for both women and infants. Effective screening and early prediction tools as part of routine clinical care are needed to reduce the impact of the disease on the baby and mother. Using large-scale electronic health records, Artzi and colleagues developed and evaluated a machine learning driven tool to identify women at high and low risk of GDM. Their findings showcase how artificial intelligence approaches can potentially be embedded in clinical care to enable accurate and rapid risk stratification.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.tips.2020.03.003"
   },
   {
     "id": "34345870",
@@ -4165,23 +4165,6 @@
     "urls": "doi:https://doi.org/10.1038/s41598-020-76816-6; html:https://europepmc.org/articles/PMC7661535; pdf:https://europepmc.org/articles/PMC7661535?pdf=render"
   },
   {
-    "id": "33206055",
-    "doi": "https://doi.org/10.2196/19650",
-    "title": "Mobile Clinical Decision Support System for the Management of Diabetic Patients With Kidney Complications in UK Primary Care Settings: Mixed Methods Feasibility Study.",
-    "authorString": "Alhodaib HI, Antza C, Chandan JS, Hanif W, Sankaranarayanan S, Paul S, Sutcliffe P, Nirantharakumar K.",
-    "authorAffiliations": "",
-    "journalTitle": "JMIR diabetes",
-    "pubYear": "2020",
-    "date": "2020-11-18",
-    "isOpenAccess": "Y",
-    "keywords": "Diabetes mellitus; Chronic Kidney Disease; Feasibility Study; Ehealth; Clinical Decision Support Application",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Attempts to utilize eHealth in diabetes mellitus (DM) management have shown promising outcomes, mostly targeted at patients; however, few solutions have been designed for health care providers.<h4>Objective</h4>The purpose of this study was to conduct a feasibility project developing and evaluating a mobile clinical decision support system (CDSS) tool exclusively for health care providers to manage chronic kidney disease (CKD) in patients with DM.<h4>Methods</h4>The design process was based on the 3 key stages of the user-centered design framework. First, an exploratory qualitative study collected the experiences and views of DM specialist nurses regarding the use of mobile apps in clinical practice. Second, a CDSS tool was developed for the management of patients with DM and CKD. Finally, a randomized controlled trial examined the acceptability and impact of the tool.<h4>Results</h4>We interviewed 15 DM specialist nurses. DM specialist nurses were not currently using eHealth solutions in their clinical practice, while most nurses were not even aware of existing medical apps. However, they appreciated the potential benefits that apps may bring to their clinical practice. Taking into consideration the needs and preferences of end users, a new mobile CDSS app, \"Diabetes & CKD,\" was developed based on guidelines. We recruited 39 junior foundation year 1 doctors (44% male) to evaluate the app. Of them, 44% (17/39) were allocated to the intervention group, and 56% (22/39) were allocated to the control group. There was no significant difference in scores (maximum score=13) assessing the management decisions between the app and paper-based version of the app's algorithm (intervention group: mean 7.24 points, SD 2.46 points; control group: mean 7.39, SD 2.56; t<sub>37</sub>=-0.19, P=.85). However, 82% (14/17) of the participants were satisfied with using the app.<h4>Conclusions</h4>The findings will guide the design of future CDSS apps for the management of DM, aiming to help health care providers with a personalized approach depending on patients' comorbidities, specifically CKD, in accordance with guidelines.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/19650; html:https://europepmc.org/articles/PMC7710444; pdf:https://europepmc.org/articles/PMC7710444?pdf=render"
-  },
-  {
     "id": "30659777",
     "doi": "https://doi.org/10.1111/ijpo.12505",
     "title": "Are children with clinical obesity at increased risk of inpatient hospital admissions? An analysis using linked electronic health records in the UK millennium cohort study.",
@@ -4197,6 +4180,23 @@
     "abstract": "<h4>Background</h4>Few studies have examined health service utilization of children with overweight or obesity by using linked electronic health records (EHRs).<h4>Objective/methods</h4>We analysed EHRs from 3269 children (1678 boys; 51.3% [weighted]) participating in the Millennium Cohort Study, living in Wales or Scotland at age seven whose parents consented to record linkage. We used height and weight measurements at age five to categorize children as obese (>98th centile) or overweight (>91st centile) (UK1990 clinical reference standards) and linked to hospital admissions, up to age 14\u00a0years, in the Patient Episode Database for Wales and Scottish Morbidity Records. Negative binomial regression models compared rates of inpatient admissions by weight status at age five.<h4>Results</h4>At age five, 11.5% and 6.7% of children were overweight or obese, respectively; 1221 (38%) children were subsequently admitted to hospital at least once. Admissions were not increased among children with overweight or obesity (adjusted rate ratio [RR], 95% confidence interval [CI]: 0.87, 0.68-1.10 and 1.16, 0.87-1.54, respectively).<h4>Conclusions</h4>In this nationally representative cohort of children in Wales and Scotland, those with overweight or obesity at entry to primary school did not have increased rates of hospital admissions in later childhood and early adolescence.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/ijpo.12505; html:https://europepmc.org/articles/PMC6563186; pdf:https://europepmc.org/articles/PMC6563186?pdf=render"
+  },
+  {
+    "id": "33206055",
+    "doi": "https://doi.org/10.2196/19650",
+    "title": "Mobile Clinical Decision Support System for the Management of Diabetic Patients With Kidney Complications in UK Primary Care Settings: Mixed Methods Feasibility Study.",
+    "authorString": "Alhodaib HI, Antza C, Chandan JS, Hanif W, Sankaranarayanan S, Paul S, Sutcliffe P, Nirantharakumar K.",
+    "authorAffiliations": "",
+    "journalTitle": "JMIR diabetes",
+    "pubYear": "2020",
+    "date": "2020-11-18",
+    "isOpenAccess": "Y",
+    "keywords": "Diabetes mellitus; Chronic Kidney Disease; Feasibility Study; Ehealth; Clinical Decision Support Application",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Attempts to utilize eHealth in diabetes mellitus (DM) management have shown promising outcomes, mostly targeted at patients; however, few solutions have been designed for health care providers.<h4>Objective</h4>The purpose of this study was to conduct a feasibility project developing and evaluating a mobile clinical decision support system (CDSS) tool exclusively for health care providers to manage chronic kidney disease (CKD) in patients with DM.<h4>Methods</h4>The design process was based on the 3 key stages of the user-centered design framework. First, an exploratory qualitative study collected the experiences and views of DM specialist nurses regarding the use of mobile apps in clinical practice. Second, a CDSS tool was developed for the management of patients with DM and CKD. Finally, a randomized controlled trial examined the acceptability and impact of the tool.<h4>Results</h4>We interviewed 15 DM specialist nurses. DM specialist nurses were not currently using eHealth solutions in their clinical practice, while most nurses were not even aware of existing medical apps. However, they appreciated the potential benefits that apps may bring to their clinical practice. Taking into consideration the needs and preferences of end users, a new mobile CDSS app, \"Diabetes & CKD,\" was developed based on guidelines. We recruited 39 junior foundation year 1 doctors (44% male) to evaluate the app. Of them, 44% (17/39) were allocated to the intervention group, and 56% (22/39) were allocated to the control group. There was no significant difference in scores (maximum score=13) assessing the management decisions between the app and paper-based version of the app's algorithm (intervention group: mean 7.24 points, SD 2.46 points; control group: mean 7.39, SD 2.56; t<sub>37</sub>=-0.19, P=.85). However, 82% (14/17) of the participants were satisfied with using the app.<h4>Conclusions</h4>The findings will guide the design of future CDSS apps for the management of DM, aiming to help health care providers with a personalized approach depending on patients' comorbidities, specifically CKD, in accordance with guidelines.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/19650; html:https://europepmc.org/articles/PMC7710444; pdf:https://europepmc.org/articles/PMC7710444?pdf=render"
   },
   {
     "id": "33328049",
@@ -4913,23 +4913,6 @@
     "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100469; html:https://europepmc.org/articles/PMC7385442; pdf:https://europepmc.org/articles/PMC7385442?pdf=render"
   },
   {
-    "id": "30729733",
-    "doi": "https://doi.org/10.1111/ijpo.12512",
-    "title": "Predictors of objectively measured physical activity in 12-month-old infants: A study of linked birth cohort data with electronic health records.",
-    "authorString": "Raza H, Zhou SM, Todd C, Christian D, Marchant E, Morgan K, Khanom A, Hill R, Lyons RA, Brophy S.",
-    "authorAffiliations": "",
-    "journalTitle": "Pediatric obesity",
-    "pubYear": "2019",
-    "date": "2019-02-06",
-    "isOpenAccess": "Y",
-    "keywords": "Gestation; Infants; postnatal development; Physical Activity",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Physical activity (PA) levels are associated with long-term health, and levels of PA when young are predictive of adult activity levels.<h4>Objectives</h4>This study examines factors associated with PA levels in 12-month infants.<h4>Method</h4>One hundred forty-one mother-infant pairs were recruited via a longitudinal birth cohort study (April 2010 to March 2013). The PA level was collected using accelerometers and linked to postnatal notes and electronic medical records via the Secure Anonymised Information Linkage databank. Univariable and multivariable linear regressions were used to examine the factors associated with PA levels.<h4>Results</h4>Using univariable analysis, higher PA was associated with the following (P value less than 0.05): being male, larger infant size, healthy maternal blood pressure levels, full-term gestation period, higher consumption of vegetables (infant), lower consumption of juice (infant), low consumption of adult crisps (infant), longer breastfeeding duration, and more movement during sleep (infant) but fewer night wakings. Combined into a multivariable regression model (R<sup>2</sup> \u00a0=\u00a00.654), all factors remained significant, showing lower PA levels were associated with female gender, smaller infant, preterm birth, higher maternal blood pressure, low vegetable consumption, high crisp consumption, and less night movement.<h4>Conclusion</h4>The PA levels of infants were strongly associated with both gestational and postnatal environmental factors. Healthy behaviours appear to cluster, and a healthy diet was associated with a more active infant. Boys were substantially more active than girls, even at age 12\u00a0months. These findings can help inform interventions to promote healthier lives for infants and to understand the determinants of their PA levels.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/ijpo.12512; html:https://europepmc.org/articles/PMC6563068; pdf:https://europepmc.org/articles/PMC6563068?pdf=render"
-  },
-  {
     "id": "32639589",
     "doi": "https://doi.org/10.1111/bcp.14458",
     "title": "Measuring and reporting treatment adherence: What can we learn by comparing two respiratory conditions?",
@@ -4962,6 +4945,23 @@
     "abstract": "The CONSORT 2010 statement provides minimum guidelines for reporting randomized trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trials evaluating interventions with an AI component. It was developed in parallel with its companion statement for clinical trial protocols: SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 29 candidate items, which were assessed by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a two-day consensus meeting (31 stakeholders) and refined through a checklist pilot (34 participants). The CONSORT-AI extension includes 14 new items that were considered sufficiently important for AI interventions that they should be routinely reported in addition to the core CONSORT 2010 items. CONSORT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention is integrated, the handling of inputs and outputs of the AI intervention, the human-AI interaction and provision of an analysis of error cases. CONSORT-AI will help promote transparency and completeness in reporting clinical trials for AI interventions. It will assist editors and peer reviewers, as well as the general readership, to understand, interpret and critically appraise the quality of clinical trial design and risk of bias in the reported outcomes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41591-020-1034-x; html:https://europepmc.org/articles/PMC7598943; pdf:https://europepmc.org/articles/PMC7598943?pdf=render"
+  },
+  {
+    "id": "30729733",
+    "doi": "https://doi.org/10.1111/ijpo.12512",
+    "title": "Predictors of objectively measured physical activity in 12-month-old infants: A study of linked birth cohort data with electronic health records.",
+    "authorString": "Raza H, Zhou SM, Todd C, Christian D, Marchant E, Morgan K, Khanom A, Hill R, Lyons RA, Brophy S.",
+    "authorAffiliations": "",
+    "journalTitle": "Pediatric obesity",
+    "pubYear": "2019",
+    "date": "2019-02-06",
+    "isOpenAccess": "Y",
+    "keywords": "Gestation; Infants; postnatal development; Physical Activity",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Physical activity (PA) levels are associated with long-term health, and levels of PA when young are predictive of adult activity levels.<h4>Objectives</h4>This study examines factors associated with PA levels in 12-month infants.<h4>Method</h4>One hundred forty-one mother-infant pairs were recruited via a longitudinal birth cohort study (April 2010 to March 2013). The PA level was collected using accelerometers and linked to postnatal notes and electronic medical records via the Secure Anonymised Information Linkage databank. Univariable and multivariable linear regressions were used to examine the factors associated with PA levels.<h4>Results</h4>Using univariable analysis, higher PA was associated with the following (P value less than 0.05): being male, larger infant size, healthy maternal blood pressure levels, full-term gestation period, higher consumption of vegetables (infant), lower consumption of juice (infant), low consumption of adult crisps (infant), longer breastfeeding duration, and more movement during sleep (infant) but fewer night wakings. Combined into a multivariable regression model (R<sup>2</sup> \u00a0=\u00a00.654), all factors remained significant, showing lower PA levels were associated with female gender, smaller infant, preterm birth, higher maternal blood pressure, low vegetable consumption, high crisp consumption, and less night movement.<h4>Conclusion</h4>The PA levels of infants were strongly associated with both gestational and postnatal environmental factors. Healthy behaviours appear to cluster, and a healthy diet was associated with a more active infant. Boys were substantially more active than girls, even at age 12\u00a0months. These findings can help inform interventions to promote healthier lives for infants and to understand the determinants of their PA levels.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/ijpo.12512; html:https://europepmc.org/articles/PMC6563068; pdf:https://europepmc.org/articles/PMC6563068?pdf=render"
   },
   {
     "id": "32692755",
@@ -5610,23 +5610,6 @@
     "urls": "doi:https://doi.org/10.1038/s41588-020-00751-5"
   },
   {
-    "id": "32346541",
-    "doi": "https://doi.org/10.1093/burnst/tkz004",
-    "title": "Predictors of itch and pain in the 12 months following burn injury: results from the Burns Registry of Australia and New Zealand (BRANZ) Long-Term Outcomes Project.",
-    "authorString": "Tracy LM, Edgar DW, Schrale R, Cleland H, Gabbe BJ, BRANZ Adult Long-Term Outcomes Pilot Project participating sites and working party.",
-    "authorAffiliations": "",
-    "journalTitle": "Burns & trauma",
-    "pubYear": "2020",
-    "date": "2020-02-27",
-    "isOpenAccess": "Y",
-    "keywords": "Australia; Pain; New Zealand; Cohort study; Outcomes; Predictor; Itch; Burn Registry",
-    "nationalPriorities": "Better Care",
-    "healthCategories": "injuries and accidents",
-    "abstract": "Background:Itch and pain are common complaints of patients with burn injuries. This study aimed to describe the prevalence and predictors of itch and moderate to severe pain in the first 12\u00a0months following a burn injury, and determine the association between itch, moderate to severe pain, work-related outcomes, and health-related quality of life following a burn injury. Methods:Burn patients aged 18\u00a0years and older were recruited from five Australian specialist burn units. Patients completed the 36-item Short Form Health Survey Version 2 (SF-36 V2), the Sickness Impact Profile (SIP) work scale, and a specially developed questionnaire relating to itch at 1, 6, and 12 months post-injury. Moderate to severe pain was defined as a score less than 40 on the bodily pain domain of the SF-36 V2. Multivariate mixed-effects regression models were used to identify patient and burn injury predictors of itch and moderate to severe pain. Results:Three hundred and twenty-eight patients were included. The prevalence of itch decreased from 50% at 1 month to 27% at 12 months. Similarly, the prevalence of moderate to severe pain decreased from 23% at 1 month to 13% at 12 months. Compared to patients aged 18-34, the adjusted odds of experiencing any itch were 59% (95% CI: 0.20, 0.82) and 55% (95% CI: 0.22, 0.91) lower for patients aged between 35 and 49 and \u2265\u200950\u00a0years, respectively. Compared to patients aged 18-34, the adjusted odds of experiencing moderate to severe pain were 3.12 (95% CI: 1.35, 7.20) and 3.42 (95% CI: 1.47, 7.93) times higher for patients aged 35-49 and\u2009\u2265\u200950\u00a0years, respectively. Conclusions:Less than 15% of patients reported moderate or severe pain at 12 months, while approximately one-quarter of the patients reported itch at the same period. The presence of moderate to severe pain was associated with a greater negative impact on health-related quality of life and work outcomes compared to itch. Further research is needed to improve our ability to identify patients at higher risk of persistent itch and pain who would benefit from targeted review and intervention studies.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/burnst/tkz004; html:https://europepmc.org/articles/PMC7175773; pdf:https://europepmc.org/articles/PMC7175773?pdf=render"
-  },
-  {
     "id": "32170038",
     "doi": "https://doi.org/10.1136/heartjnl-2019-316088",
     "title": "Cardiovascular risk factors and the risk of major adverse limb events in patients with symptomatic cardiovascular disease.",
@@ -5642,6 +5625,23 @@
     "abstract": "<h4>Aim</h4>To determine the relationship between non-high-density lipoprotein cholesterol (non-HDL-c), systolic blood pressure (SBP) and smoking and the risk of major adverse limb events (MALE) and the combination with major adverse cardiovascular events (MALE/MACE) in patients with symptomatic vascular disease.<h4>Methods</h4>Patients with symptomatic vascular disease from the Utrecht Cardiovascular Cohort - Secondary Manifestations of ARTerial disease (1996-2017) study were included. The effects of non-HDL-c, SBP and smoking on the risk of MALE were analysed with Cox proportional hazard models stratified for presence of peripheral artery disease (PAD). MALE was defined as major amputation, peripheral revascularisation or thrombolysis in the lower limb.<h4>Results</h4>In 8139 patients (median follow-up 7.8 years, IQR 4.0-11.8), 577 MALE (8.7 per 1000 person-years) and 1933 MALE/MACE were observed (29.1 per 1000 person-years). In patients with PAD there was no relation between non-HDL-c and MALE, and in patients with coronary artery disease (CAD), cerebrovascular disease (CVD) or abdominal aortic aneurysm (AAA) the risk of MALE was higher per 1\u2009mmol/L non-HDL-c (HR 1.14, 95%\u2009CI 1.01 to 1.29). Per 10\u2009mm Hg SBP, the risk of MALE was higher in patients with PAD (HR 1.06, 95%\u2009CI 1.01 to 1.12) and in patients with CVD/CAD/AAA (HR 1.15, 95%\u2009CI 1.08 to 1.22). The risk of MALE was higher in smokers with PAD (HR 1.45, 95%\u2009CI 0.97 to 2.14) and CAD/CVD/AAA (HR 7.08, 95%\u2009CI 3.99 to 12.57).<h4>Conclusions</h4>The risk of MALE and MALE/MACE in patients with symptomatic vascular disease differs according to vascular disease location and is associated with non-HDL-c, SBP and smoking. These findings confirm the importance of MALE as an outcome and underline the importance of risk factor management in patients with vascular disease.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/heartjnl-2019-316088"
+  },
+  {
+    "id": "32346541",
+    "doi": "https://doi.org/10.1093/burnst/tkz004",
+    "title": "Predictors of itch and pain in the 12 months following burn injury: results from the Burns Registry of Australia and New Zealand (BRANZ) Long-Term Outcomes Project.",
+    "authorString": "Tracy LM, Edgar DW, Schrale R, Cleland H, Gabbe BJ, BRANZ Adult Long-Term Outcomes Pilot Project participating sites and working party.",
+    "authorAffiliations": "",
+    "journalTitle": "Burns & trauma",
+    "pubYear": "2020",
+    "date": "2020-02-27",
+    "isOpenAccess": "Y",
+    "keywords": "Australia; Pain; New Zealand; Cohort study; Outcomes; Predictor; Itch; Burn Registry",
+    "nationalPriorities": "Better Care",
+    "healthCategories": "injuries and accidents",
+    "abstract": "Background:Itch and pain are common complaints of patients with burn injuries. This study aimed to describe the prevalence and predictors of itch and moderate to severe pain in the first 12\u00a0months following a burn injury, and determine the association between itch, moderate to severe pain, work-related outcomes, and health-related quality of life following a burn injury. Methods:Burn patients aged 18\u00a0years and older were recruited from five Australian specialist burn units. Patients completed the 36-item Short Form Health Survey Version 2 (SF-36 V2), the Sickness Impact Profile (SIP) work scale, and a specially developed questionnaire relating to itch at 1, 6, and 12 months post-injury. Moderate to severe pain was defined as a score less than 40 on the bodily pain domain of the SF-36 V2. Multivariate mixed-effects regression models were used to identify patient and burn injury predictors of itch and moderate to severe pain. Results:Three hundred and twenty-eight patients were included. The prevalence of itch decreased from 50% at 1 month to 27% at 12 months. Similarly, the prevalence of moderate to severe pain decreased from 23% at 1 month to 13% at 12 months. Compared to patients aged 18-34, the adjusted odds of experiencing any itch were 59% (95% CI: 0.20, 0.82) and 55% (95% CI: 0.22, 0.91) lower for patients aged between 35 and 49 and \u2265\u200950\u00a0years, respectively. Compared to patients aged 18-34, the adjusted odds of experiencing moderate to severe pain were 3.12 (95% CI: 1.35, 7.20) and 3.42 (95% CI: 1.47, 7.93) times higher for patients aged 35-49 and\u2009\u2265\u200950\u00a0years, respectively. Conclusions:Less than 15% of patients reported moderate or severe pain at 12 months, while approximately one-quarter of the patients reported itch at the same period. The presence of moderate to severe pain was associated with a greater negative impact on health-related quality of life and work outcomes compared to itch. Further research is needed to improve our ability to identify patients at higher risk of persistent itch and pain who would benefit from targeted review and intervention studies.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/burnst/tkz004; html:https://europepmc.org/articles/PMC7175773; pdf:https://europepmc.org/articles/PMC7175773?pdf=render"
   },
   {
     "id": "30993728",
@@ -6120,23 +6120,6 @@
     "urls": "doi:https://doi.org/10.1097/EDE.0000000000001393; html:https://europepmc.org/articles/PMC8318567; pdf:https://europepmc.org/articles/PMC8318567?pdf=render"
   },
   {
-    "id": "32546850",
-    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
-    "title": "Genetic aetiology of self-harm ideation and behaviour.",
-    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "date": "2020-06-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (h<sub>snp</sub><sup>2</sup>) estimates were ~10%, and both traits were highly genetically correlated (LDSC r<sub>g</sub>\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
-  },
-  {
     "id": "31666244",
     "doi": "https://doi.org/10.1136/archdischild-2019-317271",
     "title": "Behavioural difficulties in early childhood and risk of adolescent injury.",
@@ -6305,6 +6288,23 @@
     "abstract": "<h4>Background</h4>Cardiovascular disease (CVD) and cancer share many common risk factors; patients with CVD also may be at risk of developing cancer.<h4>Objectives</h4>The aim of this study was to derive and externally validate prediction models for the estimation of lifetime and 10-year risk for total, colorectal, and lung cancer in patients with established CVD.<h4>Methods</h4>Data from patients with established CVD from the UCC-SMART cohort (N\u00a0=\u00a07,280) were used for model development, and from the CANTOS trial (N\u00a0=\u00a09,322) for model validation. Predictors were selected based on previously published cancer risk scores, clinical availability, and presence in the derivation dataset. Fine and Gray competing risk-adjusted lifetime models were developed for the outcomes total, colorectal, and lung cancer.<h4>Results</h4>Selected predictors were age, sex, smoking, weight, height, alcohol use, antiplatelet use, diabetes, and C-reactive protein. External calibration for the 4-year risk of lung, colorectal, and total cancer was reasonable in our models, as was discrimination with C-statistics of 0.74, 0.64, and 0.63, respectively. Median predicted lifetime and 10-year risks in CANTOS were 26% (range 1% to 52%) and 13% (range 1% to 31%) for total cancer; 4% (range 0% to 13%) and 2% (range 0% to 6%) for colorectal cancer; and 5% (range 0% to 37%) and 2% (range 0% to 24%) for lung cancer.<h4>Conclusions</h4>Lifetime and 10-year risk of total, colorectal, and lung cancer can be estimated reasonably well in patients with established CVD with readily available clinical predictors. With additional study, these tools could be used in clinical practice to further aid in the emphasis of healthy lifestyle changes and to guide thresholds for targeted diagnostics and screening.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jaccao.2020.07.001; html:https://europepmc.org/articles/PMC8352343; pdf:https://europepmc.org/articles/PMC8352343?pdf=render"
+  },
+  {
+    "id": "32546850",
+    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
+    "title": "Genetic aetiology of self-harm ideation and behaviour.",
+    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "date": "2020-06-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (h<sub>snp</sub><sup>2</sup>) estimates were ~10%, and both traits were highly genetically correlated (LDSC r<sub>g</sub>\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
   },
   {
     "id": "32616598",
@@ -6562,23 +6562,6 @@
     "urls": "doi:https://doi.org/10.1186/s12872-021-02137-9; html:https://europepmc.org/articles/PMC8254437; pdf:https://europepmc.org/articles/PMC8254437?pdf=render"
   },
   {
-    "id": "32142356",
-    "doi": "https://doi.org/10.1164/rccm.201902-0286oc",
-    "title": "Prenatal, Early-Life, and Childhood Exposure to Air Pollution and Lung Function: The ALSPAC Cohort.",
-    "authorString": "Cai Y, Hansell AL, Granell R, Blangiardo M, Zottoli M, Fecht D, Gulliver J, Henderson AJ, Elliott P.",
-    "authorAffiliations": "",
-    "journalTitle": "American journal of respiratory and critical care medicine",
-    "pubYear": "2020",
-    "date": "2020-07-01",
-    "isOpenAccess": "N",
-    "keywords": "Air pollution; Children; Traffic; Alspac; Respiratory Health",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<b>Rationale</b>: Exposure to air pollution during intrauterine development and through childhood may have lasting effects on respiratory health.<b>Objectives</b>: To investigate lung function at ages 8 and 15 years in relation to air pollution exposures during pregnancy, infancy, and childhood in a UK population-based birth cohort.<b>Methods</b>: Individual exposures to source-specific particulate matter \u226410 \u03bcm in aerodynamic diameter (PM<sub>10</sub>) during each trimester, 0-6 months, 7-12 months (1990-1993), and up to age 15 years (1991-2008) were examined in relation to FEV<sub>1</sub>% predicted and FVC% predicted at ages 8 (<i>n</i>\u2009=\u20095,276) and 15 (<i>n</i>\u2009=\u20093,446) years using linear regression models adjusted for potential confounders. A profile regression model was used to identify sensitive time periods.<b>Measurements and Main Results</b>: We did not find clear evidence of a sensitive exposure period for PM<sub>10</sub> from road traffic. At age 8 years, 1 \u03bcg/m<sup>3</sup> higher exposure during the first trimester was associated with lower FEV<sub>1</sub>% predicted (-0.826; 95% confidence interval [CI], -1.357 to -0.296) and FVC% predicted (-0.817; 95% CI, -1.357 to -0.276), but similar associations were seen for exposures for other trimesters, 0-6 months, 7-12 months, and 0-7 years. Associations were stronger among boys, as well as children whose mother had a lower education level or smoked during pregnancy. For PM<sub>10</sub> from all sources, the third trimester was associated with lower FVC% predicted (-1.312; 95% CI, -2.100 to -0.525). At age 15 years, no adverse associations with lung function were seen.<b>Conclusions</b>: Exposure to road-traffic PM<sub>10</sub> during pregnancy may result in small but significant reductions in lung function at age 8 years.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1164/rccm.201902-0286OC; html:https://europepmc.org/articles/PMC7328307; pdf:https://europepmc.org/articles/PMC7328307?pdf=render; doi:https://doi.org/10.1164/rccm.201902-0286oc"
-  },
-  {
     "id": "33130851",
     "doi": "https://doi.org/10.1093/ije/dyaa216",
     "title": "High-throughput multivariable Mendelian randomization analysis prioritizes apolipoprotein B as key lipid risk factor for coronary artery disease.",
@@ -6594,6 +6577,23 @@
     "abstract": "<h4>Background</h4>Genetic variants can be used to prioritize risk factors as potential therapeutic targets via Mendelian randomization (MR). An agnostic statistical framework using Bayesian model averaging (MR-BMA) can disentangle the causal role of correlated risk factors with shared genetic predictors. Here, our objective is to identify lipoprotein measures as mediators between lipid-associated genetic variants and coronary artery disease (CAD) for the purpose of detecting therapeutic targets for CAD.<h4>Methods</h4>As risk factors we consider 30 lipoprotein measures and metabolites derived from a high-throughput metabolomics study including 24\u00a0925 participants. We fit multivariable MR models of genetic associations with CAD estimated in 453\u00a0595 participants (including 113\u00a0937 cases) regressed on genetic associations with the risk factors. MR-BMA assigns to each combination of risk factors a model score quantifying how well the genetic associations with CAD are explained. Risk factors are ranked by their marginal score and selected using false-discovery rate (FDR) criteria. We perform supplementary and sensitivity analyses varying the dataset for genetic associations with CAD.<h4>Results</h4>In the main analysis, the top combination of risk factors ranked by the model score contains apolipoprotein B (ApoB) only. ApoB is also the highest ranked risk factor with respect to the marginal score (FDR <0.005). Additionally, ApoB is selected in all sensitivity analyses. No other measure of cholesterol or triglyceride is consistently selected otherwise.<h4>Conclusions</h4>Our agnostic genetic investigation prioritizes ApoB across all datasets considered, suggesting that ApoB, representing the total number of hepatic-derived lipoprotein particles, is the primary lipid determinant of CAD.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/ije/dyaa216; html:https://europepmc.org/articles/PMC8271202; pdf:https://europepmc.org/articles/PMC8271202?pdf=render"
+  },
+  {
+    "id": "32142356",
+    "doi": "https://doi.org/10.1164/rccm.201902-0286oc",
+    "title": "Prenatal, Early-Life, and Childhood Exposure to Air Pollution and Lung Function: The ALSPAC Cohort.",
+    "authorString": "Cai Y, Hansell AL, Granell R, Blangiardo M, Zottoli M, Fecht D, Gulliver J, Henderson AJ, Elliott P.",
+    "authorAffiliations": "",
+    "journalTitle": "American journal of respiratory and critical care medicine",
+    "pubYear": "2020",
+    "date": "2020-07-01",
+    "isOpenAccess": "N",
+    "keywords": "Air pollution; Children; Traffic; Alspac; Respiratory Health",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<b>Rationale</b>: Exposure to air pollution during intrauterine development and through childhood may have lasting effects on respiratory health.<b>Objectives</b>: To investigate lung function at ages 8 and 15 years in relation to air pollution exposures during pregnancy, infancy, and childhood in a UK population-based birth cohort.<b>Methods</b>: Individual exposures to source-specific particulate matter \u226410 \u03bcm in aerodynamic diameter (PM<sub>10</sub>) during each trimester, 0-6 months, 7-12 months (1990-1993), and up to age 15 years (1991-2008) were examined in relation to FEV<sub>1</sub>% predicted and FVC% predicted at ages 8 (<i>n</i>\u2009=\u20095,276) and 15 (<i>n</i>\u2009=\u20093,446) years using linear regression models adjusted for potential confounders. A profile regression model was used to identify sensitive time periods.<b>Measurements and Main Results</b>: We did not find clear evidence of a sensitive exposure period for PM<sub>10</sub> from road traffic. At age 8 years, 1 \u03bcg/m<sup>3</sup> higher exposure during the first trimester was associated with lower FEV<sub>1</sub>% predicted (-0.826; 95% confidence interval [CI], -1.357 to -0.296) and FVC% predicted (-0.817; 95% CI, -1.357 to -0.276), but similar associations were seen for exposures for other trimesters, 0-6 months, 7-12 months, and 0-7 years. Associations were stronger among boys, as well as children whose mother had a lower education level or smoked during pregnancy. For PM<sub>10</sub> from all sources, the third trimester was associated with lower FVC% predicted (-1.312; 95% CI, -2.100 to -0.525). At age 15 years, no adverse associations with lung function were seen.<b>Conclusions</b>: Exposure to road-traffic PM<sub>10</sub> during pregnancy may result in small but significant reductions in lung function at age 8 years.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1164/rccm.201902-0286OC; html:https://europepmc.org/articles/PMC7328307; pdf:https://europepmc.org/articles/PMC7328307?pdf=render; doi:https://doi.org/10.1164/rccm.201902-0286oc"
   },
   {
     "id": "29966429",
@@ -6613,23 +6613,6 @@
     "urls": "doi:https://doi.org/10.1177/2047487318785228"
   },
   {
-    "id": "31145509",
-    "doi": "https://doi.org/10.1002/gepi.22215",
-    "title": "A comparison of two workflows for regulome and transcriptome-based prioritization of genetic variants associated with myocardial mass.",
-    "authorString": "Manduchi E, Hemerich D, van Setten J, Tragante V, Harakalova M, Pei J, Williams SM, van der Harst P, Asselbergs FW, Moore JH.",
-    "authorAffiliations": "",
-    "journalTitle": "Genetic epidemiology",
-    "pubYear": "2019",
-    "date": "2019-05-30",
-    "isOpenAccess": "N",
-    "keywords": "Functional genomics; Gwas; left ventricular mass; Snp Preselection",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "A typical task arising from main effect analyses in a Genome Wide Association Study (GWAS) is to identify single nucleotide polymorphisms (SNPs), in linkage disequilibrium with the observed signals, that are likely causal variants and the affected genes. The affected genes may not be those closest to associating SNPs. Functional genomics data from relevant tissues are believed to be helpful in selecting likely causal SNPs and interpreting implicated biological mechanisms, ultimately facilitating prevention and treatment in the case of a disease trait. These data are typically used post GWAS analyses to fine-map the statistically significant signals identified agnostically by testing all SNPs and applying a multiple testing correction. The number of tested SNPs is typically in the millions, so the multiple testing burden is high. Motivated by this, in this study we investigated an alternative workflow, which consists in utilizing the available functional genomics data as a first step to reduce the number of SNPs tested for association. We analyzed GWAS on electrocardiographic QRS duration using these two workflows. The alternative workflow identified more SNPs, including some residing in loci not discovered with the typical workflow. Moreover, the latter are corroborated by other reports on QRS duration. This indicates the potential value of incorporating functional genomics information at the onset in GWAS analyses.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/gepi.22215; html:https://europepmc.org/articles/PMC6687530; pdf:https://europepmc.org/articles/PMC6687530?pdf=render; doi:https://doi.org/10.1002/gepi.22215"
-  },
-  {
     "id": "32591531",
     "doi": "https://doi.org/10.1038/s41467-020-16969-0",
     "title": "Genetic drug target validation using Mendelian randomisation.",
@@ -6645,6 +6628,23 @@
     "abstract": "Mendelian randomisation (MR) analysis is an important tool to elucidate the causal relevance of environmental and biological risk factors for disease. However, causal inference is undermined if genetic variants used to instrument a risk factor also influence alternative disease-pathways (horizontal pleiotropy). Here we report how the 'no horizontal pleiotropy assumption' is strengthened when proteins are the risk factors of interest. Proteins are typically the proximal effectors of biological processes encoded in the genome. Moreover, proteins are the targets of most medicines, so MR studies of drug targets are becoming a fundamental tool in drug development. To enable such studies, we introduce a mathematical framework that contrasts MR analysis of proteins with that of risk factors located more distally in the causal chain from gene to disease. We illustrate key model decisions and introduce an analytical framework for maximising power and evaluating the robustness of analyses.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41467-020-16969-0; html:https://europepmc.org/articles/PMC7320010; pdf:https://europepmc.org/articles/PMC7320010?pdf=render"
+  },
+  {
+    "id": "31145509",
+    "doi": "https://doi.org/10.1002/gepi.22215",
+    "title": "A comparison of two workflows for regulome and transcriptome-based prioritization of genetic variants associated with myocardial mass.",
+    "authorString": "Manduchi E, Hemerich D, van Setten J, Tragante V, Harakalova M, Pei J, Williams SM, van der Harst P, Asselbergs FW, Moore JH.",
+    "authorAffiliations": "",
+    "journalTitle": "Genetic epidemiology",
+    "pubYear": "2019",
+    "date": "2019-05-30",
+    "isOpenAccess": "N",
+    "keywords": "Functional genomics; Gwas; left ventricular mass; Snp Preselection",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "A typical task arising from main effect analyses in a Genome Wide Association Study (GWAS) is to identify single nucleotide polymorphisms (SNPs), in linkage disequilibrium with the observed signals, that are likely causal variants and the affected genes. The affected genes may not be those closest to associating SNPs. Functional genomics data from relevant tissues are believed to be helpful in selecting likely causal SNPs and interpreting implicated biological mechanisms, ultimately facilitating prevention and treatment in the case of a disease trait. These data are typically used post GWAS analyses to fine-map the statistically significant signals identified agnostically by testing all SNPs and applying a multiple testing correction. The number of tested SNPs is typically in the millions, so the multiple testing burden is high. Motivated by this, in this study we investigated an alternative workflow, which consists in utilizing the available functional genomics data as a first step to reduce the number of SNPs tested for association. We analyzed GWAS on electrocardiographic QRS duration using these two workflows. The alternative workflow identified more SNPs, including some residing in loci not discovered with the typical workflow. Moreover, the latter are corroborated by other reports on QRS duration. This indicates the potential value of incorporating functional genomics information at the onset in GWAS analyses.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/gepi.22215; html:https://europepmc.org/articles/PMC6687530; pdf:https://europepmc.org/articles/PMC6687530?pdf=render; doi:https://doi.org/10.1002/gepi.22215"
   },
   {
     "id": "32548911",
@@ -7208,6 +7208,23 @@
     "urls": "doi:https://doi.org/10.12688/wellcomeopenres.16304.2"
   },
   {
+    "id": "32180562",
+    "doi": "https://doi.org/10.1016/j.molmet.2020.01.009",
+    "title": "Genome-wide association study of adipocyte lipolysis in the GENetics of adipocyte lipolysis (GENiAL) cohort.",
+    "authorString": "Kulyt\u00e9 A, Lundb\u00e4ck V, Lindgren CM, Luan J, Lotta LA, Langenberg C, Arner P, Strawbridge RJ, Dahlman I.",
+    "authorAffiliations": "",
+    "journalTitle": "Molecular metabolism",
+    "pubYear": "2020",
+    "date": "2020-01-25",
+    "isOpenAccess": "Y",
+    "keywords": "Adipocytes; Gene Expression; Subcutaneous; Genetic Variants; Lipolysis",
+    "nationalPriorities": "The Human Phenome",
+    "healthCategories": "",
+    "abstract": "<h4>Objectives</h4>Lipolysis, hydrolysis of triglycerides to fatty acids in adipocytes, is tightly regulated, poorly understood, and, if perturbed, can lead to metabolic diseases including obesity and type 2 diabetes. The goal of this study was to identify the genetic regulators of lipolysis and elucidate their molecular mechanisms.<h4>Methods</h4>Adipocytes from abdominal subcutaneous adipose tissue biopsies were isolated and were incubated without (spontaneous lipolysis) or with a catecholamine (stimulated lipolysis) to analyze lipolysis. DNA was extracted and genome-wide genotyping and imputation conducted. After quality control, 939 samples with genetic and lipolysis data were available. Genome-wide association studies of spontaneous and stimulated lipolysis were conducted. Subsequent in\u00a0vitro gene expression analyses were used to identify candidate genes and explore their regulation of adipose tissue biology.<h4>Results</h4>One locus on chromosome 19 demonstrated genome-wide significance with spontaneous lipolysis. 60 loci showed suggestive associations with spontaneous or stimulated lipolysis, of which many influenced both traits. In the chromosome 19 locus, only HIF3A was expressed in the adipocytes and displayed genotype-dependent gene expression. HIF3A knockdown in\u00a0vitro increased lipolysis and the expression of key lipolysis-regulating genes.<h4>Conclusions</h4>In conclusion, we identified a genetic regulator of spontaneous lipolysis and provided evidence of HIF3A as a novel key regulator of lipolysis in subcutaneous adipocytes as the mechanism through which the locus influences adipose tissue biology.",
+    "laySummary": "How the body breaks down fat is poorly understood, and, if this mechanism does not happen effiently in the body it can lead to metabolic diseases including obesity and type 2 diabetes. The goal of this study was to identify the genetic regulators of how the body break down fat and explain their molecular mechanisms.",
+    "urls": "doi:https://doi.org/10.1016/j.molmet.2020.01.009; html:https://europepmc.org/articles/PMC7021539; pdf:https://europepmc.org/articles/PMC7021539?pdf=render"
+  },
+  {
     "id": "33062309",
     "doi": "https://doi.org/10.1177/2059513120952336",
     "title": "Epidemiology of burn injury in older adults: An Australian and New Zealand perspective.",
@@ -7240,23 +7257,6 @@
     "abstract": "<h4>Aims</h4>To compare ST-segment elevation myocardial infarction (STEMI) and non-STEMI (NSTEMI) mortality between Sweden and the UK, adjusting for background population rates of expected death, case mix, and treatments.<h4>Methods and results</h4>National data were collected from hospitals in Sweden [n\u2009=\u200973 hospitals, 180\u00a0368 patients, Swedish Web-system for Enhancement and Development of Evidence-based care in Heart disease Evaluated According to Recommended Therapies (SWEDEHEART)] and the UK [n\u2009=\u2009247,\u00a0662\u00a0529 patients, Myocardial Ischaemia National Audit Project (MINAP)] between 2003 and 2013. There were lower rates of revascularization [STEMI (43.8% vs. 74.9%); NSTEMI (27.5% vs. 43.6%)] and pharmacotherapies at time of hospital discharge including [aspirin (82.9% vs. 90.2%) and (79.9% vs. 88.0%), \u03b2-blockers (73.4% vs. 86.4%) and (65.3% vs. 85.1%)] in the UK compared with Sweden, respectively. Standardized net probability of death (NPD) between admission and 1\u2009month was higher in the UK for STEMI [8.0 (95% confidence interval 7.4-8.5) vs. 6.7 (6.5-6.9)] and NSTEMI [6.8 (6.4-7.2) vs. 4.9 (4.7-5.0)]. Between 6\u2009months and 1\u2009year and more than 1\u2009year, NPD remained higher in the UK for NSTEMI [2.9 (2.5-3.3) vs. 2.3 (2.2-2.5)] and [21.4 (20.0-22.8) vs. 18.3 (17.6-19.0)], but was similar for STEMI [0.7 (0.4-1.0) vs. 0.9 (0.7-1.0)] and [8.4 (6.7-10.1) vs. 8.3 (7.5-9.1)].<h4>Conclusion</h4>Short-term mortality following STEMI and NSTEMI was higher in the UK compared with Sweden. Mid- and longer-term mortality remained higher in the UK for NSTEMI but was similar for STEMI. Differences in mortality may be due to differential use of guideline-indicated treatments.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/cvr/cvz197"
-  },
-  {
-    "id": "32180562",
-    "doi": "https://doi.org/10.1016/j.molmet.2020.01.009",
-    "title": "Genome-wide association study of adipocyte lipolysis in the GENetics of adipocyte lipolysis (GENiAL) cohort.",
-    "authorString": "Kulyt\u00e9 A, Lundb\u00e4ck V, Lindgren CM, Luan J, Lotta LA, Langenberg C, Arner P, Strawbridge RJ, Dahlman I.",
-    "authorAffiliations": "",
-    "journalTitle": "Molecular metabolism",
-    "pubYear": "2020",
-    "date": "2020-01-25",
-    "isOpenAccess": "Y",
-    "keywords": "Adipocytes; Gene Expression; Subcutaneous; Genetic Variants; Lipolysis",
-    "nationalPriorities": "The Human Phenome",
-    "healthCategories": "",
-    "abstract": "<h4>Objectives</h4>Lipolysis, hydrolysis of triglycerides to fatty acids in adipocytes, is tightly regulated, poorly understood, and, if perturbed, can lead to metabolic diseases including obesity and type 2 diabetes. The goal of this study was to identify the genetic regulators of lipolysis and elucidate their molecular mechanisms.<h4>Methods</h4>Adipocytes from abdominal subcutaneous adipose tissue biopsies were isolated and were incubated without (spontaneous lipolysis) or with a catecholamine (stimulated lipolysis) to analyze lipolysis. DNA was extracted and genome-wide genotyping and imputation conducted. After quality control, 939 samples with genetic and lipolysis data were available. Genome-wide association studies of spontaneous and stimulated lipolysis were conducted. Subsequent in\u00a0vitro gene expression analyses were used to identify candidate genes and explore their regulation of adipose tissue biology.<h4>Results</h4>One locus on chromosome 19 demonstrated genome-wide significance with spontaneous lipolysis. 60 loci showed suggestive associations with spontaneous or stimulated lipolysis, of which many influenced both traits. In the chromosome 19 locus, only HIF3A was expressed in the adipocytes and displayed genotype-dependent gene expression. HIF3A knockdown in\u00a0vitro increased lipolysis and the expression of key lipolysis-regulating genes.<h4>Conclusions</h4>In conclusion, we identified a genetic regulator of spontaneous lipolysis and provided evidence of HIF3A as a novel key regulator of lipolysis in subcutaneous adipocytes as the mechanism through which the locus influences adipose tissue biology.",
-    "laySummary": "How the body breaks down fat is poorly understood, and, if this mechanism does not happen effiently in the body it can lead to metabolic diseases including obesity and type 2 diabetes. The goal of this study was to identify the genetic regulators of how the body break down fat and explain their molecular mechanisms.",
-    "urls": "doi:https://doi.org/10.1016/j.molmet.2020.01.009; html:https://europepmc.org/articles/PMC7021539; pdf:https://europepmc.org/articles/PMC7021539?pdf=render"
   },
   {
     "id": "31862893",
@@ -7361,23 +7361,6 @@
     "urls": "doi:https://doi.org/10.1161/CIRCHEARTFAILURE.120.007022; html:https://europepmc.org/articles/PMC7819533; pdf:https://europepmc.org/articles/PMC7819533?pdf=render"
   },
   {
-    "id": "31699727",
-    "doi": "https://doi.org/10.1136/bmjopen-2019-030882",
-    "title": "Optical coherence tomography (OCT) in unconscious and systemically unwell patients using a mobile OCT device: a pilot study.",
-    "authorString": "Liu X, Kale AU, Capewell N, Talbot N, Ahmed S, Keane PA, Mollan S, Belli A, Blanch RJ, Veenith T, Denniston AK.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2019",
-    "date": "2019-11-07",
-    "isOpenAccess": "Y",
-    "keywords": "optical coherence tomography; Optical Coherence Tomography Angiography; Adult Intensive & Critical Care",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Objective</h4>This study aims to evaluate the feasibility of retinal imaging in critical care using a novel mobile optical coherence tomography (OCT) device. The Heidelberg SPECTRALIS FLEX module (Heidelberg Engineering, Heidelberg, Germany) is an OCT unit with a boom arm, enabling ocular OCT assessment in less mobile patients.<h4>Design</h4>We undertook an evaluation of the feasibility of using the SPECTRALIS FLEX for undertaking ocular OCT images in unconscious and critically ill patients.<h4>Setting</h4>This study was conducted in the critical care unit of a large tertiary referral unit in the United Kingdom.<h4>Participants</h4>13 systemically unwell patients admitted to the critical care unit were purposively sampled to enable evaluation in patients with a range of clinical states.<h4>Outcome measures</h4>The primary outcome was the feasibility of acquiring clinically interpretable OCT scans on a consecutive series of patients. The standardised scanning protocol included macula-focused OCT, OCT optic nerve head (ONH), OCT angiography (OCTA) of the macula and ONH OCTA.<h4>Results</h4>OCT images from 13 patients were attempted. The success rates of each scan type are 84% for OCT macula, 76% for OCT ONH, 56% for OCTA macula and 36% for OCTA ONH. The overall mean success rate of scans per patient was 64% (95% CI 46% to 81%). Clinicians reported clinical value in 100% scans which were successfully obtained, including both ruling in and ruling out relevant ocular complications such as corneal thinning, macular oedema and optic disc swelling. The most common causes of failure to achieve clinically interpretable scans were inadequately sustained OCT alignment in delirious patients and a compromised ocular surface due to corneal exposure.<h4>Conclusions</h4>This prospective evaluation indicates the feasibility and potential clinical value of the SPECTRALIS FLEX OCT system on the critical care unit. Portable OCT systems have the potential to bring instrument-based ophthalmic assessment to critically ill patients, enabling detection and micron-level monitoring of ocular complications.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-030882; html:https://europepmc.org/articles/PMC6858135; pdf:https://europepmc.org/articles/PMC6858135?pdf=render"
-  },
-  {
     "id": "31792462",
     "doi": "https://doi.org/10.1038/s41591-019-0665-2",
     "title": "Plasma protein patterns as comprehensive indicators of health.",
@@ -7393,6 +7376,23 @@
     "abstract": "Proteins are effector molecules that mediate the functions of genes<sup>1,2</sup> and modulate comorbidities<sup>3-10</sup>, behaviors and drug treatments<sup>11</sup>. They represent an enormous potential resource for personalized, systemic and data-driven diagnosis, prevention, monitoring and treatment. However, the concept of using plasma proteins for individualized health assessment across many health conditions simultaneously has not been tested. Here, we show that plasma protein expression patterns strongly encode for multiple different health states, future disease risks and lifestyle behaviors. We developed and validated protein-phenotype models for 11\u2009different health indicators: liver fat, kidney filtration, percentage body fat, visceral fat mass, lean body mass, cardiopulmonary fitness, physical activity, alcohol consumption, cigarette smoking, diabetes risk and primary cardiovascular event risk. The analyses were prospectively planned, documented and executed at scale on archived samples and clinical data, with a total of ~85\u2009million protein measurements in 16,894\u2009participants. Our proof-of-concept study demonstrates that protein expression patterns reliably encode for many different health issues, and that large-scale protein scanning<sup>12-16</sup> coupled with machine learning is viable for the development and future simultaneous delivery of multiple measures of health. We anticipate that, with further validation and the addition of more protein-phenotype models, this approach could enable a single-source, individualized so-called liquid health check.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41591-019-0665-2; html:https://europepmc.org/articles/PMC6922049; pdf:https://europepmc.org/articles/PMC6922049?pdf=render; doi:https://doi.org/10.1038/s41591-019-0665-2"
+  },
+  {
+    "id": "31699727",
+    "doi": "https://doi.org/10.1136/bmjopen-2019-030882",
+    "title": "Optical coherence tomography (OCT) in unconscious and systemically unwell patients using a mobile OCT device: a pilot study.",
+    "authorString": "Liu X, Kale AU, Capewell N, Talbot N, Ahmed S, Keane PA, Mollan S, Belli A, Blanch RJ, Veenith T, Denniston AK.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ open",
+    "pubYear": "2019",
+    "date": "2019-11-07",
+    "isOpenAccess": "Y",
+    "keywords": "optical coherence tomography; Optical Coherence Tomography Angiography; Adult Intensive & Critical Care",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Objective</h4>This study aims to evaluate the feasibility of retinal imaging in critical care using a novel mobile optical coherence tomography (OCT) device. The Heidelberg SPECTRALIS FLEX module (Heidelberg Engineering, Heidelberg, Germany) is an OCT unit with a boom arm, enabling ocular OCT assessment in less mobile patients.<h4>Design</h4>We undertook an evaluation of the feasibility of using the SPECTRALIS FLEX for undertaking ocular OCT images in unconscious and critically ill patients.<h4>Setting</h4>This study was conducted in the critical care unit of a large tertiary referral unit in the United Kingdom.<h4>Participants</h4>13 systemically unwell patients admitted to the critical care unit were purposively sampled to enable evaluation in patients with a range of clinical states.<h4>Outcome measures</h4>The primary outcome was the feasibility of acquiring clinically interpretable OCT scans on a consecutive series of patients. The standardised scanning protocol included macula-focused OCT, OCT optic nerve head (ONH), OCT angiography (OCTA) of the macula and ONH OCTA.<h4>Results</h4>OCT images from 13 patients were attempted. The success rates of each scan type are 84% for OCT macula, 76% for OCT ONH, 56% for OCTA macula and 36% for OCTA ONH. The overall mean success rate of scans per patient was 64% (95% CI 46% to 81%). Clinicians reported clinical value in 100% scans which were successfully obtained, including both ruling in and ruling out relevant ocular complications such as corneal thinning, macular oedema and optic disc swelling. The most common causes of failure to achieve clinically interpretable scans were inadequately sustained OCT alignment in delirious patients and a compromised ocular surface due to corneal exposure.<h4>Conclusions</h4>This prospective evaluation indicates the feasibility and potential clinical value of the SPECTRALIS FLEX OCT system on the critical care unit. Portable OCT systems have the potential to bring instrument-based ophthalmic assessment to critically ill patients, enabling detection and micron-level monitoring of ocular complications.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2019-030882; html:https://europepmc.org/articles/PMC6858135; pdf:https://europepmc.org/articles/PMC6858135?pdf=render"
   },
   {
     "id": "31504409",
@@ -7585,16 +7585,16 @@
     "id": "34145643",
     "doi": "https://doi.org/10.1111/jdv.17450",
     "title": "Describing the burden of the COVID-19 pandemic in people with psoriasis: findings from a global cross-sectional study.",
-    "authorString": "Mahil SK, Yates M, Yiu Z, Langan SM, Tsakok T, Dand N, Mason KJ, McAteer H, Meynell F, Coker B, Vincent A, Urmston D, Vesty A, Kelly J, Lancelot C, Moorhead L, Bachelez H, Capon F, Contreras CR, De La Cruz C, Di Meglio P, Gisondi P, Jullien D, Lambert J, Naldi L, Norton S, Puig L, Spuls P, Torres T, Warren RB, Waweru H, Weinman J, Brown MA, Galloway JB, Griffiths CM, Barker JN, Smith CH, PsoProtect study group.",
+    "authorString": "Mahil SK, Yates M, Yiu ZZN, Langan SM, Tsakok T, Dand N, Mason KJ, McAteer H, Meynell F, Coker B, Vincent A, Urmston D, Vesty A, Kelly J, Lancelot C, Moorhead L, Bachelez H, Capon F, Contreras CR, De La Cruz C, Di Meglio P, Gisondi P, Jullien D, Lambert J, Naldi L, Norton S, Puig L, Spuls P, Torres T, Warren RB, Waweru H, Weinman J, Brown MA, Galloway JB, Griffiths CM, Barker JN, Smith CH, PsoProtect study group.",
     "authorAffiliations": "",
     "journalTitle": "Journal of the European Academy of Dermatology and Venereology : JEADV",
     "pubYear": "2021",
     "date": "2021-06-17",
     "isOpenAccess": "N",
-    "keywords": "Adherence; Depression; Psoriasis; Anxiety; Covid-19",
+    "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "Indirect excess morbidity in the COVID-19 pandemic may arise from public health risk-mitigation efforts such as stay-at-home orders and re-purposing of healthcare services<sup>1</sup> . Increased mental health disorders and shortfalls in the care of long-term conditions are described.",
+    "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/jdv.17450"
   },
@@ -7905,23 +7905,6 @@
     "urls": "doi:https://doi.org/10.1093/ije/dyaa155; html:https://europepmc.org/articles/PMC7938513; pdf:https://europepmc.org/articles/PMC7938513?pdf=render"
   },
   {
-    "id": "31317072",
-    "doi": "https://doi.org/10.1002/lrh2.10191",
-    "title": "Our data, our society, our health: A vision for inclusive and transparent health data science in the United Kingdom and beyond.",
-    "authorString": "Ford E, Boyd A, Bowles JKF, Havard A, Aldridge RW, Curcin V, Greiver M, Harron K, Katikireddi V, Rodgers SE, Sperrin M.",
-    "authorAffiliations": "",
-    "journalTitle": "Learning health systems",
-    "pubYear": "2019",
-    "date": "2019-03-25",
-    "isOpenAccess": "Y",
-    "keywords": "Transparency; Health Systems; Stakeholder Involvement; Data Flows; Health Data Science; Citizen\u2010driven Science",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "The last 6\u00a0years have seen sustained investment in health data science in the United Kingdom and beyond, which should result in a data science community that is inclusive of all stakeholders, working together to use data to benefit society through the improvement of public health and well-being. However, opportunities made possible through the innovative use of data are still not being fully realised, resulting in research inefficiencies and avoidable health harms. In this paper, we identify the most important barriers to achieving higher productivity in health data science. We then draw on previous research, domain expertise, and theory to outline how to go about overcoming these barriers, applying our core values of inclusivity and transparency. We believe a step change can be achieved through meaningful stakeholder involvement at every stage of research planning, design, and execution and team-based data science, as well as harnessing novel and secure data technologies. Applying these values to health data science will safeguard a social licence for health data research and ensure transparent and secure data usage for public benefit.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/lrh2.10191; html:https://europepmc.org/articles/PMC6628981; pdf:https://europepmc.org/articles/PMC6628981?pdf=render"
-  },
-  {
     "id": "34095526",
     "doi": "https://doi.org/10.23889/ijpds.v4i1.579",
     "title": "Record linkage to enhance consented cohort and routinely collected health data from a UK birth cohort.",
@@ -7937,6 +7920,23 @@
     "abstract": "<h4>Background</h4>In longitudinal health research, combining the richness of cohort data to the extensiveness of routine data opens up new possibilities, providing information not available from one data source alone. In this study, we set out to extend information from a longitudinal birth cohort study by linking to the cohort child's routine primary and secondary health care data. The resulting linked datasets will be used to examine health outcomes and patterns of health service utilisation for a set of common childhood health problems. We describe the experiences and challenges of acquiring and linking electronic health records for participants in a national longitudinal study, the UK Millennium Cohort Study (MCS).<h4>Method</h4>Written parental consent to link routine health data to survey responses of the MCS cohort member, mother and her partner was obtained for 90.7% of respondents when interviews took place at age seven years in the MCS. Probabilistic and deterministic linkage was used to link MCS cohort members to multiple routinely-collected health data sources in Wales and Scotland.<h4>Results</h4>Overall linkage rates for the consented population using country-specific health service data sources were 97.6% for Scotland and 99.9% for Wales. Linkage rates between different health data sources ranged from 65.3% to 99.6%. Issues relating to acquisition and linkage of data sources are discussed.<h4>Conclusions</h4>Linking longitudinal cohort participants with routine data sources is becoming increasingly popular in population data research. Our results suggest that this is a valid method to enhance information held in both sources of data.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.23889/ijpds.v4i1.579; html:https://europepmc.org/articles/PMC8142967; pdf:https://europepmc.org/articles/PMC8142967?pdf=render"
+  },
+  {
+    "id": "31317072",
+    "doi": "https://doi.org/10.1002/lrh2.10191",
+    "title": "Our data, our society, our health: A vision for inclusive and transparent health data science in the United Kingdom and beyond.",
+    "authorString": "Ford E, Boyd A, Bowles JKF, Havard A, Aldridge RW, Curcin V, Greiver M, Harron K, Katikireddi V, Rodgers SE, Sperrin M.",
+    "authorAffiliations": "",
+    "journalTitle": "Learning health systems",
+    "pubYear": "2019",
+    "date": "2019-03-25",
+    "isOpenAccess": "Y",
+    "keywords": "Transparency; Health Systems; Stakeholder Involvement; Data Flows; Health Data Science; Citizen\u2010driven Science",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The last 6\u00a0years have seen sustained investment in health data science in the United Kingdom and beyond, which should result in a data science community that is inclusive of all stakeholders, working together to use data to benefit society through the improvement of public health and well-being. However, opportunities made possible through the innovative use of data are still not being fully realised, resulting in research inefficiencies and avoidable health harms. In this paper, we identify the most important barriers to achieving higher productivity in health data science. We then draw on previous research, domain expertise, and theory to outline how to go about overcoming these barriers, applying our core values of inclusivity and transparency. We believe a step change can be achieved through meaningful stakeholder involvement at every stage of research planning, design, and execution and team-based data science, as well as harnessing novel and secure data technologies. Applying these values to health data science will safeguard a social licence for health data research and ensure transparent and secure data usage for public benefit.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/lrh2.10191; html:https://europepmc.org/articles/PMC6628981; pdf:https://europepmc.org/articles/PMC6628981?pdf=render"
   },
   {
     "id": "30981377",
@@ -9078,23 +9078,6 @@
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehaa531; html:https://europepmc.org/articles/PMC7377579; pdf:https://europepmc.org/articles/PMC7377579?pdf=render"
   },
   {
-    "id": "33991015",
-    "doi": "https://doi.org/10.1002/alz.12330",
-    "title": "TMEM106B and CPOX are genetic determinants of cerebrospinal fluid Alzheimer's disease biomarker levels.",
-    "authorString": "Hong S, Dobricic V, Ohlei O, Bos I, Vos SJB, Prokopenko D, Tijms BM, Andreasson U, Blennow K, Vandenberghe R, Gabel S, Scheltens P, Teunissen CE, Engelborghs S, Frisoni G, Blin O, Richardson JC, Bordet R, Alzheimer's Disease Neuroimaging Initiative (ADNI), Lle\u00f3 A, Alcolea D, Popp J, Clark C, Peyratout G, Martinez-Lage P, Tainta M, Dobson RJB, Legido-Quigley C, Sleegers K, Van Broeckhoven C, Tanzi RE, Ten Kate M, Wittig M, Franke A, Lill CM, Barkhof F, Lovestone S, Streffer J, Zetterberg H, Visser PJ, Bertram L.",
-    "authorAffiliations": "",
-    "journalTitle": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-    "pubYear": "2021",
-    "date": "2021-05-14",
-    "isOpenAccess": "N",
-    "keywords": "Cerebrospinal fluid; Alzheimer's disease; Biomarker; Genome-wide Association Study; Neurogranin; Neurofilament Light; Chitinase-3-like Protein 1",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Introduction</h4>Neurofilament light (NfL), chitinase-3-like protein 1 (YKL-40), and neurogranin (Ng) are biomarkers for Alzheimer's disease (AD) to monitor axonal damage, astroglial activation, and synaptic degeneration, respectively.<h4>Methods</h4>We performed genome-wide association studies (GWAS) using DNA and cerebrospinal fluid (CSF) samples from the EMIF-AD Multimodal Biomarker Discovery study for discovery, and the Alzheimer's Disease Neuroimaging Initiative study for validation analyses. GWAS were performed for all three CSF biomarkers using linear regression models adjusting for relevant covariates.<h4>Results</h4>We identify novel genome-wide significant associations between DNA variants in TMEM106B and CSF levels of NfL, and between CPOX and YKL-40. We confirm previous work suggesting that YKL-40 levels are associated with DNA variants in CHI3L1.<h4>Discussion</h4>Our study provides important new insights into the genetic architecture underlying interindividual variation in three AD-related CSF biomarkers. In particular, our data shed light on the sequence of events regarding the initiation and progression of neuropathological processes relevant in AD.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/alz.12330"
-  },
-  {
     "id": "32554230",
     "doi": "https://doi.org/10.1016/j.yebeh.2020.107196",
     "title": "Long-term outcomes after epilepsy surgery, a retrospective cohort study linking patient-reported outcomes and routine healthcare data.",
@@ -9110,6 +9093,23 @@
     "abstract": "<h4>Objective</h4>The objective of the study was to assess the long-term outcomes of epilepsy surgery between 1995 and 2015 in South Wales, UK, linking case note review, postal questionnaire, and routinely collected healthcare data.<h4>Method</h4>We identified patients from a departmental database and collected outcome data from patient case notes, a postal questionnaire, and the QOLIE-31-P and linked with Welsh routinely collected data in the Secure Anonymised Information Linkage (SAIL) databank.<h4>Results</h4>Fifty-seven patients were included. Median age at surgery was 34\u202fyears (11-70), median: 24\u202fyears (2-56) after onset of habitual seizures. Median follow-up was 7\u202fyears (2-19). Twenty-eight (49%) patients were free from disabling seizures (Engel Class 1), 9 (16%) experienced rare disabling seizures (Class 2), 13 (23%) had worthwhile improvements (Class 3), and 7 (12%) had no improvement (Class 4). There was a 30% mean reduction in total antiepileptic drug (AED) load at five years postsurgery. Thirty-eight (66.7%) patients experienced tonic-clonic seizures presurgery verses 8 (14%) at last review. Seizure-free patients self-reported a greater overall quality of life (QOL; QOLIE-31-P) when compared with those not achieving seizure freedom. Seizure-free individuals scored a mean of 67.6/100 (100 is best), whereas those with continuing seizures scored 46.0/100 (p\u202f<\u202f0.006). There was a significant decrease in the median rate of hospital admissions for any cause after epilepsy surgery (9.8\u202fdays per 1000 patient days before surgery compared with 3.9 after p\u202f<\u202f0.005).<h4>Significance</h4>Epilepsy surgery was associated with significant improvements in seizures, a reduced AED load, and an improved QOL that closely correlated with seizure outcomes and reduced hospital admission rates following surgery. Despite this, there was a long delay from onset of habitual seizures to surgery. The importance of long-term follow-up is emphasized in terms of evolving medical needs and health and social care outcomes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.yebeh.2020.107196"
+  },
+  {
+    "id": "33991015",
+    "doi": "https://doi.org/10.1002/alz.12330",
+    "title": "TMEM106B and CPOX are genetic determinants of cerebrospinal fluid Alzheimer's disease biomarker levels.",
+    "authorString": "Hong S, Dobricic V, Ohlei O, Bos I, Vos SJB, Prokopenko D, Tijms BM, Andreasson U, Blennow K, Vandenberghe R, Gabel S, Scheltens P, Teunissen CE, Engelborghs S, Frisoni G, Blin O, Richardson JC, Bordet R, Alzheimer's Disease Neuroimaging Initiative (ADNI), Lle\u00f3 A, Alcolea D, Popp J, Clark C, Peyratout G, Martinez-Lage P, Tainta M, Dobson RJB, Legido-Quigley C, Sleegers K, Van Broeckhoven C, Tanzi RE, Ten Kate M, Wittig M, Franke A, Lill CM, Barkhof F, Lovestone S, Streffer J, Zetterberg H, Visser PJ, Bertram L.",
+    "authorAffiliations": "",
+    "journalTitle": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "pubYear": "2021",
+    "date": "2021-05-14",
+    "isOpenAccess": "N",
+    "keywords": "Cerebrospinal fluid; Alzheimer's disease; Biomarker; Genome-wide Association Study; Neurogranin; Neurofilament Light; Chitinase-3-like Protein 1",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Introduction</h4>Neurofilament light (NfL), chitinase-3-like protein 1 (YKL-40), and neurogranin (Ng) are biomarkers for Alzheimer's disease (AD) to monitor axonal damage, astroglial activation, and synaptic degeneration, respectively.<h4>Methods</h4>We performed genome-wide association studies (GWAS) using DNA and cerebrospinal fluid (CSF) samples from the EMIF-AD Multimodal Biomarker Discovery study for discovery, and the Alzheimer's Disease Neuroimaging Initiative study for validation analyses. GWAS were performed for all three CSF biomarkers using linear regression models adjusting for relevant covariates.<h4>Results</h4>We identify novel genome-wide significant associations between DNA variants in TMEM106B and CSF levels of NfL, and between CPOX and YKL-40. We confirm previous work suggesting that YKL-40 levels are associated with DNA variants in CHI3L1.<h4>Discussion</h4>Our study provides important new insights into the genetic architecture underlying interindividual variation in three AD-related CSF biomarkers. In particular, our data shed light on the sequence of events regarding the initiation and progression of neuropathological processes relevant in AD.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/alz.12330"
   },
   {
     "id": "33972514",
