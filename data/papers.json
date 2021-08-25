@@ -255,23 +255,6 @@
     "urls": "doi:https://doi.org/10.2337/db20-0895"
   },
   {
-    "id": "31799783",
-    "doi": "https://doi.org/10.1002/cnm.3267",
-    "title": "Personalising cardiovascular network models in pregnancy: A two-tiered parameter estimation approach.",
-    "authorString": "Carson J, Warrander L, Johnstone E, van Loon R.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal for numerical methods in biomedical engineering",
-    "pubYear": "2019",
-    "date": "2019-12-04",
-    "isOpenAccess": "N",
-    "keywords": "Pregnancy; Parameter estimation; Pre-eclampsia; Personalised Haemodynamic Model; Uterine Artery Waveform",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Uterine artery Doppler waveforms are often studied to determine whether a patient is at risk of developing pathologies such as pre-eclampsia. Many uterine waveform indices have been developed, which attempt to relate characteristics of the waveform with the physiological adaptation of the maternal cardiovascular system, and are often suggested to be an indicator of increased placenta resistance and arterial stiffness. Doppler waveforms of four patients, two of whom developed pre-eclampsia, are compared with a comprehensive closed-loop model of pregnancy. The closed-loop model has been previously validated but has been extended to include an improved parameter estimation technique that utilises systolic and diastolic blood pressure, cardiac output, heart rate, and pulse wave velocity measurements to adapt model resistances, compliances, blood volume, and the mean vessel areas in the main systemic arteries. The shape of the model-predicted uterine artery velocity waveforms showed good agreement with the characteristics observed in the patient Doppler waveforms. The personalised models obtained now allow a prediction of the uterine pressure waveforms in addition to the uterine velocity. This allows for a more detailed mechanistic analysis of the waveforms, eg, wave intensity analysis, to study existing clinical indices. The findings indicate that to accurately estimate arterial stiffness, both pulse pressure and pulse wave velocities are required. In addition, the results predict that patients who developed pre-eclampsia later in pregnancy have larger vessel areas in the main systemic arteries compared with the two patients who had normal pregnancy outcomes.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/cnm.3267"
-  },
-  {
     "id": "32723851",
     "doi": "https://doi.org/10.1136/bmjhci-2019-100122",
     "title": "HDR UK supporting mobilising computable biomedical knowledge in the UK.",
@@ -287,6 +270,23 @@
     "abstract": "Computable biomedical knowledge (CBK) represents an evolving area of health informatics, with potential for rapid translational patient benefit. Health Data Research UK (HDR UK) is the national Institute for Health Data Science, whose aim is to unite the UK's health data to enable discoveries that improve people's lives. The three main components include the UK HDR Alliance of data custodians, committed to making health data available for research and innovation purposes for public benefit while ensuring safe use of data and building public trust, the HDR Hubs, as centres of expertise for curating data and providing expert domain-specific services, and the HDR Innovation Gateway ('Gateway'), providing discovery, accessibility, security and interoperability services. To support CBK developments, HDR UK is encouraging use of open data standards for research purposes, with guidance around areas in which standards are emerging, aims to work closely with the international CBK community to support initiatives and aid with evaluation and collaboration, and has established a phenomics workstream to create a national platform for dissemination of machine readable and computable phenotypical algorithms to reduce duplication of effort and improve reproducibility in clinical studies.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/bmjhci-2019-100122; html:https://europepmc.org/articles/PMC7388881; pdf:https://europepmc.org/articles/PMC7388881?pdf=render"
+  },
+  {
+    "id": "31799783",
+    "doi": "https://doi.org/10.1002/cnm.3267",
+    "title": "Personalising cardiovascular network models in pregnancy: A two-tiered parameter estimation approach.",
+    "authorString": "Carson J, Warrander L, Johnstone E, van Loon R.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal for numerical methods in biomedical engineering",
+    "pubYear": "2019",
+    "date": "2019-12-04",
+    "isOpenAccess": "N",
+    "keywords": "Pregnancy; Parameter estimation; Pre-eclampsia; Personalised Haemodynamic Model; Uterine Artery Waveform",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Uterine artery Doppler waveforms are often studied to determine whether a patient is at risk of developing pathologies such as pre-eclampsia. Many uterine waveform indices have been developed, which attempt to relate characteristics of the waveform with the physiological adaptation of the maternal cardiovascular system, and are often suggested to be an indicator of increased placenta resistance and arterial stiffness. Doppler waveforms of four patients, two of whom developed pre-eclampsia, are compared with a comprehensive closed-loop model of pregnancy. The closed-loop model has been previously validated but has been extended to include an improved parameter estimation technique that utilises systolic and diastolic blood pressure, cardiac output, heart rate, and pulse wave velocity measurements to adapt model resistances, compliances, blood volume, and the mean vessel areas in the main systemic arteries. The shape of the model-predicted uterine artery velocity waveforms showed good agreement with the characteristics observed in the patient Doppler waveforms. The personalised models obtained now allow a prediction of the uterine pressure waveforms in addition to the uterine velocity. This allows for a more detailed mechanistic analysis of the waveforms, eg, wave intensity analysis, to study existing clinical indices. The findings indicate that to accurately estimate arterial stiffness, both pulse pressure and pulse wave velocities are required. In addition, the results predict that patients who developed pre-eclampsia later in pregnancy have larger vessel areas in the main systemic arteries compared with the two patients who had normal pregnancy outcomes.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/cnm.3267"
   },
   {
     "id": "31658860",
@@ -306,23 +306,6 @@
     "urls": "doi:https://doi.org/10.1161/JAHA.119.012812; html:https://europepmc.org/articles/PMC6898825; pdf:https://europepmc.org/articles/PMC6898825?pdf=render"
   },
   {
-    "id": "31783849",
-    "doi": "https://doi.org/10.1186/s12911-019-0953-2",
-    "title": "Developing a standardised approach to the aggregation of inpatient episodes into person-based spells in all specialties and psychiatric specialties.",
-    "authorString": "Rees S, Akbari A, Collins H, Lee SC, Marchant A, Rees A, Thayer D, Wang T, Wood S, John A.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC medical informatics and decision making",
-    "pubYear": "2019",
-    "date": "2019-11-29",
-    "isOpenAccess": "Y",
-    "keywords": "Data Quality; Data Linkage; Electronic Healthcare Record; Spells; Routine Health Data; Hospital Inpatient Episodes",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Electronic health record (EHR) data are available for research in all UK nations and cross-nation comparative studies are becoming more common. All UK inpatient EHRs are based around episodes, but episode-based analysis may not sufficiently capture the patient journey. There is no UK-wide method for aggregating episodes into standardised person-based spells. This study identifies two data quality issues affecting the creation of person-based spells, and tests four methods to create these spells, for implementation across all UK nations.<h4>Methods</h4>Welsh inpatient EHRs from 2013 to 2017 were analysed. Phase one described two data quality issues; transfers of care and episode sequencing. Phase two compared four methods for creating person spells. Measures were mean length of stay (LOS, expressed in days) and number of episodes per person spell for each method.<h4>Results</h4>3.5% of total admissions were transfers-in and 3.1% of total discharges were transfers-out. 68.7% of total transfers-in and 48.7% of psychiatric transfers-in had an identifiable preceding transfer-out, and 78.2% of total transfers-out and 59.0% of psychiatric transfers-out had an identifiable subsequent transfer-in. 0.2% of total episodes and 4.0% of psychiatric episodes overlapped with at least one other episode of any specialty. Method one (no evidence of transfer required; overlapping episodes grouped together) resulted in the longest mean LOS (4.0\u2009days for all specialties; 48.5\u2009days for psychiatric specialties) and the fewest single episode person spells (82.4% of all specialties; 69.7% for psychiatric specialties). Method three (evidence of transfer required; overlapping episodes separated) resulted in the shortest mean LOS (3.7\u2009days for all specialties; 45.8\u2009days for psychiatric specialties) and the most single episode person spells; (86.9% for all specialties; 86.3% for psychiatric specialties).<h4>Conclusions</h4>Transfers-in appear better recorded than transfers-out. Transfer coding is incomplete, particularly for psychiatric specialties. The proportion of episodes that overlap is small but psychiatric episodes are disproportionately affected. The most successful method for grouping episodes into person spells aggregated overlapping episodes and required no evidence of transfer from admission source/method or discharge destination codes. The least successful method treated overlapping episodes as distinct and required transfer coding. The impact of all four methods was greater for psychiatric specialties.",
-    "laySummary": "Rees et al used a Welsh database to examine inpatient episode/transfer coding coding for psychiatric patients. They identified deficiencies in the existing coding system for psychitatrics transfers and unexplained coding mistakes/problems, then they presesnt several different methods for constructing the inpatient spell to improve coding and avoid misclassification.",
-    "urls": "doi:https://doi.org/10.1186/s12911-019-0953-2; html:https://europepmc.org/articles/PMC6884917; pdf:https://europepmc.org/articles/PMC6884917?pdf=render"
-  },
-  {
     "id": "31469943",
     "doi": "https://doi.org/10.1002/cnm.3255",
     "title": "Computational instantaneous wave-free ratio (IFR) for patient-specific coronary artery stenoses using 1D network models.",
@@ -338,6 +321,23 @@
     "abstract": "In this work, we estimate the diagnostic threshold of the instantaneous wave-free ratio (iFR) through the use of a one-dimensional haemodynamic framework. To this end, we first compared the computed fractional flow reserve (cFFR) predicted from a 1D computational framework with invasive clinical measurements. The framework shows excellent promise and utilises minimal patient data from a cohort of 52 patients with a total of 66 stenoses. The diagnostic accuracy of the cFFR model was 75.76%, with a sensitivity of 71.43%, a specificity of 77.78%, a positive predictive value of 60%, and a negative predictive value of 85.37%. The validated model was then used to estimate the diagnostic threshold of iFR. The model determined a quadratic relationship between cFFR and the ciFR. The iFR diagnostic threshold was determined to be 0.8910 from a receiver operating characteristic curve that is in the range of 0.89 to 0.9 that is normally reported in clinical studies.",
     "laySummary": "This study aimed to measure how well an algorithm using data from non-invasive tests was able to predict early signs of heart disease.",
     "urls": "doi:https://doi.org/10.1002/cnm.3255; html:https://europepmc.org/articles/PMC7003475; pdf:https://europepmc.org/articles/PMC7003475?pdf=render"
+  },
+  {
+    "id": "31783849",
+    "doi": "https://doi.org/10.1186/s12911-019-0953-2",
+    "title": "Developing a standardised approach to the aggregation of inpatient episodes into person-based spells in all specialties and psychiatric specialties.",
+    "authorString": "Rees S, Akbari A, Collins H, Lee SC, Marchant A, Rees A, Thayer D, Wang T, Wood S, John A.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC medical informatics and decision making",
+    "pubYear": "2019",
+    "date": "2019-11-29",
+    "isOpenAccess": "Y",
+    "keywords": "Data Quality; Data Linkage; Electronic Healthcare Record; Spells; Routine Health Data; Hospital Inpatient Episodes",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Electronic health record (EHR) data are available for research in all UK nations and cross-nation comparative studies are becoming more common. All UK inpatient EHRs are based around episodes, but episode-based analysis may not sufficiently capture the patient journey. There is no UK-wide method for aggregating episodes into standardised person-based spells. This study identifies two data quality issues affecting the creation of person-based spells, and tests four methods to create these spells, for implementation across all UK nations.<h4>Methods</h4>Welsh inpatient EHRs from 2013 to 2017 were analysed. Phase one described two data quality issues; transfers of care and episode sequencing. Phase two compared four methods for creating person spells. Measures were mean length of stay (LOS, expressed in days) and number of episodes per person spell for each method.<h4>Results</h4>3.5% of total admissions were transfers-in and 3.1% of total discharges were transfers-out. 68.7% of total transfers-in and 48.7% of psychiatric transfers-in had an identifiable preceding transfer-out, and 78.2% of total transfers-out and 59.0% of psychiatric transfers-out had an identifiable subsequent transfer-in. 0.2% of total episodes and 4.0% of psychiatric episodes overlapped with at least one other episode of any specialty. Method one (no evidence of transfer required; overlapping episodes grouped together) resulted in the longest mean LOS (4.0\u2009days for all specialties; 48.5\u2009days for psychiatric specialties) and the fewest single episode person spells (82.4% of all specialties; 69.7% for psychiatric specialties). Method three (evidence of transfer required; overlapping episodes separated) resulted in the shortest mean LOS (3.7\u2009days for all specialties; 45.8\u2009days for psychiatric specialties) and the most single episode person spells; (86.9% for all specialties; 86.3% for psychiatric specialties).<h4>Conclusions</h4>Transfers-in appear better recorded than transfers-out. Transfer coding is incomplete, particularly for psychiatric specialties. The proportion of episodes that overlap is small but psychiatric episodes are disproportionately affected. The most successful method for grouping episodes into person spells aggregated overlapping episodes and required no evidence of transfer from admission source/method or discharge destination codes. The least successful method treated overlapping episodes as distinct and required transfer coding. The impact of all four methods was greater for psychiatric specialties.",
+    "laySummary": "Rees et al used a Welsh database to examine inpatient episode/transfer coding coding for psychiatric patients. They identified deficiencies in the existing coding system for psychitatrics transfers and unexplained coding mistakes/problems, then they presesnt several different methods for constructing the inpatient spell to improve coding and avoid misclassification.",
+    "urls": "doi:https://doi.org/10.1186/s12911-019-0953-2; html:https://europepmc.org/articles/PMC6884917; pdf:https://europepmc.org/articles/PMC6884917?pdf=render"
   },
   {
     "id": "34164795",
@@ -476,23 +476,6 @@
     "urls": "doi:https://doi.org/10.1177/1460458220977579"
   },
   {
-    "id": "34345715",
-    "doi": "https://doi.org/10.23889/ijpds.v5i4.1656",
-    "title": "Establishing the impact of COVID-19 on the health outcomes of domiciliary care workers in Wales using routine data: a protocol for the OSCAR study.",
-    "authorString": "Lugg-Widger F, Cannings-John R, Akbari A, Brookes-Howell L, Hood K, John A, Jones H, Prout H, Schoenbuchner S, Thomas D, Robling M.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of population data science",
-    "pubYear": "2020",
-    "date": "2020-01-01",
-    "isOpenAccess": "Y",
-    "keywords": "Mortality; Administrative Data; Natural Experiment; Domiciliary Care Worker; Covid-19",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Introduction</h4>Domiciliary care workers (DCWs) continued providing social care to adults in their own homes throughout the COVID-19 pandemic. Evidence of the impact of COVID-19 on health outcomes of DCWs is currently mixed, probably reflecting methodological limitations of existing studies. The risk of COVID-19 to workers providing care in people's homes remains unknown.<h4>Objectives</h4>To quantify the impact of COVID-19 upon health outcomes of DCWs in Wales, to explore causes of variation, and to extrapolate to the rest of the UK DCW population.<h4>Methods</h4>Mixed methods design comprising cohort study of DCWs and exploratory qualitative interviews. Data for all registered DCWs in Wales is available via the SAIL Databank using a secured, privacy-protecting encrypted anonymisation process. Occupational registration data for DCWs working during the pandemic will be combined with EHR outcome data within the SAIL Databank including clinical codes that identify suspected and confirmed COVID-19 cases. We will report rates of suspected and confirmed COVID-19 infections and key health outcomes including mortality and explore variation (by factors such as age, sex, ethnicity, deprivation quintile, rurality, employer, comorbidities) using regression modelling, adjusting for clustering of outcome within Health Board, region and employer. A maximum variation sample of Welsh DCWs will be approached for qualitative interview using a strategy to include participants that vary across factors such as sex, age, ethnicity and employer. The interviews will inform the quantitative analysis modelling. We will generalise the quantitative findings to other UK nations.<h4>Discussion</h4>Using anonymised linked occupational and EHR data and qualitative interviews, the OSCAR study will quantify the risk of COVID-19 on DCWs' health and explore sources of variation. This will provide a secure base for informing public health policy and occupational guidance.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.23889/ijpds.v5i4.1656; html:https://europepmc.org/articles/PMC8280712; pdf:https://europepmc.org/articles/PMC8280712?pdf=render"
-  },
-  {
     "id": "31878916",
     "doi": "https://doi.org/10.1186/s12889-019-7919-2",
     "title": "Sustained adherence to a Mediterranean diet and physical activity on all-cause mortality in the Melbourne Collaborative Cohort Study: application of the g-formula.",
@@ -508,6 +491,23 @@
     "abstract": "BACKGROUND:Adherence to a traditional Mediterranean diet has been associated with lower mortality and cardiovascular disease risk. The relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time remains unknown. METHODS:We used the parametric G-formula to account for time-dependent confounding, in order to assess the relative importance of diet compared to other lifestyle factors and effects of dietary patterns over time. We included healthy Melbourne Collaborative Cohort Study participants attending a visit during 1995-1999. Questionnaires assessed diet and physical activity at each of three study waves. Deaths were identified by linkage to national registries. We estimated mortality risk over approximately 14\u2009years (1995-2011). RESULTS:Of 22,213 participants, 2163 (9.7%) died during 13.6\u2009years median follow-up. Sustained high physical activity and adherence to a Mediterranean-style diet resulted in an estimated reduction in all-cause mortality of 1.82 per 100 people (95% confidence interval (CI): 0.03, 3.6). The population attributable fraction was 13% (95% CI: 4, 23%) for sustained high physical activity, 7% (95% CI: -\u20093, 17%) for sustained adherence to a Mediterranean-style diet and 18% (95% CI: 0, 36%) for their combination. CONCLUSIONS:A small reduction in mortality may be achieved by sustained elevated physical activity levels in healthy middle-aged adults, but there may be comparatively little gain from increasing adherence to a Mediterranean-style diet.",
     "laySummary": "This study aimed to calculate the proportion of deaths that could be prevented over a 14 year period through making long-term changes in lifestyle (diet and physical activity). Over 22K people were included in the study and filled out questionnaires about their lifestyle at three different time points. The authors used statistical methods that take into account how lifestyle measurements change over time and estimated the relative impact that different lifestyle factors have on death. The study suggests that being more physically active in middle age is more likely to reduce mortality than maintaining a Mediterranean-style diet.",
     "urls": "doi:https://doi.org/10.1186/s12889-019-7919-2; html:https://europepmc.org/articles/PMC6933918; pdf:https://europepmc.org/articles/PMC6933918?pdf=render"
+  },
+  {
+    "id": "34345715",
+    "doi": "https://doi.org/10.23889/ijpds.v5i4.1656",
+    "title": "Establishing the impact of COVID-19 on the health outcomes of domiciliary care workers in Wales using routine data: a protocol for the OSCAR study.",
+    "authorString": "Lugg-Widger F, Cannings-John R, Akbari A, Brookes-Howell L, Hood K, John A, Jones H, Prout H, Schoenbuchner S, Thomas D, Robling M.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of population data science",
+    "pubYear": "2020",
+    "date": "2020-01-01",
+    "isOpenAccess": "Y",
+    "keywords": "Mortality; Administrative Data; Natural Experiment; Domiciliary Care Worker; Covid-19",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Introduction</h4>Domiciliary care workers (DCWs) continued providing social care to adults in their own homes throughout the COVID-19 pandemic. Evidence of the impact of COVID-19 on health outcomes of DCWs is currently mixed, probably reflecting methodological limitations of existing studies. The risk of COVID-19 to workers providing care in people's homes remains unknown.<h4>Objectives</h4>To quantify the impact of COVID-19 upon health outcomes of DCWs in Wales, to explore causes of variation, and to extrapolate to the rest of the UK DCW population.<h4>Methods</h4>Mixed methods design comprising cohort study of DCWs and exploratory qualitative interviews. Data for all registered DCWs in Wales is available via the SAIL Databank using a secured, privacy-protecting encrypted anonymisation process. Occupational registration data for DCWs working during the pandemic will be combined with EHR outcome data within the SAIL Databank including clinical codes that identify suspected and confirmed COVID-19 cases. We will report rates of suspected and confirmed COVID-19 infections and key health outcomes including mortality and explore variation (by factors such as age, sex, ethnicity, deprivation quintile, rurality, employer, comorbidities) using regression modelling, adjusting for clustering of outcome within Health Board, region and employer. A maximum variation sample of Welsh DCWs will be approached for qualitative interview using a strategy to include participants that vary across factors such as sex, age, ethnicity and employer. The interviews will inform the quantitative analysis modelling. We will generalise the quantitative findings to other UK nations.<h4>Discussion</h4>Using anonymised linked occupational and EHR data and qualitative interviews, the OSCAR study will quantify the risk of COVID-19 on DCWs' health and explore sources of variation. This will provide a secure base for informing public health policy and occupational guidance.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.23889/ijpds.v5i4.1656; html:https://europepmc.org/articles/PMC8280712; pdf:https://europepmc.org/articles/PMC8280712?pdf=render"
   },
   {
     "id": "34071236",
@@ -876,7 +876,7 @@
     "pubYear": "2021",
     "date": "2021-07-15",
     "isOpenAccess": "N",
-    "keywords": "Infectious diseases; epidemiology; Public Health; Respiratory Medicine; Health Service Research; Covid-19; Long Covid; Persistent Covid-19 Symptoms; Post-Covid-19 Syndrome",
+    "keywords": "Infectious diseases; epidemiology; Public Health; Respiratory Medicine; Health Service Research; Covid-19; Long Covid; Post-Covid-19 Syndrome; Persistent Covid-19 Symptoms",
     "nationalPriorities": "",
     "healthCategories": "",
     "abstract": "Globally, there are now over 160 million confirmed cases of COVID-19 and more than 3 million deaths. While the majority of infected individuals recover, a significant proportion continue to experience symptoms and complications after their acute illness. Patients with 'long COVID' experience a wide range of physical and mental/psychological symptoms. Pooled prevalence data showed the 10 most prevalent reported symptoms were fatigue, shortness of breath, muscle pain, joint pain, headache, cough, chest pain, altered smell, altered taste and diarrhoea. Other common symptoms were cognitive impairment, memory loss, anxiety and sleep disorders. Beyond symptoms and complications, people with long COVID often reported impaired quality of life, mental health and employment issues. These individuals may require multidisciplinary care involving the long-term monitoring of symptoms, to identify potential complications, physical rehabilitation, mental health and social services support. Resilient healthcare systems are needed to ensure efficient and effective responses to future health challenges.",
@@ -1564,23 +1564,6 @@
     "urls": "doi:https://doi.org/10.1136/bmjresp-2021-000967; html:https://europepmc.org/articles/PMC8261886; pdf:https://europepmc.org/articles/PMC8261886?pdf=render"
   },
   {
-    "id": "33577558",
-    "doi": "https://doi.org/10.1371/journal.pmed.1003497",
-    "title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study.",
-    "authorString": "Alsallakh MA, Rodgers SE, Lyons RA, Sheikh A, Davies GA.",
-    "authorAffiliations": "",
-    "journalTitle": "PLoS medicine",
-    "pubYear": "2021",
-    "date": "2021-02-12",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.<h4>Methods and findings</h4>We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97-0.99, p-value < 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97-0.99, p-value < 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56, p-value < 0.001), more asthma-related accident and emergency (A&E) attendances (IRR = 1.27, 1.10-1.46, p-value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39-1.76, p-value < 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39-1.94, p-value < 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18-2.07, p-value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.<h4>Conclusions</h4>In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pmed.1003497; html:https://europepmc.org/articles/PMC7880491; pdf:https://europepmc.org/articles/PMC7880491?pdf=render"
-  },
-  {
     "id": "32856160",
     "doi": "https://doi.org/10.1007/s10654-020-00677-6",
     "title": "Data extraction for epidemiological research (DExtER): a novel tool for automated clinical epidemiology studies.",
@@ -1596,6 +1579,23 @@
     "abstract": "The use of primary care electronic health records for research is abundant. The benefits gained from utilising such records lies in their size, longitudinal data collection and data quality. However, the use of such data to undertake high quality epidemiological studies, can lead to significant challenges particularly in dealing with misclassification, variation in coding and the significant effort required to pre-process the data in a meaningful format for statistical analysis. In this paper, we describe a methodology to aid with the extraction and processing of such databases, delivered by a novel software programme; the \"Data extraction for epidemiological research\" (DExtER). The basis of DExtER relies on principles of extract, transform and load processes. The tool initially provides the ability for the healthcare dataset to be extracted, then transformed in a format whereby data is normalised, converted and reformatted. DExtER has a user interface designed to obtain data extracts specific to each research question and observational study design. There are facilities to input the requirements for; eligible study period, definition of exposed and unexposed groups, outcome measures and important baseline covariates. To date the tool has been utilised and validated in a multitude of settings. There have been over 35 peer-reviewed publications using the tool, and DExtER has been implemented as a validated public health surveillance tool for obtaining accurate statistics on epidemiology of key morbidities. Future direction of this work will be the application of the framework to linked as well as international datasets and the development of standardised methods for conducting electronic pre-processing and extraction from datasets for research purposes.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1007/s10654-020-00677-6; html:https://europepmc.org/articles/PMC7987616; pdf:https://europepmc.org/articles/PMC7987616?pdf=render"
+  },
+  {
+    "id": "33577558",
+    "doi": "https://doi.org/10.1371/journal.pmed.1003497",
+    "title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study.",
+    "authorString": "Alsallakh MA, Rodgers SE, Lyons RA, Sheikh A, Davies GA.",
+    "authorAffiliations": "",
+    "journalTitle": "PLoS medicine",
+    "pubYear": "2021",
+    "date": "2021-02-12",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.<h4>Methods and findings</h4>We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97-0.99, p-value < 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97-0.99, p-value < 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56, p-value < 0.001), more asthma-related accident and emergency (A&E) attendances (IRR = 1.27, 1.10-1.46, p-value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39-1.76, p-value < 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39-1.94, p-value < 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18-2.07, p-value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.<h4>Conclusions</h4>In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pmed.1003497; html:https://europepmc.org/articles/PMC7880491; pdf:https://europepmc.org/articles/PMC7880491?pdf=render"
   },
   {
     "id": "34304930",
@@ -1615,23 +1615,6 @@
     "urls": "doi:https://doi.org/10.1016/j.burns.2021.06.007"
   },
   {
-    "id": "33543581",
-    "doi": "https://doi.org/10.1111/ans.16578",
-    "title": "Outcomes of surgical site infections following spinal column trauma.",
-    "authorString": "Baroun-Agob L, Liew S, Gabbe B.",
-    "authorAffiliations": "",
-    "journalTitle": "ANZ journal of surgery",
-    "pubYear": "2021",
-    "date": "2021-02-05",
-    "isOpenAccess": "N",
-    "keywords": "Spine; Trauma; Surgical Wound Infection; Orthopaedic Surgery; Patient-reported Outcome Measures",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Surgical site infections (SSI) are an undesirable outcome of spinal surgery for both the patient and healthcare system. To date, few studies have investigated the impact of SSI on patient-reported and clinical outcomes. Sepsis and readmission are potential sequelae of SSI, with sepsis potentially being life threatening. This study aimed to assess the association between SSI and patient outcomes in a spinal trauma cohort.<h4>Methods</h4>Adult (16+ years) patients who underwent emergency spinal surgery due to trauma between January 2010 and December 2016 at a major trauma centre in Melbourne, Australia, were identified through the Victorian Orthopaedic Trauma Outcomes Registry. The presence of an SSI was abstracted from the electronic medical record and outcomes were compared between patients with and without an SSI. Clinical outcomes were obtained from the medical record, and patient-reported outcomes at 6 and 12\u2009months were obtained from the Victorian Orthopaedic Trauma Outcomes Registry. Chi-squared tests were used to compare patient outcomes between groups.<h4>Results</h4>Of the 458 included patients, 26 (5.7%) developed an SSI. Patient-reported outcomes at 6 and 12\u2009months were not different between the groups. An SSI was associated with sepsis (\u03c7<sup>2</sup> <sub>1</sub> = 24.20, P\u2009<\u20090.01), readmission (\u03c7<sup>2</sup> <sub>1</sub> =\u2009215.34, P <\u20090.01), revision surgery (\u03c7<sup>2</sup> <sub>1</sub> =\u2009171.21, P <\u20090.01) and removal of implants (\u03c7<sup>2</sup> <sub>1</sub> =\u20094.31, P =\u20090.04) within 12\u2009months of discharge.<h4>Conclusion</h4>These findings indicate that spine trauma SSIs are not associated with patient-reported outcomes and may not have lasting effects on patients. Larger studies are required to assess further follow-up and support our findings and possibly distinguish outcomes between superficial and deep SSI.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/ans.16578"
-  },
-  {
     "id": "34356044",
     "doi": "https://doi.org/10.3390/genes12071029",
     "title": "A Causal Web between Chronotype and Metabolic Health Traits.",
@@ -1647,6 +1630,23 @@
     "abstract": "Observational and experimental evidence has linked chronotype to both psychological and cardiometabolic traits. Recent Mendelian randomization (MR) studies have investigated direct links between chronotype and several of these traits, often in isolation of outside potential mediating or moderating traits. We mined the EpiGraphDB MR database for calculated chronotype-trait associations (<i>p</i>-value < 5 \u00d7 10<sup>-8</sup>). We then re-analyzed those relevant to metabolic or mental health and investigated for statistical evidence of horizontal pleiotropy. Analyses passing multiple testing correction were then investigated for confounders, colliders, intermediates, and reverse intermediates using the EpiGraphDB database, creating multiple chronotype-trait interactions among each of the the traits studied. We revealed 10 significant chronotype-exposure associations (false discovery rate < 0.05) exposed to 111 potential previously known confounders, 52 intermediates, 18 reverse intermediates, and 31 colliders. Chronotype-lipid causal associations collided with treatment and diabetes effects; chronotype-bipolar associations were mediated by breast cancer; and chronotype-alcohol intake associations were impacted by confounders and intermediate variables including known zeitgebers and molecular traits. We have reported the influence of chronotype on several cardiometabolic and behavioural traits, and identified potential confounding variables not reported on in studies while discovering new associations to drugs and disease.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3390/genes12071029; html:https://europepmc.org/articles/PMC8303793; pdf:https://europepmc.org/articles/PMC8303793?pdf=render"
+  },
+  {
+    "id": "33543581",
+    "doi": "https://doi.org/10.1111/ans.16578",
+    "title": "Outcomes of surgical site infections following spinal column trauma.",
+    "authorString": "Baroun-Agob L, Liew S, Gabbe B.",
+    "authorAffiliations": "",
+    "journalTitle": "ANZ journal of surgery",
+    "pubYear": "2021",
+    "date": "2021-02-05",
+    "isOpenAccess": "N",
+    "keywords": "Spine; Trauma; Surgical Wound Infection; Orthopaedic Surgery; Patient-reported Outcome Measures",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Surgical site infections (SSI) are an undesirable outcome of spinal surgery for both the patient and healthcare system. To date, few studies have investigated the impact of SSI on patient-reported and clinical outcomes. Sepsis and readmission are potential sequelae of SSI, with sepsis potentially being life threatening. This study aimed to assess the association between SSI and patient outcomes in a spinal trauma cohort.<h4>Methods</h4>Adult (16+ years) patients who underwent emergency spinal surgery due to trauma between January 2010 and December 2016 at a major trauma centre in Melbourne, Australia, were identified through the Victorian Orthopaedic Trauma Outcomes Registry. The presence of an SSI was abstracted from the electronic medical record and outcomes were compared between patients with and without an SSI. Clinical outcomes were obtained from the medical record, and patient-reported outcomes at 6 and 12\u2009months were obtained from the Victorian Orthopaedic Trauma Outcomes Registry. Chi-squared tests were used to compare patient outcomes between groups.<h4>Results</h4>Of the 458 included patients, 26 (5.7%) developed an SSI. Patient-reported outcomes at 6 and 12\u2009months were not different between the groups. An SSI was associated with sepsis (\u03c7<sup>2</sup> <sub>1</sub> = 24.20, P\u2009<\u20090.01), readmission (\u03c7<sup>2</sup> <sub>1</sub> =\u2009215.34, P <\u20090.01), revision surgery (\u03c7<sup>2</sup> <sub>1</sub> =\u2009171.21, P <\u20090.01) and removal of implants (\u03c7<sup>2</sup> <sub>1</sub> =\u20094.31, P =\u20090.04) within 12\u2009months of discharge.<h4>Conclusion</h4>These findings indicate that spine trauma SSIs are not associated with patient-reported outcomes and may not have lasting effects on patients. Larger studies are required to assess further follow-up and support our findings and possibly distinguish outcomes between superficial and deep SSI.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/ans.16578"
   },
   {
     "id": "34174193",
@@ -2669,23 +2669,6 @@
     "urls": "doi:https://doi.org/10.1016/j.injury.2021.06.037"
   },
   {
-    "id": "33749694",
-    "doi": "https://doi.org/",
-    "title": "The evidence for assessing frailty and sarcopenia in an acute medical unit: a systematic review.",
-    "authorString": "Kamwa V, Seccombe A, Sapey E.",
-    "authorAffiliations": "",
-    "journalTitle": "Acute medicine",
-    "pubYear": "2021",
-    "date": "2021-01-01",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background/objectives</h4>A systematic review was conducted to assess if frailty and sarcopenia were associated with poorer outcomes in older adults admitted to an acute medical unit (AMU).<h4>Methods</h4>Eligible studies included older adults with an unplanned admission to an AMU and included a measure of frailty or sarcopenia, completed within 72 hours of admission. Risk of bias was assessed.<h4>Results</h4>Of 1659 identified articles, 16 were included (4 on sarcopenia and 12 on frailty). There was significant study heterogeneity. Overall, frailty and sarcopenia were associated with worse outcomes. Targeted interventions appeared to improve outcomes.<h4>Conclusion</h4>Current evidence suggests some benefit in screening older adults admitted to an AMU for frailty and sarcopenia. However, further studies are required before clinical adoption.",
-    "laySummary": "",
-    "urls": ""
-  },
-  {
     "id": "34261736",
     "doi": "https://doi.org/10.1136/heartjnl-2021-319229",
     "title": "Heart failure medication dosage and survival in women and men seen at outpatient clinics.",
@@ -2701,6 +2684,23 @@
     "abstract": "<h4>Objective</h4>Women with heart failure with reduced ejection fraction (HFrEF) may reach optimal treatment effect at half of the guideline-recommended medication dose. This study investigates prescription practice and its relation with survival of patients with HF in daily care.<h4>Methods</h4>Electronic health record data from 13 Dutch outpatient cardiology clinics were extracted for HF receiving at least one guideline-recommended HF medication. Dose changes over consecutive prescriptions were modelled using natural cubic splines. Inverse probability-weighted Cox regression was used to assess the relationship between dose (reference\u226550% target dose) and all-cause mortality.<h4>Results</h4>The study population comprised 561 women (29% HFrEF (ejection fraction (EF)<40%), 49% heart failure with preserved ejection fraction (EF\u226550%); HFpEF and 615 men (47% and 25%, respectively). During a median follow-up of 3.7 years, 252 patients died (48% women; 167 HFrEF, 84 HFpEF). Nine hundred thirty-four patients (46% women) received ACE inhibitors (ACEIs) or angiotensin receptor blockers (ARBs), 795 (48% women) beta blockers and 178 (42% women) mineralocorticoid receptor antagonists (MRAs). In both sexes, the mean target dose across prescriptions was 50% for ACEI/ARBs and beta blockers, and 100% for MRAs. ACEI/ARB dose of <50% was associated with lower mortality in women but not in men with HFrEF. This was not seen in patients with HFpEF. Beta-blocker dose was not associated with all-cause mortality.<h4>Conclusion</h4>Patients with HF seen in outpatient cardiology clinics receive half of the guideline-recommended medication dose. Lower ACEI/ARB dose was associated with improved survival in women with HFrEF. These results underscore the importance of (re)defining optimal medical therapy for women with HFrEF.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1136/heartjnl-2021-319229"
+  },
+  {
+    "id": "33749694",
+    "doi": "https://doi.org/",
+    "title": "The evidence for assessing frailty and sarcopenia in an acute medical unit: a systematic review.",
+    "authorString": "Kamwa V, Seccombe A, Sapey E.",
+    "authorAffiliations": "",
+    "journalTitle": "Acute medicine",
+    "pubYear": "2021",
+    "date": "2021-01-01",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background/objectives</h4>A systematic review was conducted to assess if frailty and sarcopenia were associated with poorer outcomes in older adults admitted to an acute medical unit (AMU).<h4>Methods</h4>Eligible studies included older adults with an unplanned admission to an AMU and included a measure of frailty or sarcopenia, completed within 72 hours of admission. Risk of bias was assessed.<h4>Results</h4>Of 1659 identified articles, 16 were included (4 on sarcopenia and 12 on frailty). There was significant study heterogeneity. Overall, frailty and sarcopenia were associated with worse outcomes. Targeted interventions appeared to improve outcomes.<h4>Conclusion</h4>Current evidence suggests some benefit in screening older adults admitted to an AMU for frailty and sarcopenia. However, further studies are required before clinical adoption.",
+    "laySummary": "",
+    "urls": ""
   },
   {
     "id": "33199838",
@@ -2873,23 +2873,6 @@
     "urls": "doi:https://doi.org/10.1186/s12911-021-01533-7; html:https://europepmc.org/articles/PMC8176715; pdf:https://europepmc.org/articles/PMC8176715?pdf=render"
   },
   {
-    "id": "34112101",
-    "doi": "https://doi.org/10.1186/s12872-021-02020-7",
-    "title": "Routine clinical care data from thirteen cardiac outpatient clinics: design of the Cardiology Centers of the Netherlands (CCN) database.",
-    "authorString": "Bots SH, Siegersma KR, Onland-Moret NC, Asselbergs FW, Somsen GA, Tulevski II, den Ruijter HM, Hofstra L.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC cardiovascular disorders",
-    "pubYear": "2021",
-    "date": "2021-06-10",
-    "isOpenAccess": "Y",
-    "keywords": "Prevention; Big Data; Cardiovascular Care; Clinical Care Data",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Despite the increasing availability of clinical data due to the digitalisation of healthcare systems, data often remain inaccessible due to the diversity of data collection systems. In the Netherlands, Cardiology Centers of the Netherlands (CCN) introduced \"one-stop shop\" diagnostic clinics for patients suspected of cardiac disease by their general practitioner. All CCN clinics use the same data collection system and standardised protocol, creating a large regular care database. This database can be used to describe referral practices, evaluate risk factors for cardiovascular disease (CVD) in important patient subgroups, and develop prediction models for use in daily care.<h4>Construction and content</h4>The current database contains data on all patients who underwent a cardiac workup in one of the 13 CCN clinics between 2007 and February 2018 (n\u2009=\u2009109,151, 51.9% women). Data were pseudonymised and contain information on anthropometrics, cardiac symptoms, risk factors, comorbidities, cardiovascular and family history, standard blood laboratory measurements, transthoracic echocardiography, electrocardiography in rest and during exercise, and medication use. Clinical follow-up is based on medical need and consisted of either a repeat visit at CCN (43.8%) or referral for an external procedure in a hospital (16.5%). Passive follow-up via linkage to national mortality registers is available for 95% of the database.<h4>Utility and discussion</h4>The CCN database provides a strong base for research into historically underrepresented patient groups due to the large number of patients and the lack of in- and exclusion criteria. It also enables the development of artificial intelligence-based decision support tools. Its contemporary nature allows for comparison of daily care with the current guidelines and protocols. Missing data is an inherent limitation, as the cardiologist could deviate from standardised protocols when clinically indicated.<h4>Conclusion</h4>The CCN database offers the opportunity to conduct research in a unique population referred from the general practitioner to the cardiologist for diagnostic workup. This, in combination with its large size, the representation of historically underrepresented patient groups and contemporary nature makes it a valuable tool for expanding our knowledge of cardiovascular diseases.<h4>Trial registration</h4>Not applicable.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1186/s12872-021-02020-7; html:https://europepmc.org/articles/PMC8191101; pdf:https://europepmc.org/articles/PMC8191101?pdf=render"
-  },
-  {
     "id": "34088700",
     "doi": "https://doi.org/10.2337/dc20-2518",
     "title": "Type 2 Diabetes, Metabolic Traits, and Risk of Heart Failure: A Mendelian Randomization Study.",
@@ -2905,6 +2888,23 @@
     "abstract": "<h4>Objective</h4>The aim of this study was to use Mendelian randomization (MR) techniques to estimate the causal relationships between genetic liability to type 2 diabetes (T2D), glycemic traits, and risk of heart failure (HF).<h4>Research design and methods</h4>Summary-level data were obtained from genome-wide association studies of T2D, insulin resistance (IR), glycated hemoglobin, fasting insulin and glucose, and HF. MR was conducted using the inverse-variance weighted method. Sensitivity analyses included the MR-Egger method, weighted median and mode methods, and multivariable MR conditioning on potential mediators.<h4>Results</h4>Genetic liability to T2D was causally related to higher risk of HF (odds ratio [OR] 1.13 per 1-log unit higher risk of T2D; 95% CI 1.11-1.14; <i>P</i> < 0.001); however, sensitivity analysis revealed evidence of directional pleiotropy. The relationship between T2D and HF was attenuated when adjusted for coronary disease, BMI, LDL cholesterol, and blood pressure in multivariable MR. Genetically instrumented higher IR was associated with higher risk of HF (OR 1.19 per 1-log unit higher risk of IR; 95% CI 1.00-1.41; <i>P</i> = 0.041). There were no notable associations identified between fasting insulin, glucose, or glycated hemoglobin and risk of HF. Genetic liability to HF was causally linked to higher risk of T2D (OR 1.49; 95% CI 1.01-2.19; <i>P</i> = 0.042), although again with evidence of pleiotropy.<h4>Conclusions</h4>These findings suggest a possible causal role of T2D and IR in HF etiology, although the presence of both bidirectional effects and directional pleiotropy highlights potential sources of bias that must be considered.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.2337/dc20-2518; html:https://europepmc.org/articles/PMC8323186; pdf:https://europepmc.org/articles/PMC8323186?pdf=render"
+  },
+  {
+    "id": "34112101",
+    "doi": "https://doi.org/10.1186/s12872-021-02020-7",
+    "title": "Routine clinical care data from thirteen cardiac outpatient clinics: design of the Cardiology Centers of the Netherlands (CCN) database.",
+    "authorString": "Bots SH, Siegersma KR, Onland-Moret NC, Asselbergs FW, Somsen GA, Tulevski II, den Ruijter HM, Hofstra L.",
+    "authorAffiliations": "",
+    "journalTitle": "BMC cardiovascular disorders",
+    "pubYear": "2021",
+    "date": "2021-06-10",
+    "isOpenAccess": "Y",
+    "keywords": "Prevention; Big Data; Cardiovascular Care; Clinical Care Data",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Despite the increasing availability of clinical data due to the digitalisation of healthcare systems, data often remain inaccessible due to the diversity of data collection systems. In the Netherlands, Cardiology Centers of the Netherlands (CCN) introduced \"one-stop shop\" diagnostic clinics for patients suspected of cardiac disease by their general practitioner. All CCN clinics use the same data collection system and standardised protocol, creating a large regular care database. This database can be used to describe referral practices, evaluate risk factors for cardiovascular disease (CVD) in important patient subgroups, and develop prediction models for use in daily care.<h4>Construction and content</h4>The current database contains data on all patients who underwent a cardiac workup in one of the 13 CCN clinics between 2007 and February 2018 (n\u2009=\u2009109,151, 51.9% women). Data were pseudonymised and contain information on anthropometrics, cardiac symptoms, risk factors, comorbidities, cardiovascular and family history, standard blood laboratory measurements, transthoracic echocardiography, electrocardiography in rest and during exercise, and medication use. Clinical follow-up is based on medical need and consisted of either a repeat visit at CCN (43.8%) or referral for an external procedure in a hospital (16.5%). Passive follow-up via linkage to national mortality registers is available for 95% of the database.<h4>Utility and discussion</h4>The CCN database provides a strong base for research into historically underrepresented patient groups due to the large number of patients and the lack of in- and exclusion criteria. It also enables the development of artificial intelligence-based decision support tools. Its contemporary nature allows for comparison of daily care with the current guidelines and protocols. Missing data is an inherent limitation, as the cardiologist could deviate from standardised protocols when clinically indicated.<h4>Conclusion</h4>The CCN database offers the opportunity to conduct research in a unique population referred from the general practitioner to the cardiologist for diagnostic workup. This, in combination with its large size, the representation of historically underrepresented patient groups and contemporary nature makes it a valuable tool for expanding our knowledge of cardiovascular diseases.<h4>Trial registration</h4>Not applicable.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1186/s12872-021-02020-7; html:https://europepmc.org/articles/PMC8191101; pdf:https://europepmc.org/articles/PMC8191101?pdf=render"
   },
   {
     "id": "33289226",
@@ -3094,23 +3094,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jclinepi.2021.03.025"
   },
   {
-    "id": "31757986",
-    "doi": "https://doi.org/10.1038/s41598-019-53454-1",
-    "title": "Ontology-based prediction of cancer driver genes.",
-    "authorString": "Althubaiti S, Karwath A, Dallol A, Noor A, Alkhayyat SS, Alwassia R, Mineta K, Gojobori T, Beggs AD, Schofield PN, Gkoutos GV, Hoehndorf R.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2019",
-    "date": "2019-11-22",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Applied Analytics",
-    "healthCategories": "",
-    "abstract": "Identifying and distinguishing cancer driver genes among thousands of candidate mutations remains a major challenge. Accurate identification of driver genes and driver mutations is critical for advancing cancer research and personalizing treatment based on accurate stratification of patients. Due to inter-tumor genetic heterogeneity many driver mutations within a gene occur at low frequencies, which make it challenging to distinguish them from non-driver mutations. We have developed a novel method for identifying cancer driver genes. Our approach utilizes multiple complementary types of information, specifically cellular phenotypes, cellular locations, functions, and whole body physiological phenotypes as features. We demonstrate that our method can accurately identify known cancer driver genes and distinguish between their role in different types of cancer. In addition to confirming known driver genes, we identify several novel candidate driver genes. We demonstrate the utility of our method by validating its predictions in nasopharyngeal cancer and colorectal cancer using whole exome and whole genome sequencing.",
-    "laySummary": "This study investigated which genes encourage cancer tumors to grow. The study identifies genes and distinguishes their role in different types of cancers. Their method is validated using whole exome and whole genome sequencing",
-    "urls": "doi:https://doi.org/10.1038/s41598-019-53454-1; html:https://europepmc.org/articles/PMC6874647; pdf:https://europepmc.org/articles/PMC6874647?pdf=render"
-  },
-  {
     "id": "33956386",
     "doi": "https://doi.org/10.1111/ceo.13943",
     "title": "Reporting guidelines for artificial intelligence in healthcare research.",
@@ -3143,6 +3126,23 @@
     "abstract": "<h4>Objective</h4>Electronic health records (EHRs) are a rich source of information on human diseases, but the information is variably structured, fragmented, curated using different coding systems, and collected for purposes other than medical research. We describe an approach for developing, validating, and sharing reproducible phenotypes from national structured EHR in the United Kingdom with applications for translational research.<h4>Materials and methods</h4>We implemented a rule-based phenotyping framework, with up to 6 approaches of validation. We applied our framework to a sample of 15 million individuals in a national EHR data source (population-based primary care, all ages) linked to hospitalization and death records in England. Data comprised continuous measurements (for example, blood pressure; medication information; coded diagnoses, symptoms, procedures, and referrals), recorded using 5 controlled clinical terminologies: (1) read (primary care, subset of SNOMED-CT [Systematized Nomenclature of Medicine Clinical Terms]), (2) International Classification of Diseases-Ninth Revision and Tenth Revision (secondary care diagnoses and cause of mortality), (3) Office of Population Censuses and Surveys Classification of Surgical Operations and Procedures, Fourth Revision (hospital surgical procedures), and (4) DM+D prescription codes.<h4>Results</h4>Using the CALIBER phenotyping framework, we created algorithms for 51 diseases, syndromes, biomarkers, and lifestyle risk factors and provide up to 6 validation approaches. The EHR phenotypes are curated in the open-access CALIBER Portal (https://www.caliberresearch.org/portal) and have been used by 40 national and international research groups in 60 peer-reviewed publications.<h4>Conclusions</h4>We describe a UK EHR phenomics approach within the CALIBER EHR data platform with initial evidence of validity and use, as an important step toward international use of UK EHR data for health research.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/jamia/ocz105; html:https://europepmc.org/articles/PMC6857510; pdf:https://europepmc.org/articles/PMC6857510?pdf=render"
+  },
+  {
+    "id": "31757986",
+    "doi": "https://doi.org/10.1038/s41598-019-53454-1",
+    "title": "Ontology-based prediction of cancer driver genes.",
+    "authorString": "Althubaiti S, Karwath A, Dallol A, Noor A, Alkhayyat SS, Alwassia R, Mineta K, Gojobori T, Beggs AD, Schofield PN, Gkoutos GV, Hoehndorf R.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2019",
+    "date": "2019-11-22",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Applied Analytics",
+    "healthCategories": "",
+    "abstract": "Identifying and distinguishing cancer driver genes among thousands of candidate mutations remains a major challenge. Accurate identification of driver genes and driver mutations is critical for advancing cancer research and personalizing treatment based on accurate stratification of patients. Due to inter-tumor genetic heterogeneity many driver mutations within a gene occur at low frequencies, which make it challenging to distinguish them from non-driver mutations. We have developed a novel method for identifying cancer driver genes. Our approach utilizes multiple complementary types of information, specifically cellular phenotypes, cellular locations, functions, and whole body physiological phenotypes as features. We demonstrate that our method can accurately identify known cancer driver genes and distinguish between their role in different types of cancer. In addition to confirming known driver genes, we identify several novel candidate driver genes. We demonstrate the utility of our method by validating its predictions in nasopharyngeal cancer and colorectal cancer using whole exome and whole genome sequencing.",
+    "laySummary": "This study investigated which genes encourage cancer tumors to grow. The study identifies genes and distinguishes their role in different types of cancers. Their method is validated using whole exome and whole genome sequencing",
+    "urls": "doi:https://doi.org/10.1038/s41598-019-53454-1; html:https://europepmc.org/articles/PMC6874647; pdf:https://europepmc.org/articles/PMC6874647?pdf=render"
   },
   {
     "id": "33692568",
@@ -3417,23 +3417,6 @@
     "urls": "doi:https://doi.org/10.1002/bimj.201900041"
   },
   {
-    "id": "32071531",
-    "doi": "https://doi.org/10.1016/j.jor.2020.02.001",
-    "title": "Predictors of clavicle fixation in multiply injured patients.",
-    "authorString": "Tinney A, Moaveni AK, Kimmel LA, Gabbe BJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of orthopaedics",
-    "pubYear": "2020",
-    "date": "2020-02-04",
-    "isOpenAccess": "N",
-    "keywords": "Trauma; Operative treatment; Trauma Registry; Clavicle Fracture; Surgical Fixation; Multiply Injured Patient",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Introduction:Clavicle fractures account for approximately 10% of all fractures in multiply injured patients. Our study aims to determine factors associated with surgical fixation of the clavicle fracture in multiply injured patients. Methods:Major adult trauma patients from 2005 to 2014 with a clavicle fracture were included. Multivariate analysis was undertaken to determine the variables associated with fixation. Results:1779 patients (median age of 47 and a median Injury Severity Score of 17) were included. 273 (15%) patients underwent clavicle fixation. Factors associated with surgical fixation of the clavicle included: year, younger age, ICU admission, or an associated humerus or scapula fracture.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jor.2020.02.001"
-  },
-  {
     "id": "33559289",
     "doi": "https://doi.org/10.1002/ejp.1750",
     "title": "The association between exposure to domestic abuse in women and the development of syndromes indicating central nervous system sensitization: A retrospective cohort study using UK primary care records.",
@@ -3449,6 +3432,23 @@
     "abstract": "<h4>Background</h4>Domestic abuse is a global public health issue. The association between the development of central sensitivity syndromes (CSS) and previous exposure to domestic abuse has been poorly understood particularly within European populations.<h4>Methods</h4>A retrospective cohort study using the 'The Health Improvement Network,' (UK primary care medical records) between 1st January 1995-31st December 2018. 22,604 adult women exposed to domestic abuse were age matched to 44,671 unexposed women. The average age at cohort entry was 36\u00a0years and the median follow-up was 2.5\u00a0years. The outcomes of interest were the development of a variety of syndromes which demonstrate central nervous system sensitization. Fibromyalgia, chronic fatigue syndrome and temporomandibular joint disorder outcomes have been reported previously. Outcomes were adjusted for the presence of mental ill health.<h4>Results</h4>During the study period, women exposed to domestic abuse experienced an increased risk of developing chronic lower back pain (adjusted incidence rate ratio [aIRR] 2.28; 95% CI 1.85-2.80), chronic headaches (aIRR 3.15; 95% CI 1.07-9.23), irritable bowel syndrome (aIRR 1.41; 95% CI 1.25-1.60) and restless legs syndrome (aIRR 1.89; 95% CI 1.44-2.48). However, no positive association was seen with the development of interstitial cystitis (aIRR 0.52; 95% CI 0.14-1.93), vulvodynia (aIRR 0.42; 95% CI 0.14-1.25) and myofascial pain syndrome (aIRR 1.01; 95% CI 0.28-3.61).<h4>Conclusion</h4>This study demonstrates the need to consider a past history of domestic abuse in patients presenting with CSS; and also consider preventative approaches in mitigating the risk of developing CSS following exposure to domestic abuse.<h4>Significance</h4>Domestic abuse is a global public health issue, with a poorly understood relationship with the development of complex pain syndromes. Using a large UK primary care database, we were able to conduct the first global cohort study to explore this further. We found a strong pain morbidity burden associated with domestic abuse, suggesting the need for urgent public health intervention to not only prevent domestic abuse but also the associated negative pain consequences.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/ejp.1750"
+  },
+  {
+    "id": "32071531",
+    "doi": "https://doi.org/10.1016/j.jor.2020.02.001",
+    "title": "Predictors of clavicle fixation in multiply injured patients.",
+    "authorString": "Tinney A, Moaveni AK, Kimmel LA, Gabbe BJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of orthopaedics",
+    "pubYear": "2020",
+    "date": "2020-02-04",
+    "isOpenAccess": "N",
+    "keywords": "Trauma; Operative treatment; Trauma Registry; Clavicle Fracture; Surgical Fixation; Multiply Injured Patient",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Introduction:Clavicle fractures account for approximately 10% of all fractures in multiply injured patients. Our study aims to determine factors associated with surgical fixation of the clavicle fracture in multiply injured patients. Methods:Major adult trauma patients from 2005 to 2014 with a clavicle fracture were included. Multivariate analysis was undertaken to determine the variables associated with fixation. Results:1779 patients (median age of 47 and a median Injury Severity Score of 17) were included. 273 (15%) patients underwent clavicle fixation. Factors associated with surgical fixation of the clavicle included: year, younger age, ICU admission, or an associated humerus or scapula fracture.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jor.2020.02.001"
   },
   {
     "id": "31984563",
@@ -3587,23 +3587,6 @@
     "urls": "doi:https://doi.org/10.1016/S0140-6736(20)31286-1"
   },
   {
-    "id": "32864476",
-    "doi": "https://doi.org/10.23889/ijpds.v5i1.1157",
-    "title": "Prevalence of Down's Syndrome in England, 1998-2013: Comparison of linked surveillance data and electronic health records.",
-    "authorString": "Doidge JC, Morris JK, Harron KL, Stevens S, Gilbert R.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of population data science",
-    "pubYear": "2020",
-    "date": "2020-01-01",
-    "isOpenAccess": "Y",
-    "keywords": "Prevalence; Data Linkage; Disease Surveillance; Down\u2019s Syndrome; Electronic Health Records; Linkage Error",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Introduction</h4>Disease registers and electronic health records are valuable resources for disease surveillance and research but can be limited by variation in data quality over time. Quality may be limited in terms of the accuracy of clinical information, of the internal linkage that supports person-based analysis of most administrative datasets, or by errors in linkage between multiple datasets.<h4>Objectives</h4>By linking the National Down Syndrome Cytogenetic Register (NDSCR) to Hospital Episode Statistics for England (HES), we aimed to assess the quality of each and establish a consistent approach for analysis of trends in prevalence of Down's syndrome among live births in England.<h4>Methods</h4>Probabilistic record linkage of NDSCR to HES for the period 1998-2013 was supported by linkage of babies to mothers within HES. Comparison of prevalence estimates in England were made using NDSCR only, HES data only, and linked data. Capture-recapture analysis and quantitative bias analysis were used to account for potential errors, including false positive diagnostic codes, unrecorded diagnoses, and linkage error.<h4>Results</h4>Analyses of single-source data indicated increasing live birth prevalence of Down's Syndrome, particularly in the analysis of HES. Linked data indicated a contrastingly stable prevalence of 12.3 (plausible range: 11.6-12.7) cases per 10 000 live births.<h4>Conclusion</h4>Case ascertainment in NDSCR improved slightly over time, creating a picture of slowly increasing prevalence. The emerging epidemic suggested by HES primarily reflects improving linkage within HES (assignment of unique patient identifiers to hospital episodes). Administrative data are valuable but trends should be interpreted with caution, and with assessment of data quality over time. Data linkage with quantitative bias analysis can provide more robust estimation and, in this case, stronger evidence that prevalence is not increasing. Routine linkage of administrative and register data can enhance the value of each.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.23889/ijpds.v5i1.1157; html:https://europepmc.org/articles/PMC7115985; pdf:https://europepmc.org/articles/PMC7115985?pdf=render"
-  },
-  {
     "id": "32341912",
     "doi": "https://doi.org/10.1177/2235042x19893470",
     "title": "Urban-rural and socioeconomic status: Impact on multimorbidity prevalence in hospitalized patients.",
@@ -3619,6 +3602,23 @@
     "abstract": "<h4>Objective</h4>The aim of this study was to describe multimorbidity prevalence in hospitalized adults, by urban-rural area of residence and socioeconomic status (SES).<h4>Methods</h4>Linked hospital episode data were used. Adults (\u226518 years) admitted to hospital as an inpatient during 2014 in Grampian, Scotland, were included. Conditions were identified from admissions during the 5 years prior to the first admission in 2014. Multimorbidity was defined as \u22652 conditions and measured using Tonelli et al. based on International Classification of Diseases-10 coding (preselected list of 30 conditions). We used proportions and 95% confidence intervals (CIs) to summarize the prevalence of multimorbidity by age group, sex, urban-rural category and deprivation. The association between multimorbidity and patient characteristics was assessed using the <i>\u03c7</i> <sup>2</sup> test.<h4>Results</h4>Forty one thousand five hundred and forty-five patients were included (median age 62, 52.6% female). Overall, 27.4% (95% CI 27.0, 27.8) of patients were multimorbid. Multimorbidity prevalence was 28.8% (95% CI 28.1, 29.5) in large urban versus 22.0% (95% CI 20.9, 23.3) in remote rural areas and 28.7% (95% CI 27.2, 30.3) in the most deprived versus 26.0% (95% CI 25.2, 26.9) in the least deprived areas. This effect was consistent in all age groups, but not statistically significant in the age group 18-29 years. Multimorbidity increased with age but was similar for males and females.<h4>Conclusion</h4>Given the scarcity of research into the effect of urban-rural area and SES on multimorbidity prevalence among hospitalized patients, these findings should inform future research into new models of care, including the consideration of urban-rural area and SES.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1177/2235042X19893470; html:https://europepmc.org/articles/PMC7171988; pdf:https://europepmc.org/articles/PMC7171988?pdf=render"
+  },
+  {
+    "id": "32864476",
+    "doi": "https://doi.org/10.23889/ijpds.v5i1.1157",
+    "title": "Prevalence of Down's Syndrome in England, 1998-2013: Comparison of linked surveillance data and electronic health records.",
+    "authorString": "Doidge JC, Morris JK, Harron KL, Stevens S, Gilbert R.",
+    "authorAffiliations": "",
+    "journalTitle": "International journal of population data science",
+    "pubYear": "2020",
+    "date": "2020-01-01",
+    "isOpenAccess": "Y",
+    "keywords": "Prevalence; Data Linkage; Disease Surveillance; Down\u2019s Syndrome; Electronic Health Records; Linkage Error",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Introduction</h4>Disease registers and electronic health records are valuable resources for disease surveillance and research but can be limited by variation in data quality over time. Quality may be limited in terms of the accuracy of clinical information, of the internal linkage that supports person-based analysis of most administrative datasets, or by errors in linkage between multiple datasets.<h4>Objectives</h4>By linking the National Down Syndrome Cytogenetic Register (NDSCR) to Hospital Episode Statistics for England (HES), we aimed to assess the quality of each and establish a consistent approach for analysis of trends in prevalence of Down's syndrome among live births in England.<h4>Methods</h4>Probabilistic record linkage of NDSCR to HES for the period 1998-2013 was supported by linkage of babies to mothers within HES. Comparison of prevalence estimates in England were made using NDSCR only, HES data only, and linked data. Capture-recapture analysis and quantitative bias analysis were used to account for potential errors, including false positive diagnostic codes, unrecorded diagnoses, and linkage error.<h4>Results</h4>Analyses of single-source data indicated increasing live birth prevalence of Down's Syndrome, particularly in the analysis of HES. Linked data indicated a contrastingly stable prevalence of 12.3 (plausible range: 11.6-12.7) cases per 10 000 live births.<h4>Conclusion</h4>Case ascertainment in NDSCR improved slightly over time, creating a picture of slowly increasing prevalence. The emerging epidemic suggested by HES primarily reflects improving linkage within HES (assignment of unique patient identifiers to hospital episodes). Administrative data are valuable but trends should be interpreted with caution, and with assessment of data quality over time. Data linkage with quantitative bias analysis can provide more robust estimation and, in this case, stronger evidence that prevalence is not increasing. Routine linkage of administrative and register data can enhance the value of each.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.23889/ijpds.v5i1.1157; html:https://europepmc.org/articles/PMC7115985; pdf:https://europepmc.org/articles/PMC7115985?pdf=render"
   },
   {
     "id": "32651323",
@@ -4607,23 +4607,6 @@
     "urls": "doi:https://doi.org/10.1186/s12889-019-8015-3; html:https://europepmc.org/articles/PMC6902530; pdf:https://europepmc.org/articles/PMC6902530?pdf=render"
   },
   {
-    "id": "30940752",
-    "doi": "https://doi.org/10.1136/bmjopen-2018-023232",
-    "title": "Using natural language processing to extract structured epilepsy data from unstructured clinic letters: development and validation of the ExECT (extraction of epilepsy clinical text) system.",
-    "authorString": "Fonferko-Shadrach B, Lacey AS, Roberts A, Akbari A, Thompson S, Ford DV, Lyons RA, Rees MI, Pickrell WO.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ open",
-    "pubYear": "2019",
-    "date": "2019-04-01",
-    "isOpenAccess": "Y",
-    "keywords": "Epilepsy; Validation; Information Extraction; Natural Language Processing",
-    "nationalPriorities": "Applied Analytics",
-    "healthCategories": "",
-    "abstract": "<h4>Objective</h4>Routinely collected healthcare data are a powerful research resource but often lack detailed disease-specific information that is collected in clinical free text, for example, clinic letters. We aim to use natural language processing techniques to extract detailed clinical information from epilepsy clinic letters to enrich routinely collected data.<h4>Design</h4>We used the general architecture for text engineering (GATE) framework to build an information extraction system, ExECT (extraction of epilepsy clinical text), combining rule-based and statistical techniques. We extracted nine categories of epilepsy information in addition to clinic date and date of birth across 200 clinic letters. We compared the results of our algorithm with a manual review of the letters by an epilepsy clinician.<h4>Setting</h4>De-identified and pseudonymised epilepsy clinic letters from a Health Board serving half a million residents in Wales, UK.<h4>Results</h4>We identified 1925 items of information with overall precision, recall and F1 score of 91.4%, 81.4% and 86.1%, respectively. Precision and recall for epilepsy-specific categories were: epilepsy diagnosis (88.1%, 89.0%), epilepsy type (89.8%, 79.8%), focal seizures (96.2%, 69.7%), generalised seizures (88.8%, 52.3%), seizure frequency (86.3%-53.6%), medication (96.1%, 94.0%), CT (55.6%, 58.8%), MRI (82.4%, 68.8%) and electroencephalogram (81.5%, 75.3%).<h4>Conclusions</h4>We have built an automated clinical text extraction system that can accurately extract epilepsy information from free text in clinic letters. This can enhance routinely collected data for research in the UK. The information extracted with ExECT such as epilepsy type, seizure frequency and neurological investigations are often missing from routinely collected data. We propose that our algorithm can bridge this data gap enabling further epilepsy research opportunities. While many of the rules in our pipeline were tailored to extract epilepsy specific information, our methods can be applied to other diseases and also can be used in clinical practice to record patient information in a structured manner.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmjopen-2018-023232; html:https://europepmc.org/articles/PMC6500195; pdf:https://europepmc.org/articles/PMC6500195?pdf=render"
-  },
-  {
     "id": "32846977",
     "doi": "https://doi.org/10.3390/ijerph17176139",
     "title": "Agreement between the International Physical Activity Questionnaire and Accelerometry in Adults with Orthopaedic Injury.",
@@ -4641,21 +4624,21 @@
     "urls": "doi:https://doi.org/10.3390/ijerph17176139; html:https://europepmc.org/articles/PMC7504024; pdf:https://europepmc.org/articles/PMC7504024?pdf=render"
   },
   {
-    "id": "30848519",
-    "doi": "https://doi.org/10.1111/dme.13945",
-    "title": "Impact of glycaemic control on fracture risk in 5368 people with newly diagnosed Type 1 diabetes: a time-dependent analysis.",
-    "authorString": "Thayakaran R, Perrins M, Gokhale KM, Kumaran S, Narendran P, Price MJ, Nirantharakumar K, Toulis KA.",
+    "id": "30940752",
+    "doi": "https://doi.org/10.1136/bmjopen-2018-023232",
+    "title": "Using natural language processing to extract structured epilepsy data from unstructured clinic letters: development and validation of the ExECT (extraction of epilepsy clinical text) system.",
+    "authorString": "Fonferko-Shadrach B, Lacey AS, Roberts A, Akbari A, Thompson S, Ford DV, Lyons RA, Rees MI, Pickrell WO.",
     "authorAffiliations": "",
-    "journalTitle": "Diabetic medicine : a journal of the British Diabetic Association",
+    "journalTitle": "BMJ open",
     "pubYear": "2019",
-    "date": "2019-04-05",
-    "isOpenAccess": "N",
-    "keywords": "",
-    "nationalPriorities": "",
+    "date": "2019-04-01",
+    "isOpenAccess": "Y",
+    "keywords": "Epilepsy; Validation; Information Extraction; Natural Language Processing",
+    "nationalPriorities": "Applied Analytics",
     "healthCategories": "",
-    "abstract": "<h4>Aims</h4>To assess whether glycaemic control is associated with a lifelong increased risk of fracture in people with newly diagnosed Type 1 diabetes.<h4>Methods</h4>People with newly diagnosed Type 1 diabetes between 1 January 1995 and 10 May 2016 were identified in The Health Improvement Network database. Longitudinal HbA<sub>1c</sub> measurements from diagnosis to fracture or study end or loss to follow-up were collected. A Cox proportional hazards model with HbA<sub>1c</sub> included as a time-dependent variable was fitted to these data.<h4>Results</h4>Some 5368 people with newly diagnosed Type 1 diabetes were included. The estimated adjusted hazard ratio (aHR) for HbA<sub>1c</sub> was statistically significant [aHR 1.007; 95% confidence interval (CI) 1.002-1.011 (mmol/mol) and aHR 1.07; 95% CI 1.03-1.12 (%)]. An incremental higher risk of fracture was observed with increasing levels of HbA<sub>1c</sub> .<h4>Conclusions</h4>In people with newly diagnosed Type 1 diabetes, higher HbA<sub>1c</sub> is associated with an increased risk for fractures.",
+    "abstract": "<h4>Objective</h4>Routinely collected healthcare data are a powerful research resource but often lack detailed disease-specific information that is collected in clinical free text, for example, clinic letters. We aim to use natural language processing techniques to extract detailed clinical information from epilepsy clinic letters to enrich routinely collected data.<h4>Design</h4>We used the general architecture for text engineering (GATE) framework to build an information extraction system, ExECT (extraction of epilepsy clinical text), combining rule-based and statistical techniques. We extracted nine categories of epilepsy information in addition to clinic date and date of birth across 200 clinic letters. We compared the results of our algorithm with a manual review of the letters by an epilepsy clinician.<h4>Setting</h4>De-identified and pseudonymised epilepsy clinic letters from a Health Board serving half a million residents in Wales, UK.<h4>Results</h4>We identified 1925 items of information with overall precision, recall and F1 score of 91.4%, 81.4% and 86.1%, respectively. Precision and recall for epilepsy-specific categories were: epilepsy diagnosis (88.1%, 89.0%), epilepsy type (89.8%, 79.8%), focal seizures (96.2%, 69.7%), generalised seizures (88.8%, 52.3%), seizure frequency (86.3%-53.6%), medication (96.1%, 94.0%), CT (55.6%, 58.8%), MRI (82.4%, 68.8%) and electroencephalogram (81.5%, 75.3%).<h4>Conclusions</h4>We have built an automated clinical text extraction system that can accurately extract epilepsy information from free text in clinic letters. This can enhance routinely collected data for research in the UK. The information extracted with ExECT such as epilepsy type, seizure frequency and neurological investigations are often missing from routinely collected data. We propose that our algorithm can bridge this data gap enabling further epilepsy research opportunities. While many of the rules in our pipeline were tailored to extract epilepsy specific information, our methods can be applied to other diseases and also can be used in clinical practice to record patient information in a structured manner.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/dme.13945"
+    "urls": "doi:https://doi.org/10.1136/bmjopen-2018-023232; html:https://europepmc.org/articles/PMC6500195; pdf:https://europepmc.org/articles/PMC6500195?pdf=render"
   },
   {
     "id": "34396190",
@@ -4673,6 +4656,23 @@
     "abstract": "Cancer therapy-related cardiac dysfunction (CTRCD) is one of the most concerning cardiovascular side effects of cancer treatment. Important reviews within the field of cardio-oncology have described various agents to be associated with a high risk of CTRCD, including mitomycin C, ifosfamide, vincristine, cyclophosphamide, and clofarabine. The aim of this study was to provide insight into the data on which these incidence rates are based. We observed that the reported cardiotoxicity of mitomycin C and ifosfamide is based on studies in which most patients received anthracyclines, complicating the interpretation of their association with CTRCD. The high incidence of vincristine-induced cardiotoxicity is based on an incorrect interpretation of a single study. Incidence rates of clofarabine remain uncertain due to a lack of cardiac screening in clinical trials. The administration of high-dose cyclophosphamide (>1.5 g/m<sup>2</sup>/day) is associated with a high incidence of CTRCD. Based on our findings, a critical re-evaluation of the cardiotoxicity of these agents is warranted.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jaccao.2019.09.007; html:https://europepmc.org/articles/PMC8352330; pdf:https://europepmc.org/articles/PMC8352330?pdf=render"
+  },
+  {
+    "id": "30848519",
+    "doi": "https://doi.org/10.1111/dme.13945",
+    "title": "Impact of glycaemic control on fracture risk in 5368 people with newly diagnosed Type 1 diabetes: a time-dependent analysis.",
+    "authorString": "Thayakaran R, Perrins M, Gokhale KM, Kumaran S, Narendran P, Price MJ, Nirantharakumar K, Toulis KA.",
+    "authorAffiliations": "",
+    "journalTitle": "Diabetic medicine : a journal of the British Diabetic Association",
+    "pubYear": "2019",
+    "date": "2019-04-05",
+    "isOpenAccess": "N",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Aims</h4>To assess whether glycaemic control is associated with a lifelong increased risk of fracture in people with newly diagnosed Type 1 diabetes.<h4>Methods</h4>People with newly diagnosed Type 1 diabetes between 1 January 1995 and 10 May 2016 were identified in The Health Improvement Network database. Longitudinal HbA<sub>1c</sub> measurements from diagnosis to fracture or study end or loss to follow-up were collected. A Cox proportional hazards model with HbA<sub>1c</sub> included as a time-dependent variable was fitted to these data.<h4>Results</h4>Some 5368 people with newly diagnosed Type 1 diabetes were included. The estimated adjusted hazard ratio (aHR) for HbA<sub>1c</sub> was statistically significant [aHR 1.007; 95% confidence interval (CI) 1.002-1.011 (mmol/mol) and aHR 1.07; 95% CI 1.03-1.12 (%)]. An incremental higher risk of fracture was observed with increasing levels of HbA<sub>1c</sub> .<h4>Conclusions</h4>In people with newly diagnosed Type 1 diabetes, higher HbA<sub>1c</sub> is associated with an increased risk for fractures.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/dme.13945"
   },
   {
     "id": "30928915",
@@ -4896,21 +4896,21 @@
     "urls": "doi:https://doi.org/10.1093/hmg/ddz187"
   },
   {
-    "id": "32743489",
-    "doi": "https://doi.org/10.1016/j.eclinm.2020.100469",
-    "title": "Gender differences in the presentation of fibromyalgia amongst children who have been maltreated.",
-    "authorString": "Chandan JS, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
+    "id": "33893241",
+    "doi": "https://doi.org/10.1126/science.abf0874",
+    "title": "Resurgence of SARS-CoV-2: Detection by community viral surveillance.",
+    "authorString": "Riley S, Ainslie KEC, Eales O, Walters CE, Wang H, Atchison C, Fronterre C, Diggle PJ, Ashby D, Donnelly CA, Cooke G, Barclay W, Ward H, Darzi A, Elliott P.",
     "authorAffiliations": "",
-    "journalTitle": "EClinicalMedicine",
-    "pubYear": "2020",
-    "date": "2020-07-23",
+    "journalTitle": "Science (New York, N.Y.)",
+    "pubYear": "2021",
+    "date": "2021-04-23",
     "isOpenAccess": "Y",
     "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "",
+    "abstract": "Surveillance of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has mainly relied on case reporting, which is biased by health service performance, test availability, and test-seeking behaviors. We report a community-wide national representative surveillance program in England based on self-administered swab results from ~594,000 individuals tested for SARS-CoV-2, regardless of symptoms, between May and the beginning of September 2020. The epidemic declined between May and July 2020 but then increased gradually from mid-August, accelerating into early September 2020 at the start of the second wave. When compared with cases detected through routine surveillance, we report here a longer period of decline and a younger age distribution. Representative community sampling for SARS-CoV-2 can substantially improve situational awareness and feed into the public health response even at low prevalence.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100469; html:https://europepmc.org/articles/PMC7385442; pdf:https://europepmc.org/articles/PMC7385442?pdf=render"
+    "urls": "doi:https://doi.org/10.1126/science.abf0874; html:https://europepmc.org/articles/PMC8158959; pdf:https://europepmc.org/articles/PMC8158959?pdf=render"
   },
   {
     "id": "30729733",
@@ -4930,21 +4930,21 @@
     "urls": "doi:https://doi.org/10.1111/ijpo.12512; html:https://europepmc.org/articles/PMC6563068; pdf:https://europepmc.org/articles/PMC6563068?pdf=render"
   },
   {
-    "id": "33893241",
-    "doi": "https://doi.org/10.1126/science.abf0874",
-    "title": "Resurgence of SARS-CoV-2: Detection by community viral surveillance.",
-    "authorString": "Riley S, Ainslie KEC, Eales O, Walters CE, Wang H, Atchison C, Fronterre C, Diggle PJ, Ashby D, Donnelly CA, Cooke G, Barclay W, Ward H, Darzi A, Elliott P.",
+    "id": "32743489",
+    "doi": "https://doi.org/10.1016/j.eclinm.2020.100469",
+    "title": "Gender differences in the presentation of fibromyalgia amongst children who have been maltreated.",
+    "authorString": "Chandan JS, Bandyopadhyay S, Taylor J, Nirantharakumar K.",
     "authorAffiliations": "",
-    "journalTitle": "Science (New York, N.Y.)",
-    "pubYear": "2021",
-    "date": "2021-04-23",
+    "journalTitle": "EClinicalMedicine",
+    "pubYear": "2020",
+    "date": "2020-07-23",
     "isOpenAccess": "Y",
     "keywords": "",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "Surveillance of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has mainly relied on case reporting, which is biased by health service performance, test availability, and test-seeking behaviors. We report a community-wide national representative surveillance program in England based on self-administered swab results from ~594,000 individuals tested for SARS-CoV-2, regardless of symptoms, between May and the beginning of September 2020. The epidemic declined between May and July 2020 but then increased gradually from mid-August, accelerating into early September 2020 at the start of the second wave. When compared with cases detected through routine surveillance, we report here a longer period of decline and a younger age distribution. Representative community sampling for SARS-CoV-2 can substantially improve situational awareness and feed into the public health response even at low prevalence.",
+    "abstract": "",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1126/science.abf0874; html:https://europepmc.org/articles/PMC8158959; pdf:https://europepmc.org/articles/PMC8158959?pdf=render"
+    "urls": "doi:https://doi.org/10.1016/j.eclinm.2020.100469; html:https://europepmc.org/articles/PMC7385442; pdf:https://europepmc.org/articles/PMC7385442?pdf=render"
   },
   {
     "id": "32639589",
@@ -5100,23 +5100,6 @@
     "urls": "doi:https://doi.org/10.1097/CCM.0000000000003424; html:https://europepmc.org/articles/PMC6330072; pdf:https://europepmc.org/articles/PMC6330072?pdf=render; doi:https://doi.org/10.1097/ccm.0000000000003424"
   },
   {
-    "id": "33769566",
-    "doi": "https://doi.org/10.1111/bph.15459",
-    "title": "Emerging therapies and their delivery for treating age-related macular degeneration.",
-    "authorString": "Thomas CN, Sim DA, Lee WH, Alfahad N, Dick AD, Denniston AK, Hill LJ.",
-    "authorAffiliations": "",
-    "journalTitle": "British journal of pharmacology",
-    "pubYear": "2021",
-    "date": "2021-03-26",
-    "isOpenAccess": "N",
-    "keywords": "Retina; Complement; Immunotherapy; Age-related macular degeneration; Drug Delivery; Anti-vegf; Ocular Disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Age-related macular degeneration (AMD) is the most common cause of blindness in the Western world and is characterised in its latter stages by retinal cell death and neovascularisation and earlier stages with the loss of parainflammatory homeostasis. Patients with neovascular AMD (nAMD) are treated with frequent intraocular injections of anti-vascular endothelial growth factor (VEGF) therapies, which are not only unpopular with patients but carry risks of sight-threatening complications. A minority of patients are unresponsive with no alternative treatment available, and some patients who respond initially eventually develop a tolerance to treatment. New therapeutics with improved delivery methods and sustainability of clinical effects are required, in particular for non-neovascular AMD (90% of cases and no current approved treatments). There are age-related and disease-related changes that occur which can affect ocular drug delivery. Here, we review the latest emerging therapies for AMD, their delivery routes and implications for translating to clinical practice.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1111/bph.15459"
-  },
-  {
     "id": "31282950",
     "doi": "https://doi.org/10.1001/jamaneurol.2019.1812",
     "title": "Association Between Idiopathic Intracranial Hypertension and Risk of Cardiovascular Diseases in Women in the United Kingdom.",
@@ -5132,6 +5115,23 @@
     "abstract": "<h4>Importance</h4>Cardiovascular disease (CVD) risk has not been previously evaluated in a large matched cohort study in idiopathic intracranial hypertension (IIH).<h4>Objectives</h4>To estimate the risk of composite cardiovascular events, heart failure, ischemic heart disease, stroke/transient ischemic attack (TIA), type 2 diabetes, and hypertension in women with idiopathic intracranial hypertension and compare it with the risk in women, matched on body mass index (BMI) and age, without the condition; and to evaluate the prevalence and incidence of IIH.<h4>Design, setting, and participants</h4>This population-based matched controlled cohort study used 28 years of data, from January 1, 1990, to January 17, 2018, from The Health Improvement Network (THIN), an anonymized, nationally representative electronic medical records database in the United Kingdom. All female patients aged 16 years or older were eligible for inclusion. Female patients with IIH (n\u2009=\u20092760) were included and randomly matched with up to 10 control patients (n\u2009=\u200927\u202f125) by BMI and age.<h4>Main outcomes and measures</h4>Adjusted hazard ratios (aHRs) of cardiovascular outcomes were calculated using Cox regression models. The primary outcome was a composite of any CVD (heart failure, ischemic heart disease, and stroke/TIA), and the secondary outcomes were each CVD outcome, type 2 diabetes, and hypertension.<h4>Results</h4>In total, 2760 women with IIH and 27\u202f125 women without IIH were included. Age and BMI were similar between the 2 groups, with a median (interquartile range) age of 32.1 (25.6-42.0) years in the exposed group and 32.1 (25.7-42.1) years in the control group; in the exposed group 1728 women (62.6%) were obese, and in the control group 16514 women (60.9%) were obese. Higher absolute risks for all cardiovascular outcomes were observed in women with IIH compared with control patients. The aHRs were as follows: composite cardiovascular events, 2.10 (95% CI, 1.61-2.74; P\u2009<\u2009.001); heart failure, 1.97 (95% CI, 1.16-3.37; P\u2009=\u2009.01); ischemic heart disease, 1.94 (95% CI, 1.27-2.94; P\u2009=\u2009.002); stroke/TIA, 2.27 (95% CI, 1.61-3.21; P\u2009<\u2009.001); type 2 diabetes, 1.30 (95% CI, 1.07-1.57; P\u2009=\u2009.009); and hypertension, 1.55 (95% CI, 1.30-1.84; P\u2009<\u2009.001). The incidence of IIH in female patients more than tripled between 2005 and 2017, from 2.5 to 9.3 per 100\u202f000 person-years. Similarly, IIH prevalence increased in the same period, from 26 to 79 per 100\u202f000 women. Incidence increased markedly with BMI higher than 30.<h4>Conclusions and relevance</h4>Idiopathic intracranial hypertension in women appeared to be associated with a 2-fold increase in CVD risk; change in patient care to modify risk factors for CVD may reduce long-term morbidity for women with IIH and warrants further evaluation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1001/jamaneurol.2019.1812; html:https://europepmc.org/articles/PMC6618853"
+  },
+  {
+    "id": "33769566",
+    "doi": "https://doi.org/10.1111/bph.15459",
+    "title": "Emerging therapies and their delivery for treating age-related macular degeneration.",
+    "authorString": "Thomas CN, Sim DA, Lee WH, Alfahad N, Dick AD, Denniston AK, Hill LJ.",
+    "authorAffiliations": "",
+    "journalTitle": "British journal of pharmacology",
+    "pubYear": "2021",
+    "date": "2021-03-26",
+    "isOpenAccess": "N",
+    "keywords": "Retina; Complement; Immunotherapy; Age-related macular degeneration; Drug Delivery; Anti-vegf; Ocular Disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Age-related macular degeneration (AMD) is the most common cause of blindness in the Western world and is characterised in its latter stages by retinal cell death and neovascularisation and earlier stages with the loss of parainflammatory homeostasis. Patients with neovascular AMD (nAMD) are treated with frequent intraocular injections of anti-vascular endothelial growth factor (VEGF) therapies, which are not only unpopular with patients but carry risks of sight-threatening complications. A minority of patients are unresponsive with no alternative treatment available, and some patients who respond initially eventually develop a tolerance to treatment. New therapeutics with improved delivery methods and sustainability of clinical effects are required, in particular for non-neovascular AMD (90% of cases and no current approved treatments). There are age-related and disease-related changes that occur which can affect ocular drug delivery. Here, we review the latest emerging therapies for AMD, their delivery routes and implications for translating to clinical practice.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1111/bph.15459"
   },
   {
     "id": "32817390",
@@ -6137,6 +6137,23 @@
     "urls": "doi:https://doi.org/10.1016/S2215-0366(19)30298-6"
   },
   {
+    "id": "32546850",
+    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
+    "title": "Genetic aetiology of self-harm ideation and behaviour.",
+    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
+    "authorAffiliations": "",
+    "journalTitle": "Scientific reports",
+    "pubYear": "2020",
+    "date": "2020-06-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (h<sub>snp</sub><sup>2</sup>) estimates were ~10%, and both traits were highly genetically correlated (LDSC r<sub>g</sub>\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
+  },
+  {
     "id": "33043790",
     "doi": "https://doi.org/10.1177/0141076820961776",
     "title": "Advancing UK regulatory science and innovation in healthcare.",
@@ -6203,23 +6220,6 @@
     "abstract": "Echocardiography plays an essential role in the diagnosis and assessment of cardiovascular disease. Measurements derived from echocardiography are also used to determine the severity of disease, its progression over time, and to aid in the choice of optimal therapy. It is therefore clinically important that echocardiographic measurements be reproducible, repeatable, and reliable. There are a variety of statistical tests available to assess these parameters, and in this article the authors summarize those available for use by echocardiographers to improve their clinical practice. Correlation coefficients, linear regression, Bland-Altman plots, and the coefficient of variation are explored, along with their limitations. The authors also provide an online tool for the easy calculation of these statistics in the clinical environment (www.birmingham.ac.uk/echo). Quantifying and enhancing the reproducibility of echocardiography has important potential to improve the value of echocardiography as the basis for good clinical decision-making.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.echo.2019.08.015"
-  },
-  {
-    "id": "32546850",
-    "doi": "https://doi.org/10.1038/s41598-020-66737-9",
-    "title": "Genetic aetiology of self-harm ideation and behaviour.",
-    "authorString": "Campos AI, Verweij KJH, Statham DJ, Madden PAF, Maciejewski DF, Davis KAS, John A, Hotopf M, Heath AC, Martin NG, Renter\u00eda ME.",
-    "authorAffiliations": "",
-    "journalTitle": "Scientific reports",
-    "pubYear": "2020",
-    "date": "2020-06-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Family studies have identified a heritable component to self-harm that is partially independent from comorbid psychiatric disorders. However, the genetic aetiology of broad sense (non-suicidal and suicidal) self-harm has not been characterised on the molecular level. In addition, controversy exists about the degree to which suicidal and non-suicidal self-harm share a common genetic aetiology. In the present study, we conduct genome-wide association studies (GWAS) on lifetime self-harm ideation and self-harm behaviour (i.e. any lifetime self-harm act regardless of suicidal intent) using data from the UK Biobank (n\u2009>\u2009156,000). We also perform genome wide gene-based tests and characterize the SNP heritability and genetic correlations between these traits. Finally, we test whether polygenic risk scores (PRS) for self-harm ideation and self-harm behaviour predict suicide attempt, suicide thoughts and non-suicidal self-harm (NSSH) in an independent target sample of 8,703 Australian adults. Our GWAS results identified one genome-wide significant locus associated with each of the two phenotypes. SNP heritability (h<sub>snp</sub><sup>2</sup>) estimates were ~10%, and both traits were highly genetically correlated (LDSC r<sub>g</sub>\u2009>\u20090.8). Gene-based tests identified seven genes associated with self-harm ideation and four with self-harm behaviour. Furthermore, in the target sample, PRS for self-harm ideation were significantly associated with suicide thoughts and NSSH, and PRS for self-harm behaviour predicted suicide thoughts and suicide attempt. Follow up regressions identified a shared genetic aetiology between NSSH and suicide thoughts, and between suicide thoughts and suicide attempt. Evidence for shared genetic aetiology between NSSH and suicide attempt was not statistically significant.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41598-020-66737-9; html:https://europepmc.org/articles/PMC7297971; pdf:https://europepmc.org/articles/PMC7297971?pdf=render"
   },
   {
     "id": "32951912",
@@ -6409,23 +6409,6 @@
     "urls": "doi:https://doi.org/10.1016/j.burns.2020.01.005"
   },
   {
-    "id": "34321180",
-    "doi": "https://doi.org/10.1016/j.aucc.2021.05.013",
-    "title": "The impact of distance on post-ICU disability.",
-    "authorString": "D'Arcy J, Haines K, Paul E, Doherty Z, Goodwin A, Bailey M, Barrett J, Bellomo R, Bucknall T, Gabbe BJ, Higgins AM, Iwashyna TJ, Murray LJ, Myles PS, Ponsford J, Pilcher D, Udy AA, Walker C, Young M, Cooper DJJ, Hodgson CL, ICU-Recovery Investigators.",
-    "authorAffiliations": "",
-    "journalTitle": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
-    "pubYear": "2021",
-    "date": "2021-07-25",
-    "isOpenAccess": "N",
-    "keywords": "Quality of life; Mechanical ventilation; Distance; Disability; Intensive Care",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Nonurban residential living is associated with adverse outcomes for a number of chronic health conditions. However, it is unclear what effect it has amongst survivors of critical illness.<h4>Objectives</h4>The purpose of this study is to determine whether patients living greater than 50 km from the treating intensive care unit (ICU) have disability outcomes at 6 months that differ from people living within 50 km.<h4>Methods</h4>This was a multicentre, prospective cohort study conducted in five metropolitan ICUs. Participants were adults admitted to the ICU, who received >24 h of mechanical ventilation and survived to hospital discharge. In a secondary analysis of these data, the cohort was dichotomised based on residential distance from the treating ICU: <50 km and \u226550 km. The primary outcome was patient-reported disability using the 12-item World Health Organization's Disability Assessment Schedule (WHODAS 2.0). This was recorded at 6 months after ICU admission by telephone interview. Secondary outcomes included health status as measured by EQ-5D-5L return to work and psychological function as measured by the Hospital Anxiety and Depression Scale (HADS). Multivariable logistic regression was used to assess the association between distance from the ICU and moderate to severe disability, adjusted for potential confounders. Variables included in the multivariable model were deemed to be clinically relevant and had baseline imbalance between groups (p < 0.10). These included marital status and hours of mechanical ventilation. Sensitivity analysis was also conducted using distance in kilometres as a continuous variable.<h4>Results</h4>A total of 262 patients were enrolled, and 169 (65%) lived within 50 km of the treating ICU and 93 (35%) lived \u226550 km from the treating ICU (interquartile range [IQR] 10-664 km). There was no difference in patient-reported disability at 6 months between patients living <50 km and those living \u226550 km (WHODAS total disability % [IQR] 10.4 [2.08-25] v 14.6 [2.08-20.8], P = 0.74). There was also no difference between groups for the six major life domains of the WHODAS. There was no difference in rates of anxiety or depression as measured by HADS score (HADS anxiety median [IQR] 4 [1-7] v 3 [1-7], P = 0.60) (HADS depression median [IQR] 3 [1-6] v 3 [1-6], P = 0.62); health status as measured by EQ-5D (mean [SD] 66.7 [20] v 69.8 [22.2], P = 0.24); or health-related unemployment (% (N) 39 [26] v 25 [29.1], P = 0.61). After adjusting for confounders, living \u226550 km from the treating ICU was not associated with increased disability (odds ratio 0.61, 95% confidence interval: 0.33-1.16; P = 0.13) CONCLUSIONS: Survivors of intensive care in Victoria, Australia, who live at least 50 km from the treating ICU did not have greater disability than people living less than 50 km at 6 months after discharge. Living 50 km or more from the treating ICU was not associated with disability, nor was it associated with anxiety or depression, health status, or unemployment due to health.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.aucc.2021.05.013"
-  },
-  {
     "id": "32616598",
     "doi": "https://doi.org/10.1183/13993003.01809-2020",
     "title": "Using imaging to combat a pandemic: rationale for developing the UK National COVID-19 Chest Imaging Database.",
@@ -6441,6 +6424,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1183/13993003.01809-2020; html:https://europepmc.org/articles/PMC7331656; pdf:https://europepmc.org/articles/PMC7331656?pdf=render"
+  },
+  {
+    "id": "34321180",
+    "doi": "https://doi.org/10.1016/j.aucc.2021.05.013",
+    "title": "The impact of distance on post-ICU disability.",
+    "authorString": "D'Arcy J, Haines K, Paul E, Doherty Z, Goodwin A, Bailey M, Barrett J, Bellomo R, Bucknall T, Gabbe BJ, Higgins AM, Iwashyna TJ, Murray LJ, Myles PS, Ponsford J, Pilcher D, Udy AA, Walker C, Young M, Cooper DJJ, Hodgson CL, ICU-Recovery Investigators.",
+    "authorAffiliations": "",
+    "journalTitle": "Australian critical care : official journal of the Confederation of Australian Critical Care Nurses",
+    "pubYear": "2021",
+    "date": "2021-07-25",
+    "isOpenAccess": "N",
+    "keywords": "Quality of life; Mechanical ventilation; Distance; Disability; Intensive Care",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Nonurban residential living is associated with adverse outcomes for a number of chronic health conditions. However, it is unclear what effect it has amongst survivors of critical illness.<h4>Objectives</h4>The purpose of this study is to determine whether patients living greater than 50 km from the treating intensive care unit (ICU) have disability outcomes at 6 months that differ from people living within 50 km.<h4>Methods</h4>This was a multicentre, prospective cohort study conducted in five metropolitan ICUs. Participants were adults admitted to the ICU, who received >24 h of mechanical ventilation and survived to hospital discharge. In a secondary analysis of these data, the cohort was dichotomised based on residential distance from the treating ICU: <50 km and \u226550 km. The primary outcome was patient-reported disability using the 12-item World Health Organization's Disability Assessment Schedule (WHODAS 2.0). This was recorded at 6 months after ICU admission by telephone interview. Secondary outcomes included health status as measured by EQ-5D-5L return to work and psychological function as measured by the Hospital Anxiety and Depression Scale (HADS). Multivariable logistic regression was used to assess the association between distance from the ICU and moderate to severe disability, adjusted for potential confounders. Variables included in the multivariable model were deemed to be clinically relevant and had baseline imbalance between groups (p < 0.10). These included marital status and hours of mechanical ventilation. Sensitivity analysis was also conducted using distance in kilometres as a continuous variable.<h4>Results</h4>A total of 262 patients were enrolled, and 169 (65%) lived within 50 km of the treating ICU and 93 (35%) lived \u226550 km from the treating ICU (interquartile range [IQR] 10-664 km). There was no difference in patient-reported disability at 6 months between patients living <50 km and those living \u226550 km (WHODAS total disability % [IQR] 10.4 [2.08-25] v 14.6 [2.08-20.8], P = 0.74). There was also no difference between groups for the six major life domains of the WHODAS. There was no difference in rates of anxiety or depression as measured by HADS score (HADS anxiety median [IQR] 4 [1-7] v 3 [1-7], P = 0.60) (HADS depression median [IQR] 3 [1-6] v 3 [1-6], P = 0.62); health status as measured by EQ-5D (mean [SD] 66.7 [20] v 69.8 [22.2], P = 0.24); or health-related unemployment (% (N) 39 [26] v 25 [29.1], P = 0.61). After adjusting for confounders, living \u226550 km from the treating ICU was not associated with increased disability (odds ratio 0.61, 95% confidence interval: 0.33-1.16; P = 0.13) CONCLUSIONS: Survivors of intensive care in Victoria, Australia, who live at least 50 km from the treating ICU did not have greater disability than people living less than 50 km at 6 months after discharge. Living 50 km or more from the treating ICU was not associated with disability, nor was it associated with anxiety or depression, health status, or unemployment due to health.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.aucc.2021.05.013"
   },
   {
     "id": "30183734",
@@ -6630,23 +6630,6 @@
     "urls": "doi:https://doi.org/10.1177/2047487318785228"
   },
   {
-    "id": "31145509",
-    "doi": "https://doi.org/10.1002/gepi.22215",
-    "title": "A comparison of two workflows for regulome and transcriptome-based prioritization of genetic variants associated with myocardial mass.",
-    "authorString": "Manduchi E, Hemerich D, van Setten J, Tragante V, Harakalova M, Pei J, Williams SM, van der Harst P, Asselbergs FW, Moore JH.",
-    "authorAffiliations": "",
-    "journalTitle": "Genetic epidemiology",
-    "pubYear": "2019",
-    "date": "2019-05-30",
-    "isOpenAccess": "N",
-    "keywords": "Functional genomics; Gwas; left ventricular mass; Snp Preselection",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "A typical task arising from main effect analyses in a Genome Wide Association Study (GWAS) is to identify single nucleotide polymorphisms (SNPs), in linkage disequilibrium with the observed signals, that are likely causal variants and the affected genes. The affected genes may not be those closest to associating SNPs. Functional genomics data from relevant tissues are believed to be helpful in selecting likely causal SNPs and interpreting implicated biological mechanisms, ultimately facilitating prevention and treatment in the case of a disease trait. These data are typically used post GWAS analyses to fine-map the statistically significant signals identified agnostically by testing all SNPs and applying a multiple testing correction. The number of tested SNPs is typically in the millions, so the multiple testing burden is high. Motivated by this, in this study we investigated an alternative workflow, which consists in utilizing the available functional genomics data as a first step to reduce the number of SNPs tested for association. We analyzed GWAS on electrocardiographic QRS duration using these two workflows. The alternative workflow identified more SNPs, including some residing in loci not discovered with the typical workflow. Moreover, the latter are corroborated by other reports on QRS duration. This indicates the potential value of incorporating functional genomics information at the onset in GWAS analyses.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/gepi.22215; html:https://europepmc.org/articles/PMC6687530; pdf:https://europepmc.org/articles/PMC6687530?pdf=render; doi:https://doi.org/10.1002/gepi.22215"
-  },
-  {
     "id": "32591531",
     "doi": "https://doi.org/10.1038/s41467-020-16969-0",
     "title": "Genetic drug target validation using Mendelian randomisation.",
@@ -6664,21 +6647,21 @@
     "urls": "doi:https://doi.org/10.1038/s41467-020-16969-0; html:https://europepmc.org/articles/PMC7320010; pdf:https://europepmc.org/articles/PMC7320010?pdf=render"
   },
   {
-    "id": "31163036",
-    "doi": "https://doi.org/10.1371/journal.pone.0217158",
-    "title": "Differences in the epidemiology of out-of-hospital and in-hospital trauma deaths.",
-    "authorString": "Beck B, Smith K, Mercier E, Gabbe B, Bassed R, Mitra B, Teague W, Siedenburg J, McLellan S, Cameron P.",
+    "id": "31145509",
+    "doi": "https://doi.org/10.1002/gepi.22215",
+    "title": "A comparison of two workflows for regulome and transcriptome-based prioritization of genetic variants associated with myocardial mass.",
+    "authorString": "Manduchi E, Hemerich D, van Setten J, Tragante V, Harakalova M, Pei J, Williams SM, van der Harst P, Asselbergs FW, Moore JH.",
     "authorAffiliations": "",
-    "journalTitle": "PloS one",
+    "journalTitle": "Genetic epidemiology",
     "pubYear": "2019",
-    "date": "2019-06-04",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Improving Public Health",
+    "date": "2019-05-30",
+    "isOpenAccess": "N",
+    "keywords": "Functional genomics; Gwas; left ventricular mass; Snp Preselection",
+    "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "<h4>Background</h4>Trauma is a leading cause of mortality. Holistic views of trauma systems consider injury as a public health problem that requires efforts in primary, secondary and tertiary prevention. However, the performance of trauma systems is commonly judged on the in-hospital mortality rate. Such a focus misses opportunities to consider all deaths within a population, to understand differences in in-hospital and out-of-hospital trauma deaths and to inform population-level injury prevention efforts. The aim of this study was to provide an epidemiological overview of out-of-hospital and in-hospital trauma deaths in a geographically-defined area over a 10-year period.<h4>Methods</h4>We performed a population-based review of out-of-hospital and in-hospital trauma deaths over the period of 01 July 2006 to 30 June 2016 in Victoria, Australia, using data from the National Coronial Information System and the Victorian State Trauma Registry. Temporal trends in population-based incidence rates were evaluated.<h4>Results</h4>Over the study period, there were 11,246 trauma deaths, of which 71% were out-of-hospital deaths. Out-of-hospital trauma deaths commonly resulted from intentional self-harm events (50%) and transport events (35%), while in-hospital trauma deaths commonly resulted from low falls (\u22641 metre) (50%). The incidence of overall trauma deaths did not change over the study period (incidence rate ratio 0.998; 95%CI: 0.991, 1.004; P = 0.56).<h4>Conclusions</h4>Out-of-hospital deaths accounted for most trauma deaths. Given the notable differences between out-of-hospital and in-hospital trauma deaths, monitoring of all trauma deaths is necessary to inform injury prevention activities and to reduce trauma mortality. The absence of a change in the incidence of both out-of-hospital and in-hospital trauma deaths demonstrates the need for enhanced activities across all aspects of injury prevention.",
+    "abstract": "A typical task arising from main effect analyses in a Genome Wide Association Study (GWAS) is to identify single nucleotide polymorphisms (SNPs), in linkage disequilibrium with the observed signals, that are likely causal variants and the affected genes. The affected genes may not be those closest to associating SNPs. Functional genomics data from relevant tissues are believed to be helpful in selecting likely causal SNPs and interpreting implicated biological mechanisms, ultimately facilitating prevention and treatment in the case of a disease trait. These data are typically used post GWAS analyses to fine-map the statistically significant signals identified agnostically by testing all SNPs and applying a multiple testing correction. The number of tested SNPs is typically in the millions, so the multiple testing burden is high. Motivated by this, in this study we investigated an alternative workflow, which consists in utilizing the available functional genomics data as a first step to reduce the number of SNPs tested for association. We analyzed GWAS on electrocardiographic QRS duration using these two workflows. The alternative workflow identified more SNPs, including some residing in loci not discovered with the typical workflow. Moreover, the latter are corroborated by other reports on QRS duration. This indicates the potential value of incorporating functional genomics information at the onset in GWAS analyses.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0217158; html:https://europepmc.org/articles/PMC6548370; pdf:https://europepmc.org/articles/PMC6548370?pdf=render"
+    "urls": "doi:https://doi.org/10.1002/gepi.22215; html:https://europepmc.org/articles/PMC6687530; pdf:https://europepmc.org/articles/PMC6687530?pdf=render; doi:https://doi.org/10.1002/gepi.22215"
   },
   {
     "id": "32548911",
@@ -6696,6 +6679,23 @@
     "abstract": "<h4>Aims</h4>Left ventricular ejection fraction (EF) is required to categorize heart failure (HF) [i.e. HF with preserved (HFpEF), mid-range (HFmrEF), and reduced (HFrEF) EF] but is often not captured in population-based cohorts or non-HF registries. The aim was to create an algorithm that identifies EF subphenotypes for research purposes.<h4>Methods and results</h4>We included 42 061 HF patients from the Swedish Heart Failure Registry. As primary analysis, we performed two logistic regression models including 22 variables to predict (i) EF\u2265 vs. <50% and (ii) EF\u2265 vs. <40%. In the secondary analysis, we performed a multivariable multinomial analysis with 22 variables to create a model for all three separate EF subphenotypes: HFrEF vs. HFmrEF vs. HFpEF. The models were validated in the database from the CHECK-HF study, a cross-sectional survey of 10 627 patients from the Netherlands. The C-statistic (discrimination) was 0.78 [95% confidence interval (CI) 0.77-0.78] for EF \u226550% and 0.76 (95% CI 0.75-0.76) for EF \u226540%. Similar results were achieved for HFrEF and HFpEF in the multinomial model, but the C-statistic for HFmrEF was lower: 0.63 (95% CI 0.63-0.64). The external validation showed similar discriminative ability to the development cohort.<h4>Conclusions</h4>Routine clinical characteristics could potentially be used to identify different EF subphenotypes in databases where EF is not readily available. Accuracy was good for the prediction of HFpEF and HFrEF but lower for HFmrEF. The proposed algorithm enables more effective research on HF in the big data setting.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1002/ehf2.12779; html:https://europepmc.org/articles/PMC7524089; pdf:https://europepmc.org/articles/PMC7524089?pdf=render"
+  },
+  {
+    "id": "31163036",
+    "doi": "https://doi.org/10.1371/journal.pone.0217158",
+    "title": "Differences in the epidemiology of out-of-hospital and in-hospital trauma deaths.",
+    "authorString": "Beck B, Smith K, Mercier E, Gabbe B, Bassed R, Mitra B, Teague W, Siedenburg J, McLellan S, Cameron P.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2019",
+    "date": "2019-06-04",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Trauma is a leading cause of mortality. Holistic views of trauma systems consider injury as a public health problem that requires efforts in primary, secondary and tertiary prevention. However, the performance of trauma systems is commonly judged on the in-hospital mortality rate. Such a focus misses opportunities to consider all deaths within a population, to understand differences in in-hospital and out-of-hospital trauma deaths and to inform population-level injury prevention efforts. The aim of this study was to provide an epidemiological overview of out-of-hospital and in-hospital trauma deaths in a geographically-defined area over a 10-year period.<h4>Methods</h4>We performed a population-based review of out-of-hospital and in-hospital trauma deaths over the period of 01 July 2006 to 30 June 2016 in Victoria, Australia, using data from the National Coronial Information System and the Victorian State Trauma Registry. Temporal trends in population-based incidence rates were evaluated.<h4>Results</h4>Over the study period, there were 11,246 trauma deaths, of which 71% were out-of-hospital deaths. Out-of-hospital trauma deaths commonly resulted from intentional self-harm events (50%) and transport events (35%), while in-hospital trauma deaths commonly resulted from low falls (\u22641 metre) (50%). The incidence of overall trauma deaths did not change over the study period (incidence rate ratio 0.998; 95%CI: 0.991, 1.004; P = 0.56).<h4>Conclusions</h4>Out-of-hospital deaths accounted for most trauma deaths. Given the notable differences between out-of-hospital and in-hospital trauma deaths, monitoring of all trauma deaths is necessary to inform injury prevention activities and to reduce trauma mortality. The absence of a change in the incidence of both out-of-hospital and in-hospital trauma deaths demonstrates the need for enhanced activities across all aspects of injury prevention.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0217158; html:https://europepmc.org/articles/PMC6548370; pdf:https://europepmc.org/articles/PMC6548370?pdf=render"
   },
   {
     "id": "32514173",
@@ -6868,23 +6868,6 @@
     "urls": "doi:https://doi.org/10.1038/s42003-020-0921-5; html:https://europepmc.org/articles/PMC7181819; pdf:https://europepmc.org/articles/PMC7181819?pdf=render"
   },
   {
-    "id": "33933530",
-    "doi": "https://doi.org/10.1016/j.jinf.2021.04.027",
-    "title": "Early observations on the impact of a healthcare worker COVID-19 vaccination programme at a major UK tertiary centre.",
-    "authorString": "Garvey MI, Wilkinson MAC, Holden E, Shields A, Robertson A, Richter A, Ball S.",
-    "authorAffiliations": "",
-    "journalTitle": "The Journal of infection",
-    "pubYear": "2021",
-    "date": "2021-04-29",
-    "isOpenAccess": "Y",
-    "keywords": "Vaccination; Healthcare Workers; Lateral Flow; Covid-19",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.jinf.2021.04.027; html:https://europepmc.org/articles/PMC8081749; pdf:https://europepmc.org/articles/PMC8081749?pdf=render"
-  },
-  {
     "id": "32894757",
     "doi": "https://doi.org/10.1093/ageing/afaa138",
     "title": "Short physical performance battery as a practical tool to assess mortality risk in chronic obstructive pulmonary disease.",
@@ -6900,6 +6883,23 @@
     "abstract": "<h4>Rationale</h4>chronic obstructive pulmonary disease (COPD) is a leading cause of mortality and common in older adults. The BODE Index is the most recognised mortality risk score in COPD but includes a 6-minute walk test (6MWT) that is seldom available in practise; the BODE Index may be better adopted if the 6MWT was replaced.<h4>Objectives</h4>we investigated whether a modified BODE Index in which 6MWT was replaced by an alternative measure of physical capacity, specifically the short physical performance battery (SPPB) or components, retained its predictive ability for mortality in individuals with COPD.<h4>Methods</h4>we analysed 630 COPD patients from the ERICA cohort study for whom UK Office for National Statistics verified mortality data were available. Variables tested at baseline included spirometry, 6MWT, SPPB and its components (4-m gait speed test [4MGS], chair stand and balance). Predictive models were developed using stratified multivariable Cox regression, and assessed by C-indices and calibration plots with 10-fold cross-validation and replication.<h4>Results</h4>during median 2\u00a0years of follow-up, 60 (10%) individuals died. There was no significant difference between the discriminative ability of BODE6MWT (C-index 0.709, 95% confidence interval [CI], 0.680-0.737), BODESPPB (C-index 0.683, 95% CI, 0.647-0.712), BODE4MGS (C-index 0.676, 95% CI, 0.643-0.700) and BODEBALANCE (C-index 0.686, 95% CI, 0.651-0.713) for predicting mortality.<h4>Conclusions</h4>the SPPB, and its 4MGS and balance components, can potentially be used as an alternative to the 6MWT in the BODE Index without significant loss of predictive ability in all-cause mortality.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/ageing/afaa138; html:https://europepmc.org/articles/PMC8098797; pdf:https://europepmc.org/articles/PMC8098797?pdf=render"
+  },
+  {
+    "id": "33933530",
+    "doi": "https://doi.org/10.1016/j.jinf.2021.04.027",
+    "title": "Early observations on the impact of a healthcare worker COVID-19 vaccination programme at a major UK tertiary centre.",
+    "authorString": "Garvey MI, Wilkinson MAC, Holden E, Shields A, Robertson A, Richter A, Ball S.",
+    "authorAffiliations": "",
+    "journalTitle": "The Journal of infection",
+    "pubYear": "2021",
+    "date": "2021-04-29",
+    "isOpenAccess": "Y",
+    "keywords": "Vaccination; Healthcare Workers; Lateral Flow; Covid-19",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.jinf.2021.04.027; html:https://europepmc.org/articles/PMC8081749; pdf:https://europepmc.org/articles/PMC8081749?pdf=render"
   },
   {
     "id": "30928767",
@@ -8058,23 +8058,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jchf.2019.01.009"
   },
   {
-    "id": "30778056",
-    "doi": "https://doi.org/10.1038/s41467-019-08797-8",
-    "title": "Towards a data-integrated cell.",
-    "authorString": "Malod-Dognin N, Petschnigg J, Windels SFL, Povh J, Hemingway H, Ketteler R, Pr\u017eulj N.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2019",
-    "date": "2019-02-18",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Applied Analytics",
-    "healthCategories": "",
-    "abstract": "We are increasingly accumulating molecular data about a cell. The challenge is how to integrate them within a unified conceptual and computational framework enabling new discoveries. Hence, we propose a novel, data-driven concept of an integrated cell, iCell. Also, we introduce a computational prototype of an iCell, which integrates three omics, tissue-specific molecular interaction network types. We construct iCells of four cancers and the corresponding tissue controls and identify the most rewired genes in cancer. Many of them are of unknown function and cannot be identified as different in cancer in any specific molecular network. We biologically validate that they have a role in cancer by knockdown experiments followed by cell viability assays. We find additional support through Kaplan-Meier survival curves of thousands of patients. Finally, we extend this analysis to uncover pan-cancer genes. Our methodology is universal and enables integrative comparisons of diverse omics data over cells and tissues.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-019-08797-8; html:https://europepmc.org/articles/PMC6379402; pdf:https://europepmc.org/articles/PMC6379402?pdf=render"
-  },
-  {
     "id": "32681152",
     "doi": "https://doi.org/10.1038/s41596-020-0343-3",
     "title": "Identifying unknown metabolites using NMR-based metabolic profiling techniques.",
@@ -8090,6 +8073,23 @@
     "abstract": "Metabolic profiling of biological samples provides important insights into multiple physiological and pathological processes but is hindered by a lack of automated annotation and standardized methods for structure elucidation of candidate disease biomarkers. Here we describe a system for identifying molecular species derived from nuclear magnetic resonance (NMR) spectroscopy-based metabolic phenotyping studies, with detailed information on sample preparation, data acquisition and data modeling. We provide eight different modular workflows to be followed in a recommended sequential order according to their level of difficulty. This multi-platform system involves the use of statistical spectroscopic tools such as Statistical Total Correlation Spectroscopy (STOCSY), Subset Optimization by Reference Matching (STORM) and Resolution-Enhanced (RED)-STORM to identify other signals in the NMR spectra relating to the same molecule. It also uses two-dimensional NMR spectroscopic analysis, separation and pre-concentration techniques, multiple hyphenated analytical platforms and data extraction from existing databases. The complete system, using all eight workflows, would take up to a month, as it includes multi-dimensional NMR experiments that require prolonged experiment times. However, easier identification cases using fewer steps would take 2 or 3 days. This approach to biomarker discovery is efficient and cost-effective and offers increased chemical space coverage of the metabolome, resulting in faster and more accurate assignment of NMR-generated biomarkers arising from metabolic phenotyping studies. It requires a basic understanding of MATLAB to use the statistical spectroscopic tools and analytical skills to perform solid phase extraction (SPE), liquid chromatography (LC) fraction collection, LC-NMR-mass spectroscopy and one-dimensional and two-dimensional NMR experiments.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41596-020-0343-3"
+  },
+  {
+    "id": "30778056",
+    "doi": "https://doi.org/10.1038/s41467-019-08797-8",
+    "title": "Towards a data-integrated cell.",
+    "authorString": "Malod-Dognin N, Petschnigg J, Windels SFL, Povh J, Hemingway H, Ketteler R, Pr\u017eulj N.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2019",
+    "date": "2019-02-18",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Applied Analytics",
+    "healthCategories": "",
+    "abstract": "We are increasingly accumulating molecular data about a cell. The challenge is how to integrate them within a unified conceptual and computational framework enabling new discoveries. Hence, we propose a novel, data-driven concept of an integrated cell, iCell. Also, we introduce a computational prototype of an iCell, which integrates three omics, tissue-specific molecular interaction network types. We construct iCells of four cancers and the corresponding tissue controls and identify the most rewired genes in cancer. Many of them are of unknown function and cannot be identified as different in cancer in any specific molecular network. We biologically validate that they have a role in cancer by knockdown experiments followed by cell viability assays. We find additional support through Kaplan-Meier survival curves of thousands of patients. Finally, we extend this analysis to uncover pan-cancer genes. Our methodology is universal and enables integrative comparisons of diverse omics data over cells and tissues.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-019-08797-8; html:https://europepmc.org/articles/PMC6379402; pdf:https://europepmc.org/articles/PMC6379402?pdf=render"
   },
   {
     "id": "30765456",
