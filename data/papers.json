@@ -1632,23 +1632,6 @@
     "urls": "doi:https://doi.org/10.1093/eurheartj/ehaa375; html:https://europepmc.org/articles/PMC8266602; pdf:https://europepmc.org/articles/PMC8266602?pdf=render"
   },
   {
-    "id": "34298561",
-    "doi": "https://doi.org/10.1177/2047487320914115",
-    "title": "Achievement of European guideline-recommended lipid levels post-percutaneous coronary intervention: A population-level observational cohort study.",
-    "authorString": "Harris DE, Lacey A, Akbari A, Torabi F, Smith D, Jenkins G, Obaid D, Chase A, Gravenor M, Halcox J.",
-    "authorAffiliations": "",
-    "journalTitle": "European journal of preventive cardiology",
-    "pubYear": "2021",
-    "date": "2021-07-01",
-    "isOpenAccess": "N",
-    "keywords": "Lipids; Cholesterol; Percutaneous coronary intervention; Secondary Prevention; Pharmacoepidemiology; statins",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Aims</h4>European Society of Cardiology/European Atherosclerosis Society 2019 guidelines recommend more aggressive lipid targets in high- and very high-risk patients and the addition of adjuvant treatments to statins in uncontrolled patients. We aimed to assess (a) achievement of prior and new European Society of Cardiology/European Atherosclerosis Society lipid targets and (b) lipid-lowering therapy prescribing in a nationwide cohort of very high-risk patients.<h4>Methods</h4>We conducted a retrospective observational population study using linked health data in patients undergoing percutaneous coronary intervention (2012-2017). Follow-up was for one-year post-discharge.<h4>Results</h4>Altogether, 10,071 patients had a documented LDL-C level, of whom 48% had low-density lipoprotein cholesterol (LDL-C)<1.8\u2009mmol/l (2016 target) and (23%) <1.4\u2009mmol/l (2019 target). Five thousand three hundred and forty patients had non-high-density lipoprotein cholesterol (non-HDL-C) documented with 57% <2.6\u2009mmol/l (2016) and 37% <2.2\u2009mmol/l (2019). In patients with recurrent vascular events, fewer than 6% of the patients achieved the 2019 LDL-C target of <1.0\u2009mmol/l. A total of 10,592 patients had triglyceride (TG) levels documented, of whom 14% were \u22652.3\u2009mmol/l and 41% \u22651.5\u2009mmol/l (2019). High-intensity statins were prescribed in 56.4% of the cohort, only 3% were prescribed ezetimibe, fibrates or prescription-grade N-3 fatty acids. Prescribing of these agents was lower amongst patients above target LDL-C, non-HDL-C and triglyceride levels. Females were more likely to have LDL-C, non-HDL-C and triglyceride levels above target.<h4>Conclusion</h4>There was a low rate of achievement of the new European Society of Cardiology/European Atherosclerosis Society lipid targets in this large post-percutaneous coronary intervention population and relatively low rates of intensive lipid-lowering therapy prescribing in those with uncontrolled lipids. There is considerable potential to optimise lipid-lowering therapy further through statin intensification and appropriate use of novel lipid-lowering therapy, especially in women.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1177/2047487320914115"
-  },
-  {
     "id": "31984360",
     "doi": "https://doi.org/10.1093/jamiaopen/ooz009",
     "title": "Annotating and detecting phenotypic information for chronic obstructive pulmonary disease.",
@@ -1664,6 +1647,23 @@
     "abstract": "Objectives:Chronic obstructive pulmonary disease (COPD) phenotypes cover a range of lung abnormalities. To allow text mining methods to identify pertinent and potentially complex information about these phenotypes from textual data, we have developed a novel annotated corpus, which we use to train a neural network-based named entity recognizer to detect fine-grained COPD phenotypic information. Materials and methods:Since COPD phenotype descriptions often mention other concepts within them (proteins, treatments, etc.), our corpus annotations include both outermost phenotype descriptions and concepts nested within them. Our neural layered bidirectional long short-term memory conditional random field (BiLSTM-CRF) network firstly recognizes nested mentions, which are fed into subsequent BiLSTM-CRF layers, to help to recognize enclosing phenotype mentions. Results:Our corpus of 30 full papers (available at: http://www.nactem.ac.uk/COPD) is annotated by experts with 27\u00a0030 phenotype-related concept mentions, most of which are automatically linked to UMLS Metathesaurus concepts. When trained using the corpus, our BiLSTM-CRF network outperforms other popular approaches in recognizing detailed phenotypic information. Discussion:Information extracted by our method can facilitate efficient location and exploration of detailed information about phenotypes, for example, those specifically concerning reactions to treatments. Conclusion:The importance of our corpus for developing methods to extract fine-grained information about COPD phenotypes is demonstrated through its successful use to train a layered BiLSTM-CRF network to extract phenotypic information at various levels of granularity. The minimal human intervention needed for training should permit ready adaption to extracting phenotypic information about other diseases.",
     "laySummary": "COPD is linked with a number of lung abnormalities. This study has developed a computer algorithm to extract information about these abnormalities.",
     "urls": "doi:https://doi.org/10.1093/jamiaopen/ooz009; html:https://europepmc.org/articles/PMC6951876; pdf:https://europepmc.org/articles/PMC6951876?pdf=render"
+  },
+  {
+    "id": "34298561",
+    "doi": "https://doi.org/10.1177/2047487320914115",
+    "title": "Achievement of European guideline-recommended lipid levels post-percutaneous coronary intervention: A population-level observational cohort study.",
+    "authorString": "Harris DE, Lacey A, Akbari A, Torabi F, Smith D, Jenkins G, Obaid D, Chase A, Gravenor M, Halcox J.",
+    "authorAffiliations": "",
+    "journalTitle": "European journal of preventive cardiology",
+    "pubYear": "2021",
+    "date": "2021-07-01",
+    "isOpenAccess": "N",
+    "keywords": "Lipids; Cholesterol; Percutaneous coronary intervention; Secondary Prevention; Pharmacoepidemiology; statins",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Aims</h4>European Society of Cardiology/European Atherosclerosis Society 2019 guidelines recommend more aggressive lipid targets in high- and very high-risk patients and the addition of adjuvant treatments to statins in uncontrolled patients. We aimed to assess (a) achievement of prior and new European Society of Cardiology/European Atherosclerosis Society lipid targets and (b) lipid-lowering therapy prescribing in a nationwide cohort of very high-risk patients.<h4>Methods</h4>We conducted a retrospective observational population study using linked health data in patients undergoing percutaneous coronary intervention (2012-2017). Follow-up was for one-year post-discharge.<h4>Results</h4>Altogether, 10,071 patients had a documented LDL-C level, of whom 48% had low-density lipoprotein cholesterol (LDL-C)<1.8\u2009mmol/l (2016 target) and (23%) <1.4\u2009mmol/l (2019 target). Five thousand three hundred and forty patients had non-high-density lipoprotein cholesterol (non-HDL-C) documented with 57% <2.6\u2009mmol/l (2016) and 37% <2.2\u2009mmol/l (2019). In patients with recurrent vascular events, fewer than 6% of the patients achieved the 2019 LDL-C target of <1.0\u2009mmol/l. A total of 10,592 patients had triglyceride (TG) levels documented, of whom 14% were \u22652.3\u2009mmol/l and 41% \u22651.5\u2009mmol/l (2019). High-intensity statins were prescribed in 56.4% of the cohort, only 3% were prescribed ezetimibe, fibrates or prescription-grade N-3 fatty acids. Prescribing of these agents was lower amongst patients above target LDL-C, non-HDL-C and triglyceride levels. Females were more likely to have LDL-C, non-HDL-C and triglyceride levels above target.<h4>Conclusion</h4>There was a low rate of achievement of the new European Society of Cardiology/European Atherosclerosis Society lipid targets in this large post-percutaneous coronary intervention population and relatively low rates of intensive lipid-lowering therapy prescribing in those with uncontrolled lipids. There is considerable potential to optimise lipid-lowering therapy further through statin intensification and appropriate use of novel lipid-lowering therapy, especially in women.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1177/2047487320914115"
   },
   {
     "id": "31249320",
@@ -2584,23 +2584,6 @@
     "urls": "doi:https://doi.org/10.1177/1740774520976617; html:https://europepmc.org/articles/PMC8174009; pdf:https://europepmc.org/articles/PMC8174009?pdf=render"
   },
   {
-    "id": "33890864",
-    "doi": "https://doi.org/10.2196/24728",
-    "title": "The Value of Routinely Collected Data in Evaluating Home Assessment and Modification Interventions to Prevent Falls in Older People: Systematic Literature Review.",
-    "authorString": "Daniels H, Hollinghurst J, Fry R, Clegg A, Hillcoat-Nall\u00e9tamby S, Nikolova S, Rodgers SE, Williams N, Akbari A.",
-    "authorAffiliations": "",
-    "journalTitle": "JMIR aging",
-    "pubYear": "2021",
-    "date": "2021-04-23",
-    "isOpenAccess": "Y",
-    "keywords": "Aged; Evaluation research; Systematic review; Falls; Routinely Collected Data",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Falls in older people commonly occur at home. Home assessment and modification (HAM) interventions can be effective in reducing falls; however, there are some concerns over the validity of evaluation findings. Routinely collected data could improve the quality of HAM evaluations and strengthen their evidence base.<h4>Objective</h4>The aim of this study is to conduct a systematic review of the evidence of the use of routinely collected data in the evaluations of HAM interventions.<h4>Methods</h4>We searched the following databases from inception until January 31, 2020: PubMed, Ovid, CINAHL, OpenGrey, CENTRAL, LILACS, and Web of Knowledge. Eligible studies were those evaluating HAMs designed to reduce falls involving participants aged 60 years or more. We included study protocols and full reports. Bias was assessed using the Risk Of Bias In Non-Randomized Studies of Interventions (ROBINS-I) tool.<h4>Results</h4>A total of 7 eligible studies were identified in 8 papers. Government organizations provided the majority of data across studies, with health care providers and third-sector organizations also providing data. Studies used a range of demographic, clinical and health, and administrative data. The purpose of using routinely collected data spanned recruiting and creating a sample, stratification, generating independent variables or covariates, and measuring key study-related outcomes. Nonhome-based modification interventions (eg, in nursing homes) using routinely collected data were not included in this study. We included two protocols, which meant that the results of those studies were not available. MeSH headings were excluded from the PubMed search because of a reduction in specificity. This means that some studies that met the inclusion criteria may not have been identified.<h4>Conclusions</h4>Routine data can be used successfully in many aspects of HAM evaluations and can reduce biases and improve other important design considerations. However, the use of these data in these studies is currently not widespread. There are a number of governance barriers to be overcome to allow these types of linkage and to ensure that the use of routinely collected data in evaluations of HAM interventions is exploited to its full potential.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/24728; html:https://europepmc.org/articles/PMC8105762; pdf:https://europepmc.org/articles/PMC8105762?pdf=render"
-  },
-  {
     "id": "33228632",
     "doi": "https://doi.org/10.1186/s12920-020-00826-6",
     "title": "A random forest based biomarker discovery and power analysis framework for diagnostics research.",
@@ -2616,6 +2599,23 @@
     "abstract": "<h4>Background</h4>Biomarker identification is one of the major and important goal of functional genomics and translational medicine studies. Large scale -omics data are increasingly being accumulated and can provide vital means for the identification of biomarkers for the early diagnosis of complex disease and/or for advanced patient/diseases stratification. These tasks are clearly interlinked, and it is essential that an unbiased and stable methodology is applied in order to address them. Although, recently, many, primarily machine learning based, biomarker identification approaches have been developed, the exploration of potential associations between biomarker identification and the design of future experiments remains a challenge.<h4>Methods</h4>In this study, using both simulated and published experimentally derived datasets, we assessed the performance of several state-of-the-art Random Forest (RF) based decision approaches, namely the Boruta method, the permutation based feature selection without correction method, the permutation based feature selection with correction method, and the backward elimination based feature selection method. Moreover, we conducted a power analysis to estimate the number of samples required for potential future studies.<h4>Results</h4>We present a number of different RF based stable feature selection methods and compare their performances using simulated, as well as published, experimentally derived, datasets. Across all of the scenarios considered, we found the Boruta method to be the most stable methodology, whilst the Permutation (Raw) approach offered the largest number of relevant features, when allowed to stabilise over a number of iterations. Finally, we developed and made available a web interface ( https://joelarkman.shinyapps.io/PowerTools/ ) to streamline power calculations thereby aiding the design of potential future studies within a translational medicine context.<h4>Conclusions</h4>We developed a RF-based biomarker discovery framework and provide a web interface for our framework, termed PowerTools, that caters the design of appropriate and cost-effective subsequent future omics study.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1186/s12920-020-00826-6; html:https://europepmc.org/articles/PMC7685541; pdf:https://europepmc.org/articles/PMC7685541?pdf=render"
+  },
+  {
+    "id": "33890864",
+    "doi": "https://doi.org/10.2196/24728",
+    "title": "The Value of Routinely Collected Data in Evaluating Home Assessment and Modification Interventions to Prevent Falls in Older People: Systematic Literature Review.",
+    "authorString": "Daniels H, Hollinghurst J, Fry R, Clegg A, Hillcoat-Nall\u00e9tamby S, Nikolova S, Rodgers SE, Williams N, Akbari A.",
+    "authorAffiliations": "",
+    "journalTitle": "JMIR aging",
+    "pubYear": "2021",
+    "date": "2021-04-23",
+    "isOpenAccess": "Y",
+    "keywords": "Aged; Evaluation research; Systematic review; Falls; Routinely Collected Data",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Falls in older people commonly occur at home. Home assessment and modification (HAM) interventions can be effective in reducing falls; however, there are some concerns over the validity of evaluation findings. Routinely collected data could improve the quality of HAM evaluations and strengthen their evidence base.<h4>Objective</h4>The aim of this study is to conduct a systematic review of the evidence of the use of routinely collected data in the evaluations of HAM interventions.<h4>Methods</h4>We searched the following databases from inception until January 31, 2020: PubMed, Ovid, CINAHL, OpenGrey, CENTRAL, LILACS, and Web of Knowledge. Eligible studies were those evaluating HAMs designed to reduce falls involving participants aged 60 years or more. We included study protocols and full reports. Bias was assessed using the Risk Of Bias In Non-Randomized Studies of Interventions (ROBINS-I) tool.<h4>Results</h4>A total of 7 eligible studies were identified in 8 papers. Government organizations provided the majority of data across studies, with health care providers and third-sector organizations also providing data. Studies used a range of demographic, clinical and health, and administrative data. The purpose of using routinely collected data spanned recruiting and creating a sample, stratification, generating independent variables or covariates, and measuring key study-related outcomes. Nonhome-based modification interventions (eg, in nursing homes) using routinely collected data were not included in this study. We included two protocols, which meant that the results of those studies were not available. MeSH headings were excluded from the PubMed search because of a reduction in specificity. This means that some studies that met the inclusion criteria may not have been identified.<h4>Conclusions</h4>Routine data can be used successfully in many aspects of HAM evaluations and can reduce biases and improve other important design considerations. However, the use of these data in these studies is currently not widespread. There are a number of governance barriers to be overcome to allow these types of linkage and to ensure that the use of routinely collected data in evaluations of HAM interventions is exploited to its full potential.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/24728; html:https://europepmc.org/articles/PMC8105762; pdf:https://europepmc.org/articles/PMC8105762?pdf=render"
   },
   {
     "id": "32657853",
@@ -2822,23 +2822,6 @@
     "urls": "doi:https://doi.org/10.1016/S2666-7568(20)30011-8; html:https://europepmc.org/articles/PMC7834195; pdf:https://europepmc.org/articles/PMC7834195?pdf=render"
   },
   {
-    "id": "34108714",
-    "doi": "https://doi.org/10.1038/s41591-021-01408-4",
-    "title": "First-dose ChAdOx1 and BNT162b2 COVID-19 vaccines and thrombocytopenic, thromboembolic and hemorrhagic events in Scotland.",
-    "authorString": "Simpson CR, Shi T, Vasileiou E, Katikireddi SV, Kerr S, Moore E, McCowan C, Agrawal U, Shah SA, Ritchie LD, Murray J, Pan J, Bradley DT, Stock SJ, Wood R, Chuter A, Beggs J, Stagg HR, Joy M, Tsang RSM, de Lusignan S, Hobbs R, Lyons RA, Torabi F, Bedston S, O'Leary M, Akbari A, McMenamin J, Robertson C, Sheikh A.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature medicine",
-    "pubYear": "2021",
-    "date": "2021-06-09",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Reports of ChAdOx1 vaccine-associated thrombocytopenia and vascular adverse events have led to some countries restricting its use. Using a national prospective cohort, we estimated associations between exposure to first-dose ChAdOx1 or BNT162b2 vaccination and hematological and vascular adverse events using a nested incident-matched case-control study and a confirmatory self-controlled case series (SCCS) analysis. An association was found between ChAdOx1 vaccination and idiopathic thrombocytopenic purpura (ITP) (0-27 d after vaccination; adjusted rate ratio (aRR) = 5.77, 95% confidence interval (CI), 2.41-13.83), with an estimated incidence of 1.13 (0.62-1.63) cases per 100,000 doses. An SCCS analysis confirmed that this was unlikely due to bias (RR\u2009=\u20091.98 (1.29-3.02)). There was also an increased risk for arterial thromboembolic events (aRR = 1.22, 1.12-1.34) 0-27 d after vaccination, with an SCCS RR of 0.97 (0.93-1.02). For hemorrhagic events 0-27 d after vaccination, the aRR was 1.48 (1.12-1.96), with an SCCS RR of 0.95 (0.82-1.11). A first dose of ChAdOx1 was found to be associated with small increased risks of ITP, with suggestive evidence of an increased risk of arterial thromboembolic and hemorrhagic events. The attenuation of effect found in the SCCS analysis means that there is the potential for overestimation of the reported results, which might indicate the presence of some residual confounding or confounding by indication. Public health authorities should inform their jurisdictions of these relatively small increased risks associated with ChAdOx1. No positive associations were seen between BNT162b2 and thrombocytopenic, thromboembolic and hemorrhagic events.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41591-021-01408-4; html:https://europepmc.org/articles/PMC8282499; pdf:https://europepmc.org/articles/PMC8282499?pdf=render"
-  },
-  {
     "id": "34190735",
     "doi": "https://doi.org/",
     "title": "The changing characteristics of COVID-19 presentations. A regional comparison of SARS-CoV-2 hospitalised patients during the first and second wave.",
@@ -2854,6 +2837,23 @@
     "abstract": "<h4>Background</h4>This study assesses COVID-19 hospitalised patient demography and outcomes during wave 1 and wave 2, prior to new variants of the virus.<h4>Methods</h4>All patients with a positive SARS-CoV-2 swab between 10th March 2020 and 5th July 2020 (wave 1) and 1st September 2020 and 16th November 2020 (wave 2) admitted to University Hospitals Birmingham NHS Foundation Trust were included (n=4856), followed for 28 days.<h4>Results</h4>Wave 2 patients were younger, more ethnically diverse, had less co-morbidities and disease presentation was milder on presentation. After matching for these factors, mortality was reduced, but without differences in intensive care admissions.<h4>Conclusion</h4>Prior to new SARS-CoV-2 variants, outcomes for hospitalised patients with COVID-19 were improving but with similar intensive care needs.",
     "laySummary": "",
     "urls": ""
+  },
+  {
+    "id": "34108714",
+    "doi": "https://doi.org/10.1038/s41591-021-01408-4",
+    "title": "First-dose ChAdOx1 and BNT162b2 COVID-19 vaccines and thrombocytopenic, thromboembolic and hemorrhagic events in Scotland.",
+    "authorString": "Simpson CR, Shi T, Vasileiou E, Katikireddi SV, Kerr S, Moore E, McCowan C, Agrawal U, Shah SA, Ritchie LD, Murray J, Pan J, Bradley DT, Stock SJ, Wood R, Chuter A, Beggs J, Stagg HR, Joy M, Tsang RSM, de Lusignan S, Hobbs R, Lyons RA, Torabi F, Bedston S, O'Leary M, Akbari A, McMenamin J, Robertson C, Sheikh A.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature medicine",
+    "pubYear": "2021",
+    "date": "2021-06-09",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Reports of ChAdOx1 vaccine-associated thrombocytopenia and vascular adverse events have led to some countries restricting its use. Using a national prospective cohort, we estimated associations between exposure to first-dose ChAdOx1 or BNT162b2 vaccination and hematological and vascular adverse events using a nested incident-matched case-control study and a confirmatory self-controlled case series (SCCS) analysis. An association was found between ChAdOx1 vaccination and idiopathic thrombocytopenic purpura (ITP) (0-27 d after vaccination; adjusted rate ratio (aRR) = 5.77, 95% confidence interval (CI), 2.41-13.83), with an estimated incidence of 1.13 (0.62-1.63) cases per 100,000 doses. An SCCS analysis confirmed that this was unlikely due to bias (RR\u2009=\u20091.98 (1.29-3.02)). There was also an increased risk for arterial thromboembolic events (aRR = 1.22, 1.12-1.34) 0-27 d after vaccination, with an SCCS RR of 0.97 (0.93-1.02). For hemorrhagic events 0-27 d after vaccination, the aRR was 1.48 (1.12-1.96), with an SCCS RR of 0.95 (0.82-1.11). A first dose of ChAdOx1 was found to be associated with small increased risks of ITP, with suggestive evidence of an increased risk of arterial thromboembolic and hemorrhagic events. The attenuation of effect found in the SCCS analysis means that there is the potential for overestimation of the reported results, which might indicate the presence of some residual confounding or confounding by indication. Public health authorities should inform their jurisdictions of these relatively small increased risks associated with ChAdOx1. No positive associations were seen between BNT162b2 and thrombocytopenic, thromboembolic and hemorrhagic events.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41591-021-01408-4; html:https://europepmc.org/articles/PMC8282499; pdf:https://europepmc.org/articles/PMC8282499?pdf=render"
   },
   {
     "id": "31000744",
@@ -5746,23 +5746,6 @@
     "urls": "doi:https://doi.org/10.3390/cells9030665; html:https://europepmc.org/articles/PMC7140647; pdf:https://europepmc.org/articles/PMC7140647?pdf=render"
   },
   {
-    "id": "33591280",
-    "doi": "https://doi.org/10.2196/16348",
-    "title": "A Social Media Campaign (#datasaveslives) to Promote the Benefits of Using Health Data for Research Purposes: Mixed Methods Analysis.",
-    "authorString": "Hassan L, Nenadic G, Tully MP.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of medical Internet research",
-    "pubYear": "2021",
-    "date": "2021-02-16",
-    "isOpenAccess": "Y",
-    "keywords": "Medical research; Public Engagement; Social Network Analysis; Social Media",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Social media provides the potential to engage a wide audience about scientific research, including the public. However, little empirical research exists to guide health scientists regarding what works and how to optimize impact. We examined the social media campaign #datasaveslives established in 2014 to highlight positive examples of the use and reuse of health data in research.<h4>Objective</h4>This study aims to examine how the #datasaveslives hashtag was used on social media, how often, and by whom; thus, we aim to provide insights into the impact of a major social media campaign in the UK health informatics research community and further afield.<h4>Methods</h4>We analyzed all publicly available posts (tweets) that included the hashtag #datasaveslives (N=13,895) on the microblogging platform Twitter between September 1, 2016, and August 31, 2017. Using a combination of qualitative and quantitative analyses, we determined the frequency and purpose of tweets. Social network analysis was used to analyze and visualize tweet sharing (retweet) networks among hashtag users.<h4>Results</h4>Overall, we found 4175 original posts and 9720 retweets featuring #datasaveslives by 3649 unique Twitter users. In total, 66.01% (2756/4175) of the original posts were retweeted at least once. Higher frequencies of tweets were observed during the weeks of prominent policy publications, popular conferences, and public engagement events. Cluster analysis based on retweet relationships revealed an interconnected series of groups of #datasaveslives users in academia, health services and policy, and charities and patient networks. Thematic analysis of tweets showed that #datasaveslives was used for a broader range of purposes than indexing information, including event reporting, encouraging participation and action, and showing personal support for data sharing.<h4>Conclusions</h4>This study shows that a hashtag-based social media campaign was effective in encouraging a wide audience of stakeholders to disseminate positive examples of health research. Furthermore, the findings suggest that the campaign supported community building and bridging practices within and between the interdisciplinary sectors related to the field of health data science and encouraged individuals to demonstrate personal support for sharing health data.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.2196/16348; html:https://europepmc.org/articles/PMC7925154"
-  },
-  {
     "id": "34409990",
     "doi": "https://doi.org/10.1093/dote/doab058",
     "title": "Demographic and lifestyle risk factors for gastroesophageal reflux disease and Barrett's esophagus in Australia.",
@@ -5778,6 +5761,23 @@
     "abstract": "We examined demographic and lifestyle risk factors for incidence of gastroesophageal reflux disease (GERD) and Barrett's esophagus (BE) in an Australian cohort of 20,975 participants aged 40-63 at recruitment (1990-1994). Information on GERD and BE was collected between 2007 and 2010. GERD symptoms were defined as self-reported heartburn or acid regurgitation. BE was defined as endoscopically confirmed columnar-lined esophagus. Risk factors for developing GERD symptoms, BE diagnosis, age at symptom onset, and age at BE diagnosis were quantified using regression. During a mean follow-up of 15.8\u00a0years, risk of GERD symptoms was 7.5% (n\u2009=\u20091,318) for daily, 7.5% (n\u2009=\u20091,333) for 2-6\u00a0days/week, and 4.3% (n\u2009=\u2009751) for 1\u00a0day/week. There were 210 (1.0%) endoscopically diagnosed BE cases, of whom 141 had histologically confirmed esophageal intestinal metaplasia. Female sex, younger age, lower socioeconomic position (SEP) and educational attainment, and former smoking were associated with higher GERD risk. Male sex and smoking were associated with earlier GERD symptom onset. Men, older participants, those with higher SEP, and former smokers were at higher BE risk. There was some evidence higher SEP was associated with earlier BE diagnosis. GERD and BE had different demographic risk factors but shared similar lifestyle factors. Earlier GERD symptom onset for men and smokers might have contributed to higher BE risk. The SEP patterns observed for GERD and BE suggest potential inequity in access to care. These findings would be important in the development of clinical risk prediction models for early detection of BE.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1093/dote/doab058"
+  },
+  {
+    "id": "33591280",
+    "doi": "https://doi.org/10.2196/16348",
+    "title": "A Social Media Campaign (#datasaveslives) to Promote the Benefits of Using Health Data for Research Purposes: Mixed Methods Analysis.",
+    "authorString": "Hassan L, Nenadic G, Tully MP.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of medical Internet research",
+    "pubYear": "2021",
+    "date": "2021-02-16",
+    "isOpenAccess": "Y",
+    "keywords": "Medical research; Public Engagement; Social Network Analysis; Social Media",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Social media provides the potential to engage a wide audience about scientific research, including the public. However, little empirical research exists to guide health scientists regarding what works and how to optimize impact. We examined the social media campaign #datasaveslives established in 2014 to highlight positive examples of the use and reuse of health data in research.<h4>Objective</h4>This study aims to examine how the #datasaveslives hashtag was used on social media, how often, and by whom; thus, we aim to provide insights into the impact of a major social media campaign in the UK health informatics research community and further afield.<h4>Methods</h4>We analyzed all publicly available posts (tweets) that included the hashtag #datasaveslives (N=13,895) on the microblogging platform Twitter between September 1, 2016, and August 31, 2017. Using a combination of qualitative and quantitative analyses, we determined the frequency and purpose of tweets. Social network analysis was used to analyze and visualize tweet sharing (retweet) networks among hashtag users.<h4>Results</h4>Overall, we found 4175 original posts and 9720 retweets featuring #datasaveslives by 3649 unique Twitter users. In total, 66.01% (2756/4175) of the original posts were retweeted at least once. Higher frequencies of tweets were observed during the weeks of prominent policy publications, popular conferences, and public engagement events. Cluster analysis based on retweet relationships revealed an interconnected series of groups of #datasaveslives users in academia, health services and policy, and charities and patient networks. Thematic analysis of tweets showed that #datasaveslives was used for a broader range of purposes than indexing information, including event reporting, encouraging participation and action, and showing personal support for data sharing.<h4>Conclusions</h4>This study shows that a hashtag-based social media campaign was effective in encouraging a wide audience of stakeholders to disseminate positive examples of health research. Furthermore, the findings suggest that the campaign supported community building and bridging practices within and between the interdisciplinary sectors related to the field of health data science and encouraged individuals to demonstrate personal support for sharing health data.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.2196/16348; html:https://europepmc.org/articles/PMC7925154"
   },
   {
     "id": "31353050",
@@ -5984,23 +5984,6 @@
     "urls": "doi:https://doi.org/10.3389/fpsyt.2021.627996; html:https://europepmc.org/articles/PMC8141616; pdf:https://europepmc.org/articles/PMC8141616?pdf=render"
   },
   {
-    "id": "34155917",
-    "doi": "https://doi.org/10.1161/jaha.120.020246",
-    "title": "Antenatal Exposure to UV-B Radiation and Preeclampsia: A Retrospective Cohort Study.",
-    "authorString": "Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, Megaw LJ, Smith GCS, Stock SJ, Dibben C, Pell JP.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of the American Heart Association",
-    "pubYear": "2021",
-    "date": "2021-06-22",
-    "isOpenAccess": "Y",
-    "keywords": "UV light; Preeclampsia; Seasonal variations; Environmental Exposures",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Background Risk of preeclampsia varies by month of delivery. We tested whether this seasonal patterning may be mediated through maternal vitamin D concentration using antenatal exposure to UV-B radiation as an instrumental variable. Methods and Results Scottish maternity records were linked to antenatal UV-B exposure derived from satellites between 2000 and 2010. Logistic regression analyses were used to explore the association between UV-B and preeclampsia, adjusting for the potential confounding effects of month of conception, child's sex, gestation, parity, and mean monthly temperature. Of the 522\u00a0896 eligible singleton deliveries, 8689 (1.66%) mothers developed preeclampsia. Total antenatal UV-B exposure ranged from 43.18 to 101.11\u00a0kJ/m<sup>2</sup> and was associated with reduced risk of preeclampsia with evidence of a dose-response relationship (highest quintile of exposure: adjusted odds ratio, 0.57; 95% CI, 0.44-0.72; <i>P</i><0.001). Associations were demonstrated for UV-B exposure in all 3 trimesters. Conclusions The seasonal patterning of preeclampsia may be mediated through low maternal vitamin D concentration in winter resulting from low UV-B radiation. Interventional studies are required to determine whether vitamin D supplements or UV-B-emitting light boxes can reduce the seasonal patterning of preeclampsia.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/JAHA.120.020246; html:https://europepmc.org/articles/PMC8403301; pdf:https://europepmc.org/articles/PMC8403301?pdf=render"
-  },
-  {
     "id": "PMC8108552",
     "doi": "https://doi.org/",
     "title": "PUblications Metadata Augmentation (PUMA) pipeline [version 2; peer review: 2 approved]",
@@ -6016,6 +5999,23 @@
     "abstract": "Cohort studies collect, generate and distribute data over long periods of time \u2013 often over the lifecourse of their participants. It is common for these studies to host a list of publications (which can number many thousands) on their website to demonstrate the impact of the study and facilitate the search of existing research to which the study data has contributed. The ability to search and explore these publication lists varies greatly between studies. We believe a lack of rich search and exploration functionality of study publications is a barrier to entry for new or prospective users of a study\u2019s data, since it may be difficult to find and evaluate previous work in a given area. These lists of publications are also typically manually curated, resulting in a lack of rich metadata to analyse, making bibliometric analysis difficult. We present here a software pipeline that aggregates metadata from a variety of third-party providers to power a web based search and exploration tool for lists of publications. Alongside core publication metadata (i.e. author lists, keywords etc.), we include geocoding of first authors and citation counts in our pipeline. This allows a characterisation of a study as a whole based on common locations of authors, frequency of keywords, citation profile etc. This enriched publications metadata can be useful for generating study impact metrics and web-based graphics for public dissemination. In addition, the pipeline produces a research data set for bibliometric analysis or social studies of science. We use a previously published list of publications from a cohort study as an exemplar input data set to show the output and utility of the pipeline here.",
     "laySummary": "",
     "urls": "html:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8108552/?tool=EBI; pdf:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8108552/pdf/?tool=EBI; html:https://europepmc.org/articles/PMC8108552; pdf:https://europepmc.org/articles/PMC8108552?pdf=render"
+  },
+  {
+    "id": "34155917",
+    "doi": "https://doi.org/10.1161/jaha.120.020246",
+    "title": "Antenatal Exposure to UV-B Radiation and Preeclampsia: A Retrospective Cohort Study.",
+    "authorString": "Hastie CE, Mackay DF, Clemens TL, Cherrie MPC, Megaw LJ, Smith GCS, Stock SJ, Dibben C, Pell JP.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of the American Heart Association",
+    "pubYear": "2021",
+    "date": "2021-06-22",
+    "isOpenAccess": "Y",
+    "keywords": "UV light; Preeclampsia; Seasonal variations; Environmental Exposures",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Background Risk of preeclampsia varies by month of delivery. We tested whether this seasonal patterning may be mediated through maternal vitamin D concentration using antenatal exposure to UV-B radiation as an instrumental variable. Methods and Results Scottish maternity records were linked to antenatal UV-B exposure derived from satellites between 2000 and 2010. Logistic regression analyses were used to explore the association between UV-B and preeclampsia, adjusting for the potential confounding effects of month of conception, child's sex, gestation, parity, and mean monthly temperature. Of the 522\u00a0896 eligible singleton deliveries, 8689 (1.66%) mothers developed preeclampsia. Total antenatal UV-B exposure ranged from 43.18 to 101.11\u00a0kJ/m<sup>2</sup> and was associated with reduced risk of preeclampsia with evidence of a dose-response relationship (highest quintile of exposure: adjusted odds ratio, 0.57; 95% CI, 0.44-0.72; <i>P</i><0.001). Associations were demonstrated for UV-B exposure in all 3 trimesters. Conclusions The seasonal patterning of preeclampsia may be mediated through low maternal vitamin D concentration in winter resulting from low UV-B radiation. Interventional studies are required to determine whether vitamin D supplements or UV-B-emitting light boxes can reduce the seasonal patterning of preeclampsia.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/JAHA.120.020246; html:https://europepmc.org/articles/PMC8403301; pdf:https://europepmc.org/articles/PMC8403301?pdf=render"
   },
   {
     "id": "32831176",
@@ -7038,23 +7038,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jor.2020.02.001; html:https://europepmc.org/articles/PMC7016330; pdf:https://europepmc.org/articles/PMC7016330?pdf=render; doi:https://doi.org/10.1016/j.jor.2020.02.001"
   },
   {
-    "id": "31994239",
-    "doi": "https://doi.org/10.1002/bimj.201900041",
-    "title": "Estimating treatment effects with partially observed covariates using outcome regression with missing indicators.",
-    "authorString": "Blake HA, Leyrat C, Mansfield KE, Tomlinson LA, Carpenter J, Williamson EJ.",
-    "authorAffiliations": "",
-    "journalTitle": "Biometrical journal. Biometrische Zeitschrift",
-    "pubYear": "2020",
-    "date": "2020-01-29",
-    "isOpenAccess": "N",
-    "keywords": "Average Treatment Effect; Outcome Regression; Missing Covariate Data; Missing Indicator; Missing Confounder Data",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Missing data is a common issue in research using observational studies to investigate the effect of treatments on health outcomes. When missingness occurs only in the covariates, a simple approach is to use missing indicators to handle the partially observed covariates. The missing indicator approach has been criticized for giving biased results in outcome regression. However, recent papers have suggested that the missing indicator approach can provide unbiased results in propensity score analysis under certain assumptions. We consider assumptions under which the missing indicator approach can provide valid inferences, namely, (1) no unmeasured confounding within missingness patterns; either (2a) covariate values of patients with missing data were conditionally independent of treatment or (2b) these values were conditionally independent of outcome; and (3) the outcome model is correctly specified: specifically, the true outcome model does not include interactions between missing indicators and fully observed covariates. We prove that, under the assumptions above, the missing indicator approach with outcome regression can provide unbiased estimates of the average treatment effect. We use a simulation study to investigate the extent of bias in estimates of the treatment effect when the assumptions are violated and we illustrate our findings using data from electronic health records. In conclusion, the missing indicator approach can provide valid inferences for outcome regression, but the plausibility of its assumptions must first be considered\u00a0carefully.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1002/bimj.201900041"
-  },
-  {
     "id": "31984563",
     "doi": "https://doi.org/10.1111/jce.14368",
     "title": "Early recurrences of atrial tachyarrhythmias post pulmonary vein isolation.",
@@ -7070,6 +7053,23 @@
     "abstract": "<h4>Aims</h4>To investigate the significance of early recurrence (ER) of atrial tachyarrhythmias after pulmonary vein isolation (PVI) on the development of late recurrence (LR) and to redefine the blanking period during which an ER is considered nonspecific.<h4>Methods</h4>Data of 713 patients undergoing their first PVI for paroxysmal or persistent atrial fibrillation between January 2012 and December 2017 were included. All patients were followed-up for 12 months according to clinical and outpatient routine and were screened for any atrial tachyarrhythmia lasting >30 seconds occurring during the first 3 months postablation (ER) and after the 3 months blanking period (LR).<h4>Results</h4>Patients with ER compared to those without ER had significantly more LR (74.5% vs 16.5% vs, P\u2009<\u2009.001). The occurrence of ER during the first, second and third months showed increasing LR rates of 35.2%, 67.9%, and 94.8%, respectively (P\u2009<\u2009.001). Receiver operator characteristic analysis revealed a blanking period of 46 days with the highest sensitivity (68.1%) and specificity (96.5%). Later timing and longer time span of ER were independent predictors for LR in multivariable analysis.<h4>Conclusion</h4>ER is a strong predictor for LR. Our study advocates a shortening of the post-PVI blanking period followed by a \"gray zone\" up to 3 months where individualized therapeutic decisions based on additional risk factors should be considered. We suggest that the ER time span might serve as such a predictor identifying patients at the highest risk for LR.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1111/jce.14368"
+  },
+  {
+    "id": "31994239",
+    "doi": "https://doi.org/10.1002/bimj.201900041",
+    "title": "Estimating treatment effects with partially observed covariates using outcome regression with missing indicators.",
+    "authorString": "Blake HA, Leyrat C, Mansfield KE, Tomlinson LA, Carpenter J, Williamson EJ.",
+    "authorAffiliations": "",
+    "journalTitle": "Biometrical journal. Biometrische Zeitschrift",
+    "pubYear": "2020",
+    "date": "2020-01-29",
+    "isOpenAccess": "N",
+    "keywords": "Average Treatment Effect; Outcome Regression; Missing Covariate Data; Missing Indicator; Missing Confounder Data",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Missing data is a common issue in research using observational studies to investigate the effect of treatments on health outcomes. When missingness occurs only in the covariates, a simple approach is to use missing indicators to handle the partially observed covariates. The missing indicator approach has been criticized for giving biased results in outcome regression. However, recent papers have suggested that the missing indicator approach can provide unbiased results in propensity score analysis under certain assumptions. We consider assumptions under which the missing indicator approach can provide valid inferences, namely, (1) no unmeasured confounding within missingness patterns; either (2a) covariate values of patients with missing data were conditionally independent of treatment or (2b) these values were conditionally independent of outcome; and (3) the outcome model is correctly specified: specifically, the true outcome model does not include interactions between missing indicators and fully observed covariates. We prove that, under the assumptions above, the missing indicator approach with outcome regression can provide unbiased estimates of the average treatment effect. We use a simulation study to investigate the extent of bias in estimates of the treatment effect when the assumptions are violated and we illustrate our findings using data from electronic health records. In conclusion, the missing indicator approach can provide valid inferences for outcome regression, but the plausibility of its assumptions must first be considered\u00a0carefully.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1002/bimj.201900041"
   },
   {
     "id": "34348396",
@@ -7599,23 +7599,6 @@
     "urls": "doi:https://doi.org/10.1016/S2589-7500(21)00175-8; html:https://europepmc.org/articles/PMC8352493; pdf:https://europepmc.org/articles/PMC8352493?pdf=render"
   },
   {
-    "id": "34347787",
-    "doi": "https://doi.org/10.1371/journal.pone.0253809",
-    "title": "Developing a Natural Language Processing tool to identify perinatal self-harm in electronic healthcare records.",
-    "authorString": "Ayre K, Bittar A, Kam J, Verma S, Howard LM, Dutta R.",
-    "authorAffiliations": "",
-    "journalTitle": "PloS one",
-    "pubYear": "2021",
-    "date": "2021-08-04",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Self-harm occurring within pregnancy and the postnatal year (\"perinatal self-harm\") is a clinically important yet under-researched topic. Current research likely under-estimates prevalence due to methodological limitations. Electronic healthcare records (EHRs) provide a source of clinically rich data on perinatal self-harm.<h4>Aims</h4>(1) To create a Natural Language Processing (NLP) tool that can, with acceptable precision and recall, identify mentions of acts of perinatal self-harm within EHRs. (2) To use this tool to identify service-users who have self-harmed perinatally, based on their EHRs.<h4>Methods</h4>We used the Clinical Record Interactive Search system to extract de-identified EHRs of secondary mental healthcare service-users at South London and Maudsley NHS Foundation Trust. We developed a tool that applied several layers of linguistic processing based on the spaCy NLP library for Python. We evaluated mention-level performance in the following domains: span, status, temporality and polarity. Evaluation was done against a manually coded reference standard. Mention-level performance was reported as precision, recall, F-score and Cohen's kappa for each domain. Performance was also assessed at 'service-user' level and explored whether a heuristic rule improved this. We report per-class statistics for service-user performance, as well as likelihood ratios and post-test probabilities.<h4>Results</h4>Mention-level performance: micro-averaged F-score, precision and recall for span, polarity and temporality >0.8. Kappa for status 0.68, temporality 0.62, polarity 0.91. Service-user level performance with heuristic: F-score, precision, recall of minority class 0.69, macro-averaged F-score 0.81, positive LR 9.4 (4.8-19), post-test probability 69.0% (53-82%). Considering the task difficulty, the tool performs well, although temporality was the attribute with the lowest level of annotator agreement.<h4>Conclusions</h4>It is feasible to develop an NLP tool that identifies, with acceptable validity, mentions of perinatal self-harm within EHRs, although with limitations regarding temporality. Using a heuristic rule, it can also function at a service-user-level.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1371/journal.pone.0253809; html:https://europepmc.org/articles/PMC8336818; pdf:https://europepmc.org/articles/PMC8336818?pdf=render"
-  },
-  {
     "id": "34226637",
     "doi": "https://doi.org/10.1038/s41366-021-00896-1",
     "title": "Effects of adiposity on the human plasma proteome: observational and Mendelian randomisation estimates.",
@@ -7631,6 +7614,23 @@
     "abstract": "<h4>Background</h4>Variation in adiposity is associated with cardiometabolic disease outcomes, but mechanisms leading from this exposure to disease are unclear. This study aimed to estimate effects of body mass index (BMI) on an extensive set of circulating proteins.<h4>Methods</h4>We used SomaLogic proteomic data from up to 2737 healthy participants from the INTERVAL study. Associations between self-reported BMI and 3622 unique plasma proteins were explored using linear regression. These were complemented by Mendelian randomisation (MR) analyses using a genetic risk score (GRS) comprised of 654 BMI-associated polymorphisms from a recent genome-wide association study (GWAS) of adult BMI. A disease enrichment analysis was performed using DAVID Bioinformatics 6.8 for proteins which were altered by BMI.<h4>Results</h4>Observationally, BMI was associated with 1576 proteins (P\u2009<\u20091.4\u2009\u00d7\u200910<sup>-5</sup>), with particularly strong evidence for a positive association with leptin and fatty acid-binding protein-4 (FABP4), and a negative association with sex hormone-binding globulin (SHBG). Observational estimates were likely confounded, but the GRS for BMI did not associate with measured confounders. MR analyses provided evidence for a causal relationship between BMI and eight proteins including leptin (0.63 standard deviation (SD) per SD BMI, 95% CI 0.48-0.79, P\u2009=\u20091.6\u2009\u00d7\u200910<sup>-15</sup>), FABP4 (0.64\u2009SD per SD BMI, 95% CI 0.46-0.83, P\u2009=\u20096.7\u2009\u00d7\u200910<sup>-12</sup>) and SHBG (-0.45\u2009SD per SD BMI, 95% CI -0.65 to -0.25, P\u2009=\u20091.4\u2009\u00d7\u200910<sup>-5</sup>). There was agreement in the magnitude of observational and MR estimates (R<sup>2</sup>\u2009=\u20090.33) and evidence that proteins most strongly altered by BMI were enriched for genes involved in cardiovascular disease.<h4>Conclusions</h4>This study provides evidence for a broad impact of adiposity on the human proteome. Proteins strongly altered by BMI include those involved in regulating appetite, sex hormones and inflammation; such proteins are also enriched for cardiovascular disease-related genes. Altogether, results help focus attention onto new proteomic signatures of obesity-related disease.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41366-021-00896-1; html:https://europepmc.org/articles/PMC8455324; pdf:https://europepmc.org/articles/PMC8455324?pdf=render"
+  },
+  {
+    "id": "34347787",
+    "doi": "https://doi.org/10.1371/journal.pone.0253809",
+    "title": "Developing a Natural Language Processing tool to identify perinatal self-harm in electronic healthcare records.",
+    "authorString": "Ayre K, Bittar A, Kam J, Verma S, Howard LM, Dutta R.",
+    "authorAffiliations": "",
+    "journalTitle": "PloS one",
+    "pubYear": "2021",
+    "date": "2021-08-04",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Self-harm occurring within pregnancy and the postnatal year (\"perinatal self-harm\") is a clinically important yet under-researched topic. Current research likely under-estimates prevalence due to methodological limitations. Electronic healthcare records (EHRs) provide a source of clinically rich data on perinatal self-harm.<h4>Aims</h4>(1) To create a Natural Language Processing (NLP) tool that can, with acceptable precision and recall, identify mentions of acts of perinatal self-harm within EHRs. (2) To use this tool to identify service-users who have self-harmed perinatally, based on their EHRs.<h4>Methods</h4>We used the Clinical Record Interactive Search system to extract de-identified EHRs of secondary mental healthcare service-users at South London and Maudsley NHS Foundation Trust. We developed a tool that applied several layers of linguistic processing based on the spaCy NLP library for Python. We evaluated mention-level performance in the following domains: span, status, temporality and polarity. Evaluation was done against a manually coded reference standard. Mention-level performance was reported as precision, recall, F-score and Cohen's kappa for each domain. Performance was also assessed at 'service-user' level and explored whether a heuristic rule improved this. We report per-class statistics for service-user performance, as well as likelihood ratios and post-test probabilities.<h4>Results</h4>Mention-level performance: micro-averaged F-score, precision and recall for span, polarity and temporality >0.8. Kappa for status 0.68, temporality 0.62, polarity 0.91. Service-user level performance with heuristic: F-score, precision, recall of minority class 0.69, macro-averaged F-score 0.81, positive LR 9.4 (4.8-19), post-test probability 69.0% (53-82%). Considering the task difficulty, the tool performs well, although temporality was the attribute with the lowest level of annotator agreement.<h4>Conclusions</h4>It is feasible to develop an NLP tool that identifies, with acceptable validity, mentions of perinatal self-harm within EHRs, although with limitations regarding temporality. Using a heuristic rule, it can also function at a service-user-level.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1371/journal.pone.0253809; html:https://europepmc.org/articles/PMC8336818; pdf:https://europepmc.org/articles/PMC8336818?pdf=render"
   },
   {
     "id": "34173614",
@@ -8245,23 +8245,6 @@
     "urls": "doi:https://doi.org/10.1002/sim.8503"
   },
   {
-    "id": "32075790",
-    "doi": "https://doi.org/10.1136/bmj.m331",
-    "title": "Associations between macrolide antibiotics prescribing during pregnancy and adverse child outcomes in the UK: population based cohort study.",
-    "authorString": "Fan H, Gilbert R, O'Callaghan F, Li L.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ (Clinical research ed.)",
-    "pubYear": "2020",
-    "date": "2020-02-19",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Objective</h4>To assess the association between macrolide antibiotics prescribing during pregnancy and major malformations, cerebral palsy, epilepsy, attention deficit hyperactivity disorder, and autism spectrum disorder in children.<h4>Design</h4>Population based cohort study.<h4>Setting</h4>The UK Clinical Practice Research Datalink.<h4>Participants</h4>The study cohort included 104\u2009605 children born from 1990 to 2016 whose mothers were prescribed one macrolide monotherapy (erythromycin, clarithromycin, or azithromycin) or one penicillin monotherapy from the fourth gestational week to delivery. Two negative control cohorts consisted of 82\u2009314 children whose mothers were prescribed macrolides or penicillins before conception, and 53\u2009735 children who were siblings of the children in the study cohort.<h4>Main outcome measures</h4>Risks of any major malformations and system specific major malformations (nervous, cardiovascular, gastrointestinal, genital, and urinary) after macrolide or penicillin prescribing during the first trimester (four to 13 gestational weeks), second to third trimester (14 gestational weeks to birth), or any trimester of pregnancy. Additionally, risks of cerebral palsy, epilepsy, attention deficit hyperactivity disorder, and autism spectrum disorder.<h4>Results</h4>Major malformations were recorded in 186 of 8632 children (21.55 per 1000) whose mothers were prescribed macrolides and 1666 of 95\u2009973 children (17.36 per 1000) whose mothers were prescribed penicillins during pregnancy. Macrolide prescribing during the first trimester was associated with an increased risk of any major malformation compared with penicillin (27.65 <i>v</i> 17.65 per 1000, adjusted risk ratio 1.55, 95% confidence interval 1.19 to 2.03) and specifically cardiovascular malformations (10.60 <i>v</i> 6.61 per 1000, 1.62, 1.05 to 2.51). Macrolide prescribing in any trimester was associated with an increased risk of genital malformations (4.75 <i>v</i> 3.07 per 1000, 1.58, 1.14 to 2.19, mainly hypospadias). Erythromycin in the first trimester was associated with an increased risk of any major malformation (27.39 <i>v</i> 17.65 per 1000, 1.50, 1.13 to 1.99). No statistically significant associations were found for other system specific malformations or for neurodevelopmental disorders. Findings were robust to sensitivity analyses.<h4>Conclusions</h4>Prescribing macrolide antibiotics during the first trimester of pregnancy was associated with an increased risk of any major malformation and specifically cardiovascular malformations compared with penicillin antibiotics. Macrolide prescribing in any trimester was associated with an increased risk of genital malformations. These findings show that macrolides should be used with caution during pregnancy and if feasible alternative antibiotics should be prescribed until further research is available.<h4>Trial registration</h4>ClinicalTrials.gov NCT03948620.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmj.m331; html:https://europepmc.org/articles/PMC7190043"
-  },
-  {
     "id": "34328441",
     "doi": "https://doi.org/10.2196/29840",
     "title": "Predicting Depressive Symptom Severity Through Individuals' Nearby Bluetooth Device Count Data Collected by Mobile Phones: Preliminary Longitudinal Study.",
@@ -8294,6 +8277,23 @@
     "abstract": "Lack of efficacy in the intended disease indication is the major cause of clinical phase drug development failure. Explanations could include the poor external validity of pre-clinical (cell, tissue, and animal) models of human disease and the high false discovery rate (FDR) in preclinical science. FDR is related to the proportion of true relationships available for discovery (\u03b3), and the type 1 (false-positive) and type 2 (false negative) error rates of the experiments designed to uncover them. We estimated the FDR in preclinical science, its effect on drug development success rates, and improvements expected from use of human genomics rather than preclinical studies as the primary source of evidence for drug target identification. Calculations were based on a sample space defined by all human diseases - the 'disease-ome' - represented as columns; and all protein coding genes - 'the protein-coding genome'- represented as rows, producing a matrix of unique gene- (or protein-) disease pairings. We parameterised the space based on 10,000 diseases, 20,000 protein-coding genes, 100 causal genes per disease and 4000 genes encoding druggable targets, examining the effect of varying the parameters and a range of underlying assumptions, on the inferences drawn. We estimated \u03b3, defined mathematical relationships between preclinical FDR and drug development success rates, and estimated improvements in success rates based on human genomics (rather than orthodox preclinical studies). Around one in every 200 protein-disease pairings was estimated to be causal (\u03b3\u2009=\u20090.005) giving an FDR in preclinical research of 92.6%, which likely makes a major contribution to the reported drug development failure rate of 96%. Observed success rate was only slightly greater than expected for a random pick from the sample space. Values for \u03b3 back-calculated from reported preclinical and clinical drug development success rates were also close to the a priori estimates. Substituting genome wide (or druggable genome wide) association studies for preclinical studies as the major information source for drug target identification was estimated to reverse the probability of late stage failure because of the more stringent type 1 error rate employed and the ability to interrogate every potential druggable target in the same experiment. Genetic studies conducted at much larger scale, with greater resolution of disease end-points, e.g. by connecting genomics and electronic health record data within healthcare systems has the potential to produce radical improvement in drug development success rate.",
     "laySummary": "This study investigates the unreliability of target identification leading to low development sucess rates, inefficiency and escalating costs to healthcare users. The more targeted use of genomics couldimprove improved efficency.",
     "urls": "doi:https://doi.org/10.1038/s41598-019-54849-w; html:https://europepmc.org/articles/PMC6906499; pdf:https://europepmc.org/articles/PMC6906499?pdf=render"
+  },
+  {
+    "id": "32075790",
+    "doi": "https://doi.org/10.1136/bmj.m331",
+    "title": "Associations between macrolide antibiotics prescribing during pregnancy and adverse child outcomes in the UK: population based cohort study.",
+    "authorString": "Fan H, Gilbert R, O'Callaghan F, Li L.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ (Clinical research ed.)",
+    "pubYear": "2020",
+    "date": "2020-02-19",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Objective</h4>To assess the association between macrolide antibiotics prescribing during pregnancy and major malformations, cerebral palsy, epilepsy, attention deficit hyperactivity disorder, and autism spectrum disorder in children.<h4>Design</h4>Population based cohort study.<h4>Setting</h4>The UK Clinical Practice Research Datalink.<h4>Participants</h4>The study cohort included 104\u2009605 children born from 1990 to 2016 whose mothers were prescribed one macrolide monotherapy (erythromycin, clarithromycin, or azithromycin) or one penicillin monotherapy from the fourth gestational week to delivery. Two negative control cohorts consisted of 82\u2009314 children whose mothers were prescribed macrolides or penicillins before conception, and 53\u2009735 children who were siblings of the children in the study cohort.<h4>Main outcome measures</h4>Risks of any major malformations and system specific major malformations (nervous, cardiovascular, gastrointestinal, genital, and urinary) after macrolide or penicillin prescribing during the first trimester (four to 13 gestational weeks), second to third trimester (14 gestational weeks to birth), or any trimester of pregnancy. Additionally, risks of cerebral palsy, epilepsy, attention deficit hyperactivity disorder, and autism spectrum disorder.<h4>Results</h4>Major malformations were recorded in 186 of 8632 children (21.55 per 1000) whose mothers were prescribed macrolides and 1666 of 95\u2009973 children (17.36 per 1000) whose mothers were prescribed penicillins during pregnancy. Macrolide prescribing during the first trimester was associated with an increased risk of any major malformation compared with penicillin (27.65 <i>v</i> 17.65 per 1000, adjusted risk ratio 1.55, 95% confidence interval 1.19 to 2.03) and specifically cardiovascular malformations (10.60 <i>v</i> 6.61 per 1000, 1.62, 1.05 to 2.51). Macrolide prescribing in any trimester was associated with an increased risk of genital malformations (4.75 <i>v</i> 3.07 per 1000, 1.58, 1.14 to 2.19, mainly hypospadias). Erythromycin in the first trimester was associated with an increased risk of any major malformation (27.39 <i>v</i> 17.65 per 1000, 1.50, 1.13 to 1.99). No statistically significant associations were found for other system specific malformations or for neurodevelopmental disorders. Findings were robust to sensitivity analyses.<h4>Conclusions</h4>Prescribing macrolide antibiotics during the first trimester of pregnancy was associated with an increased risk of any major malformation and specifically cardiovascular malformations compared with penicillin antibiotics. Macrolide prescribing in any trimester was associated with an increased risk of genital malformations. These findings show that macrolides should be used with caution during pregnancy and if feasible alternative antibiotics should be prescribed until further research is available.<h4>Trial registration</h4>ClinicalTrials.gov NCT03948620.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmj.m331; html:https://europepmc.org/articles/PMC7190043"
   },
   {
     "id": "32023934",
@@ -8789,23 +8789,6 @@
     "urls": "doi:https://doi.org/10.1136/heartjnl-2020-317912; html:https://europepmc.org/articles/PMC7523172; pdf:https://europepmc.org/articles/PMC7523172?pdf=render"
   },
   {
-    "id": "31757515",
-    "doi": "https://doi.org/10.1016/j.jaci.2019.09.015",
-    "title": "Atopic eczema and fracture risk in adults: A\u00a0population-based cohort study.",
-    "authorString": "Lowe KE, Mansfield KE, Delmestri A, Smeeth L, Roberts A, Abuabara K, Prieto-Alhambra D, Langan SM.",
-    "authorAffiliations": "",
-    "journalTitle": "The Journal of allergy and clinical immunology",
-    "pubYear": "2020",
-    "date": "2019-11-19",
-    "isOpenAccess": "Y",
-    "keywords": "Osteoporosis; Fracture; Atopic Eczema; Severity; Population Based",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Limited evidence suggests increased fracture risk in people with atopic eczema. Any link could have substantial effect; atopic eczema is common, and fractures have associated morbidity and mortality.<h4>Objective</h4>We sought to examine whether atopic eczema is associated with fracture and whether fracture risk varies with eczema severity.<h4>Methods</h4>We performed a matched cohort study set in primary care (Clinical Practice Research Datalink GOLD 1998-2016) and linked hospital admissions data (Hospital Episode Statistics), including adults (\u226518 years old) with atopic eczema matched (by age, sex, general practice, and cohort entry date) with up to 5 individuals without eczema. We estimated hazard ratios (HRs) from stratified Cox regression comparing risk of major osteoporotic (hip, pelvis, spine, wrist, and proximal humerus) fractures individually and any fracture in those with and without atopic eczema.<h4>Results</h4>We identified 526,808 people with atopic eczema and 2,569,030 people without atopic eczema. Those with eczema had increased risk of hip (HR, 1.10; 99% CI, 1.06-1.14), pelvic (HR, 1.10; 99% CI, 1.02-1.19), spinal (HR, 1.18; 99% CI, 1.10-1.27), and wrist (HR, 1.07; 99% CI, 1.03,-1.11) fractures. We found no evidence of increased proximal humeral (HR, 1.06; 99% CI, 0.97-1.15) fracture risk. Fracture risk increased with increasing eczema severity, with the strongest associations in people with severe eczema (compared with those without) for spinal (HR, 2.09; 99% CI, 1.66-2.65), pelvic (HR, 1.66; 99% CI, 1.26-2.20), and hip (HR, 1.50; 99% CI, 1.30-1.74) fractures. Associations persisted after oral glucocorticoid adjustment.<h4>Conclusions</h4>People with atopic eczema have increased fracture risk, particularly major osteoporotic fractures.",
-    "laySummary": "This population-wide study used datalinkage methods to create a matched cohort study between 1998-2016. The study estimated hazard ratios and compared the risk of major fractures and any fracture in people with and without atopic eczema. Findings suggest that people with atopic eczema have an increased fracture risk.",
-    "urls": "doi:https://doi.org/10.1016/j.jaci.2019.09.015; html:https://europepmc.org/articles/PMC7014587; pdf:https://europepmc.org/articles/PMC7014587?pdf=render"
-  },
-  {
     "id": "33824163",
     "doi": "https://doi.org/10.3399/bjgp20x714161",
     "title": "Post-bariatric surgery nutritional follow-up in primary care: a population-based cohort study.",
@@ -8821,6 +8804,23 @@
     "abstract": "<h4>Background</h4>Bariatric surgery is the most effective treatment for severe obesity. However, without recommended follow-up it has long-term risks.<h4>Aim</h4>To investigate whether nutritional and weight monitoring in primary care meets current clinical guidance, after patients are discharged from specialist bariatric care.<h4>Design and setting</h4>Retrospective cohort study in primary care practices contributing to IQVIA Medical Research Data in the UK (1 January 2000 to 17 January 2018).<h4>Method</h4>Participants were adults who had had bariatric surgery with a minimum of 3 years' follow-up post-surgery, as this study focused on patients discharged from specialist care (at 2 years post-surgery). Outcomes were the annual proportion of patients from 2 years post-surgery with a record of recommended nutritional screening blood tests, weight measurement, and prescription of nutritional supplements, and the proportions with nutritional deficiencies based on blood tests.<h4>Results</h4>A total of 3137 participants were included in the study, and median follow-up post-surgery was 5.7 (4.2-7.6) years. Between 45% and 59% of these patients had an annual weight measurement. The greatest proportions of patients with a record of annual nutritional blood tests were for tests routinely conducted in primary care, for example, recorded haemoglobin measurement varied between 44.9% (<i>n</i> = 629/1400) and 61.2% (<i>n</i> = 653/1067). Annual proportions of blood tests specific to bariatric surgery were low, for example, recorded copper measurement varied between 1.2% (<i>n</i> = 10/818) and 1.5% (<i>n</i> = 16/1067) where recommended. Results indicated that the most common deficiency was anaemia. Annual proportions of patients with prescriptions for recommended nutritional supplements were low.<h4>Conclusion</h4>This study suggests that patients who have bariatric surgery are not receiving the recommended nutritional monitoring after discharge from specialist care. GPs and patients should be supported to engage with follow-up care. Future research should aim to understand the reasons underpinning these findings.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.3399/bjgp20X714161; html:https://europepmc.org/articles/PMC8041293; pdf:https://europepmc.org/articles/PMC8041293?pdf=render"
+  },
+  {
+    "id": "31757515",
+    "doi": "https://doi.org/10.1016/j.jaci.2019.09.015",
+    "title": "Atopic eczema and fracture risk in adults: A\u00a0population-based cohort study.",
+    "authorString": "Lowe KE, Mansfield KE, Delmestri A, Smeeth L, Roberts A, Abuabara K, Prieto-Alhambra D, Langan SM.",
+    "authorAffiliations": "",
+    "journalTitle": "The Journal of allergy and clinical immunology",
+    "pubYear": "2020",
+    "date": "2019-11-19",
+    "isOpenAccess": "Y",
+    "keywords": "Osteoporosis; Fracture; Atopic Eczema; Severity; Population Based",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Limited evidence suggests increased fracture risk in people with atopic eczema. Any link could have substantial effect; atopic eczema is common, and fractures have associated morbidity and mortality.<h4>Objective</h4>We sought to examine whether atopic eczema is associated with fracture and whether fracture risk varies with eczema severity.<h4>Methods</h4>We performed a matched cohort study set in primary care (Clinical Practice Research Datalink GOLD 1998-2016) and linked hospital admissions data (Hospital Episode Statistics), including adults (\u226518 years old) with atopic eczema matched (by age, sex, general practice, and cohort entry date) with up to 5 individuals without eczema. We estimated hazard ratios (HRs) from stratified Cox regression comparing risk of major osteoporotic (hip, pelvis, spine, wrist, and proximal humerus) fractures individually and any fracture in those with and without atopic eczema.<h4>Results</h4>We identified 526,808 people with atopic eczema and 2,569,030 people without atopic eczema. Those with eczema had increased risk of hip (HR, 1.10; 99% CI, 1.06-1.14), pelvic (HR, 1.10; 99% CI, 1.02-1.19), spinal (HR, 1.18; 99% CI, 1.10-1.27), and wrist (HR, 1.07; 99% CI, 1.03,-1.11) fractures. We found no evidence of increased proximal humeral (HR, 1.06; 99% CI, 0.97-1.15) fracture risk. Fracture risk increased with increasing eczema severity, with the strongest associations in people with severe eczema (compared with those without) for spinal (HR, 2.09; 99% CI, 1.66-2.65), pelvic (HR, 1.66; 99% CI, 1.26-2.20), and hip (HR, 1.50; 99% CI, 1.30-1.74) fractures. Associations persisted after oral glucocorticoid adjustment.<h4>Conclusions</h4>People with atopic eczema have increased fracture risk, particularly major osteoporotic fractures.",
+    "laySummary": "This population-wide study used datalinkage methods to create a matched cohort study between 1998-2016. The study estimated hazard ratios and compared the risk of major fractures and any fracture in people with and without atopic eczema. Findings suggest that people with atopic eczema have an increased fracture risk.",
+    "urls": "doi:https://doi.org/10.1016/j.jaci.2019.09.015; html:https://europepmc.org/articles/PMC7014587; pdf:https://europepmc.org/articles/PMC7014587?pdf=render"
   },
   {
     "id": "33986429",
@@ -9656,23 +9656,6 @@
     "urls": "doi:https://doi.org/10.1111/bjd.19052"
   },
   {
-    "id": "33602244",
-    "doi": "https://doi.org/10.1186/s12916-021-01924-7",
-    "title": "The impact of local and national restrictions in response to COVID-19 on social contacts in England: a longitudinal natural experiment.",
-    "authorString": "Jarvis CI, Gimma A, van Zandvoort K, Wong KLM, CMMID COVID-19 working group, Edmunds WJ.",
-    "authorAffiliations": "",
-    "journalTitle": "BMC medicine",
-    "pubYear": "2021",
-    "date": "2021-02-19",
-    "isOpenAccess": "Y",
-    "keywords": "Pandemic; England; United Kingdom; Disease Outbreak; Non-pharmaceutical Interventions; Covid-19; Contact Survey; Lockdowns",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>England's COVID-19 response transitioned from a national lockdown to localised interventions. In response to rising cases, these were supplemented by national restrictions on contacts (the Rule of Six), then 10\u2009pm closing for bars and restaurants, and encouragement to work from home. These were quickly followed by a 3-tier system applying different restrictions in different localities. As cases continued to rise, a second national lockdown was declared. We used a national survey to quantify the impact of these restrictions on epidemiologically relevant contacts.<h4>Methods</h4>We compared paired measures on setting-specific contacts before and after each restriction started and tested for differences using paired permutation tests on the mean change in contacts and the proportion of individuals decreasing their contacts.<h4>Results</h4>Following the imposition of each measure, individuals tended to report fewer contacts than they had before. However, the magnitude of the changes was relatively small and variable. For instance, although early closure of bars and restaurants appeared to have no measurable effect on contacts, the work from home directive reduced mean daily work contacts by 0.99 (95% confidence interval CI] 0.03-1.94), and the Rule of Six reduced non-work and school contacts by a mean of 0.25 (0.01-0.5) per day. Whilst Tier 3 appeared to also reduce non-work and school contacts, the evidence for an effect of the lesser restrictions (Tiers 1 and 2) was much weaker. There may also have been some evidence of saturation of effects, with those who were in Tier 1 (least restrictive) reducing their contacts markedly when they entered lockdown, which was not reflected in similar changes in those who were already under tighter restrictions (Tiers 2 and 3).<h4>Conclusions</h4>The imposition of various local and national measures in England during the summer and autumn of 2020 has gradually reduced contacts. However, these changes are smaller than the initial lockdown in March. This may partly be because many individuals were already starting from a lower number of contacts.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1186/s12916-021-01924-7; html:https://europepmc.org/articles/PMC7892289; pdf:https://europepmc.org/articles/PMC7892289?pdf=render"
-  },
-  {
     "id": "33531015",
     "doi": "https://doi.org/10.1186/s12916-021-01906-9",
     "title": "The importance of supplementary immunisation activities to prevent measles outbreaks during the COVID-19 pandemic in Kenya.",
@@ -9690,21 +9673,21 @@
     "urls": "doi:https://doi.org/10.1186/s12916-021-01906-9; html:https://europepmc.org/articles/PMC7854026; pdf:https://europepmc.org/articles/PMC7854026?pdf=render"
   },
   {
-    "id": "34167318",
-    "doi": "https://doi.org/10.1161/circulationaha.121.054302",
-    "title": "Cardiac Troponin Thresholds and Kinetics to Differentiate Myocardial Injury and Myocardial Infarction.",
-    "authorString": "Wereski R, Kimenai DM, Taggart C, Doudesis D, Lee KK, Lowry MTH, Bularga A, Lowe DJ, Fujisawa T, Apple FS, Collinson PO, Anand A, Chapman AR, Mills NL.",
+    "id": "33602244",
+    "doi": "https://doi.org/10.1186/s12916-021-01924-7",
+    "title": "The impact of local and national restrictions in response to COVID-19 on social contacts in England: a longitudinal natural experiment.",
+    "authorString": "Jarvis CI, Gimma A, van Zandvoort K, Wong KLM, CMMID COVID-19 working group, Edmunds WJ.",
     "authorAffiliations": "",
-    "journalTitle": "Circulation",
+    "journalTitle": "BMC medicine",
     "pubYear": "2021",
-    "date": "2021-06-25",
-    "isOpenAccess": "N",
-    "keywords": "Kinetics; Troponin; Myocardial infarction; Predictive Value Of Tests",
+    "date": "2021-02-19",
+    "isOpenAccess": "Y",
+    "keywords": "Pandemic; England; United Kingdom; Disease Outbreak; Non-pharmaceutical Interventions; Covid-19; Contact Survey; Lockdowns",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "<h4>Background</h4>Although the 99th percentile is the recommended diagnostic threshold for myocardial infarction, some guidelines also advocate the use of higher troponin thresholds to rule in myocardial infarction at presentation. It is unclear whether the magnitude or change in troponin concentration can differentiate causes of myocardial injury and infarction in practice.<h4>Methods</h4>In a secondary analysis of a multicenter randomized controlled trial, we identified 46\u2009092 consecutive patients presenting with suspected acute coronary syndrome without ST-segment-elevation myocardial infarction. High-sensitivity cardiac troponin I concentrations at presentation and on serial testing were compared between patients with myocardial injury and infarction. The positive predictive value and specificity were determined at the sex-specific 99th percentile upper reference limit and rule-in thresholds of 64 ng/L and 5-fold of the upper reference limit for a diagnosis of type 1 myocardial infarction.<h4>Results</h4>Troponin was above the 99th percentile in 8188 patients (18%). The diagnosis was type 1 or type 2 myocardial infarction in 50% and 14% and acute or chronic myocardial injury in 20% and 16%, respectively. Troponin concentrations were similar at presentation in type 1 (median [25th-75th percentile] 91 [30-493] ng/L) and type 2 (50 [22-147] ng/L) myocardial infarction and in acute (50 [26-134] ng/L) and chronic (51 [31-130] ng/L) myocardial injury. The 99th percentile and rule-in thresholds of 64 ng/L and 5-fold upper reference limit gave a positive predictive value of 57% (95% CI, 56%-58%), 59% (58%-61%), and 62% (60%-64%) and a specificity of 96% (96%-96%), 96% (96%-96%), and 98% (97%-98%), respectively. The absolute, relative, and rate of change in troponin concentration were highest in patients with type 1 myocardial infarction (<i>P</i><0.001 for all). Discrimination improved when troponin concentration and change in troponin were combined compared with troponin concentration at presentation alone (area under the curve, 0.661 [0.642-0.680] versus 0.613 [0.594-0.633]).<h4>Conclusions</h4>Although we observed important differences in the kinetics, cardiac troponin concentrations at presentation are insufficient to distinguish type 1 myocardial infarction from other causes of myocardial injury or infarction in practice and should not guide management decisions in isolation. Registration: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01852123.",
+    "abstract": "<h4>Background</h4>England's COVID-19 response transitioned from a national lockdown to localised interventions. In response to rising cases, these were supplemented by national restrictions on contacts (the Rule of Six), then 10\u2009pm closing for bars and restaurants, and encouragement to work from home. These were quickly followed by a 3-tier system applying different restrictions in different localities. As cases continued to rise, a second national lockdown was declared. We used a national survey to quantify the impact of these restrictions on epidemiologically relevant contacts.<h4>Methods</h4>We compared paired measures on setting-specific contacts before and after each restriction started and tested for differences using paired permutation tests on the mean change in contacts and the proportion of individuals decreasing their contacts.<h4>Results</h4>Following the imposition of each measure, individuals tended to report fewer contacts than they had before. However, the magnitude of the changes was relatively small and variable. For instance, although early closure of bars and restaurants appeared to have no measurable effect on contacts, the work from home directive reduced mean daily work contacts by 0.99 (95% confidence interval CI] 0.03-1.94), and the Rule of Six reduced non-work and school contacts by a mean of 0.25 (0.01-0.5) per day. Whilst Tier 3 appeared to also reduce non-work and school contacts, the evidence for an effect of the lesser restrictions (Tiers 1 and 2) was much weaker. There may also have been some evidence of saturation of effects, with those who were in Tier 1 (least restrictive) reducing their contacts markedly when they entered lockdown, which was not reflected in similar changes in those who were already under tighter restrictions (Tiers 2 and 3).<h4>Conclusions</h4>The imposition of various local and national measures in England during the summer and autumn of 2020 has gradually reduced contacts. However, these changes are smaller than the initial lockdown in March. This may partly be because many individuals were already starting from a lower number of contacts.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.121.054302; html:https://europepmc.org/articles/PMC8360674; pdf:https://europepmc.org/articles/PMC8360674?pdf=render; doi:https://doi.org/10.1161/circulationaha.121.054302"
+    "urls": "doi:https://doi.org/10.1186/s12916-021-01924-7; html:https://europepmc.org/articles/PMC7892289; pdf:https://europepmc.org/articles/PMC7892289?pdf=render"
   },
   {
     "id": "33678251",
@@ -9722,6 +9705,23 @@
     "abstract": "In asthma, a significant portion of the interaction between genetics and environment occurs through microbiota. The proposed mechanisms behind this interaction are complex and at times contradictory. This review covers recent developments in our understanding of this interaction: the \"microbial hypothesis\" and the \"farm effect\"; the role of endotoxin and genetic variation in pattern recognition systems; the interaction with allergen exposure; the additional involvement of host gut and airway microbiota; the role of viral respiratory infections in interaction with the 17q21 and CDHR3 genetic loci; and the importance of in utero and early-life timing of exposures. We propose a unified framework for understanding how all these phenomena interact to drive asthma pathogenesis. Finally, we point out some future challenges for continued research in this field, in particular the need for multiomic integration, as well as the potential utility of asthma endotyping.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jaci.2020.08.026"
+  },
+  {
+    "id": "34167318",
+    "doi": "https://doi.org/10.1161/circulationaha.121.054302",
+    "title": "Cardiac Troponin Thresholds and Kinetics to Differentiate Myocardial Injury and Myocardial Infarction.",
+    "authorString": "Wereski R, Kimenai DM, Taggart C, Doudesis D, Lee KK, Lowry MTH, Bularga A, Lowe DJ, Fujisawa T, Apple FS, Collinson PO, Anand A, Chapman AR, Mills NL.",
+    "authorAffiliations": "",
+    "journalTitle": "Circulation",
+    "pubYear": "2021",
+    "date": "2021-06-25",
+    "isOpenAccess": "N",
+    "keywords": "Kinetics; Troponin; Myocardial infarction; Predictive Value Of Tests",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Although the 99th percentile is the recommended diagnostic threshold for myocardial infarction, some guidelines also advocate the use of higher troponin thresholds to rule in myocardial infarction at presentation. It is unclear whether the magnitude or change in troponin concentration can differentiate causes of myocardial injury and infarction in practice.<h4>Methods</h4>In a secondary analysis of a multicenter randomized controlled trial, we identified 46\u2009092 consecutive patients presenting with suspected acute coronary syndrome without ST-segment-elevation myocardial infarction. High-sensitivity cardiac troponin I concentrations at presentation and on serial testing were compared between patients with myocardial injury and infarction. The positive predictive value and specificity were determined at the sex-specific 99th percentile upper reference limit and rule-in thresholds of 64 ng/L and 5-fold of the upper reference limit for a diagnosis of type 1 myocardial infarction.<h4>Results</h4>Troponin was above the 99th percentile in 8188 patients (18%). The diagnosis was type 1 or type 2 myocardial infarction in 50% and 14% and acute or chronic myocardial injury in 20% and 16%, respectively. Troponin concentrations were similar at presentation in type 1 (median [25th-75th percentile] 91 [30-493] ng/L) and type 2 (50 [22-147] ng/L) myocardial infarction and in acute (50 [26-134] ng/L) and chronic (51 [31-130] ng/L) myocardial injury. The 99th percentile and rule-in thresholds of 64 ng/L and 5-fold upper reference limit gave a positive predictive value of 57% (95% CI, 56%-58%), 59% (58%-61%), and 62% (60%-64%) and a specificity of 96% (96%-96%), 96% (96%-96%), and 98% (97%-98%), respectively. The absolute, relative, and rate of change in troponin concentration were highest in patients with type 1 myocardial infarction (<i>P</i><0.001 for all). Discrimination improved when troponin concentration and change in troponin were combined compared with troponin concentration at presentation alone (area under the curve, 0.661 [0.642-0.680] versus 0.613 [0.594-0.633]).<h4>Conclusions</h4>Although we observed important differences in the kinetics, cardiac troponin concentrations at presentation are insufficient to distinguish type 1 myocardial infarction from other causes of myocardial injury or infarction in practice and should not guide management decisions in isolation. Registration: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01852123.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1161/CIRCULATIONAHA.121.054302; html:https://europepmc.org/articles/PMC8360674; pdf:https://europepmc.org/articles/PMC8360674?pdf=render; doi:https://doi.org/10.1161/circulationaha.121.054302"
   },
   {
     "id": "32909959",
@@ -10183,23 +10183,6 @@
     "urls": "doi:https://doi.org/10.1186/s13063-020-04951-6; html:https://europepmc.org/articles/PMC7788716; pdf:https://europepmc.org/articles/PMC7788716?pdf=render"
   },
   {
-    "id": "32073627",
-    "doi": "https://doi.org/10.1093/ije/dyaa002",
-    "title": "Educational and health outcomes of children and adolescents receiving antidepressant medication: Scotland-wide retrospective record linkage cohort study of 766\u00a0237 schoolchildren.",
-    "authorString": "Fleming M, Fitton CA, Steiner MFC, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
-    "authorAffiliations": "",
-    "journalTitle": "International journal of epidemiology",
-    "pubYear": "2020",
-    "date": "2020-08-01",
-    "isOpenAccess": "Y",
-    "keywords": "Depression; Health; Prescribing; Educational Outcomes; Record Linkage; Population Cohort",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Childhood depression is relatively common, under-researched and can impact social and cognitive function and self-esteem.<h4>Methods</h4>Record linkage of routinely collected Scotland-wide administrative databases covering prescriptions [prescribing information system (PIS)], hospitalizations (Scottish Morbidity Records 01 and 04), maternity records (Scottish Morbidity Records 02), deaths (National Records of Scotland), annual pupil census, school absences/exclusions, special educational needs (Scottish Exchange of Educational Data; ScotXed), examinations (Scottish Qualifications Authority) and (un)employment (ScotXed) provided data on 766\u00a0237 children attending Scottish schools between 2009 and 2013 inclusively. We compared educational and health outcomes of children receiving antidepressant medication with their peers, adjusting for confounders (socio-demographic, maternity and comorbidity) and explored effect modifiers and mediators.<h4>Results</h4>Compared with peers, children receiving antidepressants were more likely to be absent [adjusted incidence rate ratio (IRR) 1.90, 95% confidence interval (CI) 1.85-1.95] or excluded (adjusted IRR 1.48, 95% CI 1.29-1.69) from school, have special educational needs [adjusted odds ratio (OR) 1.77, 95% CI 1.65-1.90], have the lowest level of academic attainment (adjusted OR 3.00, 95% CI 2.51-3.58) and be unemployed after leaving school (adjusted OR 1.88, 95% CI 1.71-2.08). They had increased hospitalization [adjusted hazard ratio (HR) 2.07, 95% CI 1.98-2.18] and mortality (adjusted HR 2.73, 95% CI 1.73-4.29) over 5\u2009years' follow-up. Higher absenteeism partially explained poorer attainment and unemployment. Treatment with antidepressants was less common among boys than girls (0.5% vs 1.0%) but the associations with special educational need and unemployment were stronger in boys.<h4>Conclusions</h4>Children receiving antidepressants fare worse than their peers across a wide range of education and health outcomes. Interventions to reduce absenteeism or mitigate its effects should be investigated.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/ije/dyaa002; html:https://europepmc.org/articles/PMC7660154; pdf:https://europepmc.org/articles/PMC7660154?pdf=render"
-  },
-  {
     "id": "31702773",
     "doi": "https://doi.org/10.1093/bioinformatics/btz796",
     "title": "Model selection for metabolomics: predicting diagnosis of coronary artery disease using automated machine learning.",
@@ -10217,21 +10200,21 @@
     "urls": "doi:https://doi.org/10.1093/bioinformatics/btz796; html:https://europepmc.org/articles/PMC7703753; pdf:https://europepmc.org/articles/PMC7703753?pdf=render"
   },
   {
-    "id": "32303767",
-    "doi": "https://doi.org/10.1093/schbul/sbaa040",
-    "title": "Real-World Clinical Outcomes Two Years After Transition to Psychosis in Individuals at Clinical High Risk: Electronic Health Record Cohort Study.",
-    "authorString": "Fusar-Poli P, De Micheli A, Patel R, Signorini L, Miah S, Spencer T, McGuire P.",
+    "id": "32073627",
+    "doi": "https://doi.org/10.1093/ije/dyaa002",
+    "title": "Educational and health outcomes of children and adolescents receiving antidepressant medication: Scotland-wide retrospective record linkage cohort study of 766\u00a0237 schoolchildren.",
+    "authorString": "Fleming M, Fitton CA, Steiner MFC, McLay JS, Clark D, King A, Mackay DF, Pell JP.",
     "authorAffiliations": "",
-    "journalTitle": "Schizophrenia bulletin",
+    "journalTitle": "International journal of epidemiology",
     "pubYear": "2020",
-    "date": "2020-04-18",
-    "isOpenAccess": "N",
-    "keywords": "Neuroscience; Psychosis; Neuroimaging",
+    "date": "2020-08-01",
+    "isOpenAccess": "Y",
+    "keywords": "Depression; Health; Prescribing; Educational Outcomes; Record Linkage; Population Cohort",
     "nationalPriorities": "",
     "healthCategories": "",
-    "abstract": "The objective of this study is to describe the 2-year real-world clinical outcomes after transition to psychosis in patients at clinical high-risk. The study used the clinical electronic health record cohort study including all patients receiving a first index primary diagnosis of nonorganic International Classification of Diseases (ICD)-10 psychotic disorder within the early psychosis pathway in the South London and Maudsley (SLaM) National Health Service (NHS) Trust from 2001 to 2017. Outcomes encompassed: cumulative probability (at 3, 6, 12, and 24 months) of receiving a first (1) treatment with antipsychotic, (2) informal admission, (3) compulsory admission, and (4) treatment with clozapine and (5) numbers of days spent in hospital (at 12 and 24 months) in patients transitioning to psychosis from clinical high-risk services (Outreach and Support in south London; OASIS) compared to other first-episode groups. Analyses included logistic and 0-inflated negative binomial regressions. In the study, 1561 patients were included; those who had initially been managed by OASIS and had subsequently transitioned to a first episode of psychosis (n = 130) were more likely to receive antipsychotic medication (at 3, 6, and 24 months; all P < .023), to be admitted informally (at all timepoints, all P < .004) and on a compulsory basis (at all timepoints, all P < .013), and to have spent more time in hospital (all timepoints, all P < .007) than first-episode patients who were already psychotic when seen by the OASIS service (n = 310), or presented to early intervention services (n = 1121). The likelihood of receiving clozapine was similar across all groups (at 12/24 months, all P < .101). Transition to psychosis from a clinical high-risk state is associated with severe real-world clinical outcomes. Prevention of transition to psychosis should remain a core target of future research. The study protocol was registered on www.researchregistry.com; researchregistry5039).",
+    "abstract": "<h4>Background</h4>Childhood depression is relatively common, under-researched and can impact social and cognitive function and self-esteem.<h4>Methods</h4>Record linkage of routinely collected Scotland-wide administrative databases covering prescriptions [prescribing information system (PIS)], hospitalizations (Scottish Morbidity Records 01 and 04), maternity records (Scottish Morbidity Records 02), deaths (National Records of Scotland), annual pupil census, school absences/exclusions, special educational needs (Scottish Exchange of Educational Data; ScotXed), examinations (Scottish Qualifications Authority) and (un)employment (ScotXed) provided data on 766\u00a0237 children attending Scottish schools between 2009 and 2013 inclusively. We compared educational and health outcomes of children receiving antidepressant medication with their peers, adjusting for confounders (socio-demographic, maternity and comorbidity) and explored effect modifiers and mediators.<h4>Results</h4>Compared with peers, children receiving antidepressants were more likely to be absent [adjusted incidence rate ratio (IRR) 1.90, 95% confidence interval (CI) 1.85-1.95] or excluded (adjusted IRR 1.48, 95% CI 1.29-1.69) from school, have special educational needs [adjusted odds ratio (OR) 1.77, 95% CI 1.65-1.90], have the lowest level of academic attainment (adjusted OR 3.00, 95% CI 2.51-3.58) and be unemployed after leaving school (adjusted OR 1.88, 95% CI 1.71-2.08). They had increased hospitalization [adjusted hazard ratio (HR) 2.07, 95% CI 1.98-2.18] and mortality (adjusted HR 2.73, 95% CI 1.73-4.29) over 5\u2009years' follow-up. Higher absenteeism partially explained poorer attainment and unemployment. Treatment with antidepressants was less common among boys than girls (0.5% vs 1.0%) but the associations with special educational need and unemployment were stronger in boys.<h4>Conclusions</h4>Children receiving antidepressants fare worse than their peers across a wide range of education and health outcomes. Interventions to reduce absenteeism or mitigate its effects should be investigated.",
     "laySummary": "",
-    "urls": "doi:https://doi.org/10.1093/schbul/sbaa040; html:https://europepmc.org/articles/PMC7505186; pdf:https://europepmc.org/articles/PMC7505186?pdf=render; doi:https://doi.org/10.1093/schbul/sbaa040"
+    "urls": "doi:https://doi.org/10.1093/ije/dyaa002; html:https://europepmc.org/articles/PMC7660154; pdf:https://europepmc.org/articles/PMC7660154?pdf=render"
   },
   {
     "id": "33482294",
@@ -10249,6 +10232,23 @@
     "abstract": "<h4>Objectives</h4>In clinical practice, many prediction models cannot be used when predictor values are missing. We, therefore, propose and evaluate methods for real-time imputation.<h4>Study design and setting</h4>We describe (i) mean imputation (where missing values are replaced by the sample mean), (ii) joint modeling imputation (JMI, where we use a multivariate normal approximation to generate patient-specific imputations), and (iii) conditional modeling imputation (CMI, where a multivariable imputation model is derived for each predictor from a population). We compared these methods in a case study evaluating the root mean squared error (RMSE) and coverage of the 95% confidence intervals (i.e., the proportion of confidence intervals that contain the true predictor value) of imputed predictor values.<h4>Results</h4>-RMSE was lowest when adopting JMI or CMI, although imputation of individual predictors did not always lead to substantial improvements as compared to mean imputation. JMI and CMI appeared particularly useful when the values of multiple predictors of the model were missing. Coverage reached the nominal level (i.e., 95%) for both CMI and JMI.<h4>Conclusion</h4>Multiple imputations using either CMI or JMI is recommended when dealing with missing predictor values in real-time settings.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jclinepi.2021.01.003"
+  },
+  {
+    "id": "32303767",
+    "doi": "https://doi.org/10.1093/schbul/sbaa040",
+    "title": "Real-World Clinical Outcomes Two Years After Transition to Psychosis in Individuals at Clinical High Risk: Electronic Health Record Cohort Study.",
+    "authorString": "Fusar-Poli P, De Micheli A, Patel R, Signorini L, Miah S, Spencer T, McGuire P.",
+    "authorAffiliations": "",
+    "journalTitle": "Schizophrenia bulletin",
+    "pubYear": "2020",
+    "date": "2020-04-18",
+    "isOpenAccess": "N",
+    "keywords": "Neuroscience; Psychosis; Neuroimaging",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "The objective of this study is to describe the 2-year real-world clinical outcomes after transition to psychosis in patients at clinical high-risk. The study used the clinical electronic health record cohort study including all patients receiving a first index primary diagnosis of nonorganic International Classification of Diseases (ICD)-10 psychotic disorder within the early psychosis pathway in the South London and Maudsley (SLaM) National Health Service (NHS) Trust from 2001 to 2017. Outcomes encompassed: cumulative probability (at 3, 6, 12, and 24 months) of receiving a first (1) treatment with antipsychotic, (2) informal admission, (3) compulsory admission, and (4) treatment with clozapine and (5) numbers of days spent in hospital (at 12 and 24 months) in patients transitioning to psychosis from clinical high-risk services (Outreach and Support in south London; OASIS) compared to other first-episode groups. Analyses included logistic and 0-inflated negative binomial regressions. In the study, 1561 patients were included; those who had initially been managed by OASIS and had subsequently transitioned to a first episode of psychosis (n = 130) were more likely to receive antipsychotic medication (at 3, 6, and 24 months; all P < .023), to be admitted informally (at all timepoints, all P < .004) and on a compulsory basis (at all timepoints, all P < .013), and to have spent more time in hospital (all timepoints, all P < .007) than first-episode patients who were already psychotic when seen by the OASIS service (n = 310), or presented to early intervention services (n = 1121). The likelihood of receiving clozapine was similar across all groups (at 12/24 months, all P < .101). Transition to psychosis from a clinical high-risk state is associated with severe real-world clinical outcomes. Prevention of transition to psychosis should remain a core target of future research. The study protocol was registered on www.researchregistry.com; researchregistry5039).",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1093/schbul/sbaa040; html:https://europepmc.org/articles/PMC7505186; pdf:https://europepmc.org/articles/PMC7505186?pdf=render; doi:https://doi.org/10.1093/schbul/sbaa040"
   },
   {
     "id": "31055854",
@@ -11186,23 +11186,6 @@
     "urls": "doi:https://doi.org/10.1371/journal.pone.0228940; html:https://europepmc.org/articles/PMC7010290; pdf:https://europepmc.org/articles/PMC7010290?pdf=render"
   },
   {
-    "id": "33714592",
-    "doi": "https://doi.org/10.1016/j.mayocp.2021.02.007",
-    "title": "Place and Underlying Cause of Death During the COVID-19 Pandemic: Retrospective Cohort Study of 3.5 Million Deaths in England and Wales, 2014 to 2020.",
-    "authorString": "Wu J, Mafham M, Mamas MA, Rashid M, Kontopantelis E, Deanfield JE, de Belder MA, Gale CP.",
-    "authorAffiliations": "",
-    "journalTitle": "Mayo Clinic proceedings",
-    "pubYear": "2021",
-    "date": "2021-02-16",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Objective</h4>To describe the place and cause of death during the coronavirus disease 2019 (COVID-19) pandemic to assess its impact on excess mortality.<h4>Methods</h4>This national death registry included all adult (aged \u226518 years) deaths in England and Wales between January 1, 2014, and June 30, 2020. Daily deaths during the COVID-19 pandemic were compared against the expected daily deaths, estimated with use of the Farrington surveillance algorithm for daily historical data between 2014 and 2020 by place and cause of death.<h4>Results</h4>Between March 2 and June 30, 2020, there was an excess mortality of 57,860 (a proportional increase of 35%) compared with the expected deaths, of which 50,603 (87%) were COVID-19 related. At home, only 14% (2267) of the 16,190 excess deaths were related to COVID-19, with 5963 deaths due to cancer and 2485 deaths due to cardiac disease, few of which involved COVID-19. In care homes or hospices, 61% (15,623) of the 25,611 excess deaths were related to COVID-19, 5539 of which were due to respiratory disease, and most of these (4315 deaths) involved COVID-19. In the hospital, there were 16,174 fewer deaths than expected that did not involve COVID-19, with 4088 fewer deaths due to cancer and 1398 fewer deaths due to cardiac disease than expected.<h4>Conclusion</h4>The COVID-19 pandemic has resulted in a large excess of deaths in care homes that were poorly characterized and likely to be the result of undiagnosed COVID-19. There was a smaller but important and ongoing excess in deaths at home, particularly from cancer and cardiac disease, suggesting public avoidance of hospital care for non-COVID-19 conditions.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.mayocp.2021.02.007; html:https://europepmc.org/articles/PMC7885692; pdf:https://europepmc.org/articles/PMC7885692?pdf=render"
-  },
-  {
     "id": "32951912",
     "doi": "https://doi.org/10.1016/j.jhep.2020.08.030",
     "title": "Corrigendum to: \"Genome-wide and Mendelian randomisation studies of liver MRI yield insights into the pathogenesis of steatohepatitis\" [J Hepatol (2020) 241-251].",
@@ -11218,6 +11201,23 @@
     "abstract": "",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.jhep.2020.08.030; html:https://europepmc.org/articles/PMC8055539; pdf:https://europepmc.org/articles/PMC8055539?pdf=render"
+  },
+  {
+    "id": "33714592",
+    "doi": "https://doi.org/10.1016/j.mayocp.2021.02.007",
+    "title": "Place and Underlying Cause of Death During the COVID-19 Pandemic: Retrospective Cohort Study of 3.5 Million Deaths in England and Wales, 2014 to 2020.",
+    "authorString": "Wu J, Mafham M, Mamas MA, Rashid M, Kontopantelis E, Deanfield JE, de Belder MA, Gale CP.",
+    "authorAffiliations": "",
+    "journalTitle": "Mayo Clinic proceedings",
+    "pubYear": "2021",
+    "date": "2021-02-16",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Objective</h4>To describe the place and cause of death during the coronavirus disease 2019 (COVID-19) pandemic to assess its impact on excess mortality.<h4>Methods</h4>This national death registry included all adult (aged \u226518 years) deaths in England and Wales between January 1, 2014, and June 30, 2020. Daily deaths during the COVID-19 pandemic were compared against the expected daily deaths, estimated with use of the Farrington surveillance algorithm for daily historical data between 2014 and 2020 by place and cause of death.<h4>Results</h4>Between March 2 and June 30, 2020, there was an excess mortality of 57,860 (a proportional increase of 35%) compared with the expected deaths, of which 50,603 (87%) were COVID-19 related. At home, only 14% (2267) of the 16,190 excess deaths were related to COVID-19, with 5963 deaths due to cancer and 2485 deaths due to cardiac disease, few of which involved COVID-19. In care homes or hospices, 61% (15,623) of the 25,611 excess deaths were related to COVID-19, 5539 of which were due to respiratory disease, and most of these (4315 deaths) involved COVID-19. In the hospital, there were 16,174 fewer deaths than expected that did not involve COVID-19, with 4088 fewer deaths due to cancer and 1398 fewer deaths due to cardiac disease than expected.<h4>Conclusion</h4>The COVID-19 pandemic has resulted in a large excess of deaths in care homes that were poorly characterized and likely to be the result of undiagnosed COVID-19. There was a smaller but important and ongoing excess in deaths at home, particularly from cancer and cardiac disease, suggesting public avoidance of hospital care for non-COVID-19 conditions.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.mayocp.2021.02.007; html:https://europepmc.org/articles/PMC7885692; pdf:https://europepmc.org/articles/PMC7885692?pdf=render"
   },
   {
     "id": "34432797",
@@ -12223,23 +12223,6 @@
     "urls": "doi:https://doi.org/10.1016/j.ijcard.2020.04.068"
   },
   {
-    "id": "34330923",
-    "doi": "https://doi.org/10.1038/s41467-021-24930-y",
-    "title": "Toxin import through the antibiotic efflux channel TolC.",
-    "authorString": "Housden NG, Webby MN, Lowe ED, El-Baba TJ, Kaminska R, Redfield C, Robinson CV, Kleanthous C.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2021",
-    "date": "2021-07-30",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Bacteria often secrete diffusible protein toxins (bacteriocins) to kill bystander cells during interbacterial competition. Here, we use biochemical, biophysical and structural analyses to show how a bacteriocin exploits TolC, a major outer-membrane antibiotic efflux channel in Gram-negative bacteria, to transport itself across the outer membrane of target cells. Klebicin C (KlebC), a rRNase toxin produced by Klebsiella pneumoniae, binds TolC of a related species (K. quasipneumoniae) with high affinity through an N-terminal, elongated helical hairpin domain common amongst bacteriocins. The KlebC helical hairpin opens like a switchblade to bind TolC. A cryo-EM structure of this partially translocated state, at 3.1\u2009\u00c5 resolution, reveals that KlebC associates along the length of the TolC channel. Thereafter, the unstructured N-terminus of KlebC protrudes beyond the TolC iris, presenting a TonB-box sequence to the periplasm. Association with proton-motive force-linked TonB in the inner membrane drives toxin import through the channel. Finally, we demonstrate that KlebC binding to TolC blocks drug efflux from bacteria. Our results indicate that TolC, in addition to its known role in antibiotic export, can function as a protein import channel for bacteriocins.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-021-24930-y; html:https://europepmc.org/articles/PMC8324772; pdf:https://europepmc.org/articles/PMC8324772?pdf=render"
-  },
-  {
     "id": "30928767",
     "doi": "https://doi.org/10.1016/j.evalprogplan.2019.03.002",
     "title": "Understanding the factors that influence health promotion evaluation: The development and validation of the evaluation practice analysis survey.",
@@ -12255,6 +12238,23 @@
     "abstract": "The demand for improved quality of health promotion evaluation and greater capacity to undertake evaluation is growing, yet evidence of the challenges and facilitators to evaluation practice within the health promotion field is lacking. A limited number of evaluation capacity measurement instruments have been validated in government or non-government organisations (NGO), however there is no instrument designed for health promotion organisations. This study aimed to develop and validate an Evaluation Practice Analysis Survey (EPAS) to examine evaluation practices in health promotion organisations. Qualitative interviews, existing frameworks and instruments informed the survey development. Health promotion practitioners from government agencies and NGOs completed the survey (n\u2009=\u2009169). Principal components analysis was used to determine scale structure and Cronbach's \u03b1 used to estimate internal reliability. Logistic regression was conducted to assess predictive validity of selected EPAS scale. The final survey instrument included 25 scales (125 items). The EPAS demonstrated good internal reliability (\u03b1\u2009>\u20090.7) for 23 scales. Dedicated resources and time for evaluation, leadership, organisational culture and internal support for evaluation showed promising predictive validity. The EPAS can be used to describe elements of evaluation capacity at the individual, organisational and system levels and to guide initiatives to improve evaluation practice in health promotion organisations.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.evalprogplan.2019.03.002"
+  },
+  {
+    "id": "34330923",
+    "doi": "https://doi.org/10.1038/s41467-021-24930-y",
+    "title": "Toxin import through the antibiotic efflux channel TolC.",
+    "authorString": "Housden NG, Webby MN, Lowe ED, El-Baba TJ, Kaminska R, Redfield C, Robinson CV, Kleanthous C.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2021",
+    "date": "2021-07-30",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Bacteria often secrete diffusible protein toxins (bacteriocins) to kill bystander cells during interbacterial competition. Here, we use biochemical, biophysical and structural analyses to show how a bacteriocin exploits TolC, a major outer-membrane antibiotic efflux channel in Gram-negative bacteria, to transport itself across the outer membrane of target cells. Klebicin C (KlebC), a rRNase toxin produced by Klebsiella pneumoniae, binds TolC of a related species (K. quasipneumoniae) with high affinity through an N-terminal, elongated helical hairpin domain common amongst bacteriocins. The KlebC helical hairpin opens like a switchblade to bind TolC. A cryo-EM structure of this partially translocated state, at 3.1\u2009\u00c5 resolution, reveals that KlebC associates along the length of the TolC channel. Thereafter, the unstructured N-terminus of KlebC protrudes beyond the TolC iris, presenting a TonB-box sequence to the periplasm. Association with proton-motive force-linked TonB in the inner membrane drives toxin import through the channel. Finally, we demonstrate that KlebC binding to TolC blocks drug efflux from bacteria. Our results indicate that TolC, in addition to its known role in antibiotic export, can function as a protein import channel for bacteriocins.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-021-24930-y; html:https://europepmc.org/articles/PMC8324772; pdf:https://europepmc.org/articles/PMC8324772?pdf=render"
   },
   {
     "id": "32327693",
@@ -12376,23 +12376,6 @@
     "urls": "doi:https://doi.org/10.1016/j.nicl.2020.102172; html:https://europepmc.org/articles/PMC7005468; pdf:https://europepmc.org/articles/PMC7005468?pdf=render"
   },
   {
-    "id": "31666364",
-    "doi": "https://doi.org/10.1128/jcm.00963-19",
-    "title": "Metagenomic Nanopore Sequencing of Influenza Virus Direct from Clinical Respiratory Samples.",
-    "authorString": "Lewandowski K, Xu Y, Pullan ST, Lumley SF, Foster D, Sanderson N, Vaughan A, Morgan M, Bright N, Kavanagh J, Vipond R, Carroll M, Marriott AC, Gooch KE, Andersson M, Jeffery K, Peto TEA, Crook DW, Walker AS, Matthews PC.",
-    "authorAffiliations": "",
-    "journalTitle": "Journal of clinical microbiology",
-    "pubYear": "2019",
-    "date": "2019-12-23",
-    "isOpenAccess": "Y",
-    "keywords": "DNA sequencing; Sequencing; Influenza; Diagnosis; Molecular epidemiology; epidemiology; Diagnostics; Metagenomics; Nanopore; Metagenomic",
-    "nationalPriorities": "Understanding the Causes of Disease",
-    "healthCategories": "",
-    "abstract": "Influenza is a major global public health threat as a result of its highly pathogenic variants, large zoonotic reservoir, and pandemic potential. Metagenomic viral sequencing offers the potential for a diagnostic test for influenza virus which also provides insights on transmission, evolution, and drug resistance and simultaneously detects other viruses. We therefore set out to apply the Oxford Nanopore Technologies sequencing method to metagenomic sequencing of respiratory samples. We generated influenza virus reads down to a limit of detection of 102 to 103 genome copies/ml in pooled samples, observing a strong relationship between the viral titer and the proportion of influenza virus reads (P\u2009=\u20094.7\u2009\u00d7\u200910-5). Applying our methods to clinical throat swabs, we generated influenza virus reads for 27/27 samples with mid-to-high viral titers (cycle threshold [CT ] values, <30) and 6/13 samples with low viral titers (CT values, 30 to 40). No false-positive reads were generated from 10 influenza virus-negative samples. Thus, Nanopore sequencing operated with 83% sensitivity (95% confidence interval [CI], 67 to 93%) and 100% specificity (95% CI, 69 to 100%) compared to the current diagnostic standard. Coverage of full-length virus was dependent on sample composition, being negatively influenced by increased host and bacterial reads. However, at high influenza virus titers, we were able to reconstruct >99% complete sequences for all eight gene segments. We also detected a human coronavirus coinfection in one clinical sample. While further optimization is required to improve sensitivity, this approach shows promise for the Nanopore platform to be used in the diagnosis and genetic analysis of influenza virus and other respiratory viruses.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1128/JCM.00963-19; html:https://europepmc.org/articles/PMC6935926; pdf:https://europepmc.org/articles/PMC6935926?pdf=render"
-  },
-  {
     "id": "31358974",
     "doi": "https://doi.org/10.1038/s41562-019-0653-z",
     "title": "New alcohol-related genes suggest shared genetic mechanisms with neuropsychiatric disorders.",
@@ -12408,6 +12391,23 @@
     "abstract": "Excessive alcohol consumption is one of the main causes of death and disability worldwide. Alcohol consumption is a heritable complex trait. Here we conducted a meta-analysis of genome-wide association studies of alcohol consumption (g\u2009d<sup>-1</sup>) from the UK Biobank, the Alcohol Genome-Wide Consortium and the Cohorts for Heart and Aging Research in Genomic Epidemiology Plus consortia, collecting data from 480,842 people of European descent to decipher the genetic architecture of alcohol intake. We identified 46 new common loci and investigated their potential functional importance using magnetic resonance imaging data and gene expression studies. We identify genetic pathways associated with alcohol consumption and suggest genetic mechanisms that are shared with neuropsychiatric disorders such as schizophrenia.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1038/s41562-019-0653-z; html:https://europepmc.org/articles/PMC7711277; pdf:https://europepmc.org/articles/PMC7711277?pdf=render; doi:https://doi.org/10.1038/s41562-019-0653-z"
+  },
+  {
+    "id": "31666364",
+    "doi": "https://doi.org/10.1128/jcm.00963-19",
+    "title": "Metagenomic Nanopore Sequencing of Influenza Virus Direct from Clinical Respiratory Samples.",
+    "authorString": "Lewandowski K, Xu Y, Pullan ST, Lumley SF, Foster D, Sanderson N, Vaughan A, Morgan M, Bright N, Kavanagh J, Vipond R, Carroll M, Marriott AC, Gooch KE, Andersson M, Jeffery K, Peto TEA, Crook DW, Walker AS, Matthews PC.",
+    "authorAffiliations": "",
+    "journalTitle": "Journal of clinical microbiology",
+    "pubYear": "2019",
+    "date": "2019-12-23",
+    "isOpenAccess": "Y",
+    "keywords": "DNA sequencing; Sequencing; Influenza; Diagnosis; Molecular epidemiology; epidemiology; Diagnostics; Metagenomics; Nanopore; Metagenomic",
+    "nationalPriorities": "Understanding the Causes of Disease",
+    "healthCategories": "",
+    "abstract": "Influenza is a major global public health threat as a result of its highly pathogenic variants, large zoonotic reservoir, and pandemic potential. Metagenomic viral sequencing offers the potential for a diagnostic test for influenza virus which also provides insights on transmission, evolution, and drug resistance and simultaneously detects other viruses. We therefore set out to apply the Oxford Nanopore Technologies sequencing method to metagenomic sequencing of respiratory samples. We generated influenza virus reads down to a limit of detection of 102 to 103 genome copies/ml in pooled samples, observing a strong relationship between the viral titer and the proportion of influenza virus reads (P\u2009=\u20094.7\u2009\u00d7\u200910-5). Applying our methods to clinical throat swabs, we generated influenza virus reads for 27/27 samples with mid-to-high viral titers (cycle threshold [CT ] values, <30) and 6/13 samples with low viral titers (CT values, 30 to 40). No false-positive reads were generated from 10 influenza virus-negative samples. Thus, Nanopore sequencing operated with 83% sensitivity (95% confidence interval [CI], 67 to 93%) and 100% specificity (95% CI, 69 to 100%) compared to the current diagnostic standard. Coverage of full-length virus was dependent on sample composition, being negatively influenced by increased host and bacterial reads. However, at high influenza virus titers, we were able to reconstruct >99% complete sequences for all eight gene segments. We also detected a human coronavirus coinfection in one clinical sample. While further optimization is required to improve sensitivity, this approach shows promise for the Nanopore platform to be used in the diagnosis and genetic analysis of influenza virus and other respiratory viruses.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1128/JCM.00963-19; html:https://europepmc.org/articles/PMC6935926; pdf:https://europepmc.org/articles/PMC6935926?pdf=render"
   },
   {
     "id": "32402553",
@@ -12988,6 +12988,23 @@
     "urls": "doi:https://doi.org/10.1186/s12916-021-02087-1; html:https://europepmc.org/articles/PMC8431908; pdf:https://europepmc.org/articles/PMC8431908?pdf=render"
   },
   {
+    "id": "31862893",
+    "doi": "https://doi.org/10.1038/s41467-019-13848-1",
+    "title": "Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
+    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
+    "authorAffiliations": "",
+    "journalTitle": "Nature communications",
+    "pubYear": "2019",
+    "date": "2019-12-20",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "Recent genome-wide association studies in stroke have enabled the generation of genomic risk scores (GRS) but their predictive power has been modest compared to established stroke risk factors. Here, using a meta-scoring approach, we develop a metaGRS for ischaemic stroke (IS) and analyse this score in the UK Biobank (n\u2009=\u2009395,393; 3075 IS events by age 75). The metaGRS hazard ratio for IS (1.26, 95% CI 1.22-1.31 per metaGRS standard deviation) doubles that of a previous GRS, identifying a subset of individuals at monogenic levels of risk: the top 0.25% of metaGRS have three-fold risk of IS. The metaGRS is similarly or more predictive compared to several risk factors, such as family history, blood pressure, body mass index, and smoking. We estimate the reductions needed in modifiable risk factors for individuals with different levels of genomic risk and suggest that, for individuals with high metaGRS, achieving risk factor levels recommended by current guidelines may be insufficient to mitigate risk.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1038/s41467-019-13848-1; html:https://europepmc.org/articles/PMC6925280; pdf:https://europepmc.org/articles/PMC6925280?pdf=render"
+  },
+  {
     "id": "32706893",
     "doi": "https://doi.org/10.1182/bloodadvances.2020002230",
     "title": "Artificial intelligence-based morphological fingerprinting of megakaryocytes: a new tool for assessing disease in MPN patients.",
@@ -13020,23 +13037,6 @@
     "abstract": "<i>Escherichia coli</i> and <i>Klebsiella</i> spp. are important human pathogens that cause a wide spectrum of clinical disease. In healthcare settings, sinks and other wastewater sites have been shown to be reservoirs of antimicrobial-resistant <i>E. coli</i> and <i>Klebsiella</i> spp., particularly in the context of outbreaks of resistant strains amongst patients. Without focusing exclusively on resistance markers or a clinical outbreak, we demonstrate that many hospital sink drains are abundantly and persistently colonized with diverse populations of <i>E. coli</i>, <i>Klebsiella pneumoniae</i> and <i>Klebsiella oxytoca</i>, including both antimicrobial-resistant and susceptible strains. Using whole-genome sequencing of 439 isolates, we show that environmental bacterial populations are largely structured by ward and sink, with only a handful of lineages, such as <i>E. coli</i> ST635, being widely distributed, suggesting different prevailing ecologies, which may vary as a result of different inputs and selection pressures. Whole-genome sequencing of 46 contemporaneous patient isolates identified one (2\u200a%; 95\u200a%\u2009CI 0.05-11\u200a%) <i>E. coli</i> urine infection-associated isolate with high similarity to a prior sink isolate, suggesting that sinks may contribute to up to 10\u200a% of infections caused by these organisms in patients on the ward over the same timeframe. Using metagenomics from 20 sink-timepoints, we show that sinks also harbour many clinically relevant antimicrobial resistance genes including <i>bla</i> <sub>CTX-M</sub>, <i>bla</i> <sub>SHV</sub> and <i>mcr</i>, and may act as niches for the exchange and amplification of these genes. Our study reinforces the potential role of sinks in contributing to Enterobacterales infection and antimicrobial resistance in hospital patients, something that could be amenable to intervention. This article contains data hosted by Microreact.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1099/mgen.0.000391; html:https://europepmc.org/articles/PMC7478627; pdf:https://europepmc.org/articles/PMC7478627?pdf=render"
-  },
-  {
-    "id": "31862893",
-    "doi": "https://doi.org/10.1038/s41467-019-13848-1",
-    "title": "Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke.",
-    "authorString": "Abraham G, Malik R, Yonova-Doing E, Salim A, Wang T, Danesh J, Butterworth AS, Howson JMM, Inouye M, Dichgans M.",
-    "authorAffiliations": "",
-    "journalTitle": "Nature communications",
-    "pubYear": "2019",
-    "date": "2019-12-20",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "Recent genome-wide association studies in stroke have enabled the generation of genomic risk scores (GRS) but their predictive power has been modest compared to established stroke risk factors. Here, using a meta-scoring approach, we develop a metaGRS for ischaemic stroke (IS) and analyse this score in the UK Biobank (n\u2009=\u2009395,393; 3075 IS events by age 75). The metaGRS hazard ratio for IS (1.26, 95% CI 1.22-1.31 per metaGRS standard deviation) doubles that of a previous GRS, identifying a subset of individuals at monogenic levels of risk: the top 0.25% of metaGRS have three-fold risk of IS. The metaGRS is similarly or more predictive compared to several risk factors, such as family history, blood pressure, body mass index, and smoking. We estimate the reductions needed in modifiable risk factors for individuals with different levels of genomic risk and suggest that, for individuals with high metaGRS, achieving risk factor levels recommended by current guidelines may be insufficient to mitigate risk.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1038/s41467-019-13848-1; html:https://europepmc.org/articles/PMC6925280; pdf:https://europepmc.org/articles/PMC6925280?pdf=render"
   },
   {
     "id": "34490590",
@@ -14433,23 +14433,6 @@
     "urls": "doi:https://doi.org/10.1016/j.jchf.2019.01.009"
   },
   {
-    "id": "31678026",
-    "doi": "https://doi.org/10.1016/s1473-3099(19)30410-4",
-    "title": "Quantifying risks and interventions that have affected the burden of lower respiratory infections among children younger than 5 years: an analysis for the Global Burden of Disease Study 2017.",
-    "authorString": "GBD 2017 Lower Respiratory Infections Collaborators.",
-    "authorAffiliations": "",
-    "journalTitle": "The Lancet. Infectious diseases",
-    "pubYear": "2020",
-    "date": "2019-10-31",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background</h4>Despite large reductions in under-5 lower respiratory infection (LRI) mortality in many locations, the pace of progress for LRIs has generally lagged behind that of other childhood infectious diseases. To better inform programmes and policies focused on preventing and treating LRIs, we assessed the contributions and patterns of risk factor attribution, intervention coverage, and sociodemographic development in 195 countries and territories by drawing from the Global Burden of Diseases, Injuries, and Risk Factors Study 2017 (GBD 2017) LRI estimates.<h4>Methods</h4>We used four strategies to model LRI burden: the mortality due to LRIs was modelled using vital registration data, demographic surveillance data, and verbal autopsy data in a predictive ensemble modelling tool; the incidence of LRIs was modelled using population representative surveys, health-care utilisation data, and scientific literature in a compartmental meta-regression tool; the attribution of risk factors for LRI mortality was modelled in a counterfactual framework; and trends in LRI mortality were analysed applying changes in exposure to risk factors over time. In GBD, infectious disease mortality, including that due to LRI, is among HIV-negative individuals. We categorised locations based on their burden in 1990 to make comparisons in the changing burden between 1990 and 2017 and evaluate the relative percent change in mortality rate, incidence, and risk factor exposure to explain differences in the health loss associated with LRIs among children younger than 5 years.<h4>Findings</h4>In 2017, LRIs caused 808\u2008920 deaths (95% uncertainty interval 747\u2008286-873\u2008591) in children younger than 5 years. Since 1990, there has been a substantial decrease in the number of deaths (from 2\u2008337\u2008538 to 808\u2008920 deaths; 65\u00b74% decrease, 61\u00b75-68\u00b75) and in mortality rate (from 362\u00b77 deaths [330\u00b71-392\u00b70] per 100\u2008000 children to 118\u00b79 deaths [109\u00b78-128\u00b73] per 100\u2008000 children; 67\u00b72% decrease, 63\u00b75-70\u00b71). LRI incidence declined globally (32\u00b74% decrease, 27\u00b72-37\u00b75). The percent change in under-5 mortality rate and incidence has varied across locations. Among the risk factors assessed in this study, those responsible for the greatest decrease in under-5 LRI mortality between 1990 and 2017 were increased coverage of vaccination against Haemophilus influenza type b (11\u00b74% decrease, 0\u00b70-24\u00b75), increased pneumococcal vaccine coverage (6\u00b73% decrease, 6\u00b71-6\u00b73), and reductions in household air pollution (8\u00b74%, 6\u00b78-9\u00b72).<h4>Interpretation</h4>Our findings show that there have been substantial but uneven declines in LRI mortality among countries between 1990 and 2017. Although improvements in indicators of sociodemographic development could explain some of these trends, changes in exposure to modifiable risk factors are related to the rates of decline in LRI mortality. No single intervention would universally accelerate reductions in health loss associated with LRIs in all settings, but emphasising the most dominant risk factors, particularly in countries with high case fatality, can contribute to the reduction of preventable deaths.<h4>Funding</h4>Bill & Melinda Gates Foundation.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/S1473-3099(19)30410-4; html:https://europepmc.org/articles/PMC7185492"
-  },
-  {
     "id": "31678029",
     "doi": "https://doi.org/10.1016/s1473-3099(19)30401-3",
     "title": "Quantifying risks and interventions that have affected the burden of diarrhoea among children younger than 5 years: an analysis of the Global Burden of Disease Study 2017.",
@@ -14465,6 +14448,23 @@
     "abstract": "<h4>Background</h4>Many countries have shown marked declines in diarrhoeal disease mortality among children younger than 5 years. With this analysis, we provide updated results on diarrhoeal disease mortality among children younger than 5 years from the Global Burden of Diseases, Injuries, and Risk Factors Study 2017 (GBD 2017) and use the study's comparative risk assessment to quantify trends and effects of risk factors, interventions, and broader sociodemographic development on mortality changes in 195 countries and territories from 1990 to 2017.<h4>Methods</h4>This analysis for GBD 2017 had three main components. Diarrhoea mortality was modelled using vital registration data, demographic surveillance data, and verbal autopsy data in a predictive, Bayesian, ensemble modelling tool; and the attribution of risk factors and interventions for diarrhoea were modelled in a counterfactual framework that combines modelled population-level prevalence of the exposure to each risk or intervention with the relative risk of diarrhoea given exposure to that factor. We assessed the relative and absolute change in diarrhoea mortality rate between 1990 and 2017, and used the change in risk factor exposure and sociodemographic status to explain differences in the trends of diarrhoea mortality among children younger than 5 years.<h4>Findings</h4>Diarrhoea was responsible for an estimated 533\u2008768 deaths (95% uncertainty interval 477\u2008162-593\u2008145) among children younger than 5 years globally in 2017, a rate of 78\u00b74 deaths (70\u00b71-87\u00b71) per 100\u2008000 children. The diarrhoea mortality rate ranged between countries by over 685 deaths per 100\u2008000 children. Diarrhoea mortality per 100\u2008000 globally decreased by 69\u00b76% (63\u00b71-74\u00b76) between 1990 and 2017. Among the risk factors considered in this study, those responsible for the largest declines in the diarrhoea mortality rate were reduction in exposure to unsafe sanitation (13\u00b73% decrease, 11\u00b72-15\u00b75), childhood wasting (9\u00b79% decrease, 9\u00b76-10\u00b72), and low use of oral rehydration solution (6\u00b79% decrease, 4\u00b78-8\u00b74).<h4>Interpretation</h4>Diarrhoea mortality has declined substantially since 1990, although there are variations by country. Improvements in sociodemographic indicators might explain some of these trends, but changes in exposure to risk factors-particularly unsafe sanitation, childhood growth failure, and low use of oral rehydration solution-appear to be related to the relative and absolute rates of decline in diarrhoea mortality. Although the most effective interventions might vary by country or region, identifying and scaling up the interventions aimed at preventing and protecting against diarrhoea that have already reduced diarrhoea mortality could further avert many thousands of deaths due to this illness.<h4>Funding</h4>Bill & Melinda Gates Foundation.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/S1473-3099(19)30401-3; html:https://europepmc.org/articles/PMC7340495"
+  },
+  {
+    "id": "31678026",
+    "doi": "https://doi.org/10.1016/s1473-3099(19)30410-4",
+    "title": "Quantifying risks and interventions that have affected the burden of lower respiratory infections among children younger than 5 years: an analysis for the Global Burden of Disease Study 2017.",
+    "authorString": "GBD 2017 Lower Respiratory Infections Collaborators.",
+    "authorAffiliations": "",
+    "journalTitle": "The Lancet. Infectious diseases",
+    "pubYear": "2020",
+    "date": "2019-10-31",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background</h4>Despite large reductions in under-5 lower respiratory infection (LRI) mortality in many locations, the pace of progress for LRIs has generally lagged behind that of other childhood infectious diseases. To better inform programmes and policies focused on preventing and treating LRIs, we assessed the contributions and patterns of risk factor attribution, intervention coverage, and sociodemographic development in 195 countries and territories by drawing from the Global Burden of Diseases, Injuries, and Risk Factors Study 2017 (GBD 2017) LRI estimates.<h4>Methods</h4>We used four strategies to model LRI burden: the mortality due to LRIs was modelled using vital registration data, demographic surveillance data, and verbal autopsy data in a predictive ensemble modelling tool; the incidence of LRIs was modelled using population representative surveys, health-care utilisation data, and scientific literature in a compartmental meta-regression tool; the attribution of risk factors for LRI mortality was modelled in a counterfactual framework; and trends in LRI mortality were analysed applying changes in exposure to risk factors over time. In GBD, infectious disease mortality, including that due to LRI, is among HIV-negative individuals. We categorised locations based on their burden in 1990 to make comparisons in the changing burden between 1990 and 2017 and evaluate the relative percent change in mortality rate, incidence, and risk factor exposure to explain differences in the health loss associated with LRIs among children younger than 5 years.<h4>Findings</h4>In 2017, LRIs caused 808\u2008920 deaths (95% uncertainty interval 747\u2008286-873\u2008591) in children younger than 5 years. Since 1990, there has been a substantial decrease in the number of deaths (from 2\u2008337\u2008538 to 808\u2008920 deaths; 65\u00b74% decrease, 61\u00b75-68\u00b75) and in mortality rate (from 362\u00b77 deaths [330\u00b71-392\u00b70] per 100\u2008000 children to 118\u00b79 deaths [109\u00b78-128\u00b73] per 100\u2008000 children; 67\u00b72% decrease, 63\u00b75-70\u00b71). LRI incidence declined globally (32\u00b74% decrease, 27\u00b72-37\u00b75). The percent change in under-5 mortality rate and incidence has varied across locations. Among the risk factors assessed in this study, those responsible for the greatest decrease in under-5 LRI mortality between 1990 and 2017 were increased coverage of vaccination against Haemophilus influenza type b (11\u00b74% decrease, 0\u00b70-24\u00b75), increased pneumococcal vaccine coverage (6\u00b73% decrease, 6\u00b71-6\u00b73), and reductions in household air pollution (8\u00b74%, 6\u00b78-9\u00b72).<h4>Interpretation</h4>Our findings show that there have been substantial but uneven declines in LRI mortality among countries between 1990 and 2017. Although improvements in indicators of sociodemographic development could explain some of these trends, changes in exposure to modifiable risk factors are related to the rates of decline in LRI mortality. No single intervention would universally accelerate reductions in health loss associated with LRIs in all settings, but emphasising the most dominant risk factors, particularly in countries with high case fatality, can contribute to the reduction of preventable deaths.<h4>Funding</h4>Bill & Melinda Gates Foundation.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/S1473-3099(19)30410-4; html:https://europepmc.org/articles/PMC7185492"
   },
   {
     "id": "33208942",
@@ -14926,6 +14926,23 @@
     "urls": "doi:https://doi.org/10.1136/bmj.l6927"
   },
   {
+    "id": "32305733",
+    "doi": "https://doi.org/10.1016/j.atherosclerosis.2020.03.022",
+    "title": "The relation between healthy lifestyle changes and decrease in systemic inflammation in patients with stable cardiovascular disease.",
+    "authorString": "van 't Klooster CC, van der Graaf Y, Ridker PM, Westerink J, Hjortnaes J, Sluijs I, Asselbergs FW, Bots ML, Kappelle LJ, Visseren FLJ, UCC-SMART study group.",
+    "authorAffiliations": "",
+    "journalTitle": "Atherosclerosis",
+    "pubYear": "2020",
+    "date": "2020-04-06",
+    "isOpenAccess": "N",
+    "keywords": "C-reactive Protein; Lifestyle Changes; Low-grade Inflammation; Patients With Stable Cardiovascular Disease",
+    "nationalPriorities": "",
+    "healthCategories": "",
+    "abstract": "<h4>Background and aims</h4>Pharmacological lowering of inflammation has proven effective in reducing recurrent cardiovascular event rates. Aim of the current study is to evaluate lifestyle changes (smoking cessation, weight loss, physical activity level increase, alcohol moderation, and a summary lifestyle improvement score) in relation to change in plasma C-reactive protein (CRP) concentration in patients with established cardiovascular disease.<h4>Methods</h4>In total, 1794 patients from the UCC-SMART cohort with stable cardiovascular disease and CRP levels \u226410\u00a0mg/L, who returned for a follow-up study visit after median 9.9 years (IQR 5.4-10.8), were included. The relation between changes in smoking status, weight, physical activity, alcohol consumption, a summary lifestyle improvement score and change in plasma CRP concentration was evaluated with linear regression analyses.<h4>Results</h4>Smoking cessation was related to a 0.40\u00a0mg/L decline in CRP concentration (\u03b2-coefficient -0.40; 95%CI -0.73,-0.07). Weight loss (per 1SD\u00a0=\u00a06.4\u00a0kg) and increase in physical activity (per 1 SD\u00a0=\u00a048 MET hours per week) were related to a decrease in CRP concentration (\u03b2-coefficients -0.25; 95%CI -0.33,-0.16 and -0.09; 95%CI -0.17,-0.01 per SD). Change in alcohol consumption was not related to CRP difference. Every point higher in the summary lifestyle improvement score was related to a decrease in CRP concentration of 0.17\u00a0mg/L (\u03b2-coefficient -0.17; 95%CI -0.26,-0.07).<h4>Conclusions</h4>Smoking cessation, increase in physical activity, and weight loss are related to a decrease in CRP concentration in patients with stable cardiovascular disease. Patients with the highest summary lifestyle improvement score have the most decrease in CRP concentration. These results may indicate that healthy lifestyle changes contribute to lowering systemic inflammation, potentially leading to a lower cardiovascular risk in patients with established cardiovascular disease.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1016/j.atherosclerosis.2020.03.022"
+  },
+  {
     "id": "31115347",
     "doi": "https://doi.org/10.2196/12412",
     "title": "Health Data Processes: A Framework for Analyzing and Discussing Efficient Use and Reuse of Health Data With a Focus on Patient-Reported Outcome Measures.",
@@ -14958,23 +14975,6 @@
     "abstract": "The formation of mammalian dendritic cells (DCs) is controlled by multiple hematopoietic transcription factors, including IRF8. Loss of IRF8 exerts a differential effect on DC subsets, including plasmacytoid DCs (pDCs) and the classical DC lineages cDC1 and cDC2. In humans, cDC2-related subsets have been described including AXL<sup>+</sup>SIGLEC6<sup>+</sup> pre-DC, DC2 and DC3. The origin of this heterogeneity is unknown. Using high-dimensional analysis, in\u00a0vitro differentiation, and an allelic series of human IRF8 deficiency, we demonstrated that cDC2 (CD1c<sup>+</sup>DC) heterogeneity originates from two distinct pathways of development. The lymphoid-primed IRF8<sup>hi</sup> pathway, marked by CD123 and BTLA, carried pDC, cDC1, and DC2 trajectories, while the common myeloid IRF8<sup>lo</sup> pathway, expressing SIRPA, formed DC3s and monocytes. We traced distinct trajectories through the granulocyte-macrophage progenitor (GMP) compartment showing that AXL<sup>+</sup>SIGLEC6<sup>+</sup> pre-DCs mapped exclusively to the DC2 pathway. In keeping with their lower requirement for IRF8, DC3s expand to replace DC2s in human partial IRF8 deficiency.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.immuni.2020.07.003; html:https://europepmc.org/articles/PMC7447982"
-  },
-  {
-    "id": "32305733",
-    "doi": "https://doi.org/10.1016/j.atherosclerosis.2020.03.022",
-    "title": "The relation between healthy lifestyle changes and decrease in systemic inflammation in patients with stable cardiovascular disease.",
-    "authorString": "van 't Klooster CC, van der Graaf Y, Ridker PM, Westerink J, Hjortnaes J, Sluijs I, Asselbergs FW, Bots ML, Kappelle LJ, Visseren FLJ, UCC-SMART study group.",
-    "authorAffiliations": "",
-    "journalTitle": "Atherosclerosis",
-    "pubYear": "2020",
-    "date": "2020-04-06",
-    "isOpenAccess": "N",
-    "keywords": "C-reactive Protein; Lifestyle Changes; Low-grade Inflammation; Patients With Stable Cardiovascular Disease",
-    "nationalPriorities": "",
-    "healthCategories": "",
-    "abstract": "<h4>Background and aims</h4>Pharmacological lowering of inflammation has proven effective in reducing recurrent cardiovascular event rates. Aim of the current study is to evaluate lifestyle changes (smoking cessation, weight loss, physical activity level increase, alcohol moderation, and a summary lifestyle improvement score) in relation to change in plasma C-reactive protein (CRP) concentration in patients with established cardiovascular disease.<h4>Methods</h4>In total, 1794 patients from the UCC-SMART cohort with stable cardiovascular disease and CRP levels \u226410\u00a0mg/L, who returned for a follow-up study visit after median 9.9 years (IQR 5.4-10.8), were included. The relation between changes in smoking status, weight, physical activity, alcohol consumption, a summary lifestyle improvement score and change in plasma CRP concentration was evaluated with linear regression analyses.<h4>Results</h4>Smoking cessation was related to a 0.40\u00a0mg/L decline in CRP concentration (\u03b2-coefficient -0.40; 95%CI -0.73,-0.07). Weight loss (per 1SD\u00a0=\u00a06.4\u00a0kg) and increase in physical activity (per 1 SD\u00a0=\u00a048 MET hours per week) were related to a decrease in CRP concentration (\u03b2-coefficients -0.25; 95%CI -0.33,-0.16 and -0.09; 95%CI -0.17,-0.01 per SD). Change in alcohol consumption was not related to CRP difference. Every point higher in the summary lifestyle improvement score was related to a decrease in CRP concentration of 0.17\u00a0mg/L (\u03b2-coefficient -0.17; 95%CI -0.26,-0.07).<h4>Conclusions</h4>Smoking cessation, increase in physical activity, and weight loss are related to a decrease in CRP concentration in patients with stable cardiovascular disease. Patients with the highest summary lifestyle improvement score have the most decrease in CRP concentration. These results may indicate that healthy lifestyle changes contribute to lowering systemic inflammation, potentially leading to a lower cardiovascular risk in patients with established cardiovascular disease.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1016/j.atherosclerosis.2020.03.022"
   },
   {
     "id": "34426706",
@@ -16269,23 +16269,6 @@
     "urls": "doi:https://doi.org/10.7554/eLife.54363; html:https://europepmc.org/articles/PMC7108859; pdf:https://europepmc.org/articles/PMC7108859?pdf=render"
   },
   {
-    "id": "31122927",
-    "doi": "https://doi.org/10.1136/bmj.l1778",
-    "title": "Determinants of the decline in mortality from acute stroke in England: linked national database study of 795\u2009869 adults.",
-    "authorString": "Seminog OO, Scarborough P, Wright FL, Rayner M, Goldacre MJ.",
-    "authorAffiliations": "",
-    "journalTitle": "BMJ (Clinical research ed.)",
-    "pubYear": "2019",
-    "date": "2019-05-22",
-    "isOpenAccess": "Y",
-    "keywords": "",
-    "nationalPriorities": "Improving Public Health",
-    "healthCategories": "",
-    "abstract": "<h4>Objectives</h4>To study trends in stroke mortality rates, event rates, and case fatality, and to explain the extent to which the reduction in stroke mortality rates was influenced by changes in stroke event rates or case fatality.<h4>Design</h4>Population based study.<h4>Setting</h4>Person linked routine hospital and mortality data, England.<h4>Participants</h4>795\u2009869 adults aged 20 and older who were admitted to hospital with acute stroke or died from stroke.<h4>Main outcome measures</h4>Stroke mortality rates, stroke event rates (stroke admission or stroke death without admission), and case fatality within 30 days after stroke.<h4>Results</h4>Between 2001 and 2010 stroke mortality rates decreased by 55%, stroke event rates by 20%, and case fatality by 40%. The study population included 358\u2009599 (45%) men and 437\u2009270 (55%) women. Average annual change in mortality rate was -6.0% (95% confidence interval -6.2% to -5.8%) in men and -6.1% (-6.3% to -6.0%) in women, in stroke event rate was -1.3% (-1.4% to -1.2%) in men and -2.1% (-2.2 to -2.0) in women, and in case fatality was -4.7% (-4.9% to -4.5%) in men and -4.4% (-4.5% to -4.2%) in women. Mortality and case fatality but not event rate declined in all age groups: the stroke event rate decreased in older people but increased by 2% each year in adults aged 35 to 54 years. Of the total decline in mortality rates, 71% was attributed to the decline in case fatality (78% in men and 66% in women) and the remainder to the reduction in stroke event rates. The contribution of the two factors varied between age groups. Whereas the reduction in mortality rates in people younger than 55 years was due to the reduction in case fatality, in the oldest age group (\u226585 years) reductions in case fatality and event rates contributed nearly equally.<h4>Conclusions</h4>Declines in case fatality, probably driven by improvements in stroke care, contributed more than declines in event rates to the overall reduction in stroke mortality. Mortality reduction in men and women younger than 55 was solely a result of a decrease in case fatality, whereas stroke event rates increased in the age group 35 to 54 years. The increase in stroke event rates in young adults is a concern. This suggests that stroke prevention needs to be strengthened to reduce the occurrence of stroke in people younger than 55 years.",
-    "laySummary": "",
-    "urls": "doi:https://doi.org/10.1136/bmj.l1778; html:https://europepmc.org/articles/PMC6529851"
-  },
-  {
     "id": "34582791",
     "doi": "https://doi.org/10.1016/j.ajhg.2021.08.007",
     "title": "Whole-genome sequencing in diverse subjects identifies genetic correlates of leukocyte traits: The NHLBI TOPMed program. ",
@@ -16301,6 +16284,23 @@
     "abstract": "Many common and rare variants associated with hematologic traits have been discovered through imputation on large-scale reference panels. However, the majority of genome-wide association studies (GWASs) have been conducted in Europeans, and determining causal variants has proved challenging. We performed a GWAS of total leukocyte, neutrophil, lymphocyte, monocyte, eosinophil, and basophil counts generated from 109,563,748 variants in the autosomes and the X chromosome in the Trans-Omics for Precision Medicine (TOPMed) program, which included data from 61,802 individuals of diverse ancestry. We discovered and replicated 7 leukocyte trait associations, including (1) the association between a chromosome X, pseudo-autosomal region (PAR), noncoding variant located between cytokine receptor genes (CSF2RA and CLRF2) and lower eosinophil count; and (2) associations between single variants found predominantly among African Americans at the S1PR3 (9q22.1) and HBB (11p15.4) loci and monocyte and lymphocyte counts, respectively. We further provide evidence indicating that the newly discovered eosinophil-lowering chromosome X PAR variant might be associated with reduced susceptibility to common allergic diseases such as atopic dermatitis and asthma. Additionally, we found a burden of very rare FLT3 (13q12.2) variants associated with monocyte counts. Together, these results emphasize the utility of whole-genome sequencing in diverse samples in identifying associations missed by European-ancestry-driven GWASs.",
     "laySummary": "",
     "urls": "doi:https://doi.org/10.1016/j.ajhg.2021.08.007"
+  },
+  {
+    "id": "31122927",
+    "doi": "https://doi.org/10.1136/bmj.l1778",
+    "title": "Determinants of the decline in mortality from acute stroke in England: linked national database study of 795\u2009869 adults.",
+    "authorString": "Seminog OO, Scarborough P, Wright FL, Rayner M, Goldacre MJ.",
+    "authorAffiliations": "",
+    "journalTitle": "BMJ (Clinical research ed.)",
+    "pubYear": "2019",
+    "date": "2019-05-22",
+    "isOpenAccess": "Y",
+    "keywords": "",
+    "nationalPriorities": "Improving Public Health",
+    "healthCategories": "",
+    "abstract": "<h4>Objectives</h4>To study trends in stroke mortality rates, event rates, and case fatality, and to explain the extent to which the reduction in stroke mortality rates was influenced by changes in stroke event rates or case fatality.<h4>Design</h4>Population based study.<h4>Setting</h4>Person linked routine hospital and mortality data, England.<h4>Participants</h4>795\u2009869 adults aged 20 and older who were admitted to hospital with acute stroke or died from stroke.<h4>Main outcome measures</h4>Stroke mortality rates, stroke event rates (stroke admission or stroke death without admission), and case fatality within 30 days after stroke.<h4>Results</h4>Between 2001 and 2010 stroke mortality rates decreased by 55%, stroke event rates by 20%, and case fatality by 40%. The study population included 358\u2009599 (45%) men and 437\u2009270 (55%) women. Average annual change in mortality rate was -6.0% (95% confidence interval -6.2% to -5.8%) in men and -6.1% (-6.3% to -6.0%) in women, in stroke event rate was -1.3% (-1.4% to -1.2%) in men and -2.1% (-2.2 to -2.0) in women, and in case fatality was -4.7% (-4.9% to -4.5%) in men and -4.4% (-4.5% to -4.2%) in women. Mortality and case fatality but not event rate declined in all age groups: the stroke event rate decreased in older people but increased by 2% each year in adults aged 35 to 54 years. Of the total decline in mortality rates, 71% was attributed to the decline in case fatality (78% in men and 66% in women) and the remainder to the reduction in stroke event rates. The contribution of the two factors varied between age groups. Whereas the reduction in mortality rates in people younger than 55 years was due to the reduction in case fatality, in the oldest age group (\u226585 years) reductions in case fatality and event rates contributed nearly equally.<h4>Conclusions</h4>Declines in case fatality, probably driven by improvements in stroke care, contributed more than declines in event rates to the overall reduction in stroke mortality. Mortality reduction in men and women younger than 55 was solely a result of a decrease in case fatality, whereas stroke event rates increased in the age group 35 to 54 years. The increase in stroke event rates in young adults is a concern. This suggests that stroke prevention needs to be strengthened to reduce the occurrence of stroke in people younger than 55 years.",
+    "laySummary": "",
+    "urls": "doi:https://doi.org/10.1136/bmj.l1778; html:https://europepmc.org/articles/PMC6529851"
   },
   {
     "id": "31844048",
