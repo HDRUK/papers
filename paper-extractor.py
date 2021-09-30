@@ -14,9 +14,16 @@ from pprint import pprint
 EPMC_BASE_URL = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?resultType=core&pageSize=1000&format=json&"
 PMCID_LOOKUP_URL = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?ids={}&format=json&tool=my_tool&email=my_email@example.com"
 
-HDRUK_PAPERS_QUERY = "((ACK_FUND:\"HDRUK\" OR ACK_FUND:\"HDR UK\" OR ACK_FUND:\"HDR-UK\" OR ACK_FUND:\"Health Data Research UK\") OR (AFF:\"HDRUK\" OR AFF:\"HDR UK\" OR AFF:\"HDR-UK\" OR AFF:\"Health Data Research UK\")) AND NOT (SRC:PPR)"
-COVID_PAPERS_QUERY = "(\"2019-nCoV\" OR \"2019nCoV\" OR \"COVID-19\" OR \"SARS-CoV-2\" OR \"COVID19\" OR \"COVID\" OR \"SARS-nCoV\" OR (\"wuhan\" AND \"coronavirus\") OR \"Coronavirus\" OR \"Corona virus\" OR \"corona-virus\" OR \"corona viruses\" OR \"coronaviruses\" OR \"SARS-CoV\" OR \"Orthocoronavirinae\" OR \"MERS-CoV\" OR \"Severe Acute Respiratory Syndrome\" OR \"Middle East Respiratory Syndrome\" OR (\"SARS\" AND \"virus\") OR \"soluble ACE2\" OR (\"ACE2\" AND \"virus\") OR (\"ARDS\" AND \"virus\") or (\"angiotensin-converting enzyme 2\" AND \"virus\")) AND ((ACK_FUND:\"HDRUK\" OR ACK_FUND:\"HDR UK\" OR ACK_FUND:\"HDR-UK\" OR ACK_FUND:\"Health Data Research UK\") OR (AFF:\"HDRUK\" OR AFF:\"HDR UK\" OR AFF:\"HDR-UK\" OR AFF:\"Health Data Research UK\")) AND NOT (SRC:PPR)"
-COVID_PREPRINTS_QUERY = "(\"2019-nCoV\" OR \"2019nCoV\" OR \"COVID-19\" OR \"SARS-CoV-2\" OR \"COVID19\" OR \"COVID\" OR \"SARS-nCoV\" OR (\"wuhan\" AND \"coronavirus\") OR \"Coronavirus\" OR \"Corona virus\" OR \"corona-virus\" OR \"corona viruses\" OR \"coronaviruses\" OR \"SARS-CoV\" OR \"Orthocoronavirinae\" OR \"MERS-CoV\" OR \"Severe Acute Respiratory Syndrome\" OR \"Middle East Respiratory Syndrome\" OR (\"SARS\" AND \"virus\") OR \"soluble ACE2\" OR (\"ACE2\" AND \"virus\") OR (\"ARDS\" AND \"virus\") or (\"angiotensin-converting enzyme 2\" AND \"virus\")) AND ((ACK_FUND:\"HDRUK\" OR ACK_FUND:\"HDR UK\" OR ACK_FUND:\"HDR-UK\" OR ACK_FUND:\"Health Data Research UK\") OR (AFF:\"HDRUK\" OR AFF:\"HDR UK\" OR AFF:\"HDR-UK\" OR AFF:\"Health Data Research UK\")) AND (SRC:PPR)"
+PREPRINT_QUERY = '(SRC:PPR)'
+PAPER_QUERY = 'NOT ' + PREPRINT_QUERY
+
+HDRUK_GRANTS='((GRANT_ID:"HDRUK2020.138" OR GRANT_ID:"MC_PC_20029" OR GRANT_ID:"MC_PC_20058") OR ("HDRUK2020.138" OR "MC_PC_20029" OR "MC_PC_20058") OR ("Data and Connectivity" OR "National Core Studies"))'
+HDRUK_ACK_AFF_QUERY=HDRUK_GRANTS + ' OR ' + '((ACK_FUND:"HDRUK" OR ACK_FUND:"HDR UK" OR ACK_FUND:"HDR-UK" OR ACK_FUND:"Health Data Research UK") OR (AFF:"HDRUK" OR AFF:"HDR UK" OR AFF:"HDR-UK" OR AFF:"Health Data Research UK"))'
+HDRUK_PAPERS_QUERY = HDRUK_ACK_AFF_QUERY + ' AND ' + PAPER_QUERY
+
+COVID_QUERY = '("2019-nCoV" OR "2019nCoV" OR "COVID-19" OR "SARS-CoV-2" OR "COVID19" OR "COVID" OR "SARS-nCoV" OR ("wuhan" AND "coronavirus") OR "Coronavirus" OR "Corona virus" OR "corona-virus" OR "corona viruses" OR "coronaviruses" OR "SARS-CoV" OR "Orthocoronavirinae" OR "MERS-CoV" OR "Severe Acute Respiratory Syndrome" OR "Middle East Respiratory Syndrome" OR ("SARS" AND "virus") OR "soluble ACE2" OR ("ACE2" AND "virus") OR ("ARDS" AND "virus") or ("angiotensin-converting enzyme 2" AND "virus"))'
+COVID_PAPERS_QUERY = COVID_QUERY + ' AND ' + HDRUK_ACK_AFF_QUERY + ' AND ' + PAPER_QUERY
+COVID_PREPRINTS_QUERY = COVID_QUERY + ' AND ' + HDRUK_ACK_AFF_QUERY + ' AND ' + PREPRINT_QUERY
 
 # HDR UK Custom tags
 NATIONAL_PRIORITIES_CSV = "data/national-priorities.csv"
@@ -35,13 +42,13 @@ def retrieve_papers(query="", data=None, cursorMark="*"):
     DATA = []
   else:
     DATA = data
-  query = urllib.parse.quote_plus(query)
-  URL = EPMC_BASE_URL + "&".join(["query=%s" % query, "cursorMark=%s" % cursorMark])
+  query_url_encoded = urllib.parse.quote_plus(query)
+  URL = EPMC_BASE_URL + "&".join(["query=%s" % query_url_encoded, "cursorMark=%s" % cursorMark])
   print("Retrieving papers from", URL)
   d = request_url(URL)
   numResults = d['hitCount']
   DATA.extend(d['resultList']['result'])
-  if numResults > 1000:
+  if len(DATA) < numResults:
     retrieve_papers(query, DATA, cursorMark=d['nextCursorMark'])
   return DATA
 
