@@ -15,11 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v1
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: '3.10'
+          cache: 'pip'
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
@@ -28,7 +29,7 @@ jobs:
       - name: Extract HDR UK Papers
         run: python3 paper-extractor.py
       - name: Commit extracts to master branch
-        uses: stefanzweifel/git-auto-commit-action@v4.1.6
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Commit new papers
           branch: ${{ github.head_ref }}
@@ -36,7 +37,7 @@ jobs:
           commit_user_email: susheel.varma@hdruk.ac.uk
           commit_author: Susheel Varma <susheel.varma@hdruk.ac.uk>
       - name: Commit extracts to gh-pages branch
-        uses: stefanzweifel/git-auto-commit-action@v4.1.6
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Commit new papers
           branch: gh-pages
